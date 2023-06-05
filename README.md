@@ -1,4 +1,4 @@
-Usate il file creaJSON.py per creare il JSON dei vostri set di fugirine Pokemon
+Usate il file `creaJSON.py` per creare il JSON dei vostri set di fugirine Pokemon
 
 I set, i dati e le rispettive figurine le trovate su questo sito: 
 
