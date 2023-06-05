@@ -1,0 +1,128 @@
+{
+    "set": [
+        {
+            "numeroSet": "13",
+            "nomeSet": "Ex tempesta di sabbia",
+            "anno di uscita": "2004",
+            "figurine": [
+                {
+                    "numero": "1",
+                    "nome": "Armaldo",
+                    "url": "https://media.pokemoncentral.it/wiki/thumb/9/97/armaldoextempestadisabbia1.jpg/180px-armaldoextempestadisabbia1.jpg",
+                    "tipo": [
+                        "Roccia",
+                        "Coleottero"
+                    ],
+                    "PS": "120"
+                },
+                {
+                    "numero": "2",
+                    "nome": "Cacturne",
+                    "url": "https://media.pokemoncentral.it/wiki/thumb/b/b4/cacturneextempestadisabbia2.jpg/180px-cacturneextempestadisabbia2.jpg",
+                    "tipo": [
+                        "Erba",
+                        "Buio"
+                    ],
+                    "PS": "80"
+                },
+                {
+                    "numero": "3",
+                    "nome": "Cradily",
+                    "url": "https://media.pokemoncentral.it/wiki/thumb/f/fc/cradilyextempestadisabbia3.jpg/180px-cradilyextempestadisabbia3.jpg",
+                    "tipo": [
+                        "Roccia",
+                        "Erba"
+                    ],
+                    "PS": "100"
+                },
+                {
+                    "numero": "4",
+                    "nome": "Dusclops",
+                    "url": "https://media.pokemoncentral.it/wiki/thumb/3/3f/dusclopsextempestadisabbia4.jpg/180px-dusclopsextempestadisabbia4.jpg",
+                    "tipo": [
+                        "Spettro"
+                    ],
+                    "PS": "70"
+                },
+                {
+                    "numero": "5",
+                    "nome": "Flareon",
+                    "url": "https://media.pokemoncentral.it/wiki/thumb/9/99/flareonextempestadisabbia5.jpg/180px-flareonextempestadisabbia5.jpg",
+                    "tipo": [
+                        "Fuoco"
+                    ],
+                    "PS": "80"
+                },
+                {
+                    "numero": "6",
+                    "nome": "Jolteon",
+                    "url": "https://media.pokemoncentral.it/wiki/thumb/2/25/jolteonextempestadisabbia6.jpg/180px-jolteonextempestadisabbia6.jpg",
+                    "tipo": [
+                        "Elettro"
+                    ],
+                    "PS": "70"
+                },
+                {
+                    "numero": "7",
+                    "nome": "Ludicolo",
+                    "url": "https://media.pokemoncentral.it/wiki/thumb/b/bd/ludicoloextempestadisabbia7.jpg/180px-ludicoloextempestadisabbia7.jpg",
+                    "tipo": [
+                        "Acqua",
+                        "Erba"
+                    ],
+                    "PS": "90"
+                },
+                {
+                    "numero": "8",
+                    "nome": "Lunatone",
+                    "url": "https://media.pokemoncentral.it/wiki/thumb/c/c1/lunatoneextempestadisabbia8.jpg/180px-lunatoneextempestadisabbia8.jpg",
+                    "tipo": [
+                        "Roccia",
+                        "Psico"
+                    ],
+                    "PS": "60"
+                },
+                {
+                    "numero": "9",
+                    "nome": "Mawile",
+                    "url": "https://media.pokemoncentral.it/wiki/thumb/2/26/mawileextempestadisabbia9.jpg/180px-mawileextempestadisabbia9.jpg",
+                    "tipo": [
+                        "Acciaio",
+                        "Folletto"
+                    ],
+                    "PS": "60"
+                },
+                {
+                    "numero": "10",
+                    "nome": "Sableye",
+                    "url": "https://media.pokemoncentral.it/wiki/thumb/a/af/sableyeextempestadisabbia10.jpg/180px-sableyeextempestadisabbia10.jpg",
+                    "tipo": [
+                        "Buio",
+                        "Spettro"
+                    ],
+                    "PS": "60"
+                },
+                {
+                    "numero": "11",
+                    "nome": "Seviper",
+                    "url": "https://media.pokemoncentral.it/wiki/thumb/1/10/seviperextempestadisabbia11.jpg/180px-seviperextempestadisabbia11.jpg",
+                    "tipo": [
+                        "Veleno",
+                        "Erba"
+                    ],
+                    "PS": "80"
+                },
+                {
+                    "numero": "12",
+                    "nome": "Shiftry",
+                    "url": "https://media.pokemoncentral.it/wiki/thumb/5/57/shiftryextempestadisabbia12.jpg/180px-shiftryextempestadisabbia12.jpg",
+                    "tipo": [
+                        "Erba",
+                        "Buio"
+                    ],
+                    "PS": "120"
+                }
+            ]
+        }
+    ]
+}
