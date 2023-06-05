@@ -10,7 +10,7 @@ https://wiki.pokemoncentral.it/
 
 come immagini si utilizzano quelle del primo sito (facendo click --> apri immagine in una nuova scheda --> copiando il link) (https://wiki.pokemoncentral.it/Elenco_espansioni_del_Gioco_di_Carte_Collezionabili_Pok%C3%A9mon) 
 
-Ognuno fa 4 set in ordine
-Alba set 1/4
-Audiso set 5/8
-...
+Ognuno fa 4 set in ordine:
+- Alba set 1/4
+- Audiso set 5/8
+- ...
