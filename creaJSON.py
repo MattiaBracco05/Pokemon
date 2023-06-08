@@ -87,7 +87,7 @@ while True:
 data = {
     'numeroSet': numSet,
     'nomeSet': nomeSet.capitalize(),
-    'anno di uscita': annoSet,
+    'annoUscita': annoSet,
     'figurine': listaFigurine
 }
 
