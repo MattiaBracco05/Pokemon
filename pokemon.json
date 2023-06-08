@@ -1,5 +1,4 @@
-{
-    "set": [
+[
         {
             "numeroSet": "13",
             "nomeSet": "Ex tempesta di sabbia",
@@ -125,4 +124,4 @@
             ]
         }
     ]
-}
+]
