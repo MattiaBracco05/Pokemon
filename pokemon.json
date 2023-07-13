@@ -1,126 +1,944 @@
 [
-        {
-            "numeroSet": "13",
-            "nomeSet": "Ex tempesta di sabbia",
-            "annoUscita": "2004",
-            "figurine": [
-                {
-                    "numero": "1/100",
-                    "nome": "Armaldo",
-                    "url": "https://media.pokemoncentral.it/wiki/thumb/9/97/ArmaldoEXTempestadiSabbia1.jpg/180px-ArmaldoEXTempestadiSabbia1.jpg",
-                    "tipo": [
-                        "Roccia",
-                        "Coleottero"
-                    ],
-                    "PS": "120"
-                },
-                {
-                    "numero": "2/100",
-                    "nome": "Cacturne",
-                    "url": "https://media.pokemoncentral.it/wiki/thumb/b/b4/cacturneextempestadisabbia2.jpg/180px-cacturneextempestadisabbia2.jpg",
-                    "tipo": [
-                        "Erba",
-                        "Buio"
-                    ],
-                    "PS": "80"
-                },
-                {
-                    "numero": "3/100",
-                    "nome": "Cradily",
-                    "url": "https://media.pokemoncentral.it/wiki/thumb/f/fc/cradilyextempestadisabbia3.jpg/180px-cradilyextempestadisabbia3.jpg",
-                    "tipo": [
-                        "Roccia",
-                        "Erba"
-                    ],
-                    "PS": "100"
-                },
-                {
-                    "numero": "4/100",
-                    "nome": "Dusclops",
-                    "url": "https://media.pokemoncentral.it/wiki/thumb/3/3f/dusclopsextempestadisabbia4.jpg/180px-dusclopsextempestadisabbia4.jpg",
-                    "tipo": [
-                        "Spettro"
-                    ],
-                    "PS": "70"
-                },
-                {
-                    "numero": "5/100",
-                    "nome": "Flareon",
-                    "url": "https://media.pokemoncentral.it/wiki/thumb/9/99/flareonextempestadisabbia5.jpg/180px-flareonextempestadisabbia5.jpg",
-                    "tipo": [
-                        "Fuoco"
-                    ],
-                    "PS": "80"
-                },
-                {
-                    "numero": "6/100",
-                    "nome": "Jolteon",
-                    "url": "https://media.pokemoncentral.it/wiki/thumb/2/25/jolteonextempestadisabbia6.jpg/180px-jolteonextempestadisabbia6.jpg",
-                    "tipo": [
-                        "Elettro"
-                    ],
-                    "PS": "70"
-                },
-                {
-                    "numero": "7/100",
-                    "nome": "Ludicolo",
-                    "url": "https://media.pokemoncentral.it/wiki/thumb/b/bd/ludicoloextempestadisabbia7.jpg/180px-ludicoloextempestadisabbia7.jpg",
-                    "tipo": [
-                        "Acqua",
-                        "Erba"
-                    ],
-                    "PS": "90"
-                },
-                {
-                    "numero": "8/100",
-                    "nome": "Lunatone",
-                    "url": "https://media.pokemoncentral.it/wiki/thumb/c/c1/lunatoneextempestadisabbia8.jpg/180px-lunatoneextempestadisabbia8.jpg",
-                    "tipo": [
-                        "Roccia",
-                        "Psico"
-                    ],
-                    "PS": "60"
-                },
-                {
-                    "numero": "9/100",
-                    "nome": "Mawile",
-                    "url": "https://media.pokemoncentral.it/wiki/thumb/2/26/mawileextempestadisabbia9.jpg/180px-mawileextempestadisabbia9.jpg",
-                    "tipo": [
-                        "Acciaio",
-                        "Folletto"
-                    ],
-                    "PS": "60"
-                },
-                {
-                    "numero": "10/100",
-                    "nome": "Sableye",
-                    "url": "https://media.pokemoncentral.it/wiki/thumb/a/af/sableyeextempestadisabbia10.jpg/180px-sableyeextempestadisabbia10.jpg",
-                    "tipo": [
-                        "Buio",
-                        "Spettro"
-                    ],
-                    "PS": "60"
-                },
-                {
-                    "numero": "11/100",
-                    "nome": "Seviper",
-                    "url": "https://media.pokemoncentral.it/wiki/thumb/1/10/seviperextempestadisabbia11.jpg/180px-seviperextempestadisabbia11.jpg",
-                    "tipo": [
-                        "Veleno",
-                        "Erba"
-                    ],
-                    "PS": "80"
-                },
-                {
-                    "numero": "12/100",
-                    "nome": "Shiftry",
-                    "url": "https://media.pokemoncentral.it/wiki/thumb/5/57/shiftryextempestadisabbia12.jpg/180px-shiftryextempestadisabbia12.jpg",
-                    "tipo": [
-                        "Erba",
-                        "Buio"
-                    ],
-                    "PS": "120"
-                }
-            ]
-        }
+    {
+        "numeroSet": "13",
+        "nomeSet": "Ex tempesta di sabbia",
+        "annoUscita": "2004",
+        "figurine": [
+            {
+                "numero": "348",
+                "progressivo": "1/100",
+                "nome": "Armaldo",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/9/97/ArmaldoEXTempestadiSabbia1.jpg/180px-ArmaldoEXTempestadiSabbia1.jpg",
+                "abilita": [
+                    "Lottascudo",
+                    "Nuotovelox"
+                ]
+            },
+            {
+                "numero": "332",
+                "progressivo": "2/100",
+                "nome": "Cacturne",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/b4/CacturneEXTempestadiSabbia2.jpg/180px-CacturneEXTempestadiSabbia2.jpg",
+                "abilita": [
+                    "Sabbiavelo",
+                    "Assorbacqua"
+                ]
+            },
+            {
+                "numero": "346",
+                "progressivo": "3/100",
+                "nome": "Cradily",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fc/CradilyEXTempestadiSabbia3.jpg/180px-CradilyEXTempestadiSabbia3.jpg",
+                "abilita": [
+                    "Vigore",
+                    "Sabbiavelo"
+                ]
+            },
+            {
+                "numero": "356",
+                "progressivo": "4/100",
+                "nome": "Dusclops",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/3f/DusclopsEXTempestadiSabbia4.jpg/180px-DusclopsEXTempestadiSabbia4.jpg",
+                "abilita": [
+                    "Mantelombre",
+                    "Pressione"
+                ]
+            },
+            {
+                "numero": "136",
+                "progressivo": "5/100",
+                "nome": "Flareon",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/9/99/FlareonEXTempestadiSabbia5.jpg/180px-FlareonEXTempestadiSabbia5.jpg",
+                "abilita": [
+                    "Fuocardore",
+                    "Piroartiglio"
+                ]
+            },
+            {
+                "numero": "135",
+                "progressivo": "6/100",
+                "nome": "Jolteon",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/25/JolteonEXTempestadiSabbia6.jpg/180px-JolteonEXTempestadiSabbia6.jpg",
+                "abilita": [
+                    "Assorbivolt",
+                    "Pellearsa"
+                ]
+            },
+            {
+                "numero": "272",
+                "progressivo": "7/100",
+                "nome": "Ludicolo",
+                "stadio_evolutivo": "Fase 3",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/bd/LudicoloEXTempestadiSabbia7.jpg/180px-LudicoloEXTempestadiSabbia7.jpg",
+                "abilita": [
+                    "Vigoracqua",
+                    "Megaassorbimento"
+                ]
+            },
+            {
+                "numero": "337",
+                "progressivo": "8/100",
+                "nome": "Lunatone",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/c1/LunatoneEXTempestadiSabbia8.jpg/180px-LunatoneEXTempestadiSabbia8.jpg",
+                "abilita": [
+                    "Sincronismo",
+                    "Levitazione"
+                ]
+            },
+            {
+                "numero": "303",
+                "progressivo": "9/100",
+                "nome": "Mawile",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/26/MawileEXTempestadiSabbia9.jpg/180px-MawileEXTempestadiSabbia9.jpg",
+                "abilita": [
+                    "Ipertaglio",
+                    "Fuocardore"
+                ]
+            },
+            {
+                "numero": "302",
+                "progressivo": "10/100",
+                "nome": "Sableye",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://wiki.pokemoncentral.it/Sableye_(EX_Tempesta_di_Sabbia_10)#/media/File:SableyeEXTempestadiSabbia10.jpg",
+                "abilita": [
+                    "Oscutaglia",
+                    "Stallaincrocio"
+                ]
+            },
+            {
+                "numero": "336",
+                "progressivo": "11/100",
+                "nome": "Seviper",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://wiki.pokemoncentral.it/Seviper_(EX_Tempesta_di_Sabbia_11)#/media/File:SeviperEXTempestadiSabbia11.jpg",
+                "abilita": [
+                    "Insidia",
+                    "Muta"
+                ]
+            },
+            {
+                "numero": "275",
+                "progressivo": "12/100",
+                "nome": "Shiftry",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/3e/ShiftryEXTempestadiSabbia12.jpg/180px-ShiftryEXTempestadiSabbia12.jpg",
+                "abilita": [
+                    "Clorofilla",
+                    "Ventreerba"
+                ]
+            },
+            {
+                "numero": "338",
+                "progressivo": "13/100",
+                "nome": "Solrock",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/67/SolrockEXTempestadiSabbia13.jpg/180px-SolrockEXTempestadiSabbia13.jpg",
+                "abilita": [
+                    "Levitazione",
+                    "Sabbiafiume"
+                ]
+            },
+            {
+                "numero": "335",
+                "progressivo": "14/100",
+                "nome": "Zangoose",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/6f/ZangooseEXTempestadiSabbia14.jpg/180px-ZangooseEXTempestadiSabbia14.jpg",
+                "abilita": [
+                    "Assalto",
+                    "Immunità"
+                ]
+            },
+            {
+                "numero": "059",
+                "progressivo": "15/100",
+                "nome": "Arcanine",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/25/ArcanineEXTempestadiSabbia15.jpg/180px-ArcanineEXTempestadiSabbia15.jpg",
+                "abilita": [
+                    "Fuocardore",
+                    "Intrepido"
+                ]
+            },
+            {
+                "numero": "196",
+                "progressivo": "16/100",
+                "nome": "Espeon",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/6f/EspeonEXTempestadiSabbia16.jpg/180px-EspeonEXTempestadiSabbia16.jpg",
+                "abilita": [
+                    "Sincronismo",
+                    "Magicscudo"
+                ]
+            },
+            {
+                "numero": "055",
+                "progressivo": "17/100",
+                "nome": "Golduck",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/46/GolduckEXTempestadiSabbia17.jpg/180px-GolduckEXTempestadiSabbia17.jpg",
+                "abilita": [
+                    "Mente Locale",
+                    "Nuotovelox"
+                ]
+            },
+            {
+                "numero": "352",
+                "progressivo": "18/100",
+                "nome": "Kecleon",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/18/KecleonEXTempestadiSabbia18.jpg/180px-KecleonEXTempestadiSabbia18.jpg",
+                "abilita": [
+                    "Cambiacolore",
+                    "Corpoforgia"
+                ]
+            },
+            {
+                "numero": "139",
+                "progressivo": "19/100",
+                "nome": "Omastar",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/9/92/OmastarEXTempestadiSabbia19.jpg/180px-OmastarEXTempestadiSabbia19.jpg",
+                "abilita": [
+                    "Guscioscudo",
+                    "Megaassorbimento"
+                ]
+            },
+            {
+                "numero": "172",
+                "progressivo": "20/100",
+                "nome": "Pichu",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5e/PichuEXTempestadiSabbia20.jpg/180px-PichuEXTempestadiSabbia20.jpg",
+                "abilita": [
+                    "Statico",
+                    "Assorbivolt"
+                ]
+            },
+            {
+                "numero": "028",
+                "progressivo": "21/100",
+                "nome": "Sandslash",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/9/94/SandslashEXTempestadiSabbia21.jpg/180px-SandslashEXTempestadiSabbia21.jpg",
+                "abilita": [
+                    "Sabbiavelo",
+                    "Veloarena"
+                ]
+            },
+            {
+                "numero": "275",
+                "progressivo": "22/100",
+                "nome": "Shiftry",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/3e/ShiftryEXTempestadiSabbia22.jpg/180px-ShiftryEXTempestadiSabbia22.jpg",
+                "abilita": [
+                    "Clorofilla",
+                    "Ventreerba"
+                ]
+            },
+            {
+                "numero": "208",
+                "progressivo": "23/100",
+                "nome": "Steelix",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/36/SteelixEXTempestadiSabbia23.jpg/180px-SteelixEXTempestadiSabbia23.jpg",
+                "abilita": [
+                    "Corpoforgia",
+                    "Megaassorbimento"
+                ]
+            },
+            {
+                "numero": "197",
+                "progressivo": "24/100",
+                "nome": "Umbreon",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f8/UmbreonEXTempestadiSabbia24.jpg/180px-UmbreonEXTempestadiSabbia24.jpg",
+                "abilita": [
+                    "Sincronismo",
+                    "Cuore Nero"
+                ]
+            },
+            {
+                "numero": "134",
+                "progressivo": "25/100",
+                "nome": "Vaporeon",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a3/VaporeonEXTempestadiSabbia25.jpg/180px-VaporeonEXTempestadiSabbia25.jpg",
+                "abilita": [
+                    "Assorbivolt",
+                    "Acquascolo"
+                ]
+            },
+            {
+                "numero": "202",
+                "progressivo": "26/100",
+                "nome": "Wobbuffet",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/31/WobbuffetEXTempestadiSabbia26.jpg/180px-WobbuffetEXTempestadiSabbia26.jpg",
+                "abilita": [
+                    "Antiscontro",
+                    "Magicscudo"
+                ]
+            },
+            {
+                "numero": "347",
+                "progressivo": "27/100",
+                "nome": "Anorith",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/71/AnorithEXTempestadiSabbia27.jpg/180px-AnorithEXTempestadiSabbia27.jpg",
+                "abilita": [
+                    "Ipertaglio",
+                    "Soglia"
+                ]
+            },
+            {
+                "numero": "347",
+                "progressivo": "28/100",
+                "nome": "Anorith",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/71/AnorithEXTempestadiSabbia27.jpg/180px-AnorithEXTempestadiSabbia27.jpg",
+                "abilita": [
+                    "Ipertaglio",
+                    "Soglia"
+                ]
+            },
+            {
+                "numero": "024",
+                "progressivo": "29/100",
+                "nome": "Arbok",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/5/57/ArbokEXTempestadiSabbia29.jpg/180px-ArbokEXTempestadiSabbia29.jpg",
+                "abilita": [
+                    "Insidia",
+                    "Indagine"
+                ]
+            },
+            {
+                "numero": "184",
+                "progressivo": "30/100",
+                "nome": "Azumarill",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/45/AzumarillEXTempestadiSabbia30.jpg/180px-AzumarillEXTempestadiSabbia30.jpg",
+                "abilita": [
+                    "Vigoracqua",
+                    "Spaccaroccia"
+                ]
+            },
+            {
+                "numero": "298",
+                "progressivo": "31/100",
+                "nome": "Azurill",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f1/AzurillEXTempestadiSabbia31.jpg/180px-AzurillEXTempestadiSabbia31.jpg",
+                "abilita": [
+                    "Medichiaro",
+                    "Canta Acqua"
+                ]
+            },
+            {
+                "numero": "343",
+                "progressivo": "32/100",
+                "nome": "Baltoy",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/24/BaltoyEXTempestadiSabbia32.jpg/180px-BaltoyEXTempestadiSabbia32.jpg",
+                "abilita": [
+                    "Levitazione",
+                    "Terremoto"
+                ]
+            },
+            {
+                "numero": "286",
+                "progressivo": "33/100",
+                "nome": "Breloom",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/14/BreloomEXTempestadiSabbia33.jpg/180px-BreloomEXTempestadiSabbia33.jpg",
+                "abilita": [
+                    "Vigore",
+                    "Spargispora"
+                ]
+            },
+            {
+                "numero": "301",
+                "progressivo": "34/100",
+                "nome": "Delcatty",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/06/DelcattyEXTempestadiSabbia34.jpg/180px-DelcattyEXTempestadiSabbia34.jpg",
+                "abilita": [
+                    "Cuore di Gatto",
+                    "Lampeggio"
+                ]
+            },
+            {
+                "numero": "125",
+                "progressivo": "35/100",
+                "nome": "Electabuzz",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/1d/ElectabuzzEXTempestadiSabbia35.jpg/180px-ElectabuzzEXTempestadiSabbia35.jpg",
+                "abilita": [
+                    "Motori Scatenati",
+                    "Energizzante"
+                ]
+            },
+            {
+                "numero": "239",
+                "progressivo": "36/100",
+                "nome": "Elekid",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/43/ElekidEXTempestadiSabbia36.jpg/180px-ElekidEXTempestadiSabbia36.jpg",
+                "abilita": [
+                    "Motori Scatenati",
+                    "Energizzante"
+                ]
+            },
+            {
+                "numero": "022",
+                "progressivo": "37/100",
+                "nome": "Fearow",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/7c/FearowEXTempestadiSabbia37.jpg/180px-FearowEXTempestadiSabbia37.jpg",
+                "abilita": [
+                    "Concentrato",
+                    "Turbozanna"
+                ]
+            },
+            {
+                "numero": "314",
+                "progressivo": "38/100",
+                "nome": "Illumise",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f2/IllumiseEXTempestadiSabbia38.jpg/180px-IllumiseEXTempestadiSabbia38.jpg",
+                "abilita": [
+                    "Velenlume",
+                    "Danzevento"
+                ]
+            },
+            {
+                "numero": "140",
+                "progressivo": "39/100",
+                "nome": "Kabuto",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a4/KabutoEXTempestadiSabbia39.jpg/180px-KabutoEXTempestadiSabbia39.jpg",
+                "abilita": [
+                    "Guscioscudo",
+                    "Esplosione"
+                ]
+            },
+            {
+                "numero": "281",
+                "progressivo": "40/100",
+                "nome": "Kirlia",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/d1/KirliaEXTempestadiSabbia40.jpg/180px-KirliaEXTempestadiSabbia40.jpg",
+                "abilita": [
+                    "Telepatia",
+                    "Premonizione"
+                ]
+            },
+            {
+                "numero": "305",
+                "progressivo": "41/100",
+                "nome": "Lairon",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a2/LaironEXTempestadiSabbia41.jpg/180px-LaironEXTempestadiSabbia41.jpg",
+                "abilita": [
+                    "Vigore",
+                    "Metalleggero"
+                ]
+            },
+            {
+                "numero": "293",
+                "progressivo": "42/100",
+                "nome": "Whismur",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/1a/WhismurEXTempestadiSabbia42.jpg/180px-WhismurEXTempestadiSabbia42.jpg",
+                "abilita": [
+                    "Piuttosto Vigoroso",
+                    "Antisuono"
+                ]
+            },
+            {
+                "numero": "345",
+                "progressivo": "43/100",
+                "nome": "Lileep",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/6a/LileepEXTempestadiSabbia42.jpg/180px-LileepEXTempestadiSabbia42.jpg",
+                "abilita": [
+                    "Fascino",
+                    "Stordiroccia"
+                ]
+            },
+            {
+                "numero": "264",
+                "progressivo": "44/100",
+                "nome": "Linoone",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/68/LinooneEXTempestadiSabbia43.jpg/180px-LinooneEXTempestadiSabbia43.jpg",
+                "abilita": [
+                    "Vigore",
+                    "Corridore"
+                ]
+            },
+            {
+                "numero": "271",
+                "progressivo": "45/100",
+                "nome": "Lombre",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/71/LombreEXTempestadiSabbia44.jpg/180px-LombreEXTempestadiSabbia44.jpg",
+                "abilita": [
+                    "Acquachiara",
+                    "Corpofittizio"
+                ]
+            },
+            {
+                "numero": "271",
+                "progressivo": "46/100",
+                "nome": "Lombre",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/71/LombreEXTempestadiSabbia44.jpg/180px-LombreEXTempestadiSabbia44.jpg",
+                "abilita": [
+                    "Acquachiara",
+                    "Corpofittizio"
+                ]
+            },
+            {
+                "numero": "198",
+                "progressivo": "47/100",
+                "nome": "Murkrow",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/c6/MurkrowEXTempestadiSabbia47.jpg/180px-MurkrowEXTempestadiSabbia47.jpg",
+                "abilita": [
+                    "Soglia",
+                    "Spietatezza"
+                ]
+            },
+            {
+                "numero": "348",
+                "progressivo": "48/100",
+                "nome": "Nuzleaf",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/20/NuzleafEXTempestadiSabbia48.jpg/180px-NuzleafEXTempestadiSabbia48.jpg",
+                "abilita": [
+                    "Clorofilla",
+                    "Ventreerba"
+                ]
+            },
+            {
+                "numero": "349",
+                "progressivo": "49/100",
+                "nome": "Nuzleaf",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/20/NuzleafEXTempestadiSabbia48.jpg/180px-NuzleafEXTempestadiSabbia48.jpg",
+                "abilita": [
+                    "Clorofilla",
+                    "Ventreerba"
+                ]
+            },
+            {
+                "numero": "279",
+                "progressivo": "50/100",
+                "nome": "Pelipper",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/d8/PelipperEXTempestadiSabbia50.jpg/180px-PelipperEXTempestadiSabbia50.jpg",
+                "abilita": [
+                    "Copripioggia",
+                    "Nuotovelox"
+                ]
+            },
+            {
+                "numero": "156",
+                "progressivo": "51/100",
+                "nome": "Quilava",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/21/QuilavaEXTempestadiSabbia51.jpg/180px-QuilavaEXTempestadiSabbia51.jpg",
+                "abilita": [
+                    "Aiutofuoco",
+                    "Fiammatossica"
+                ]
+            },
+            {
+                "numero": "288",
+                "progressivo": "52/100",
+                "nome": "Vigoroth",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/ac/VigorothEXTempestadiSabbia52.jpg/180px-VigorothEXTempestadiSabbia52.jpg",
+                "abilita": [
+                    "Vigore",
+                    "Pressione"
+                ]
+            },
+            {
+                "numero": "313",
+                "progressivo": "53/100",
+                "nome": "Volbeat",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/1a/VolbeatEXTempestadiSabbia53.jpg/180px-VolbeatEXTempestadiSabbia53.jpg",
+                "abilita": [
+                    "Scoppio",
+                    "Agitazione"
+                ]
+            },
+            {
+                "numero": "360",
+                "progressivo": "54/100",
+                "nome": "Wynaut",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/45/WynautEXTempestadiSabbia54.jpg/180px-WynautEXTempestadiSabbia54.jpg",
+                "abilita": [
+                    "Filtro",
+                    "Imprudenza"
+                ]
+            },
+            {
+                "numero": "178",
+                "progressivo": "55/100",
+                "nome": "Xatu",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f4/XatuEXTempestadiSabbia55.jpg/180px-XatuEXTempestadiSabbia55.jpg",
+                "abilita": [
+                    "Sincronismo",
+                    "Magicscudo"
+                ]
+            },
+            {
+                "numero": "304",
+                "progressivo": "56/100",
+                "nome": "Aron",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a8/AronEXTempestadiSabbia56.jpg/180px-AronEXTempestadiSabbia56.jpg",
+                "abilita": [
+                    "Testadura",
+                    "Metalprotezione"
+                ]
+            },
+            {
+                "numero": "331",
+                "progressivo": "57/100",
+                "nome": "Cacnea",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/aa/CacneaEXTempestadiSabbia57.jpg/180px-CacneaEXTempestadiSabbia57.jpg",
+                "abilita": [
+                    "Sabbiavelo",
+                    "Assorbacqua"
+                ]
+            },
+            {
+                "numero": "331",
+                "progressivo": "58/100",
+                "nome": "Cacnea",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/aa/CacneaEXTempestadiSabbia57.jpg/180px-CacneaEXTempestadiSabbia57.jpg",
+                "abilita": [
+                    "Sabbiavelo",
+                    "Assorbacqua"
+                ]
+            },
+            {
+                "numero": "59",
+                "progressivo": "59/100",
+                "nome": "Cyndaquil",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/60/CyndaquilEXTempestadiSabbia59.jpg/180px-CyndaquilEXTempestadiSabbia59.jpg",
+                "abilita": [
+                    "Bracconiero",
+                    "Fiammosfera"
+                ]
+            },
+            {
+                "numero": "206",
+                "progressivo": "60/100",
+                "nome": "Dunsparce",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/4b/DunsparceEXTempestadiSabbia60.jpg/180px-DunsparceEXTempestadiSabbia60.jpg",
+                "abilita": [
+                    "Sereno",
+                    "Vuototempo"
+                ]
+            },
+            {
+                "numero": "355",
+                "progressivo": "61/100",
+                "nome": "Duskull",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/1f/DuskullEXTempestadiSabbia61.jpg/180px-DuskullEXTempestadiSabbia61.jpg",
+                "abilita": [
+                    "Corpofunesto",
+                    "Scopone"
+                ]
+            },
+            {
+                "numero": "355",
+                "progressivo": "62/100",
+                "nome": "Duskull",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/1f/DuskullEXTempestadiSabbia61.jpg/180px-DuskullEXTempestadiSabbia61.jpg",
+                "abilita": [
+                    "Corpofunesto",
+                    "Scopone"
+                ]
+            },
+            {
+                "numero": "133",
+                "progressivo": "63/100",
+                "nome": "Eevee",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/45/EeveeEXTempestadiSabbia63.jpg/180px-EeveeEXTempestadiSabbia63.jpg",
+                "abilita": [
+                    "Adattabilità",
+                    "Agitazione"
+                ]
+            },
+            {
+                "numero": "23",
+                "progressivo": "64/100",
+                "nome": "Ekans",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/ad/EkansEXTempestadiSabbia64.jpg/180px-EkansEXTempestadiSabbia64.jpg",
+                "abilita": [
+                    "Muta",
+                    "Intimidazione"
+                ]
+            },
+            {
+                "numero": "58",
+                "progressivo": "65/100",
+                "nome": "Growlithe",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/9/95/GrowlitheEXTempestadiSabbia65.jpg/180px-GrowlitheEXTempestadiSabbia65.jpg",
+                "abilita": [
+                    "Fuocardore",
+                    "Prepotenza"
+                ]
+            },
+            {
+                "numero": "270",
+                "progressivo": "66/100",
+                "nome": "Lotad",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fe/LotadEXTempestadiSabbia66.jpg/180px-LotadEXTempestadiSabbia66.jpg",
+                "abilita": [
+                    "Vigoracqua",
+                    "Pigrone"
+                ]
+            },
+            {
+                "numero": "270",
+                "progressivo": "67/100",
+                "nome": "Lotad",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fe/LotadEXTempestadiSabbia66.jpg/180px-LotadEXTempestadiSabbia66.jpg",
+                "abilita": [
+                    "Vigoracqua",
+                    "Pigrone"
+                ]
+            },
+            {
+                "numero": "183",
+                "progressivo": "68/100",
+                "nome": "Marill",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/27/MarillEXTempestadiSabbia68.jpg/180px-MarillEXTempestadiSabbia68.jpg",
+                "abilita": [
+                    "Vigoracqua",
+                    "Pigrone"
+                ]
+            },
+            {
+                "numero": "177",
+                "progressivo": "69/100",
+                "nome": "Natu",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/NatuEXTempestadiSabbia69.jpg/180px-NatuEXTempestadiSabbia69.jpg",
+                "abilita": [
+                    "Sincronismo",
+                    "Sveglialampo"
+                ]
+            },
+            {
+                "numero": "138",
+                "progressivo": "70/100",
+                "nome": "Omanyte",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/8/81/OmanyteEXTempestadiSabbia70.jpg/180px-OmanyteEXTempestadiSabbia70.jpg",
+                "abilita": [
+                    "Guscioscudo",
+                    "Muta"
+                ]
+            },
+            {
+                "numero": "95",
+                "progressivo": "71/100",
+                "nome": "Onix",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/26/OnixEXTempestadiSabbia71.jpg/180px-OnixEXTempestadiSabbia71.jpg",
+                "abilita": [
+                    "Vigore",
+                    "Sabbiafiume"
+                ]
+            },
+            {
+                "numero": "25",
+                "progressivo": "72/100",
+                "nome": "Pikachu",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/c9/PikachuEXTempestadiSabbia72.jpg/180px-PikachuEXTempestadiSabbia72.jpg",
+                "abilita": [
+                    "Statico",
+                    "Mente Locale"
+                ]
+            },
+            {
+                "numero": "54",
+                "progressivo": "73/100",
+                "nome": "Psyduck",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/0a/PsyduckEXTempestadiSabbia73.jpg/180px-PsyduckEXTempestadiSabbia73.jpg",
+                "abilita": [
+                    "Sguardofermo",
+                    "Mente Locale"
+                ]
+            },
+            {
+                "numero": "280",
+                "progressivo": "74/100",
+                "nome": "Ralts",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/45/RaltsEXTempestadiSabbia74.jpg/180px-RaltsEXTempestadiSabbia74.jpg",
+                "abilita": [
+                    "Sincronismo",
+                    "Traccia"
+                ]
+            },
+            {
+                "numero": "27",
+                "progressivo": "75/100",
+                "nome": "Sandshrew",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/05/SandshrewEXTempestadiSabbia75.jpg/180px-SandshrewEXTempestadiSabbia75.jpg",
+                "abilita": [
+                    "Sabbiafiume",
+                    "Vigore"
+                ]
+            },
+            {
+                "numero": "273",
+                "progressivo": "76/100",
+                "nome": "Seedot",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/6c/SeedotEXTempestadiSabbia76.jpg/180px-SeedotEXTempestadiSabbia76.jpg",
+                "abilita": [
+                    "Clorofilla",
+                    "Ventreerba"
+                ]
+            },
+            {
+                "numero": "273",
+                "progressivo": "77/100",
+                "nome": "Seedot",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/6c/SeedotEXTempestadiSabbia76.jpg/180px-SeedotEXTempestadiSabbia76.jpg",
+                "abilita": [
+                    "Clorofilla",
+                    "Ventreerba"
+                ]
+            },
+            {
+                "numero": "285",
+                "progressivo": "78/100",
+                "nome": "Shroomish",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/77/ShroomishEXTempestadiSabbia78.jpg/180px-ShroomishEXTempestadiSabbia78.jpg",
+                "abilita": [
+                    "Prontoscossa",
+                    "Vigorfoglia"
+                ]
+            },
+            {
+                "numero": "300",
+                "progressivo": "79/100",
+                "nome": "Skitty",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/12/SkittyEXTempestadiSabbia79.jpg/180px-SkittyEXTempestadiSabbia79.jpg",
+                "abilita": [
+                    "Pedinombra",
+                    "Nerofuoco"
+                ]
+            },
+            {
+                "numero": "155",
+                "progressivo": "80/100",
+                "nome": "Slakoth",
+                "stadio_evolutivo": "Base",
+                "url": "Icona Incolore GCC.png",
+                "abilita": [
+                    "Pigrone",
+                    "Dormiglione"
+                ]
+            },
+            {
+                "numero": "021",
+                "progressivo": "81/100",
+                "nome": "Spearow",
+                "stadio_evolutivo": "Base",
+                "url": "Icona Incolore GCC.png",
+                "abilita": [
+                    "Copripioggia",
+                    "Paura"
+                ]
+            },
+            {
+                "numero": "328",
+                "progressivo": "82/100",
+                "nome": "Trapinch",
+                "stadio_evolutivo": "Base",
+                "url": "Icona Combattimento GCC.png",
+                "abilita": [
+                    "Iperscudo",
+                    "Trappoarena"
+                ]
+            },
+            {
+                "numero": "320",
+                "progressivo": "83/100",
+                "nome": "Wailmer",
+                "stadio_evolutivo": "Base",
+                "url": "Icona Acqua GCC.png",
+                "abilita": [
+                    "Vigore",
+                    "Idratazione"
+                ]
+            },
+            {
+                "numero": "278",
+                "progressivo": "84/100",
+                "nome": "Wingull",
+                "stadio_evolutivo": "Base",
+                "url": "Icona Acqua GCC.png",
+                "abilita": [
+                    "Cucciolata",
+                    "Ventomarino"
+                ]
+            },
+            {
+                "numero": "263",
+                "progressivo": "85/100",
+                "nome": "Zigzagoon",
+                "stadio_evolutivo": "Base",
+                "url": "Icona Incolore GCC.png",
+                "abilita": [
+                    "Prepotenza",
+                    "Pettinatura"
+                ]
+            }
+        ]
+    }
 ]
