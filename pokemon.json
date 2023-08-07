@@ -940,5 +940,1094 @@
                 ]
             }
         ]
-    }
+    },
+
+    {
+    "numeroSet": "57",
+    "nomeSet": "Antiche origini",
+    "anno di uscita": "2015",
+    "figurine": [
+        {
+            "numero": "1/98",
+            "numeroSeriale": "43",
+            "nome": "Oddish",
+            "url": "https://media.pokemoncentral.it/wiki/4/4b/Artwork0043_RFVF.png",
+            "stadio": "Base",
+            "abilita": [
+                "Clorofilla",
+                "Fugafacile"
+            ]
+        },
+        {
+            "numero": "2/98",
+            "numeroSeriale": "44",
+            "nome": "Gloom",
+            "url": "https://media.pokemoncentral.it/wiki/b/b9/Artwork0044_RFVF.png",
+            "stadio": "Base",
+            "abilita": [
+                "Clorofilla",
+                "Tanfo"
+            ]
+        },
+        {
+            "numero": "3/98",
+            "numeroSeriale": "44",
+            "nome": "Vileplume",
+            "url": "https://media.pokemoncentral.it/wiki/d/d0/Artwork0045_RFVF.png",
+            "stadio": "Fase 1",
+            "abilita": [
+                "Clorofilla",
+                "Spargispora"
+            ]
+        },
+        {
+            "numero": "4/98",
+            "numeroSeriale": "182",
+            "nome": "Bellossom",
+            "url": "https://media.pokemoncentral.it/wiki/7/71/Artwork0182_RFVF.png",
+            "stadio": "Fase 1",
+            "abilita": [
+                "Clorofilla",
+                "Curacuore"
+            ]
+        },
+        {
+            "numero": "5/98",
+            "numeroSeriale": "167",
+            "nome": "Spinarak",
+            "url": "https://media.pokemoncentral.it/wiki/e/ee/Artwork0167_HGSS.png?download",
+            "stadio": "Base",
+            "abilita": [
+                "Aiutinsetto",
+                "Insonnia",
+                "Cecchino"
+            ]
+        },
+        {
+            "numero": "6/98",
+            "numeroSeriale": "166",
+            "nome": "Ariados",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/2/21/Artwork0168_HGSS.png/1024px-Artwork0168_HGSS.png",
+            "stadio": "Base",
+            "abilita": [
+                "Aiutinsetto",
+                "Insonnia",
+                "Cecchino"
+            ]
+        },
+        {
+            "numero": "7/98",
+            "numeroSeriale": "254",
+            "nome": "Sceptile ex",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/9/9c/Artwork0254_RZ.png/1024px-Artwork0254_RZ.png",
+            "stadio": "Base",
+            "abilita": [
+                "Erbaiuto",
+                "Agiltecnica"
+            ]
+        },
+        {
+            "numero": "8/98",
+            "numeroSeriale": "254",
+            "nome": "M-sceptile ex",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/9/9c/Artwork0254_RZ.png/1024px-Artwork0254_RZ.png",
+            "stadio": "Fase 3",
+            "abilita": [
+                "Erbaiuto",
+                "Agiltecnica"
+            ]
+        },
+        {
+            "numero": "9/98",
+            "numeroSeriale": "415",
+            "nome": "Combee",
+            "url": "https://media.pokemoncentral.it/wiki/e/e8/Artwork0415_DP.png",
+            "stadio": "Base",
+            "abilita": [
+                "Mielincetta",
+                "Tuttafretta"
+            ]
+        },
+        {
+            "numero": "10/98",
+            "numeroSeriale": "416",
+            "nome": "Vespiquen",
+            "url": "https://media.pokemoncentral.it/wiki/3/32/Artwork0416_DP.png",
+            "stadio": "Base",
+            "abilita": [
+                "Pressione",
+                "Agitazione"
+            ]
+        },
+        {
+            "numero": "11/98",
+            "numeroSeriale": "416",
+            "nome": "Vespiquen",
+            "url": "https://media.pokemoncentral.it/wiki/3/32/Artwork0416_DP.png",
+            "stadio": "Base",
+            "abilita": [
+                "Pressione",
+                "Agitazione"
+            ]
+        },
+        {
+            "numero": "12/98",
+            "numeroSeriale": "640",
+            "nome": "Virizion",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/1/18/Artwork0640_NB.png/1024px-Artwork0640_NB.png",
+            "stadio": "Base",
+            "abilita": [
+                "Giustizia"
+            ]
+        },
+        {
+            "numero": "13/98",
+            "numeroSeriale": "136",
+            "nome": "Flareon",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/4/4b/Artwork0136_RFVF.png/1024px-Artwork0136_RFVF.png",
+            "stadio": "Base",
+            "abilita": [
+                "Fuocardore",
+                "Dentistretti"
+            ]
+        },
+        {
+            "numero": "14/98",
+            "numeroSeriale": "244",
+            "nome": "Entei",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/8/81/Artwork0244_HGSS.png/1024px-Artwork0244_HGSS.png",
+            "stadio": "Base",
+            "abilita": [
+                "Pressione",
+                "Fuocardore",
+                "FoRZa interiore"
+            ]
+        },
+        {
+            "numero": "15/98",
+            "numeroSeriale": "244",
+            "nome": "Entei",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/8/81/Artwork0244_HGSS.png/1024px-Artwork0244_HGSS.png",
+            "stadio": "Base",
+            "abilita": [
+                "Pressione",
+                "Fuocardore",
+                "FoRZa interiore"
+            ]
+        },
+        {
+            "numero": "16/98",
+            "numeroSeriale": "636",
+            "nome": "Larvesta",
+            "url": "https://media.pokemoncentral.it/wiki/2/2d/Artwork0636_NB.png",
+            "stadio": "Base",
+            "abilita": [
+                "Corpodifuoco",
+                "Aiutinsetto"
+            ]
+        },
+        {
+            "numero": "17/98",
+            "numeroSeriale": "637",
+            "nome": "Volcarona",
+            "url": "https://media.pokemoncentral.it/wiki/b/bc/Artwork0637_NB.png",
+            "stadio": "Base",
+            "abilita": [
+                "Corpodifuoco",
+                "Aiutinsetto"
+            ]
+        },
+        {
+            "numero": "18/98",
+            "numeroSeriale": "637",
+            "nome": "Volcarona",
+            "url": "https://media.pokemoncentral.it/wiki/b/bc/Artwork0637_NB.png",
+            "stadio": "Base",
+            "abilita": [
+                "Corpodifuoco",
+                "Aiutinsetto"
+            ]
+        },
+        {
+            "numero": "19/98",
+            "numeroSeriale": "129",
+            "nome": "Magikarp",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/c/c8/Artwork0129_RFVF.png/1024px-Artwork0129_RFVF.png",
+            "stadio": "Base",
+            "abilita": [
+                "Nuotovelox",
+                "Paura"
+            ]
+        },
+        {
+            "numero": "20/98",
+            "numeroSeriale": "130",
+            "nome": "Gyarados",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/f/f9/Artwork0130_RFVF.png/1024px-Artwork0130_RFVF.png",
+            "stadio": "Base",
+            "abilita": [
+                "Prepotenza",
+                "Arroganza"
+            ]
+        },
+        {
+            "numero": "21/98",
+            "numeroSeriale": "130",
+            "nome": "Gyarados",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/f/f9/Artwork0130_RFVF.png/1024px-Artwork0130_RFVF.png",
+            "stadio": "Base",
+            "abilita": [
+                "Prepotenza",
+                "Arroganza"
+            ]
+        },
+        {
+            "numero": "22/98",
+            "numeroSeriale": "134",
+            "nome": "Vaporeon",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/8/85/Artwork0134_RFVF.png/1024px-Artwork0134_RFVF.png",
+            "stadio": "Base",
+            "abilita": [
+                "Assorbacqua",
+                "Idratazione"
+            ]
+        },
+        {
+            "numero": "23/98",
+            "numeroSeriale": "369",
+            "nome": "Relicanth",
+            "url": "https://media.pokemoncentral.it/wiki/b/b5/Artwork0369_RZ.png",
+            "stadio": "Base",
+            "abilita": [
+                "Nuotovelox",
+                "Testadura",
+                "Vigore"
+            ]
+        },
+        {
+            "numero": "24/98",
+            "numeroSeriale": "378",
+            "nome": "Regice",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/e/ee/Artwork0378_RZ.png/1024px-Artwork0378_RZ.png",
+            "stadio": "Base",
+            "abilita": [
+                "Corpochiaro",
+                "Corpogelo"
+            ]
+        },
+        {
+            "numero": "25/98",
+            "numeroSeriale": "646",
+            "nome": "Kyurem ex",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/8/8e/Artwork0646_NB.png/1024px-Artwork0646_NB.png",
+            "stadio": "Base",
+            "abilita": [
+                "Pressione",
+                "Piroturbina",
+                "Teravolt"
+            ]
+        },
+        {
+            "numero": "26/98",
+            "numeroSeriale": "135",
+            "nome": "Jolteon",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/5/55/Artwork0135_RFVF.png/1024px-Artwork0135_RFVF.png",
+            "stadio": "Base",
+            "abilita": [
+                "Assorbivolt",
+                "Piedisvelti"
+            ]
+        },
+        {
+            "numero": "27/98",
+            "numeroSeriale": "181",
+            "nome": "Ampharos ex",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/a/a2/Artwork0181_HGSS.png/1024px-Artwork0181_HGSS.png",
+            "stadio": "Base",
+            "abilita": [
+                "Statico",
+                "Pi\u00f9"
+            ]
+        },
+        {
+            "numero": "28/98",
+            "numeroSeriale": "181",
+            "nome": "M-ampharos ex",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/5/55/Artwork0135_RFVF.png/1024px-Artwork0135_RFVF.png",
+            "stadio": "Base",
+            "abilita": [
+                "Rompifiamma"
+            ]
+        },
+        {
+            "numero": "29/98",
+            "numeroSeriale": "479",
+            "nome": "Rotom",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/d/d7/Artwork0479_DLPS.png/1024px-Artwork0479_DLPS.png",
+            "stadio": "Base",
+            "abilita": [
+                "Levitazione"
+            ]
+        },
+        {
+            "numero": "30/98",
+            "numeroSeriale": "201",
+            "nome": "Unown",
+            "url": "https://media.pokemoncentral.it/wiki/4/4d/Artwork0201f_RFVF.png",
+            "stadio": "Base",
+            "abilita": [
+                "Levitazione"
+            ]
+        },
+        {
+            "numero": "31/98",
+            "numeroSeriale": "343",
+            "nome": "Baltoy",
+            "url": "https://media.pokemoncentral.it/wiki/9/98/Artwork0343_RZ.png",
+            "stadio": "Base",
+            "abilita": [
+                "Levitazione"
+            ]
+        },
+        {
+            "numero": "32/98",
+            "numeroSeriale": "343",
+            "nome": "Baltoy",
+            "url": "https://media.pokemoncentral.it/wiki/9/98/Artwork0343_RZ.png",
+            "stadio": "Base",
+            "abilita": [
+                "Levitazione"
+            ]
+        },
+        {
+            "numero": "33/98",
+            "numeroSeriale": "344",
+            "nome": "Claydol",
+            "url": "https://media.pokemoncentral.it/wiki/7/7e/Artwork0344_RZ.png",
+            "stadio": "Fase 1",
+            "abilita": [
+                "Levitazione"
+            ]
+        },
+        {
+            "numero": "34/98",
+            "numeroSeriale": "622",
+            "nome": "Golett",
+            "url": "https://media.pokemoncentral.it/wiki/2/20/Artwork0622_NB.png",
+            "stadio": "Base",
+            "abilita": [
+                "Ferropugno",
+                "Impaccio",
+                "Nullodifesa"
+            ]
+        },
+        {
+            "numero": "35/98",
+            "numeroSeriale": "623",
+            "nome": "Golurk",
+            "url": "https://media.pokemoncentral.it/wiki/3/3b/Artwork0623_NB.png",
+            "stadio": "Fase 1",
+            "abilita": [
+                "Ferropugno",
+                "Impaccio",
+                "Nullodifesa"
+            ]
+        },
+        {
+            "numero": "36/98",
+            "numeroSeriale": "720",
+            "nome": "Hoopa ex",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/8/86/Artwork0720_ROZA.png/1024px-Artwork0720_ROZA.png",
+            "stadio": "Base",
+            "abilita": [
+                "Prestigiatore"
+            ]
+        },
+        {
+            "numero": "37/98",
+            "numeroSeriale": "68",
+            "nome": "Machamp ex",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/a/ac/Artwork0068_RFVF.png/1024px-Artwork0068_RFVF.png",
+            "stadio": "Base",
+            "abilita": [
+                "Dentistretti",
+                "Nullodifesa",
+                "Cuordeciso"
+            ]
+        },
+        {
+            "numero": "38/98",
+            "numeroSeriale": "194",
+            "nome": "Wooper",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/e/e3/Artwork0194_HGSS.png/1024px-Artwork0194_HGSS.png",
+            "stadio": "Base",
+            "abilita": [
+                "Umidit\u00e0",
+                "Assorbacqua",
+                "Imprudenza"
+            ]
+        },
+        {
+            "numero": "39/98",
+            "numeroSeriale": "195",
+            "nome": "Quagsire",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/6/61/Artwork0195_HGSS.png/1024px-Artwork0195_HGSS.png",
+            "stadio": "Fase 1",
+            "abilita": [
+                "Umidit\u00e0",
+                "Assorbacqua",
+                "Imprudenza"
+            ]
+        },
+        {
+            "numero": "40/98",
+            "numeroSeriale": "377",
+            "nome": "Regirock",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/5/59/Artwork0377_RZ.png/1024px-Artwork0377_RZ.png",
+            "stadio": "Base",
+            "abilita": [
+                "Corpochiaro",
+                "Vigore"
+            ]
+        },
+        {
+            "numero": "41/98",
+            "numeroSeriale": "623",
+            "nome": "Golurk",
+            "url": "https://media.pokemoncentral.it/wiki/3/3b/Artwork0623_NB.png",
+            "stadio": "Fase 1",
+            "abilita": [
+                "Ferropugno",
+                "Impaccio",
+                "Nullodifesa"
+            ]
+        },
+        {
+            "numero": "42/98",
+            "numeroSeriale": "248",
+            "nome": "Tyranitar ex",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/a/a1/Artwork0248_HGSS.png/1024px-Artwork0248_HGSS.png",
+            "stadio": "Base",
+            "abilita": [
+                "Sabbiafiume",
+                "Agitazione"
+            ]
+        },
+        {
+            "numero": "43/98",
+            "numeroSeriale": "248",
+            "nome": "M-tyranitar ex",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/a/a1/Artwork0248_HGSS.png/1024px-Artwork0248_HGSS.png",
+            "stadio": "Base",
+            "abilita": [
+                "Sabbiafiume",
+                "Agitazione"
+            ]
+        },
+        {
+            "numero": "44/98",
+            "numeroSeriale": "302",
+            "nome": "Sableye",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/0/02/Artwork0302_RZ.png/1024px-Artwork0302_RZ.png",
+            "stadio": "Base",
+            "abilita": [
+                "Sguardofermo",
+                "Rallentatore",
+                "Burla"
+            ]
+        },
+        {
+            "numero": "45/98",
+            "numeroSeriale": "686",
+            "nome": "Inkay",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/1/14/Artwork0686_XY.png/1024px-Artwork0686_XY.png",
+            "stadio": "Base",
+            "abilita": [
+                "Inversione",
+                "Ventose",
+                "Intrapasso"
+            ]
+        },
+        {
+            "numero": "46/98",
+            "numeroSeriale": "687",
+            "nome": "Malamar",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/0/0d/Artwork0687_XY.png/300px-Artwork0687_XY.png",
+            "stadio": "Fase 1",
+            "abilita": [
+                "Inversione",
+                "Ventose",
+                "Intrapasso"
+            ]
+        },
+        {
+            "numero": "47/98",
+            "numeroSeriale": "374",
+            "nome": "Beldum",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/f/fb/Artwork0374_RZ.png/1024px-Artwork0374_RZ.png",
+            "stadio": "Base",
+            "abilita": [
+                "Corpochiaro",
+                "Metalleggero"
+            ]
+        },
+        {
+            "numero": "48/98",
+            "numeroSeriale": "375",
+            "nome": "Metang (antiche origini 48)",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/8/8b/Artwork0375_RZ.png/1024px-Artwork0375_RZ.png",
+            "stadio": "Fase 1",
+            "abilita": [
+                "Corpochiaro",
+                "Metalleggero"
+            ]
+        },
+        {
+            "numero": "49/98",
+            "numeroSeriale": "376",
+            "nome": "Metagross",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/6/67/Artwork0376_RZ.png/1024px-Artwork0376_RZ.png",
+            "stadio": "Fase 2",
+            "abilita": [
+                "Corpochiaro",
+                "Metalleggero"
+            ]
+        },
+        {
+            "numero": "50/98",
+            "numeroSeriale": "376",
+            "nome": "Metagross",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/6/67/Artwork0376_RZ.png/1024px-Artwork0376_RZ.png",
+            "stadio": "Fase 2",
+            "abilita": [
+                "Corpochiaro",
+                "Metalleggero"
+            ]
+        },
+        {
+            "numero": "51/98",
+            "numeroSeriale": "379",
+            "nome": "Registeel",
+            "url": "https://media.pokemoncentral.it/wiki/3/39/Artwork0379_RZ.png",
+            "stadio": "Base",
+            "abilita": [
+                "Corpochiaro",
+                "Metalleggero"
+            ]
+        },
+        {
+            "numero": "52/98",
+            "numeroSeriale": "280",
+            "nome": "Ralts",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/e/ee/Artwork0280_RZ.png/1024px-Artwork0280_RZ.png",
+            "stadio": "Base",
+            "abilita": [
+                "Sincronismo",
+                "Traccia",
+                "Telepatia"
+            ]
+        },
+        {
+            "numero": "53/98",
+            "numeroSeriale": "281",
+            "nome": "Kirlia",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/3/36/Artwork0281_RZ.png/1024px-Artwork0281_RZ.png",
+            "stadio": "Fase 1",
+            "abilita": [
+                "Sincronismo",
+                "Traccia",
+                "Telepatia"
+            ]
+        },
+        {
+            "numero": "54/98",
+            "numeroSeriale": "282",
+            "nome": "Gardevoir",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/1/1c/Artwork0282_RZ.png/1024px-Artwork0282_RZ.png",
+            "stadio": "Fase 2",
+            "abilita": [
+                "Sincronismo",
+                "Traccia",
+                "Telepatia"
+            ]
+        },
+        {
+            "numero": "55/98",
+            "numeroSeriale": "546",
+            "nome": "Cottonee",
+            "url": "https://media.pokemoncentral.it/wiki/0/08/Artwork0546_NB.png",
+            "stadio": "Base",
+            "abilita": [
+                "Burla",
+                "Intrapasso",
+                "Clorofilla"
+            ]
+        },
+        {
+            "numero": "56/98",
+            "numeroSeriale": "547",
+            "nome": "Whimsicott",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/f/f3/Artwork0547_NB.png/300px-Artwork0547_NB.png",
+            "stadio": "Fase 1",
+            "abilita": [
+                "Burla",
+                "Intrapasso",
+                "Clorofilla"
+            ]
+        },
+        {
+            "numero": "57/98",
+            "numeroSeriale": "487",
+            "nome": "Giratina ex",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/9/9b/Artwork0487_DP.png/1024px-Artwork0487_DP.png",
+            "stadio": "Base",
+            "abilita": [
+                "Pressione",
+                "Telepatia"
+            ]
+        },
+        {
+            "numero": "58/98",
+            "numeroSeriale": "704",
+            "nome": "Goomy",
+            "url": "https://media.pokemoncentral.it/wiki/6/6b/Artwork0704_XY.png",
+            "stadio": "Base",
+            "abilita": [
+                "Mangiaerba",
+                "Idratazione",
+                "Viscosit\u00e0"
+            ]
+        },
+        {
+            "numero": "59/98",
+            "numeroSeriale": "705",
+            "nome": "Sliggoo",
+            "url": "https://media.pokemoncentral.it/wiki/9/98/Artwork0705_XY.png",
+            "stadio": "Fase 1",
+            "abilita": [
+                "Mangiaerba",
+                "Idratazione",
+                "Viscosit\u00e0"
+            ]
+        },
+        {
+            "numero": "60/98",
+            "numeroSeriale": "706",
+            "nome": "Goodra",
+            "url": "https://media.pokemoncentral.it/wiki/7/71/Artwork0706_XY.png",
+            "stadio": "Fase 2",
+            "abilita": [
+                "Mangiaerba",
+                "Idratazione",
+                "Viscosit\u00e0"
+            ]
+        },
+        {
+            "numero": "61/98",
+            "numeroSeriale": "52",
+            "nome": "Meowth ",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/9/95/Artwork0052_RFVF.png/1024px-Artwork0052_RFVF.png",
+            "stadio": "Base",
+            "abilita": [
+                "Raccolta",
+                "Tecnico",
+                "Agitazione"
+            ]
+        },
+        {
+            "numero": "62/98",
+            "numeroSeriale": "53",
+            "nome": "Persian",
+            "url": "https://media.pokemoncentral.it/wiki/c/c6/Artwork0053_RFVF.png",
+            "stadio": "Fase 1",
+            "abilita": [
+                "Scioltezza",
+                "Tecnico",
+                "Agitazione"
+            ]
+        },
+        {
+            "numero": "63/98",
+            "numeroSeriale": "133",
+            "nome": "Eevee",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/b/b0/Artwork0133_RFVF.png/1024px-Artwork0133_RFVF.png",
+            "stadio": "Base",
+            "abilita": [
+                "Fugafacile",
+                "Adattabilit\u00e0",
+                "Presagio"
+            ]
+        },
+        {
+            "numero": "64/98",
+            "numeroSeriale": "137",
+            "nome": "Porygon",
+            "url": "https://media.pokemoncentral.it/wiki/9/95/Artwork0137_RFVF.png",
+            "stadio": "Base",
+            "abilita": [
+                "Traccia",
+                "Download",
+                "Ponderazione"
+            ]
+        },
+        {
+            "numero": "65/98",
+            "numeroSeriale": "233",
+            "nome": "Porygon2",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/1/13/Artwork0233_HGSS.png/1024px-Artwork0233_HGSS.png",
+            "stadio": "Fase 1",
+            "abilita": [
+                "Traccia",
+                "Download",
+                "Ponderazione"
+            ]
+        },
+        {
+            "numero": "66/98",
+            "numeroSeriale": "474",
+            "nome": "Porygon-Z",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/2/26/Artwork0474_DP.png/1024px-Artwork0474_DP.png",
+            "stadio": "Fase 2",
+            "abilita": [
+                "Traccia",
+                "Download",
+                "Ponderazione"
+            ]
+        },
+        {
+            "numero": "67/98",
+            "numeroSeriale": "474",
+            "nome": "Porygon-Z",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/2/26/Artwork0474_DP.png/1024px-Artwork0474_DP.png",
+            "stadio": "Fase 2",
+            "abilita": [
+                "Traccia",
+                "Download",
+                "Ponderazione"
+            ]
+        },
+        {
+            "numero": "68/98",
+            "numeroSeriale": "249",
+            "nome": "Lugia ex",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/a/a6/Artwork0249_HGSS.png/1024px-Artwork0249_HGSS.png",
+            "stadio": "Base",
+            "abilita": [
+                "Pressione",
+                "Multisquame"
+            ]
+        },
+        {
+            "numero": "69/98",
+            "numeroSeriale": "000",
+            "nome": "Fantallenatori",
+            "url": "https://media.pokemoncentral.it/wiki/0/0d/AceTrainerAncientOrigins69.jpg",
+            "stadio": "Allenatore",
+            "abilita": [
+                "Nessuna"
+            ]
+        },
+        {
+            "numero": "70/98",
+            "numeroSeriale": "000",
+            "nome": "Legame Mentale con Ampharos",
+            "url": "https://media.pokemoncentral.it/wiki/1/1f/LegameMentaleconAmpharosAnticheOrigini70.jpg",
+            "stadio": "Allenatore",
+            "abilita": [
+                "Nessuna"
+            ]
+        },
+        {
+            "numero": "71/98",
+            "numeroSeriale": "Braccio Ecologico",
+            "nome": "000",
+            "url": "https://media.pokemoncentral.it/wiki/4/4e/BraccioEcologicoAnticheOrigini71.jpg",
+            "stadio": "Allenatore",
+            "abilita": [
+                "Nessuna"
+            ]
+        },
+        {
+            "numero": "72/98",
+            "numeroSeriale": "000",
+            "nome": "Riciclaggio di Energia",
+            "url": "https://media.pokemoncentral.it/wiki/7/7d/RiciclaggiodiEnergiaAnticheOrigini72.jpg",
+            "stadio": "Allenatore",
+            "abilita": [
+                "Nessuna"
+            ]
+        },
+        {
+            "numero": "73/98",
+            "numeroSeriale": "000",
+            "nome": "Citt\u00e0 Deserta",
+            "url": "https://media.pokemoncentral.it/wiki/9/9b/Citt%C3%A0DesertaAnticheOrigini73.jpg",
+            "stadio": "Allenatore",
+            "abilita": [
+                "Nessuna"
+            ]
+        },
+        {
+            "numero": "74/98",
+            "numeroSeriale": "000",
+            "nome": "Foresta delle Piante Giganti",
+            "url": "https://media.pokemoncentral.it/wiki/9/9c/GiantPlantForestAncientOrigins74.png",
+            "stadio": "Allenatore",
+            "abilita": [
+                "Nessuna"
+            ]
+        },
+        {
+            "numero": "75/98",
+            "numeroSeriale": "000",
+            "nome": "Streghetta ",
+            "url": "https://media.pokemoncentral.it/wiki/0/01/HexManiacAncientOrigins75.png",
+            "stadio": "Allenatore",
+            "abilita": [
+                "Nessuna"
+            ]
+        },
+        {
+            "numero": "76/98",
+            "numeroSeriale": "000",
+            "nome": "Level Ball",
+            "url": "https://media.pokemoncentral.it/wiki/2/23/LevelBallDestiniFuturi89.jpg",
+            "stadio": "Allenatore",
+            "abilita": [
+                "Nessuna"
+            ]
+        },
+        {
+            "numero": "77/98",
+            "numeroSeriale": "000",
+            "nome": "Fortunelmo",
+            "url": "https://media.pokemoncentral.it/wiki/d/de/LuckyHelmetAncientOrigins77.png",
+            "stadio": "Allenatore",
+            "abilita": [
+                "Nessuna"
+            ]
+        },
+        {
+            "numero": "78/98",
+            "numeroSeriale": "000",
+            "nome": "Elisio",
+            "url": "https://media.pokemoncentral.it/wiki/9/93/LysandreFlashfire90.png",
+            "stadio": "Allenatore",
+            "abilita": [
+                "Nessuna"
+            ]
+        },
+        {
+            "numero": "79/98",
+            "numeroSeriale": "000",
+            "nome": "Imbiancarullo",
+            "url": "https://media.pokemoncentral.it/wiki/a/a6/ImbiancarulloAnticheOrigini79.jpg",
+            "stadio": "Allenatore",
+            "abilita": [
+                "Nessuna"
+            ]
+        },
+        {
+            "numero": "80/98",
+            "numeroSeriale": "000",
+            "nome": "Legame Mentale con Sceptile",
+            "url": "https://media.pokemoncentral.it/wiki/8/8b/LegameMentaleconSceptileAnticheOrigini80.jpg",
+            "stadio": "Allenatore",
+            "abilita": [
+                "Nessuna"
+            ]
+        },
+        {
+            "numero": "81/98",
+            "numeroSeriale": "000",
+            "nome": "Legame Mentale con Tyranitar",
+            "url": "https://media.pokemoncentral.it/wiki/5/5c/LegameMentaleconTyranitarAnticheOrigini81.jpg",
+            "stadio": "Allenatore",
+            "abilita": [
+                "Nessuna"
+            ]
+        },
+        {
+            "numero": "82/98",
+            "numeroSeriale": "000",
+            "nome": "Energia Pericolo",
+            "url": "https://media.pokemoncentral.it/wiki/2/29/DangerousEnergyAncientOrigins.jpg",
+            "stadio": "Energia",
+            "abilita": [
+                "Nessuna"
+            ]
+        },
+        {
+            "numero": "83/98",
+            "numeroSeriale": "000",
+            "nome": "Energia Flash",
+            "url": "https://media.pokemoncentral.it/wiki/5/5e/FlashEnergyAncientOrigins83.png",
+            "stadio": "Energia",
+            "abilita": [
+                "Nessuna"
+            ]
+        },
+        {
+            "numero": "84/98",
+            "numeroSeriale": "254",
+            "nome": "Sceptile ex",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/9/9c/Artwork0254_RZ.png/1024px-Artwork0254_RZ.png",
+            "stadio": "Base",
+            "abilita": [
+                "Erbaiuto",
+                "Agiltecnica"
+            ]
+        },
+        {
+            "numero": "85/98",
+            "numeroSeriale": "254",
+            "nome": "M-sceptile ex",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/2/23/Artwork0254m_ROZA.png/1024px-Artwork0254m_ROZA.png",
+            "stadio": "Fase 1",
+            "abilita": [
+                "Erbaiuto",
+                "Agiltecnica"
+            ]
+        },
+        {
+            "numero": "86/98",
+            "numeroSeriale": "646",
+            "nome": "Kyurem ex",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/8/8e/Artwork0646_NB.png/1024px-Artwork0646_NB.png",
+            "stadio": "Base",
+            "abilita": [
+                "Pressione",
+                "Piroturbina",
+                "Teravolt"
+            ]
+        },
+        {
+            "numero": "87/98",
+            "numeroSeriale": "181",
+            "nome": "Ampharos ex",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/a/a2/Artwork0181_HGSS.png/1024px-Artwork0181_HGSS.png",
+            "stadio": "Base",
+            "abilita": [
+                "Statico",
+                "Pi\u00f9"
+            ]
+        },
+        {
+            "numero": "88/98",
+            "numeroSeriale": "181",
+            "nome": "M-ampharos ex",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/5/55/Artwork0135_RFVF.png/1024px-Artwork0135_RFVF.png",
+            "stadio": "Base",
+            "abilita": [
+                "Rompifiamma"
+            ]
+        },
+        {
+            "numero": "89/98",
+            "numeroSeriale": "720",
+            "nome": "Hoopa ex",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/8/86/Artwork0720_ROZA.png/1024px-Artwork0720_ROZA.png",
+            "stadio": "Base",
+            "abilita": [
+                "Prestigiatore"
+            ]
+        },
+        {
+            "numero": "90/98",
+            "numeroSeriale": "68",
+            "nome": "Machamp ex",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/a/ac/Artwork0068_RFVF.png/1024px-Artwork0068_RFVF.png",
+            "stadio": "Base",
+            "abilita": [
+                "Dentistretti",
+                "Nullodifesa",
+                "Cuordeciso"
+            ]
+        },
+        {
+            "numero": "91/98",
+            "numeroSeriale": "248",
+            "nome": "Tyranitar ex",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/a/a1/Artwork0248_HGSS.png/1024px-Artwork0248_HGSS.png",
+            "stadio": "Base",
+            "abilita": [
+                "Sabbiafiume",
+                "Agitazione"
+            ]
+        },
+        {
+            "numero": "92/98",
+            "numeroSeriale": "248",
+            "nome": "M-tyranitar ex",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/a/a1/Artwork0248_HGSS.png/1024px-Artwork0248_HGSS.png",
+            "stadio": "Base",
+            "abilita": [
+                "Sabbiafiume",
+                "Agitazione"
+            ]
+        },
+        {
+            "numero": "93/98",
+            "numeroSeriale": "487",
+            "nome": "Giratina ex",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/9/9b/Artwork0487_DP.png/1024px-Artwork0487_DP.png",
+            "stadio": "Base",
+            "abilita": [
+                "Pressione",
+                "Telepatia"
+            ]
+        },
+        {
+            "numero": "94/98",
+            "numeroSeriale": "249",
+            "nome": "Lugia ex",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/a/a6/Artwork0249_HGSS.png/1024px-Artwork0249_HGSS.png",
+            "stadio": "Base",
+            "abilita": [
+                "Pressione",
+                "Multisquame"
+            ]
+        },
+        {
+            "numero": "95/98",
+            "numeroSeriale": "000",
+            "nome": "Rocco",
+            "url": "https://media.pokemoncentral.it/wiki/0/0f/StevenRoaringSkies90.jpg",
+            "stadio": "Allenatore",
+            "abilita": [
+                "Nessuna"
+            ]
+        },
+        {
+            "numero": "96/98",
+            "numeroSeriale": "382",
+            "nome": "Archeo Kyogre ex",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/2/2c/Artwork0382_RZ.png/1024px-Artwork0382_RZ.png",
+            "stadio": "Fase 3",
+            "abilita": [
+                "Mare Primordiale"
+            ]
+        },
+        {
+            "numero": "97/98",
+            "numeroSeriale": "383",
+            "nome": "Archeo Groudon ex",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/c/c9/Artwork0383_RZ.png/300px-Artwork0383_RZ.png",
+            "stadio": "Fase 3",
+            "abilita": [
+                "Terra Estrema"
+            ]
+        },
+        {
+            "numero": "98/98",
+            "numeroSeriale": "384",
+            "nome": "M-Rayquaza ex",
+            "url": "https://media.pokemoncentral.it/wiki/thumb/1/16/Artwork0384_ROZA.png/1024px-Artwork0384_ROZA.png",
+            "stadio": "Fase 3",
+            "abilita": [
+                "Flusso Delta"
+            ]
+        }
+    ]
+}
 ]
