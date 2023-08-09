@@ -1815,7 +1815,7 @@
                 "stadio_evolutivo": "Base",
                 "abilita": [
                     "Traccia",
-                    "Download",
+                    "Scarica",
                     "Ponderazione"
                 ]
             },
@@ -1827,7 +1827,7 @@
                 "stadio_evolutivo": "Fase 1",
                 "abilita": [
                     "Traccia",
-                    "Download",
+                    "Scarica",
                     "Ponderazione"
                 ]
             },
@@ -1839,7 +1839,7 @@
                 "stadio_evolutivo": "Fase 2",
                 "abilita": [
                     "Traccia",
-                    "Download",
+                    "Scarica",
                     "Ponderazione"
                 ]
             },
@@ -1851,7 +1851,7 @@
                 "stadio_evolutivo": "Fase 2",
                 "abilita": [
                     "Traccia",
-                    "Download",
+                    "Scarica",
                     "Ponderazione"
                 ]
             },
