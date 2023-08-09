@@ -1098,7 +1098,7 @@
         "figurine": [
             {
                 "numero": "1/98",
-                "numeroSeriale": "43",
+                "progressivo": "43",
                 "nome": "Oddish",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/9/93/OddishAncientOrigins1.jpg/180px-OddishAncientOrigins1.jpg",
                 "stadio_evolutivo": "Base",
@@ -1109,7 +1109,7 @@
             },
             {
                 "numero": "2/98",
-                "numeroSeriale": "44",
+                "progressivo": "44",
                 "nome": "Gloom",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/d/da/GloomAnticheOrigini2.png/180px-GloomAnticheOrigini2.png",
                 "stadio_evolutivo": "Base",
@@ -1120,7 +1120,7 @@
             },
             {
                 "numero": "3/98",
-                "numeroSeriale": "44",
+                "progressivo": "44",
                 "nome": "Vileplume",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/7/77/VileplumeAnticheOrigini3.png/180px-VileplumeAnticheOrigini3.png",
                 "stadio_evolutivo": "Fase 1",
@@ -1131,7 +1131,7 @@
             },
             {
                 "numero": "4/98",
-                "numeroSeriale": "182",
+                "progressivo": "182",
                 "nome": "Bellossom",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/0/0c/BellossomAntiche_Origini4.png/180px-BellossomAntiche_Origini4.png",
                 "stadio_evolutivo": "Fase 1",
@@ -1142,7 +1142,7 @@
             },
             {
                 "numero": "5/98",
-                "numeroSeriale": "167",
+                "progressivo": "167",
                 "nome": "Spinarak",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/4/4f/SpinarakAnticherigini5.png/180px-SpinarakAnticherigini5.png",
                 "stadio_evolutivo": "Base",
@@ -1154,7 +1154,7 @@
             },
             {
                 "numero": "6/98",
-                "numeroSeriale": "166",
+                "progressivo": "166",
                 "nome": "Ariados",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/1/11/AriadosAnticheOrigini6.png/180px-AriadosAnticheOrigini6.png",
                 "stadio_evolutivo": "Base",
@@ -1166,7 +1166,7 @@
             },
             {
                 "numero": "7/98",
-                "numeroSeriale": "254",
+                "progressivo": "254",
                 "nome": "Sceptile ex",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/2/25/SceptileEXAncientOrigins7.jpg/180px-SceptileEXAncientOrigins7.jpg",
                 "stadio_evolutivo": "Base",
@@ -1177,7 +1177,7 @@
             },
             {
                 "numero": "8/98",
-                "numeroSeriale": "254",
+                "progressivo": "254",
                 "nome": "M-sceptile ex",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/7/7a/MSceptileEXAncientOrigins8.jpg/180px-MSceptileEXAncientOrigins8.jpg",
                 "stadio_evolutivo": "Fase 3",
@@ -1188,7 +1188,7 @@
             },
             {
                 "numero": "9/98",
-                "numeroSeriale": "415",
+                "progressivo": "415",
                 "nome": "Combee",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/d/d1/CombeeAnticheOrigini9.png/180px-CombeeAnticheOrigini9.png",
                 "stadio_evolutivo": "Base",
@@ -1199,7 +1199,7 @@
             },
             {
                 "numero": "10/98",
-                "numeroSeriale": "416",
+                "progressivo": "416",
                 "nome": "Vespiquen",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/f/fb/VespiquenAnticheOrigini10.png/180px-VespiquenAnticheOrigini10.png",
                 "stadio_evolutivo": "Base",
@@ -1210,7 +1210,7 @@
             },
             {
                 "numero": "11/98",
-                "numeroSeriale": "416",
+                "progressivo": "416",
                 "nome": "Vespiquen",
                 "url": "https://media.pokemoncentral.it/wiki/3/32/Artwork0416_DP.png",
                 "stadio_evolutivo": "Base",
@@ -1221,7 +1221,7 @@
             },
             {
                 "numero": "12/98",
-                "numeroSeriale": "640",
+                "progressivo": "640",
                 "nome": "Virizion",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/1/18/Artwork0640_NB.png/1024px-Artwork0640_NB.png",
                 "stadio_evolutivo": "Base",
@@ -1231,7 +1231,7 @@
             },
             {
                 "numero": "13/98",
-                "numeroSeriale": "136",
+                "progressivo": "136",
                 "nome": "Flareon",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/4/4b/Artwork0136_RFVF.png/1024px-Artwork0136_RFVF.png",
                 "stadio_evolutivo": "Base",
@@ -1242,7 +1242,7 @@
             },
             {
                 "numero": "14/98",
-                "numeroSeriale": "244",
+                "progressivo": "244",
                 "nome": "Entei",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/8/81/Artwork0244_HGSS.png/1024px-Artwork0244_HGSS.png",
                 "stadio_evolutivo": "Base",
@@ -1254,7 +1254,7 @@
             },
             {
                 "numero": "15/98",
-                "numeroSeriale": "244",
+                "progressivo": "244",
                 "nome": "Entei",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/8/81/Artwork0244_HGSS.png/1024px-Artwork0244_HGSS.png",
                 "stadio_evolutivo": "Base",
@@ -1266,7 +1266,7 @@
             },
             {
                 "numero": "16/98",
-                "numeroSeriale": "636",
+                "progressivo": "636",
                 "nome": "Larvesta",
                 "url": "https://media.pokemoncentral.it/wiki/2/2d/Artwork0636_NB.png",
                 "stadio_evolutivo": "Base",
@@ -1277,7 +1277,7 @@
             },
             {
                 "numero": "17/98",
-                "numeroSeriale": "637",
+                "progressivo": "637",
                 "nome": "Volcarona",
                 "url": "https://media.pokemoncentral.it/wiki/b/bc/Artwork0637_NB.png",
                 "stadio_evolutivo": "Base",
@@ -1288,7 +1288,7 @@
             },
             {
                 "numero": "18/98",
-                "numeroSeriale": "637",
+                "progressivo": "637",
                 "nome": "Volcarona",
                 "url": "https://media.pokemoncentral.it/wiki/b/bc/Artwork0637_NB.png",
                 "stadio_evolutivo": "Base",
@@ -1299,7 +1299,7 @@
             },
             {
                 "numero": "19/98",
-                "numeroSeriale": "129",
+                "progressivo": "129",
                 "nome": "Magikarp",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/c/c8/Artwork0129_RFVF.png/1024px-Artwork0129_RFVF.png",
                 "stadio_evolutivo": "Base",
@@ -1310,7 +1310,7 @@
             },
             {
                 "numero": "20/98",
-                "numeroSeriale": "130",
+                "progressivo": "130",
                 "nome": "Gyarados",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/f/f9/Artwork0130_RFVF.png/1024px-Artwork0130_RFVF.png",
                 "stadio_evolutivo": "Base",
@@ -1321,7 +1321,7 @@
             },
             {
                 "numero": "21/98",
-                "numeroSeriale": "130",
+                "progressivo": "130",
                 "nome": "Gyarados",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/f/f9/Artwork0130_RFVF.png/1024px-Artwork0130_RFVF.png",
                 "stadio_evolutivo": "Base",
@@ -1332,7 +1332,7 @@
             },
             {
                 "numero": "22/98",
-                "numeroSeriale": "134",
+                "progressivo": "134",
                 "nome": "Vaporeon",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/8/85/Artwork0134_RFVF.png/1024px-Artwork0134_RFVF.png",
                 "stadio_evolutivo": "Base",
@@ -1343,7 +1343,7 @@
             },
             {
                 "numero": "23/98",
-                "numeroSeriale": "369",
+                "progressivo": "369",
                 "nome": "Relicanth",
                 "url": "https://media.pokemoncentral.it/wiki/b/b5/Artwork0369_RZ.png",
                 "stadio_evolutivo": "Base",
@@ -1355,7 +1355,7 @@
             },
             {
                 "numero": "24/98",
-                "numeroSeriale": "378",
+                "progressivo": "378",
                 "nome": "Regice",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/e/ee/Artwork0378_RZ.png/1024px-Artwork0378_RZ.png",
                 "stadio_evolutivo": "Base",
@@ -1366,7 +1366,7 @@
             },
             {
                 "numero": "25/98",
-                "numeroSeriale": "646",
+                "progressivo": "646",
                 "nome": "Kyurem ex",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/8/8e/Artwork0646_NB.png/1024px-Artwork0646_NB.png",
                 "stadio_evolutivo": "Base",
@@ -1378,7 +1378,7 @@
             },
             {
                 "numero": "26/98",
-                "numeroSeriale": "135",
+                "progressivo": "135",
                 "nome": "Jolteon",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/5/55/Artwork0135_RFVF.png/1024px-Artwork0135_RFVF.png",
                 "stadio_evolutivo": "Base",
@@ -1389,7 +1389,7 @@
             },
             {
                 "numero": "27/98",
-                "numeroSeriale": "181",
+                "progressivo": "181",
                 "nome": "Ampharos ex",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/a/a2/Artwork0181_HGSS.png/1024px-Artwork0181_HGSS.png",
                 "stadio_evolutivo": "Base",
@@ -1400,7 +1400,7 @@
             },
             {
                 "numero": "28/98",
-                "numeroSeriale": "181",
+                "progressivo": "181",
                 "nome": "M-ampharos ex",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/5/55/Artwork0135_RFVF.png/1024px-Artwork0135_RFVF.png",
                 "stadio_evolutivo": "Base",
@@ -1410,7 +1410,7 @@
             },
             {
                 "numero": "29/98",
-                "numeroSeriale": "479",
+                "progressivo": "479",
                 "nome": "Rotom",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/d/d7/Artwork0479_DLPS.png/1024px-Artwork0479_DLPS.png",
                 "stadio_evolutivo": "Base",
@@ -1420,7 +1420,7 @@
             },
             {
                 "numero": "30/98",
-                "numeroSeriale": "201",
+                "progressivo": "201",
                 "nome": "Unown",
                 "url": "https://media.pokemoncentral.it/wiki/4/4d/Artwork0201f_RFVF.png",
                 "stadio_evolutivo": "Base",
@@ -1430,7 +1430,7 @@
             },
             {
                 "numero": "31/98",
-                "numeroSeriale": "343",
+                "progressivo": "343",
                 "nome": "Baltoy",
                 "url": "https://media.pokemoncentral.it/wiki/9/98/Artwork0343_RZ.png",
                 "stadio_evolutivo": "Base",
@@ -1440,7 +1440,7 @@
             },
             {
                 "numero": "32/98",
-                "numeroSeriale": "343",
+                "progressivo": "343",
                 "nome": "Baltoy",
                 "url": "https://media.pokemoncentral.it/wiki/9/98/Artwork0343_RZ.png",
                 "stadio_evolutivo": "Base",
@@ -1450,7 +1450,7 @@
             },
             {
                 "numero": "33/98",
-                "numeroSeriale": "344",
+                "progressivo": "344",
                 "nome": "Claydol",
                 "url": "https://media.pokemoncentral.it/wiki/7/7e/Artwork0344_RZ.png",
                 "stadio_evolutivo": "Fase 1",
@@ -1460,7 +1460,7 @@
             },
             {
                 "numero": "34/98",
-                "numeroSeriale": "622",
+                "progressivo": "622",
                 "nome": "Golett",
                 "url": "https://media.pokemoncentral.it/wiki/2/20/Artwork0622_NB.png",
                 "stadio_evolutivo": "Base",
@@ -1472,7 +1472,7 @@
             },
             {
                 "numero": "35/98",
-                "numeroSeriale": "623",
+                "progressivo": "623",
                 "nome": "Golurk",
                 "url": "https://media.pokemoncentral.it/wiki/3/3b/Artwork0623_NB.png",
                 "stadio_evolutivo": "Fase 1",
@@ -1484,7 +1484,7 @@
             },
             {
                 "numero": "36/98",
-                "numeroSeriale": "720",
+                "progressivo": "720",
                 "nome": "Hoopa ex",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/8/86/Artwork0720_ROZA.png/1024px-Artwork0720_ROZA.png",
                 "stadio_evolutivo": "Base",
@@ -1494,7 +1494,7 @@
             },
             {
                 "numero": "37/98",
-                "numeroSeriale": "68",
+                "progressivo": "68",
                 "nome": "Machamp ex",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/a/ac/Artwork0068_RFVF.png/1024px-Artwork0068_RFVF.png",
                 "stadio_evolutivo": "Base",
@@ -1506,7 +1506,7 @@
             },
             {
                 "numero": "38/98",
-                "numeroSeriale": "194",
+                "progressivo": "194",
                 "nome": "Wooper",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/e/e3/Artwork0194_HGSS.png/1024px-Artwork0194_HGSS.png",
                 "stadio_evolutivo": "Base",
@@ -1518,7 +1518,7 @@
             },
             {
                 "numero": "39/98",
-                "numeroSeriale": "195",
+                "progressivo": "195",
                 "nome": "Quagsire",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/6/61/Artwork0195_HGSS.png/1024px-Artwork0195_HGSS.png",
                 "stadio_evolutivo": "Fase 1",
@@ -1530,7 +1530,7 @@
             },
             {
                 "numero": "40/98",
-                "numeroSeriale": "377",
+                "progressivo": "377",
                 "nome": "Regirock",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/5/59/Artwork0377_RZ.png/1024px-Artwork0377_RZ.png",
                 "stadio_evolutivo": "Base",
@@ -1541,7 +1541,7 @@
             },
             {
                 "numero": "41/98",
-                "numeroSeriale": "623",
+                "progressivo": "623",
                 "nome": "Golurk",
                 "url": "https://media.pokemoncentral.it/wiki/3/3b/Artwork0623_NB.png",
                 "stadio_evolutivo": "Fase 1",
@@ -1553,7 +1553,7 @@
             },
             {
                 "numero": "42/98",
-                "numeroSeriale": "248",
+                "progressivo": "248",
                 "nome": "Tyranitar ex",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/a/a1/Artwork0248_HGSS.png/1024px-Artwork0248_HGSS.png",
                 "stadio_evolutivo": "Base",
@@ -1564,7 +1564,7 @@
             },
             {
                 "numero": "43/98",
-                "numeroSeriale": "248",
+                "progressivo": "248",
                 "nome": "M-tyranitar ex",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/a/a1/Artwork0248_HGSS.png/1024px-Artwork0248_HGSS.png",
                 "stadio_evolutivo": "Base",
@@ -1575,7 +1575,7 @@
             },
             {
                 "numero": "44/98",
-                "numeroSeriale": "302",
+                "progressivo": "302",
                 "nome": "Sableye",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/0/02/Artwork0302_RZ.png/1024px-Artwork0302_RZ.png",
                 "stadio_evolutivo": "Base",
@@ -1587,7 +1587,7 @@
             },
             {
                 "numero": "45/98",
-                "numeroSeriale": "686",
+                "progressivo": "686",
                 "nome": "Inkay",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/1/14/Artwork0686_XY.png/1024px-Artwork0686_XY.png",
                 "stadio_evolutivo": "Base",
@@ -1599,7 +1599,7 @@
             },
             {
                 "numero": "46/98",
-                "numeroSeriale": "687",
+                "progressivo": "687",
                 "nome": "Malamar",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/0/0d/Artwork0687_XY.png/300px-Artwork0687_XY.png",
                 "stadio_evolutivo": "Fase 1",
@@ -1611,7 +1611,7 @@
             },
             {
                 "numero": "47/98",
-                "numeroSeriale": "374",
+                "progressivo": "374",
                 "nome": "Beldum",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/f/fb/Artwork0374_RZ.png/1024px-Artwork0374_RZ.png",
                 "stadio_evolutivo": "Base",
@@ -1622,7 +1622,7 @@
             },
             {
                 "numero": "48/98",
-                "numeroSeriale": "375",
+                "progressivo": "375",
                 "nome": "Metang (antiche origini 48)",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/8/8b/Artwork0375_RZ.png/1024px-Artwork0375_RZ.png",
                 "stadio_evolutivo": "Fase 1",
@@ -1633,7 +1633,7 @@
             },
             {
                 "numero": "49/98",
-                "numeroSeriale": "376",
+                "progressivo": "376",
                 "nome": "Metagross",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/6/67/Artwork0376_RZ.png/1024px-Artwork0376_RZ.png",
                 "stadio_evolutivo": "Fase 2",
@@ -1644,7 +1644,7 @@
             },
             {
                 "numero": "50/98",
-                "numeroSeriale": "376",
+                "progressivo": "376",
                 "nome": "Metagross",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/6/67/Artwork0376_RZ.png/1024px-Artwork0376_RZ.png",
                 "stadio_evolutivo": "Fase 2",
@@ -1655,7 +1655,7 @@
             },
             {
                 "numero": "51/98",
-                "numeroSeriale": "379",
+                "progressivo": "379",
                 "nome": "Registeel",
                 "url": "https://media.pokemoncentral.it/wiki/3/39/Artwork0379_RZ.png",
                 "stadio_evolutivo": "Base",
@@ -1666,7 +1666,7 @@
             },
             {
                 "numero": "52/98",
-                "numeroSeriale": "280",
+                "progressivo": "280",
                 "nome": "Ralts",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/e/ee/Artwork0280_RZ.png/1024px-Artwork0280_RZ.png",
                 "stadio_evolutivo": "Base",
@@ -1678,7 +1678,7 @@
             },
             {
                 "numero": "53/98",
-                "numeroSeriale": "281",
+                "progressivo": "281",
                 "nome": "Kirlia",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/3/36/Artwork0281_RZ.png/1024px-Artwork0281_RZ.png",
                 "stadio_evolutivo": "Fase 1",
@@ -1690,7 +1690,7 @@
             },
             {
                 "numero": "54/98",
-                "numeroSeriale": "282",
+                "progressivo": "282",
                 "nome": "Gardevoir",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/1/1c/Artwork0282_RZ.png/1024px-Artwork0282_RZ.png",
                 "stadio_evolutivo": "Fase 2",
@@ -1702,7 +1702,7 @@
             },
             {
                 "numero": "55/98",
-                "numeroSeriale": "546",
+                "progressivo": "546",
                 "nome": "Cottonee",
                 "url": "https://media.pokemoncentral.it/wiki/0/08/Artwork0546_NB.png",
                 "stadio_evolutivo": "Base",
@@ -1714,7 +1714,7 @@
             },
             {
                 "numero": "56/98",
-                "numeroSeriale": "547",
+                "progressivo": "547",
                 "nome": "Whimsicott",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/f/f3/Artwork0547_NB.png/300px-Artwork0547_NB.png",
                 "stadio_evolutivo": "Fase 1",
@@ -1726,7 +1726,7 @@
             },
             {
                 "numero": "57/98",
-                "numeroSeriale": "487",
+                "progressivo": "487",
                 "nome": "Giratina ex",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/9/9b/Artwork0487_DP.png/1024px-Artwork0487_DP.png",
                 "stadio_evolutivo": "Base",
@@ -1737,7 +1737,7 @@
             },
             {
                 "numero": "58/98",
-                "numeroSeriale": "704",
+                "progressivo": "704",
                 "nome": "Goomy",
                 "url": "https://media.pokemoncentral.it/wiki/6/6b/Artwork0704_XY.png",
                 "stadio_evolutivo": "Base",
@@ -1749,7 +1749,7 @@
             },
             {
                 "numero": "59/98",
-                "numeroSeriale": "705",
+                "progressivo": "705",
                 "nome": "Sliggoo",
                 "url": "https://media.pokemoncentral.it/wiki/9/98/Artwork0705_XY.png",
                 "stadio_evolutivo": "Fase 1",
@@ -1761,7 +1761,7 @@
             },
             {
                 "numero": "60/98",
-                "numeroSeriale": "706",
+                "progressivo": "706",
                 "nome": "Goodra",
                 "url": "https://media.pokemoncentral.it/wiki/7/71/Artwork0706_XY.png",
                 "stadio_evolutivo": "Fase 2",
@@ -1773,7 +1773,7 @@
             },
             {
                 "numero": "61/98",
-                "numeroSeriale": "52",
+                "progressivo": "52",
                 "nome": "Meowth ",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/9/95/Artwork0052_RFVF.png/1024px-Artwork0052_RFVF.png",
                 "stadio_evolutivo": "Base",
@@ -1785,7 +1785,7 @@
             },
             {
                 "numero": "62/98",
-                "numeroSeriale": "53",
+                "progressivo": "53",
                 "nome": "Persian",
                 "url": "https://media.pokemoncentral.it/wiki/c/c6/Artwork0053_RFVF.png",
                 "stadio_evolutivo": "Fase 1",
@@ -1797,7 +1797,7 @@
             },
             {
                 "numero": "63/98",
-                "numeroSeriale": "133",
+                "progressivo": "133",
                 "nome": "Eevee",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/b/b0/Artwork0133_RFVF.png/1024px-Artwork0133_RFVF.png",
                 "stadio_evolutivo": "Base",
@@ -1809,7 +1809,7 @@
             },
             {
                 "numero": "64/98",
-                "numeroSeriale": "137",
+                "progressivo": "137",
                 "nome": "Porygon",
                 "url": "https://media.pokemoncentral.it/wiki/9/95/Artwork0137_RFVF.png",
                 "stadio_evolutivo": "Base",
@@ -1821,7 +1821,7 @@
             },
             {
                 "numero": "65/98",
-                "numeroSeriale": "233",
+                "progressivo": "233",
                 "nome": "Porygon2",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/1/13/Artwork0233_HGSS.png/1024px-Artwork0233_HGSS.png",
                 "stadio_evolutivo": "Fase 1",
@@ -1833,7 +1833,7 @@
             },
             {
                 "numero": "66/98",
-                "numeroSeriale": "474",
+                "progressivo": "474",
                 "nome": "Porygon-Z",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/2/26/Artwork0474_DP.png/1024px-Artwork0474_DP.png",
                 "stadio_evolutivo": "Fase 2",
@@ -1845,7 +1845,7 @@
             },
             {
                 "numero": "67/98",
-                "numeroSeriale": "474",
+                "progressivo": "474",
                 "nome": "Porygon-Z",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/2/26/Artwork0474_DP.png/1024px-Artwork0474_DP.png",
                 "stadio_evolutivo": "Fase 2",
@@ -1857,7 +1857,7 @@
             },
             {
                 "numero": "68/98",
-                "numeroSeriale": "249",
+                "progressivo": "249",
                 "nome": "Lugia ex",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/a/a6/Artwork0249_HGSS.png/1024px-Artwork0249_HGSS.png",
                 "stadio_evolutivo": "Base",
@@ -1868,7 +1868,7 @@
             },
             {
                 "numero": "69/98",
-                "numeroSeriale": "000",
+                "progressivo": "000",
                 "nome": "Fantallenatori",
                 "url": "https://media.pokemoncentral.it/wiki/0/0d/AceTrainerAncientOrigins69.jpg",
                 "stadio_evolutivo": "Nessuno",
@@ -1878,7 +1878,7 @@
             },
             {
                 "numero": "70/98",
-                "numeroSeriale": "000",
+                "progressivo": "000",
                 "nome": "Legame Mentale con Ampharos",
                 "url": "https://media.pokemoncentral.it/wiki/1/1f/LegameMentaleconAmpharosAnticheOrigini70.jpg",
                 "stadio_evolutivo": "Allenatore",
@@ -1888,7 +1888,7 @@
             },
             {
                 "numero": "71/98",
-                "numeroSeriale": "Braccio Ecologico",
+                "progressivo": "Braccio Ecologico",
                 "nome": "000",
                 "url": "https://media.pokemoncentral.it/wiki/4/4e/BraccioEcologicoAnticheOrigini71.jpg",
                 "stadio_evolutivo": "Allenatore",
@@ -1898,7 +1898,7 @@
             },
             {
                 "numero": "72/98",
-                "numeroSeriale": "000",
+                "progressivo": "000",
                 "nome": "Riciclaggio di Energia",
                 "url": "https://media.pokemoncentral.it/wiki/7/7d/RiciclaggiodiEnergiaAnticheOrigini72.jpg",
                 "stadio_evolutivo": "Allenatore",
@@ -1908,7 +1908,7 @@
             },
             {
                 "numero": "73/98",
-                "numeroSeriale": "000",
+                "progressivo": "000",
                 "nome": "Citt\u00e0 Deserta",
                 "url": "https://media.pokemoncentral.it/wiki/9/9b/Citt%C3%A0DesertaAnticheOrigini73.jpg",
                 "stadio_evolutivo": "Allenatore",
@@ -1918,7 +1918,7 @@
             },
             {
                 "numero": "74/98",
-                "numeroSeriale": "000",
+                "progressivo": "000",
                 "nome": "Foresta delle Piante Giganti",
                 "url": "https://media.pokemoncentral.it/wiki/9/9c/GiantPlantForestAncientOrigins74.png",
                 "stadio_evolutivo": "Allenatore",
@@ -1928,7 +1928,7 @@
             },
             {
                 "numero": "75/98",
-                "numeroSeriale": "000",
+                "progressivo": "000",
                 "nome": "Streghetta ",
                 "url": "https://media.pokemoncentral.it/wiki/0/01/HexManiacAncientOrigins75.png",
                 "stadio_evolutivo": "Allenatore",
@@ -1938,7 +1938,7 @@
             },
             {
                 "numero": "76/98",
-                "numeroSeriale": "000",
+                "progressivo": "000",
                 "nome": "Level Ball",
                 "url": "https://media.pokemoncentral.it/wiki/2/23/LevelBallDestiniFuturi89.jpg",
                 "stadio_evolutivo": "Allenatore",
@@ -1948,7 +1948,7 @@
             },
             {
                 "numero": "77/98",
-                "numeroSeriale": "000",
+                "progressivo": "000",
                 "nome": "Fortunelmo",
                 "url": "https://media.pokemoncentral.it/wiki/d/de/LuckyHelmetAncientOrigins77.png",
                 "stadio_evolutivo": "Allenatore",
@@ -1958,7 +1958,7 @@
             },
             {
                 "numero": "78/98",
-                "numeroSeriale": "000",
+                "progressivo": "000",
                 "nome": "Elisio",
                 "url": "https://media.pokemoncentral.it/wiki/9/93/LysandreFlashfire90.png",
                 "stadio_evolutivo": "Allenatore",
@@ -1968,7 +1968,7 @@
             },
             {
                 "numero": "79/98",
-                "numeroSeriale": "000",
+                "progressivo": "000",
                 "nome": "Imbiancarullo",
                 "url": "https://media.pokemoncentral.it/wiki/a/a6/ImbiancarulloAnticheOrigini79.jpg",
                 "stadio_evolutivo": "Allenatore",
@@ -1978,7 +1978,7 @@
             },
             {
                 "numero": "80/98",
-                "numeroSeriale": "000",
+                "progressivo": "000",
                 "nome": "Legame Mentale con Sceptile",
                 "url": "https://media.pokemoncentral.it/wiki/8/8b/LegameMentaleconSceptileAnticheOrigini80.jpg",
                 "stadio_evolutivo": "Allenatore",
@@ -1988,7 +1988,7 @@
             },
             {
                 "numero": "81/98",
-                "numeroSeriale": "000",
+                "progressivo": "000",
                 "nome": "Legame Mentale con Tyranitar",
                 "url": "https://media.pokemoncentral.it/wiki/5/5c/LegameMentaleconTyranitarAnticheOrigini81.jpg",
                 "stadio_evolutivo": "Allenatore",
@@ -1998,7 +1998,7 @@
             },
             {
                 "numero": "82/98",
-                "numeroSeriale": "000",
+                "progressivo": "000",
                 "nome": "Energia Pericolo",
                 "url": "https://media.pokemoncentral.it/wiki/2/29/DangerousEnergyAncientOrigins.jpg",
                 "stadio_evolutivo": "Energia",
@@ -2008,7 +2008,7 @@
             },
             {
                 "numero": "83/98",
-                "numeroSeriale": "000",
+                "progressivo": "000",
                 "nome": "Energia Flash",
                 "url": "https://media.pokemoncentral.it/wiki/5/5e/FlashEnergyAncientOrigins83.png",
                 "stadio_evolutivo": "Energia",
@@ -2018,7 +2018,7 @@
             },
             {
                 "numero": "84/98",
-                "numeroSeriale": "254",
+                "progressivo": "254",
                 "nome": "Sceptile ex",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/9/9c/Artwork0254_RZ.png/1024px-Artwork0254_RZ.png",
                 "stadio_evolutivo": "Base",
@@ -2029,7 +2029,7 @@
             },
             {
                 "numero": "85/98",
-                "numeroSeriale": "254",
+                "progressivo": "254",
                 "nome": "M-sceptile ex",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/2/23/Artwork0254m_ROZA.png/1024px-Artwork0254m_ROZA.png",
                 "stadio_evolutivo": "Fase 1",
@@ -2040,7 +2040,7 @@
             },
             {
                 "numero": "86/98",
-                "numeroSeriale": "646",
+                "progressivo": "646",
                 "nome": "Kyurem ex",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/8/8e/Artwork0646_NB.png/1024px-Artwork0646_NB.png",
                 "stadio_evolutivo": "Base",
@@ -2052,7 +2052,7 @@
             },
             {
                 "numero": "87/98",
-                "numeroSeriale": "181",
+                "progressivo": "181",
                 "nome": "Ampharos ex",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/a/a2/Artwork0181_HGSS.png/1024px-Artwork0181_HGSS.png",
                 "stadio_evolutivo": "Base",
@@ -2063,7 +2063,7 @@
             },
             {
                 "numero": "88/98",
-                "numeroSeriale": "181",
+                "progressivo": "181",
                 "nome": "M-ampharos ex",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/5/55/Artwork0135_RFVF.png/1024px-Artwork0135_RFVF.png",
                 "stadio_evolutivo": "Base",
@@ -2073,7 +2073,7 @@
             },
             {
                 "numero": "89/98",
-                "numeroSeriale": "720",
+                "progressivo": "720",
                 "nome": "Hoopa ex",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/8/86/Artwork0720_ROZA.png/1024px-Artwork0720_ROZA.png",
                 "stadio_evolutivo": "Base",
@@ -2083,7 +2083,7 @@
             },
             {
                 "numero": "90/98",
-                "numeroSeriale": "68",
+                "progressivo": "68",
                 "nome": "Machamp ex",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/a/ac/Artwork0068_RFVF.png/1024px-Artwork0068_RFVF.png",
                 "stadio_evolutivo": "Base",
@@ -2095,7 +2095,7 @@
             },
             {
                 "numero": "91/98",
-                "numeroSeriale": "248",
+                "progressivo": "248",
                 "nome": "Tyranitar ex",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/a/a1/Artwork0248_HGSS.png/1024px-Artwork0248_HGSS.png",
                 "stadio_evolutivo": "Base",
@@ -2106,7 +2106,7 @@
             },
             {
                 "numero": "92/98",
-                "numeroSeriale": "248",
+                "progressivo": "248",
                 "nome": "M-tyranitar ex",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/a/a1/Artwork0248_HGSS.png/1024px-Artwork0248_HGSS.png",
                 "stadio_evolutivo": "Base",
@@ -2117,7 +2117,7 @@
             },
             {
                 "numero": "93/98",
-                "numeroSeriale": "487",
+                "progressivo": "487",
                 "nome": "Giratina ex",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/9/9b/Artwork0487_DP.png/1024px-Artwork0487_DP.png",
                 "stadio_evolutivo": "Base",
@@ -2128,7 +2128,7 @@
             },
             {
                 "numero": "94/98",
-                "numeroSeriale": "249",
+                "progressivo": "249",
                 "nome": "Lugia ex",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/a/a6/Artwork0249_HGSS.png/1024px-Artwork0249_HGSS.png",
                 "stadio_evolutivo": "Base",
@@ -2139,7 +2139,7 @@
             },
             {
                 "numero": "95/98",
-                "numeroSeriale": "000",
+                "progressivo": "000",
                 "nome": "Rocco",
                 "url": "https://media.pokemoncentral.it/wiki/0/0f/StevenRoaringSkies90.jpg",
                 "stadio_evolutivo": "Allenatore",
@@ -2149,7 +2149,7 @@
             },
             {
                 "numero": "96/98",
-                "numeroSeriale": "382",
+                "progressivo": "382",
                 "nome": "Archeo Kyogre ex",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/2/2c/Artwork0382_RZ.png/1024px-Artwork0382_RZ.png",
                 "stadio_evolutivo": "Fase 3",
@@ -2159,7 +2159,7 @@
             },
             {
                 "numero": "97/98",
-                "numeroSeriale": "383",
+                "progressivo": "383",
                 "nome": "Archeo Groudon ex",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/c/c9/Artwork0383_RZ.png/300px-Artwork0383_RZ.png",
                 "stadio_evolutivo": "Fase 3",
@@ -2169,7 +2169,7 @@
             },
             {
                 "numero": "98/98",
-                "numeroSeriale": "384",
+                "progressivo": "384",
                 "nome": "M-Rayquaza ex",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/1/16/Artwork0384_ROZA.png/1024px-Artwork0384_ROZA.png",
                 "stadio_evolutivo": "Fase 3",
