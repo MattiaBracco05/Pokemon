@@ -1092,60 +1092,60 @@
         ]
     },
     {
-        "numeroSet": "57",
+        "progressivoSet": "57",
         "nomeSet": "Antiche origini",
         "annoUscita": "2015",
         "figurine": [
             {
-                "numero": "1/98",
-                "progressivo": "43",
+                "numero": "43",
+                "progressivo": "1/98",
                 "nome": "Oddish",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/9/93/OddishAncientOrigins1.jpg/180px-OddishAncientOrigins1.jpg",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/9/93/OddishAncientOrigins1.jpg/180px-OddishAncientOrigins1.jpg",
                 "abilita": [
                     "Clorofilla",
                     "Fugafacile"
                 ]
             },
             {
-                "numero": "2/98",
-                "progressivo": "44",
+                "numero": "44",
+                "progressivo": "2/98",
                 "nome": "Gloom",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/d/da/GloomAnticheOrigini2.png/180px-GloomAnticheOrigini2.png",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/da/GloomAnticheOrigini2.png/180px-GloomAnticheOrigini2.png",
                 "abilita": [
                     "Clorofilla",
                     "Tanfo"
                 ]
             },
             {
-                "numero": "3/98",
-                "progressivo": "44",
+                "numero": "44",
+                "progressivo": "3/98",
                 "nome": "Vileplume",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/7/77/VileplumeAnticheOrigini3.png/180px-VileplumeAnticheOrigini3.png",
                 "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/77/VileplumeAnticheOrigini3.png/180px-VileplumeAnticheOrigini3.png",
                 "abilita": [
                     "Clorofilla",
                     "Spargispora"
                 ]
             },
             {
-                "numero": "4/98",
-                "progressivo": "182",
+                "numero": "182",
+                "progressivo": "4/98",
                 "nome": "Bellossom",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/0/0c/BellossomAntiche_Origini4.png/180px-BellossomAntiche_Origini4.png",
                 "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/0c/BellossomAntiche_Origini4.png/180px-BellossomAntiche_Origini4.png",
                 "abilita": [
                     "Clorofilla",
                     "Curacuore"
                 ]
             },
             {
-                "numero": "5/98",
-                "progressivo": "167",
+                "numero": "167",
+                "progressivo": "5/98",
                 "nome": "Spinarak",
+                "stadio_evolutivo": "Base",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/4/4f/SpinarakAnticherigini5.png/180px-SpinarakAnticherigini5.png",
-                "stadio_evolutivo": "Base",
                 "abilita": [
                     "Aiutinsetto",
                     "Insonnia",
@@ -1153,11 +1153,11 @@
                 ]
             },
             {
-                "numero": "6/98",
-                "progressivo": "166",
+                "numero": "166",
+                "progressivo": "6/98",
                 "nome": "Ariados",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/1/11/AriadosAnticheOrigini6.png/180px-AriadosAnticheOrigini6.png",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/11/AriadosAnticheOrigini6.png/180px-AriadosAnticheOrigini6.png",
                 "abilita": [
                     "Aiutinsetto",
                     "Insonnia",
@@ -1165,19 +1165,19 @@
                 ]
             },
             {
-                "numero": "7/98",
-                "progressivo": "254",
+                "numero": "254",
+                "progressivo": "7/98",
                 "nome": "Sceptile ex",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/2/25/SceptileEXAncientOrigins7.jpg/180px-SceptileEXAncientOrigins7.jpg",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/25/SceptileEXAncientOrigins7.jpg/180px-SceptileEXAncientOrigins7.jpg",
                 "abilita": [
                     "Erbaiuto",
                     "Agiltecnica"
                 ]
             },
             {
-                "numero": "8/98",
-                "progressivo": "254",
+                "numero": "254",
+                "progressivo": "8/98",
                 "nome": "M-sceptile ex",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/7/7a/MSceptileEXAncientOrigins8.jpg/180px-MSceptileEXAncientOrigins8.jpg",
                 "stadio_evolutivo": "Fase 3",
@@ -1187,62 +1187,62 @@
                 ]
             },
             {
-                "numero": "9/98",
-                "progressivo": "415",
+                "numero": "415",
+                "progressivo": "9/98",
                 "nome": "Combee",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/d/d1/CombeeAnticheOrigini9.png/180px-CombeeAnticheOrigini9.png",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/d1/CombeeAnticheOrigini9.png/180px-CombeeAnticheOrigini9.png",
                 "abilita": [
                     "Mielincetta",
                     "Tuttafretta"
                 ]
             },
             {
-                "numero": "10/98",
-                "progressivo": "416",
+                "numero": "416",
+                "progressivo": "10/98",
                 "nome": "Vespiquen",
+                "stadio_evolutivo": "Base",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/f/fb/VespiquenAnticheOrigini10.png/180px-VespiquenAnticheOrigini10.png",
-                "stadio_evolutivo": "Base",
                 "abilita": [
                     "Pressione",
                     "Agitazione"
                 ]
             },
             {
-                "numero": "11/98",
-                "progressivo": "416",
+                "numero": "416",
+                "progressivo": "11/98",
                 "nome": "Vespiquen",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/ac/VespiquenAnticheOrigini11.png/180px-VespiquenAnticheOrigini11.png",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/ac/VespiquenAnticheOrigini11.png/180px-VespiquenAnticheOrigini11.png",
                 "abilita": [
                     "Pressione",
                     "Agitazione"
                 ]
             },
             {
-                "numero": "12/98",
-                "progressivo": "640",
+                "numero": "640",
+                "progressivo": "12/98",
                 "nome": "Virizion",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/b/b2/VirizionAnticheOrigini12.png/180px-VirizionAnticheOrigini12.png",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/b2/VirizionAnticheOrigini12.png/180px-VirizionAnticheOrigini12.png",
                 "abilita": [
                     "Giustizia"
                 ]
             },
             {
-                "numero": "13/98",
-                "progressivo": "136",
+                "numero": "136",
+                "progressivo": "13/98",
                 "nome": "Flareon",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/e/e6/FlareonAnticheOrigini13.png/180px-FlareonAnticheOrigini13.png",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/e6/FlareonAnticheOrigini13.png/180px-FlareonAnticheOrigini13.png",
                 "abilita": [
                     "Fuocardore",
                     "Dentistretti"
                 ]
             },
             {
-                "numero": "14/98",
-                "progressivo": "244",
+                "numero": "244",
+                "progressivo": "14/98",
                 "nome": "Entei",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/1/18/EnteiAnticheOrigini14.png/180px-EnteiAnticheOrigini14.png",
                 "stadio_evolutivo": "Base",
@@ -1253,11 +1253,11 @@
                 ]
             },
             {
-                "numero": "15/98",
-                "progressivo": "244",
+                "numero": "244",
+                "progressivo": "15/98",
                 "nome": "Entei",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/81/EnteiAncientOrigins15.png/180px-EnteiAncientOrigins15.png",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/8/81/EnteiAncientOrigins15.png/180px-EnteiAncientOrigins15.png",
                 "abilita": [
                     "Pressione",
                     "Fuocardore",
@@ -1265,88 +1265,88 @@
                 ]
             },
             {
-                "numero": "16/98",
-                "progressivo": "636",
+                "numero": "636",
+                "progressivo": "16/98",
                 "nome": "Larvesta",
+                "stadio_evolutivo": "Base",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/b/bc/LarvestaAnticheOrigini16.png/180px-LarvestaAnticheOrigini16.png",
-                "stadio_evolutivo": "Base",
                 "abilita": [
                     "Corpodifuoco",
                     "Aiutinsetto"
                 ]
             },
             {
-                "numero": "17/98",
-                "progressivo": "637",
+                "numero": "637",
+                "progressivo": "17/98",
                 "nome": "Volcarona",
+                "stadio_evolutivo": "Base",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/9/9e/VolcaronaAnticheOrigini17.png/180px-VolcaronaAnticheOrigini17.png",
-                "stadio_evolutivo": "Base",
                 "abilita": [
                     "Corpodifuoco",
                     "Aiutinsetto"
                 ]
             },
             {
-                "numero": "18/98",
-                "progressivo": "637",
+                "numero": "637",
+                "progressivo": "18/98",
                 "nome": "Volcarona",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/2/2a/VolcaronaAnticheOrigini18.png/180px-VolcaronaAnticheOrigini18.png",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/2a/VolcaronaAnticheOrigini18.png/180px-VolcaronaAnticheOrigini18.png",
                 "abilita": [
                     "Corpodifuoco",
                     "Aiutinsetto"
                 ]
             },
             {
-                "numero": "19/98",
-                "progressivo": "129",
+                "numero": "129",
+                "progressivo": "19/98",
                 "nome": "Magikarp",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/7/7e/MagikarpAncientOrigins19.png/180px-MagikarpAncientOrigins19.png",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/7e/MagikarpAncientOrigins19.png/180px-MagikarpAncientOrigins19.png",
                 "abilita": [
                     "Nuotovelox",
                     "Paura"
                 ]
             },
             {
-                "numero": "20/98",
-                "progressivo": "130",
+                "numero": "130",
+                "progressivo": "20/98",
                 "nome": "Gyarados",
+                "stadio_evolutivo": "Base",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/c/c5/GyaradosAncientOrigins20.png/180px-GyaradosAncientOrigins20.png",
-                "stadio_evolutivo": "Base",
                 "abilita": [
                     "Prepotenza",
                     "Arroganza"
                 ]
             },
             {
-                "numero": "21/98",
-                "progressivo": "130",
+                "numero": "130",
+                "progressivo": "21/98",
                 "nome": "Gyarados",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f8/GyaradosAncientOrigins21.png/180px-GyaradosAncientOrigins21.png",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f8/GyaradosAncientOrigins21.png/180px-GyaradosAncientOrigins21.png",
                 "abilita": [
                     "Prepotenza",
                     "Arroganza"
                 ]
             },
             {
-                "numero": "22/98",
-                "progressivo": "134",
+                "numero": "134",
+                "progressivo": "22/98",
                 "nome": "Vaporeon",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/3/36/VaporeonAnticheOrigini22.png/180px-VaporeonAnticheOrigini22.png",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/36/VaporeonAnticheOrigini22.png/180px-VaporeonAnticheOrigini22.png",
                 "abilita": [
                     "Assorbacqua",
                     "Idratazione"
                 ]
             },
             {
-                "numero": "23/98",
-                "progressivo": "369",
+                "numero": "369",
+                "progressivo": "23/98",
                 "nome": "Relicanth",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/2/24/RelicanthAnticheOrigini23.png/180px-RelicanthAnticheOrigini23.png",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/24/RelicanthAnticheOrigini23.png/180px-RelicanthAnticheOrigini23.png",
                 "abilita": [
                     "Nuotovelox",
                     "Testadura",
@@ -1354,22 +1354,22 @@
                 ]
             },
             {
-                "numero": "24/98",
-                "progressivo": "378",
+                "numero": "378",
+                "progressivo": "24/98",
                 "nome": "Regice",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/0/07/RegiceAnticheOrigini24.png/180px-RegiceAnticheOrigini24.png",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/07/RegiceAnticheOrigini24.png/180px-RegiceAnticheOrigini24.png",
                 "abilita": [
                     "Corpochiaro",
                     "Corpogelo"
                 ]
             },
             {
-                "numero": "25/98",
-                "progressivo": "646",
+                "numero": "646",
+                "progressivo": "25/98",
                 "nome": "Kyurem ex",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/d/d2/KyuremEXAncientOrigins25.png/180px-KyuremEXAncientOrigins25.png",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/d2/KyuremEXAncientOrigins25.png/180px-KyuremEXAncientOrigins25.png",
                 "abilita": [
                     "Pressione",
                     "Piroturbina",
@@ -1377,93 +1377,92 @@
                 ]
             },
             {
-                "numero": "26/98",
-                "progressivo": "135",
+                "numero": "135",
+                "progressivo": "26/98",
                 "nome": "Jolteon",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/b/b8/JolteonAnticheOrigini26.jpg/180px-JolteonAnticheOrigini26.jpg",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/b8/JolteonAnticheOrigini26.jpg/180px-JolteonAnticheOrigini26.jpg",
                 "abilita": [
                     "Assorbivoltà",
                     "Piedisvelti"
                 ]
             },
             {
-                "numero": "27/98",
-                "progressivo": "181",
+                "numero": "181",
+                "progressivo": "27/98",
                 "nome": "Ampharos ex",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a0/AmpharosEXAncientOrigins27.png/180px-AmpharosEXAncientOrigins27.png",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a0/AmpharosEXAncientOrigins27.png/180px-AmpharosEXAncientOrigins27.png",
                 "abilita": [
-                    "Statico",
-                    "Pi\u00f9"
+                    "Statico"
                 ]
             },
             {
-                "numero": "28/98",
-                "progressivo": "181",
+                "numero": "181",
+                "progressivo": "28/98",
                 "nome": "M-ampharos ex",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/3/37/MAmpharosEXAncientOrigins28.png/180px-MAmpharosEXAncientOrigins28.png",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/37/MAmpharosEXAncientOrigins28.png/180px-MAmpharosEXAncientOrigins28.png",
                 "abilita": [
                     "Rompifiamma"
                 ]
             },
             {
-                "numero": "29/98",
-                "progressivo": "479",
+                "numero": "479",
+                "progressivo": "29/98",
                 "nome": "Rotom",
+                "stadio_evolutivo": "Base",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/8/80/RotomAnticheOrigini29.png/180px-RotomAnticheOrigini29.png",
-                "stadio_evolutivo": "Base",
                 "abilita": [
                     "Levitazione"
                 ]
             },
             {
-                "numero": "30/98",
-                "progressivo": "201",
+                "numero": "201",
+                "progressivo": "30/98",
                 "nome": "Unown",
+                "stadio_evolutivo": "Base",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/b/ba/UnownAnticheOrigini30.jpg/180px-UnownAnticheOrigini30.jpg",
-                "stadio_evolutivo": "Base",
                 "abilita": [
                     "Levitazione"
                 ]
             },
             {
-                "numero": "31/98",
-                "progressivo": "343",
+                "numero": "343",
+                "progressivo": "31/98",
                 "nome": "Baltoy",
+                "stadio_evolutivo": "Base",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/b/b9/BaltoyAnticheOrigini31.jpg/180px-BaltoyAnticheOrigini31.jpg",
-                "stadio_evolutivo": "Base",
                 "abilita": [
                     "Levitazione"
                 ]
             },
             {
-                "numero": "32/98",
-                "progressivo": "343",
+                "numero": "343",
+                "progressivo": "32/98",
                 "nome": "Baltoy",
+                "stadio_evolutivo": "Base",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/a/a6/BaltoyAnticheOrigini32.jpg/180px-BaltoyAnticheOrigini32.jpg",
-                "stadio_evolutivo": "Base",
                 "abilita": [
                     "Levitazione"
                 ]
             },
             {
-                "numero": "33/98",
-                "progressivo": "344",
+                "numero": "344",
+                "progressivo": "33/98",
                 "nome": "Claydol",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/1/14/ClaydolAnticheOrigini33.jpg/180px-ClaydolAnticheOrigini33.jpg",
                 "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/14/ClaydolAnticheOrigini33.jpg/180px-ClaydolAnticheOrigini33.jpg",
                 "abilita": [
                     "Levitazione"
                 ]
             },
             {
-                "numero": "34/98",
-                "progressivo": "622",
+                "numero": "622",
+                "progressivo": "34/98",
                 "nome": "Golett",
+                "stadio_evolutivo": "Base",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/a/a5/GolettAnticheOrigini34.png/180px-GolettAnticheOrigini34.png",
-                "stadio_evolutivo": "Base",
                 "abilita": [
                     "Ferropugno",
                     "Impaccio",
@@ -1471,11 +1470,11 @@
                 ]
             },
             {
-                "numero": "35/98",
-                "progressivo": "623",
+                "numero": "623",
+                "progressivo": "35/98",
                 "nome": "Golurk",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5f/GolurkAncientOrigins35.png/180px-GolurkAncientOrigins35.png",
                 "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5f/GolurkAncientOrigins35.png/180px-GolurkAncientOrigins35.png",
                 "abilita": [
                     "Ferropugno",
                     "Impaccio",
@@ -1483,21 +1482,21 @@
                 ]
             },
             {
-                "numero": "36/98",
-                "progressivo": "720",
+                "numero": "720",
+                "progressivo": "36/98",
                 "nome": "Hoopa ex",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/1/1e/HoopaEXAncientOrigins36.jpg/180px-HoopaEXAncientOrigins36.jpg",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/1e/HoopaEXAncientOrigins36.jpg/180px-HoopaEXAncientOrigins36.jpg",
                 "abilita": [
                     "Prestigiatore"
                 ]
             },
             {
-                "numero": "37/98",
-                "progressivo": "68",
+                "numero": "68",
+                "progressivo": "37/98",
                 "nome": "Machamp ex",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/9/96/MachampEXAncientOrigins37.png/180px-MachampEXAncientOrigins37.png",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/9/96/MachampEXAncientOrigins37.png/180px-MachampEXAncientOrigins37.png",
                 "abilita": [
                     "Dentistretti",
                     "Nullodifesa",
@@ -1505,11 +1504,11 @@
                 ]
             },
             {
-                "numero": "38/98",
-                "progressivo": "194",
+                "progressivo": "38/98",
+                "numero": "194",
                 "nome": "Wooper",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/9/9c/WooperAnticheOrigini38.jpg/180px-WooperAnticheOrigini38.jpg",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/9/9c/WooperAnticheOrigini38.jpg/180px-WooperAnticheOrigini38.jpg",
                 "abilita": [
                     "Umidità",
                     "Assorbacqua",
@@ -1517,11 +1516,11 @@
                 ]
             },
             {
-                "numero": "39/98",
-                "progressivo": "195",
+                "numero": "195",
+                "progressivo": "39/98",
                 "nome": "Quagsire",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/2/21/QuagsireAnticheOrigini39.jpg/180px-QuagsireAnticheOrigini39.jpg",
                 "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/21/QuagsireAnticheOrigini39.jpg/180px-QuagsireAnticheOrigini39.jpg",
                 "abilita": [
                     "Umidit",
                     "Assorbacqua",
@@ -1529,22 +1528,22 @@
                 ]
             },
             {
-                "numero": "40/98",
-                "progressivo": "377",
+                "numero": "377",
+                "progressivo": "40/98",
                 "nome": "Regirock",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a2/RegirockAnticheOrigini40.jpg/180px-RegirockAnticheOrigini40.jpg",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a2/RegirockAnticheOrigini40.jpg/180px-RegirockAnticheOrigini40.jpg",
                 "abilita": [
                     "Corpochiaro",
                     "Vigore"
                 ]
             },
             {
-                "numero": "41/98",
-                "progressivo": "623",
+                "numero": "623",
+                "progressivo": "41/98",
                 "nome": "Golurk",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a3/GolurkAnticheOrigini41.jpg/180px-GolurkAnticheOrigini41.jpg",
                 "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a3/GolurkAnticheOrigini41.jpg/180px-GolurkAnticheOrigini41.jpg",
                 "abilita": [
                     "Ferropugno",
                     "Impaccio",
@@ -1552,33 +1551,33 @@
                 ]
             },
             {
-                "numero": "42/98",
-                "progressivo": "248",
+                "numero": "248",
+                "progressivo": "42/98",
                 "nome": "Tyranitar ex",
+                "stadio_evolutivo": "Base",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/1/11/TyranitarEXAncientOrigins42.jpg/180px-TyranitarEXAncientOrigins42.jpg",
-                "stadio_evolutivo": "Base",
                 "abilita": [
                     "Sabbiafiume",
                     "Agitazione"
                 ]
             },
             {
-                "numero": "43/98",
-                "progressivo": "248",
+                "numero": "248",
+                "progressivo": "43/98",
                 "nome": "M-tyranitar ex",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/45/MTyranitarEXAncientOrigins43.jpg/180px-MTyranitarEXAncientOrigins43.jpg",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/45/MTyranitarEXAncientOrigins43.jpg/180px-MTyranitarEXAncientOrigins43.jpg",
                 "abilita": [
                     "Sabbiafiume",
                     "Agitazione"
                 ]
             },
             {
-                "numero": "44/98",
-                "progressivo": "302",
+                "numero": "302",
+                "progressivo": "44/98",
                 "nome": "Sableye",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/b/b4/SableyeAnticheOrigini44.jpg/180px-SableyeAnticheOrigini44.jpg",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/b4/SableyeAnticheOrigini44.jpg/180px-SableyeAnticheOrigini44.jpg",
                 "abilita": [
                     "Sguardofermo",
                     "Rallentatore",
@@ -1586,11 +1585,11 @@
                 ]
             },
             {
-                "numero": "45/98",
-                "progressivo": "686",
+                "numero": "686",
+                "progressivo": "45/98",
                 "nome": "Inkay",
+                "stadio_evolutivo": "Base",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/5/54/InkayAnticheOrigini45.jpg/180px-InkayAnticheOrigini45.jpg",
-                "stadio_evolutivo": "Base",
                 "abilita": [
                     "Inversione",
                     "Ventose",
@@ -1598,11 +1597,11 @@
                 ]
             },
             {
-                "numero": "46/98",
-                "progressivo": "687",
+                "numero": "687",
+                "progressivo": "46/98",
                 "nome": "Malamar",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/ae/MalamarAnticheOrigini46.jpg/180px-MalamarAnticheOrigini46.jpg",
                 "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/ae/MalamarAnticheOrigini46.jpg/180px-MalamarAnticheOrigini46.jpg",
                 "abilita": [
                     "Inversione",
                     "Ventose",
@@ -1610,66 +1609,66 @@
                 ]
             },
             {
-                "numero": "47/98",
-                "progressivo": "374",
+                "numero": "374",
+                "progressivo": "47/98",
                 "nome": "Beldum",
+                "stadio_evolutivo": "Base",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/3/3c/BeldumAnticheOrigini47.jpg/180px-BeldumAnticheOrigini47.jpg",
-                "stadio_evolutivo": "Base",
                 "abilita": [
                     "Corpochiaro",
                     "Metalleggero"
                 ]
             },
             {
-                "numero": "48/98",
-                "progressivo": "375",
-                "nome": "Metang (antiche origini 48)",
+                "numero": "375",
+                "progressivo": "48/98",
+                "nome": "Metang",
+                "stadio_evolutivo": "Fase 1",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/5/55/MetangAnticheOrigini48.jpg/180px-MetangAnticheOrigini48.jpg",
-                "stadio_evolutivo": "Fase 1",
                 "abilita": [
                     "Corpochiaro",
                     "Metalleggero"
                 ]
             },
             {
-                "numero": "49/98",
-                "progressivo": "376",
+                "numero": "376",
+                "progressivo": "49/98",
                 "nome": "Metagross",
+                "stadio_evolutivo": "Fase 2",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/1/1f/MetagrossAnticheOrigini49.jpg/180px-MetagrossAnticheOrigini49.jpg",
-                "stadio_evolutivo": "Fase 2",
                 "abilita": [
                     "Corpochiaro",
                     "Metalleggero"
                 ]
             },
             {
-                "numero": "50/98",
-                "progressivo": "376",
+                "numero": "376",
+                "progressivo": "50/98",
                 "nome": "Metagross",
+                "stadio_evolutivo": "Fase 2",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/9/98/MetagrossAnticheOrigini50.jpg/180px-MetagrossAnticheOrigini50.jpg",
-                "stadio_evolutivo": "Fase 2",
                 "abilita": [
                     "Corpochiaro",
                     "Metalleggero"
                 ]
             },
             {
-                "numero": "51/98",
-                "progressivo": "379",
+                "numero": "379",
+                "progressivo": "51/98",
                 "nome": "Registeel",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/80/RegisteelAnticheOrigini51.jpg/180px-RegisteelAnticheOrigini51.jpg",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/8/80/RegisteelAnticheOrigini51.jpg/180px-RegisteelAnticheOrigini51.jpg",
                 "abilita": [
                     "Corpochiaro",
                     "Metalleggero"
                 ]
             },
             {
-                "numero": "52/98",
-                "progressivo": "280",
+                "numero": "280",
+                "progressivo": "52/98",
                 "nome": "Ralts",
+                "stadio_evolutivo": "Base",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/b/bf/RaltsAnticheOrigini52.jpg/180px-RaltsAnticheOrigini52.jpg",
-                "stadio_evolutivo": "Base",
                 "abilita": [
                     "Sincronismo",
                     "Traccia",
@@ -1677,11 +1676,11 @@
                 ]
             },
             {
-                "numero": "53/98",
-                "progressivo": "281",
+                "numero": "281",
+                "progressivo": "53/98",
                 "nome": "Kirlia",
+                "stadio_evolutivo": "Fase 1",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/1/13/KirliaAnticheOrigini53.jpg/180px-KirliaAnticheOrigini53.jpg",
-                "stadio_evolutivo": "Fase 1",
                 "abilita": [
                     "Sincronismo",
                     "Traccia",
@@ -1689,11 +1688,11 @@
                 ]
             },
             {
-                "numero": "54/98",
-                "progressivo": "282",
+                "numero": "282",
+                "progressivo": "54/98",
                 "nome": "Gardevoir",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/c/c9/GardevoirAnticheOrigini54.jpg/180px-GardevoirAnticheOrigini54.jpg",
                 "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/c9/GardevoirAnticheOrigini54.jpg/180px-GardevoirAnticheOrigini54.jpg",
                 "abilita": [
                     "Sincronismo",
                     "Traccia",
@@ -1701,11 +1700,11 @@
                 ]
             },
             {
-                "numero": "55/98",
-                "progressivo": "546",
+                "numero": "546",
+                "progressivo": "55/98",
                 "nome": "Cottonee",
+                "stadio_evolutivo": "Base",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/8/8f/CottoneeAnticheOrigini55.jpg/180px-CottoneeAnticheOrigini55.jpg",
-                "stadio_evolutivo": "Base",
                 "abilita": [
                     "Burla",
                     "Intrapasso",
@@ -1713,11 +1712,11 @@
                 ]
             },
             {
-                "numero": "56/98",
-                "progressivo": "547",
+                "numero": "547",
+                "progressivo": "56/98",
                 "nome": "Whimsicott",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/55/WhimsicottAnticheOrigini56.jpg/180px-WhimsicottAnticheOrigini56.jpg",
                 "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/5/55/WhimsicottAnticheOrigini56.jpg/180px-WhimsicottAnticheOrigini56.jpg",
                 "abilita": [
                     "Burla",
                     "Intrapasso",
@@ -1725,22 +1724,22 @@
                 ]
             },
             {
-                "numero": "57/98",
-                "progressivo": "487",
+                "numero": "487",
+                "progressivo": "57/98",
                 "nome": "Giratina ex",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/57/GiratinaEXAnticheOrigini57.jpg/180px-GiratinaEXAnticheOrigini57.jpg",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/5/57/GiratinaEXAnticheOrigini57.jpg/180px-GiratinaEXAnticheOrigini57.jpg",
                 "abilita": [
                     "Pressione",
                     "Telepatia"
                 ]
             },
             {
-                "numero": "58/98",
-                "progressivo": "704",
+                "numero": "704",
+                "progressivo": "58/98",
                 "nome": "Goomy",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/b/b3/GoomyAnticheOrigini58.jpg/180px-GoomyAnticheOrigini58.jpg",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/b3/GoomyAnticheOrigini58.jpg/180px-GoomyAnticheOrigini58.jpg",
                 "abilita": [
                     "Mangiaerba",
                     "Idratazione",
@@ -1748,11 +1747,11 @@
                 ]
             },
             {
-                "numero": "59/98",
-                "progressivo": "705",
+                "numero": "705",
+                "progressivo": "59/98",
                 "nome": "Sliggoo",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/3/33/SliggooAnticheOrigini59.jpg/180px-SliggooAnticheOrigini59.jpg",
                 "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/33/SliggooAnticheOrigini59.jpg/180px-SliggooAnticheOrigini59.jpg",
                 "abilita": [
                     "Mangiaerba",
                     "Idratazione",
@@ -1760,11 +1759,11 @@
                 ]
             },
             {
-                "numero": "60/98",
-                "progressivo": "706",
+                "numero": "706",
+                "progressivo": "60/98",
                 "nome": "Goodra",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f8/GoodraAnticheOrigini60.jpg/180px-GoodraAnticheOrigini60.jpg",
                 "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f8/GoodraAnticheOrigini60.jpg/180px-GoodraAnticheOrigini60.jpg",
                 "abilita": [
                     "Mangiaerba",
                     "Idratazione",
@@ -1772,11 +1771,11 @@
                 ]
             },
             {
-                "numero": "61/98",
-                "progressivo": "52",
+                "numero": "52",
+                "progressivo": "61/98",
                 "nome": "Meowth ",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/81/MeowthAnticheOrigini61.jpg/180px-MeowthAnticheOrigini61.jpg",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/8/81/MeowthAnticheOrigini61.jpg/180px-MeowthAnticheOrigini61.jpg",
                 "abilita": [
                     "Raccolta",
                     "Tecnico",
@@ -1784,11 +1783,11 @@
                 ]
             },
             {
-                "numero": "62/98",
-                "progressivo": "53",
+                "numero": "53",
+                "progressivo": "62/98",
                 "nome": "Persian",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/e/ef/PersianAnticheOrigini62.jpg/180px-PersianAnticheOrigini62.jpg",
                 "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/ef/PersianAnticheOrigini62.jpg/180px-PersianAnticheOrigini62.jpg",
                 "abilita": [
                     "Scioltezza",
                     "Tecnico",
@@ -1796,11 +1795,11 @@
                 ]
             },
             {
-                "numero": "63/98",
-                "progressivo": "133",
+                "numero": "133",
+                "progressivo": "63/98",
                 "nome": "Eevee",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/3/39/EeveeAnticheOrigini63.jpg/180px-EeveeAnticheOrigini63.jpg",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/39/EeveeAnticheOrigini63.jpg/180px-EeveeAnticheOrigini63.jpg",
                 "abilita": [
                     "Fugafacile",
                     "Adattabilità",
@@ -1808,11 +1807,11 @@
                 ]
             },
             {
-                "numero": "64/98",
-                "progressivo": "137",
+                "numero": "137",
+                "progressivo": "64/98",
                 "nome": "Porygon",
+                "stadio_evolutivo": "Base",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/e/e6/PorygonAnticheOrigini64.jpg/180px-PorygonAnticheOrigini64.jpg",
-                "stadio_evolutivo": "Base",
                 "abilita": [
                     "Traccia",
                     "Scarica",
@@ -1820,11 +1819,11 @@
                 ]
             },
             {
-                "numero": "65/98",
-                "progressivo": "233",
+                "numero": "233",
+                "progressivo": "65/98",
                 "nome": "Porygon2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/50/Porygon2AnticheOrigini65.jpg/180px-Porygon2AnticheOrigini65.jpg",
                 "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/5/50/Porygon2AnticheOrigini65.jpg/180px-Porygon2AnticheOrigini65.jpg",
                 "abilita": [
                     "Traccia",
                     "Scarica",
@@ -1832,11 +1831,11 @@
                 ]
             },
             {
-                "numero": "66/98",
-                "progressivo": "474",
+                "numero": "474",
+                "progressivo": "66/98",
                 "nome": "Porygon-Z",
+                "stadio_evolutivo": "Fase 2",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/f/fc/Porygon-ZAnticheOrigini66.jpg/180px-Porygon-ZAnticheOrigini66.jpg",
-                "stadio_evolutivo": "Fase 2",
                 "abilita": [
                     "Traccia",
                     "Scarica",
@@ -1844,11 +1843,11 @@
                 ]
             },
             {
-                "numero": "67/98",
-                "progressivo": "474",
+                "numero": "474",
+                "progressivo": "67/98",
                 "nome": "Porygon-Z",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/3/34/PorygonZAnticheOrigini67.jpg/180px-PorygonZAnticheOrigini67.jpg",
                 "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/34/PorygonZAnticheOrigini67.jpg/180px-PorygonZAnticheOrigini67.jpg",
                 "abilita": [
                     "Traccia",
                     "Scarica",
@@ -1856,194 +1855,194 @@
                 ]
             },
             {
-                "numero": "68/98",
-                "progressivo": "249",
+                "numero": "249",
+                "progressivo": "68/98",
                 "nome": "Lugia ex",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/0/03/LugiaEXAncientOrigins68.png/180px-LugiaEXAncientOrigins68.png",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/03/LugiaEXAncientOrigins68.png/180px-LugiaEXAncientOrigins68.png",
                 "abilita": [
                     "Pressione",
                     "Multisquame"
                 ]
             },
             {
-                "numero": "69/98",
-                "progressivo": "000",
+                "numero": "000",
+                "progressivo": "69/98",
                 "nome": "Fantallenatori",
+                "stadio_evolutivo": "Nessuno",
                 "url": "https://media.pokemoncentral.it/wiki/0/0d/AceTrainerAncientOrigins69.jpg",
-                "stadio_evolutivo": "Nessuno",
                 "abilita": [
                     "Nessuna"
                 ]
             },
             {
-                "numero": "70/98",
-                "progressivo": "000",
+                "numero": "000",
+                "progressivo": "70/98",
                 "nome": "Legame Mentale con Ampharos",
+                "stadio_evolutivo": "Nessuno",
                 "url": "https://media.pokemoncentral.it/wiki/1/1f/LegameMentaleconAmpharosAnticheOrigini70.jpg",
-                "stadio_evolutivo": "Nessuno",
                 "abilita": [
                     "Nessuna"
                 ]
             },
             {
-                "numero": "71/98",
-                "progressivo": "000",
+                "numero": "000",
+                "progressivo": "71/98",
                 "nome": "Braccio Ecologico",
+                "stadio_evolutivo": "Nessuno",
                 "url": "https://media.pokemoncentral.it/wiki/4/4e/BraccioEcologicoAnticheOrigini71.jpg",
-                "stadio_evolutivo": "Nessuno",
                 "abilita": [
                     "Nessuna"
                 ]
             },
             {
-                "numero": "72/98",
-                "progressivo": "000",
+                "numero": "000",
+                "progressivo": "72/98",
                 "nome": "Riciclaggio di Energia",
+                "stadio_evolutivo": "Nessuno",
                 "url": "https://media.pokemoncentral.it/wiki/7/7d/RiciclaggiodiEnergiaAnticheOrigini72.jpg",
-                "stadio_evolutivo": "Nessuno",
                 "abilita": [
                     "Nessuna"
                 ]
             },
             {
-                "numero": "73/98",
-                "progressivo": "000",
-                "nome": "Citt\u00e0 Deserta",
+                "numero": "000",
+                "progressivo": "73/98",
+                "nome": "Città Deserta",
+                "stadio_evolutivo": "Nessuno",
                 "url": "https://media.pokemoncentral.it/wiki/9/9b/Citt%C3%A0DesertaAnticheOrigini73.jpg",
-                "stadio_evolutivo": "Nessuno",
                 "abilita": [
                     "Nessuna"
                 ]
             },
             {
-                "numero": "74/98",
-                "progressivo": "000",
+                "numero": "000",
+                "progressivo": "74/98",
                 "nome": "Foresta delle Piante Giganti",
+                "stadio_evolutivo": "Nessuno",
                 "url": "https://media.pokemoncentral.it/wiki/9/9c/GiantPlantForestAncientOrigins74.png",
-                "stadio_evolutivo": "Nessuno",
                 "abilita": [
                     "Nessuna"
                 ]
             },
             {
-                "numero": "75/98",
-                "progressivo": "000",
+                "numero": "000",
+                "progressivo": "75/98",
                 "nome": "Streghetta ",
+                "stadio_evolutivo": "Nessuno",
                 "url": "https://media.pokemoncentral.it/wiki/0/01/HexManiacAncientOrigins75.png",
-                "stadio_evolutivo": "Nessuno",
                 "abilita": [
                     "Nessuna"
                 ]
             },
             {
-                "numero": "76/98",
-                "progressivo": "000",
+                "numero": "000",
+                "progressivo": "76/98",
                 "nome": "Level Ball",
+                "stadio_evolutivo": "Nessuno",
                 "url": "https://media.pokemoncentral.it/wiki/2/23/LevelBallDestiniFuturi89.jpg",
-                "stadio_evolutivo": "Nessuno",
                 "abilita": [
                     "Nessuna"
                 ]
             },
             {
-                "numero": "77/98",
-                "progressivo": "000",
+                "numero": "000",
+                "progressivo": "77/98",
                 "nome": "Fortunelmo",
+                "stadio_evolutivo": "Nessuno",
                 "url": "https://media.pokemoncentral.it/wiki/d/de/LuckyHelmetAncientOrigins77.png",
-                "stadio_evolutivo": "Nessuno",
                 "abilita": [
                     "Nessuna"
                 ]
             },
             {
-                "numero": "78/98",
-                "progressivo": "000",
+                "numero": "000",
+                "progressivo": "78/98",
                 "nome": "Elisio",
+                "stadio_evolutivo": "Nessuno",
                 "url": "https://media.pokemoncentral.it/wiki/9/93/LysandreFlashfire90.png",
-                "stadio_evolutivo": "Nessuno",
                 "abilita": [
                     "Nessuna"
                 ]
             },
             {
-                "numero": "79/98",
-                "progressivo": "000",
+                "numero": "000",
+                "progressivo": "79/98",
                 "nome": "Imbiancarullo",
+                "stadio_evolutivo": "Nessuno",
                 "url": "https://media.pokemoncentral.it/wiki/a/a6/ImbiancarulloAnticheOrigini79.jpg",
-                "stadio_evolutivo": "Nessuno",
                 "abilita": [
                     "Nessuna"
                 ]
             },
             {
-                "numero": "80/98",
-                "progressivo": "000",
+                "numero": "000",
+                "progressivo": "80/98",
                 "nome": "Legame Mentale con Sceptile",
+                "stadio_evolutivo": "Nessuno",
                 "url": "https://media.pokemoncentral.it/wiki/8/8b/LegameMentaleconSceptileAnticheOrigini80.jpg",
-                "stadio_evolutivo": "Nessuno",
                 "abilita": [
                     "Nessuna"
                 ]
             },
             {
-                "numero": "81/98",
-                "progressivo": "000",
+                "numero": "000",
+                "progressivo": "81/98",
                 "nome": "Legame Mentale con Tyranitar",
-                "url": "https://media.pokemoncentral.it/wiki/5/5c/LegameMentaleconTyranitarAnticheOrigini81.jpg",
                 "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/5/5c/LegameMentaleconTyranitarAnticheOrigini81.jpg",
                 "abilita": [
                     "Nessuna"
                 ]
             },
             {
-                "numero": "82/98",
-                "progressivo": "000",
+                "numero": "000",
+                "progressivo": "82/98",
                 "nome": "Energia Pericolo",
+                "stadio_evolutivo": "Nessuno",
                 "url": "https://media.pokemoncentral.it/wiki/2/29/DangerousEnergyAncientOrigins.jpg",
-                "stadio_evolutivo": "Energia",
                 "abilita": [
                     "Nessuna"
                 ]
             },
             {
-                "numero": "83/98",
-                "progressivo": "000",
+                "numero": "000",
+                "progressivo": "83/98",
+                "stadio_evolutivo": "Nessuno",
                 "nome": "Energia Flash",
                 "url": "https://media.pokemoncentral.it/wiki/5/5e/FlashEnergyAncientOrigins83.png",
-                "stadio_evolutivo": "Energia",
                 "abilita": [
                     "Nessuna"
                 ]
             },
             {
-                "numero": "84/98",
-                "progressivo": "254",
+                "numero": "254",
+                "progressivo": "84/98",
                 "nome": "Sceptile ex",
+                "stadio_evolutivo": "Base",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/2/25/SceptileEXAncientOrigins7.jpg/180px-SceptileEXAncientOrigins7.jpg",
-                "stadio_evolutivo": "Base",
                 "abilita": [
                     "Erbaiuto",
                     "Agiltecnica"
                 ]
             },
             {
-                "numero": "85/98",
-                "progressivo": "254",
+                "numero": "254",
+                "progressivo": "85/98",
                 "nome": "M-sceptile ex",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/7/7a/MSceptileEXAncientOrigins8.jpg/180px-MSceptileEXAncientOrigins8.jpg",
                 "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/7a/MSceptileEXAncientOrigins8.jpg/180px-MSceptileEXAncientOrigins8.jpg",
                 "abilita": [
                     "Erbaiuto",
                     "Agiltecnica"
                 ]
             },
             {
-                "numero": "86/98",
-                "progressivo": "646",
+                "numero": "646",
+                "progressivo": "86/98",
                 "nome": "Kyurem ex",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/d/d2/KyuremEXAncientOrigins25.png/180px-KyuremEXAncientOrigins25.png",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/d2/KyuremEXAncientOrigins25.png/180px-KyuremEXAncientOrigins25.png",
                 "abilita": [
                     "Pressione",
                     "Piroturbina",
@@ -2051,42 +2050,41 @@
                 ]
             },
             {
-                "numero": "87/98",
-                "progressivo": "181",
+                "numero": "181",
+                "progressivo": "87/98",
                 "nome": "Ampharos ex",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a0/AmpharosEXAncientOrigins27.png/180px-AmpharosEXAncientOrigins27.png",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a0/AmpharosEXAncientOrigins27.png/180px-AmpharosEXAncientOrigins27.png",
                 "abilita": [
-                    "Statico",
-                    "Pi\u00f9"
+                    "Statico"
                 ]
             },
             {
-                "numero": "88/98",
-                "progressivo": "181",
+                "numero": "181",
+                "progressivo": "88/98",
                 "nome": "M-ampharos ex",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/3/37/MAmpharosEXAncientOrigins28.png/180px-MAmpharosEXAncientOrigins28.png",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/37/MAmpharosEXAncientOrigins28.png/180px-MAmpharosEXAncientOrigins28.png",
                 "abilita": [
                     "Rompifiamma"
                 ]
             },
             {
-                "numero": "89/98",
-                "progressivo": "720",
+                "numero": "720",
+                "progressivo": "89/98",
                 "nome": "Hoopa ex",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/1/1e/HoopaEXAncientOrigins36.jpg/180px-HoopaEXAncientOrigins36.jpg",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/1e/HoopaEXAncientOrigins36.jpg/180px-HoopaEXAncientOrigins36.jpg",
                 "abilita": [
                     "Prestigiatore"
                 ]
             },
             {
-                "numero": "90/98",
-                "progressivo": "68",
+                "numero": "68",
+                "progressivo": "90/98",
                 "nome": "Machamp ex",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/9/96/MachampEXAncientOrigins37.png/180px-MachampEXAncientOrigins37.png",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/9/96/MachampEXAncientOrigins37.png/180px-MachampEXAncientOrigins37.png",
                 "abilita": [
                     "Dentistretti",
                     "Nullodifesa",
@@ -2094,85 +2092,85 @@
                 ]
             },
             {
-                "numero": "91/98",
-                "progressivo": "248",
+                "numero": "248",
+                "progressivo": "91/98",
                 "nome": "Tyranitar ex",
+                "stadio_evolutivo": "Base",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/1/11/TyranitarEXAncientOrigins42.jpg/180px-TyranitarEXAncientOrigins42.jpg",
-                "stadio_evolutivo": "Base",
                 "abilita": [
                     "Sabbiafiume",
                     "Agitazione"
                 ]
             },
             {
-                "numero": "92/98",
-                "progressivo": "248",
+                "numero": "248",
+                "progressivo": "92/98",
                 "nome": "M-tyranitar ex",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/45/MTyranitarEXAncientOrigins43.jpg/180px-MTyranitarEXAncientOrigins43.jpg",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/45/MTyranitarEXAncientOrigins43.jpg/180px-MTyranitarEXAncientOrigins43.jpg",
                 "abilita": [
                     "Sabbiafiume",
                     "Agitazione"
                 ]
             },
             {
-                "numero": "93/98",
-                "progressivo": "487",
+                "numero": "487",
+                "progressivo": "93/98",
                 "nome": "Giratina ex",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/57/GiratinaEXAnticheOrigini57.jpg/180px-GiratinaEXAnticheOrigini57.jpg",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/5/57/GiratinaEXAnticheOrigini57.jpg/180px-GiratinaEXAnticheOrigini57.jpg",
                 "abilita": [
                     "Pressione",
                     "Telepatia"
                 ]
             },
             {
-                "numero": "94/98",
-                "progressivo": "249",
+                "numero": "249",
+                "progressivo": "94/98",
                 "nome": "Lugia ex",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/0/03/LugiaEXAncientOrigins68.png/180px-LugiaEXAncientOrigins68.png",
                 "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/03/LugiaEXAncientOrigins68.png/180px-LugiaEXAncientOrigins68.png",
                 "abilita": [
                     "Pressione",
                     "Multisquame"
                 ]
             },
             {
-                "numero": "95/98",
-                "progressivo": "000",
+                "numero": "000",
+                "progressivo": "95/98",
                 "nome": "Rocco",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/0/0f/StevenRoaringSkies90.jpg/180px-StevenRoaringSkies90.jpg",
                 "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/0f/StevenRoaringSkies90.jpg/180px-StevenRoaringSkies90.jpg",
                 "abilita": [
                     "Nessuna"
                 ]
             },
             {
-                "numero": "96/98",
-                "progressivo": "382",
+                "numero": "382",
+                "progressivo": "96/98",
                 "nome": "Archeo Kyogre ex",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/ac/PrimalKyogreEXAncientOrigins96.png/180px-PrimalKyogreEXAncientOrigins96.png",
                 "stadio_evolutivo": "Fase 3",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/ac/PrimalKyogreEXAncientOrigins96.png/180px-PrimalKyogreEXAncientOrigins96.png",
                 "abilita": [
                     "Mare Primordiale"
                 ]
             },
             {
-                "numero": "97/98",
-                "progressivo": "383",
+                "numero": "383",
+                "progressivo": "97/98",
                 "nome": "Archeo Groudon ex",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/46/PrimalGroudonEXAncientOrigins97.png/180px-PrimalGroudonEXAncientOrigins97.png",
                 "stadio_evolutivo": "Fase 3",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/46/PrimalGroudonEXAncientOrigins97.png/180px-PrimalGroudonEXAncientOrigins97.png",
                 "abilita": [
                     "Terra Estrema"
                 ]
             },
             {
-                "numero": "98/98",
-                "progressivo": "384",
+                "numero": "384",
+                "progressivo": "98/98",
                 "nome": "M-Rayquaza ex",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/b/b0/MRayquazaEXAncientOrigins98.png/180px-MRayquazaEXAncientOrigins98.png",
                 "stadio_evolutivo": "Fase 3",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/b0/MRayquazaEXAncientOrigins98.png/180px-MRayquazaEXAncientOrigins98.png",
                 "abilita": [
                     "Flusso Delta"
                 ]
