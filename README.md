@@ -1,5 +1,3 @@
-Usate il file `creaJSON.py` per creare il JSON dei vostri set di fugirine Pokemon
-
 I set, i dati e le rispettive figurine le trovate su questo sito: 
 
 https://wiki.pokemoncentral.it/Elenco_espansioni_del_Gioco_di_Carte_Collezionabili_Pok%C3%A9mon
