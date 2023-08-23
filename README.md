@@ -1,3 +1,5 @@
+IL POKEDEX E' COMPLETO E FINITO E NON VA PIU' MODIFICATO!, bisogna fare solo più il pokemon.json
+
 I set, i dati e le rispettive figurine le trovate su questo sito: 
 
 https://wiki.pokemoncentral.it/Elenco_espansioni_del_Gioco_di_Carte_Collezionabili_Pok%C3%A9mon
