@@ -2178,1879 +2178,1879 @@
         ]
     },
     {
-    "numeroSet": "65",
-    "nomeSet": "Ombre infuocate",
-    "annoUscita": "2017",
-    "figurine": [
-        {
-            "numero": "1/169",
-            "progressivo": "010",
-            "nome": "Caterpie",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/7/70/CaterpieOmbreInfuocate1.jpg",
-            "abilita": [
-                "Polvoscudo",
-                "Fugafacile"
-            ]
-        },
-        {
-            "numero": "2/169",
-            "progressivo": "011",
-            "nome": "Metapod",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/6/66/MetapodOmbreInfuocate2.jpg",
-            "abilita": [
-                "Muta"
-            ]
-        },
-        {
-            "numero": "3/169",
-            "progressivo": "012",
-            "nome": "Butterfree",
-            "stadio_evolutivo": "Fase 2",
-            "url": "https://media.pokemoncentral.it/wiki/b/b8/ButterfreeOmbreInfuocate3.jpg",
-            "abilita": [
-                "Insettocchi",
-                "Lentifum\u00e9"
-            ]
-        },
-        {
-            "numero": "4/169",
-            "progressivo": "043",
-            "nome": "Oddish",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/d/d5/oddishombreinfuocate4.jpg",
-            "abilita": [
-                "Clorofilla",
-                "Fugafacile"
-            ]
-        },
-        {
-            "numero": "5/169",
-            "progressivo": "044",
-            "nome": "Gloom",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/7/72/gloomombreinfuocate5.jpg",
-            "abilita": [
-                "Clorofilla",
-                "Tanfo"
-            ]
-        },
-        {
-            "numero": "6/169",
-            "progressivo": "045",
-            "nome": "Vileplume",
-            "stadio_evolutivo": "Fase 2",
-            "url": "https://media.pokemoncentral.it/wiki/9/93/vileplumeombreinfuocate6.jpg",
-            "abilita": [
-                "Clorofilla",
-                "Spargispora"
-            ]
-        },
-        {
-            "numero": "7/169",
-            "progressivo": "114",
-            "nome": "Tangela",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/3/34/tangelaombreinfuocate7.jpg",
-            "abilita": [
-                "Clorofilla",
-                "Fogliamento",
-                "Rigenergia"
-            ]
-        },
-        {
-            "numero": "8/169",
-            "progressivo": "465",
-            "nome": "Tangrowth",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/9/99/tangrowthombreinfuocate8.jpg",
-            "abilita": [
-                "Clorofilla",
-                "Fogliamento",
-                "Rigenergia"
-            ]
-        },
-        {
-            "numero": "9/169",
-            "progressivo": "165",
-            "nome": "Ledyba",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/8/81/ledybaombreinfuocate9.jpg",
-            "abilita": [
-                "Aiutinsetto",
-                "Sveglialampo",
-                "Paura"
-            ]
-        },
-        {
-            "numero": "10/169",
-            "progressivo": "166",
-            "nome": "Ledian",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/6/6b/ledianombreinfuocate10.jpg",
-            "abilita": [
-                "Aiutinsetto",
-                "Sveglialampo",
-                "Ferropugno"
-            ]
-        },
-        {
-            "numero": "11/169",
-            "progressivo": "214",
-            "nome": "Heracross",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/e/ef/heracrossombreinfuocate11.jpg",
-            "abilita": [
-                "Aiutinsetto",
-                "Dentistretti",
-                "Arroganza"
-            ]
-        },
-        {
-            "numero": "12/169",
-            "progressivo": "511",
-            "nome": "Pansage",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/3/3b/pansageombreinfuocate12.jpg",
-            "abilita": [
-                "Voracit\u00e0",
-                "Erbaiuto",
-                "Fien"
-            ]
-        },
-        {
-            "numero": "13/169",
-            "progressivo": "512",
-            "nome": "Simisage",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/0/00/simisageombreinfuocate13.jpg",
-            "abilita": [
-                "Voracit\u00e0",
-                "Erbaiuto"
-            ]
-        },
-        {
-            "numero": "14/169",
-            "progressivo": "751",
-            "nome": "Dewpider",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/7/7a/dewpiderombreinfuocate14.jpg",
-            "abilita": [
-                "Bolladacqua",
-                "Assorbacqua"
-            ]
-        },
-        {
-            "numero": "15/169",
-            "progressivo": "752",
-            "nome": "Araquanid",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/b/b8/araquanidombreinfuocate15.jpg",
-            "abilita": [
-                "Bolladacqua",
-                "Assorbacqua"
-            ]
-        },
-        {
-            "numero": "16/169",
-            "progressivo": "767",
-            "nome": "Winpod",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/8/8f/wimpodombreinfuocate16.jpg",
-            "abilita": [
-                "Fuggifuggi"
-            ]
-        },
-        {
-            "numero": "17/169",
-            "progressivo": "768",
-            "nome": "Golisopod",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/3/3a/golisopodgxombreinfuocate17.jpg",
-            "abilita": [
-                "Passoindietro"
-            ]
-        },
-        {
-            "numero": "19/169",
-            "progressivo": "004",
-            "nome": "Charmander",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/3/32/charmanderombreinfuocate18.jpg",
-            "abilita": [
-                "Aiutofuoco",
-                "Solarpotere"
-            ]
-        },
-        {
-            "numero": "18/169",
-            "progressivo": "005",
-            "nome": "Charmeleon",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/2/2a/charmeleonombreinfuocate19.jpg",
-            "abilita": [
-                "Aiutofuoco",
-                "Solarpotere"
-            ]
-        },
-        {
-            "numero": "20/169",
-            "progressivo": "006",
-            "nome": "Charizard GX",
-            "stadio_evolutivo": "Fase 2",
-            "url": "https://media.pokemoncentral.it/wiki/7/74/charizardgxombreinfuocate20.jpg",
-            "abilita": [
-                "Unghiedure/Siccità"
-            ]
-        },
-        {
-            "numero": "21/169",
-            "progressivo": "250",
-            "nome": "Ho-oh GX",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/9/9f/ho-ohgxombreinfuocate21.jpg",
-            "abilita": [
-                "Pressione",
-                "Rigenergia"
-            ]
-        },
-        {
-            "numero": "22/169",
-            "progressivo": "513",
-            "nome": "Pansear",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/6/68/pansearombreinfuocate22.jpg",
-            "abilita": [
-                "Voracit\u00e0",
-                "Aiutofuoco"
-            ]
-        },
-        {
-            "numero": "23/169",
-            "progressivo": "514",
-            "nome": "Simisear",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://assets.pokemon.com/assets/cms2-it-it/img/cards/web/sm3/sm3_it_23.png",
-            "abilita": [
-                "Voracit\u00e0",
-                "Aiutofuoco"
-            ]
-        },
-        {
-            "numero": "24/169",
-            "progressivo": "631",
-            "nome": "Heatmor",
-            "stadio_evolutivo": "Base",
-            "url": "https://assets.pokemon.com/assets/cms2-it-it/img/cards/web/sm3/sm3_it_24.png",
-            "abilita": [
-                "Voracit\u00e0",
-                "Fuocardore",
-                "Fumochiaro"
-            ]
-        },
-        {
-            "numero": "25/169",
-            "progressivo": "758",
-            "nome": "Salazzle GX",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/e/eb/salazzlegxombreinfuocate25.jpg",
-            "abilita": [
-                "Corrosione",
-                "Indifferenza"
-            ]
-        },
-        {
-            "numero": "26/169",
-            "progressivo": "776",
-            "nome": "Turtonator",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/4/40/turtonatorsmpromo27.jpg",
-            "abilita": [
-                "Guscioscudo"
-            ]
-        },
-        {
-            "numero": "27/169",
-            "progressivo": "037",
-            "nome": "Vulpix di alola",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/b/b3/vulpixdialolaombreinfuocate27.jpg",
-            "abilita": [
-                "Mantelneve",
-                "Scendineve"
-            ]
-        },
-        {
-            "numero": "28/169",
-            "progressivo": "038",
-            "nome": "Ninetales di alola",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/b/b6/ninetalesdialolaombreinfuocate28.jpg",
-            "abilita": [
-                "Mantelneve",
-                "Scendineve"
-            ]
-        },
-        {
-            "numero": "29/169",
-            "progressivo": "116",
-            "nome": "Horsea",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/6/62/horseaombreinfuocate29.jpg",
-            "abilita": [
-                "Nuotovelox",
-                "Cecchino",
-                "Umidit\u00e0"
-            ]
-        },
-        {
-            "numero": "30/169",
-            "progressivo": "117",
-            "nome": "Seadra",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/c/c1/seadraombreinfuocate30.jpg",
-            "abilita": [
-                "Velenopunte",
-                "Cecchino",
-                "Umidit\u00e0"
-            ]
-        },
-        {
-            "numero": "31/169",
-            "progressivo": "230",
-            "nome": "Kingdra",
-            "stadio_evolutivo": "Fase 2",
-            "url": "https://media.pokemoncentral.it/wiki/a/ac/kingdraombreinfuocate31.jpg",
-            "abilita": [
-                "Nuotovelox",
-                "Cecchino",
-                "Umidit\u00e0"
-            ]
-        },
-        {
-            "numero": "32/169",
-            "progressivo": "129",
-            "nome": "Magikarp",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/b/be/magikarpombreinfuocate32.jpg",
-            "abilita": [
-                "Nuotovelox",
-                "Paura"
-            ]
-        },
-        {
-            "numero": "33/169",
-            "progressivo": "130",
-            "nome": "Gyarados",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/a/a6/gyaradosombreinfuocate33.jpg",
-            "abilita": [
-                "Prepotenza",
-                "Arroganza"
-            ]
-        },
-        {
-            "numero": "34/169",
-            "progressivo": "183",
-            "nome": "Marill",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/4/4c/marillombreinfuocate34.jpg",
-            "abilita": [
-                "Grassospesso",
-                "Macroforza",
-                "Mangiaerba"
-            ]
-        },
-        {
-            "numero": "35/169",
-            "progressivo": "184",
-            "nome": "Azumarill",
-            "stadio_evolutivo": "Fase 1",
-            "url": ">https://media.pokemoncentral.it/wiki/d/d6/azumarillombreinfuocate35.jpg",
-            "abilita": [
-                "Grassospesso",
-                "Macroforza",
-                "Mangiaerba"
-            ]
-        },
-        {
-            "numero": "36/169",
-            "progressivo": "515",
-            "nome": "Panpour",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/3/33/panpourombreinfuocate36.jpg",
-            "abilita": [
-                "Voracit\u00e0",
-                "Acquaiuto"
-            ]
-        },
-        {
-            "numero": "37/169",
-            "progressivo": "516",
-            "nome": "Simipour",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/a/a5/simipourombreinfuocate37.jpg",
-            "abilita": [
-                "Voracit\u00e0",
-                "Acquaiuto"
-            ]
-        },
-        {
-            "numero": "38/169",
-            "progressivo": "779",
-            "nome": "Bruxish",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/7/71/bruxishombreinfuocate38.jpg",
-            "abilita": [
-                "Corposgargiante",
-                "Ferromascella",
-                "Splendicute"
-            ]
-        },
-        {
-            "numero": "39/169",
-            "progressivo": "788",
-            "nome": "Tapu Fini GX",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/f/fe/tapufinigxombreinfuocate39.jpg",
-            "abilita": [
-                "Nebbiogenesi",
-                "Telepatia"
-            ]
-        },
-        {
-            "numero": "40/169",
-            "progressivo": "025",
-            "nome": "Pikachu",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/7/7a/pikachuombreinfuocate40.jpg",
-            "abilita": [
-                "Statico",
-                "Parafulmine"
-            ]
-        },
-        {
-            "numero": "41/169",
-            "progressivo": "026",
-            "nome": "Raichu",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/b/b3/raichuombreinfuocate41.jpg",
-            "abilita": [
-                "Statico",
-                "Parafulmine"
-            ]
-        },
-        {
-            "numero": "42/169",
-            "progressivo": "125",
-            "nome": "Electabuzz",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/7/74/electabuzzombreinfuocate42.jpg",
-            "abilita": [
-                "Statico",
-                "Spiritovivo"
-            ]
-        },
-        {
-            "numero": "43/169",
-            "progressivo": "466",
-            "nome": "Electivire",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/9/9b/electivireombreinfuocate43.jpg",
-            "abilita": [
-                "Elettrorapid",
-                "Spiritovivo"
-            ]
-        },
-        {
-            "numero": "44/169",
-            "progressivo": "602",
-            "nome": "Tynamo",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/a/ab/tynamoombreinfuocate44.jpg",
-            "abilita": [
-                "Levitazione"
-            ]
-        },
-        {
-            "numero": "45/169",
-            "progressivo": "603",
-            "nome": "Eelektrik",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/5/5f/eelektrikombreinfuocate45.jpg",
-            "abilita": [
-                "Levitazione"
-            ]
-        },
-        {
-            "numero": "46/169",
-            "progressivo": "604",
-            "nome": "Eelektross",
-            "stadio_evolutivo": "Fase 2",
-            "url": "https://media.pokemoncentral.it/wiki/4/46/eelektrossombreinfuocate46.jpg",
-            "abilita": [
-                "Levitazione"
-            ]
-        },
-        {
-            "numero": "47/169",
-            "progressivo": "777",
-            "nome": "Togedemaru",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/1/19/togedemaruombreinfuocate47.jpg",
-            "abilita": [
-                "Spineferrate",
-                "Parafulmine",
-                "Vigore"
-            ]
-        },
-        {
-            "numero": "48/169",
-            "progressivo": "199",
-            "nome": "Slowking",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/e/ea/slowkingombreinfuocate48.jpg",
-            "abilita": [
-                "Indifferenza",
-                "Mente locale",
-                "Rigenergia"
-            ]
-        },
-        {
-            "numero": "49/169",
-            "progressivo": "202",
-            "nome": "Wobbuffet",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/c/c4/wobbuffetombreinfuocate49.jpg",
-            "abilita": [
-                "Pedinombra",
-                "Telepatia"
-            ]
-        },
-        {
-            "numero": "50/169",
-            "progressivo": "336",
-            "nome": "Seviper",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/d/df/seviperombreinfuocate50.jpg",
-            "abilita": [
-                "Muta",
-                "Intrapasso"
-            ]
-        },
-        {
-            "numero": "51/169",
-            "progressivo": "355",
-            "nome": "Duskull",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/2/21/duskullombreinfuocate51.jpg",
-            "abilita": [
-                "Levitazione",
-                "Indagine"
-            ]
-        },
-        {
-            "numero": "52/169",
-            "progressivo": "356",
-            "nome": "Dusclops",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/4/44/dusclopsombreinfuocate52.jpg",
-            "abilita": [
-                "Pressione",
-                "Indagine"
-            ]
-        },
-        {
-            "numero": "53/169",
-            "progressivo": "477",
-            "nome": "Dusknoir",
-            "stadio_evolutivo": "Fase 2",
-            "url": "https://media.pokemoncentral.it/wiki/8/86/dusknoirombreinfuocate53.jpg",
-            "abilita": [
-                "Pressione",
-                "Indagine"
-            ]
-        },
-        {
-            "numero": "54/169",
-            "progressivo": "453",
-            "nome": "Croagunk",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/b/b9/croagunkombreinfuocate54.jpg",
-            "abilita": [
-                "Presagio",
-                "Pellearsa",
-                "Velentocco"
-            ]
-        },
-        {
-            "numero": "55/169",
-            "progressivo": "454",
-            "nome": "Toxicroak",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/3/30/toxicroakombreinfuocate55.jpg",
-            "abilita": [
-                "Presagio",
-                "Pellearsa",
-                "Velentocco"
-            ]
-        },
-        {
-            "numero": "56/169",
-            "progressivo": "543",
-            "nome": "Venipede",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/4/4f/venipedeombreinfuocate56.jpg",
-            "abilita": [
-                "Velenopunte",
-                "Aiutinsetto",
-                "Piedisvelti"
-            ]
-        },
-        {
-            "numero": "57/169",
-            "progressivo": "544",
-            "nome": "Whirlipede",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/a/a1/whirlipedeombreinfuocate57.jpg",
-            "abilita": [
-                "Velenopunte",
-                "Aiutinsetto",
-                "Piedisvelti"
-            ]
-        },
-        {
-            "numero": "58/169",
-            "progressivo": "545",
-            "nome": "Scolipede",
-            "stadio_evolutivo": "Fase 2",
-            "url": "https://media.pokemoncentral.it/wiki/9/92/scolipedeombreinfuocate58.jpg",
-            "abilita": [
-                "Velenopunte",
-                "Aiutinsetto",
-                "Piedisvelti"
-            ]
-        },
-        {
-            "numero": "59/169",
-            "progressivo": "677",
-            "nome": "Espurr",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/2/20/espurrombreinfuocate59.jpg",
-            "abilita": [
-                "Sguardofermo",
-                "Intrapasso",
-                "Mente locale"
-            ]
-        },
-        {
-            "numero": "60/169",
-            "progressivo": "678",
-            "nome": "Meowstic",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/5/52/meowsticombreinfuocate60.jpg",
-            "abilita": [
-                "Sguardofermo",
-                "Intrapasso",
-                "Burla/tenacia"
-            ]
-        },
-        {
-            "numero": "61/169",
-            "progressivo": "769",
-            "nome": "Sandygast",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/5/53/sandygastombreinfuocate61.jpg",
-            "abilita": [
-                "Idrorinforzo",
-                "Sabbiavelo"
-            ]
-        },
-        {
-            "numero": "62/169",
-            "progressivo": "770",
-            "nome": "Palossand",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/1/19/palossandombreinfuocate62.jpg",
-            "abilita": [
-                "Idrorinforzo",
-                "Sabbiavelo"
-            ]
-        },
-        {
-            "numero": "63/169",
-            "progressivo": "800",
-            "nome": "Necrozma GX",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/e/e4/necrozmagxombreinfuocate63.jpg",
-            "abilita": [
-                "Cerebroforza"
-            ]
-        },
-        {
-            "numero": "64/169",
-            "progressivo": "068",
-            "nome": "Machamp GX",
-            "stadio_evolutivo": "Fase 2",
-            "url": "https://media.pokemoncentral.it/wiki/1/1e/machampgxombreinfuocate64.jpg",
-            "abilita": [
-                "Dentistretti",
-                "Nullodifesa",
-                "Cuordeciso"
-            ]
-        },
-        {
-            "numero": "65/169",
-            "progressivo": "111",
-            "nome": "Rhyhorn",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/a/ac/rhyhornombreinfuocate65.jpg",
-            "abilita": [
-                "Parafulmine",
-                "Testadura",
-                "Temerariet\u00e0"
-            ]
-        },
-        {
-            "numero": "66/169",
-            "progressivo": "112",
-            "nome": "Rhydon",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/8/8c/rhydonombreinfuocate66.jpg",
-            "abilita": [
-                "Parafulmine",
-                "Testadura",
-                "Temerarietà"
-            ]
-        },
-        {
-            "numero": "67/169",
-            "progressivo": "464",
-            "nome": "Rhyperior",
-            "stadio_evolutivo": "Fase 2",
-            "url": "https://media.pokemoncentral.it/wiki/9/9d/rhyperiorombreinfuocate67.jpg",
-            "abilita": [
-                "Parafulmine",
-                "Solidroccia",
-                "Temerariet\u00e0"
-            ]
-        },
-        {
-            "numero": "68/169",
-            "progressivo": "337",
-            "nome": "Lunatone",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/6/60/lunatoneombreinfuocate68.jpg",
-            "abilita": [
-                "Levitazione"
-            ]
-        },
-        {
-            "numero": "69/169",
-            "progressivo": "338",
-            "nome": "Solrock",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/b/b3/solrockombreinfuocate69.jpg",
-            "abilita": [
-                "Levitazione"
-            ]
-        },
-        {
-            "numero": "70/169",
-            "progressivo": "447",
-            "nome": "Riolu",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/d/d9/rioluombreinfuocate70.jpg",
-            "abilita": [
-                "Cuordeciso",
-                "Forza interiore",
-                "Burla"
-            ]
-        },
-        {
-            "numero": "71/169",
-            "progressivo": "448",
-            "nome": "Lucario",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/3/3a/lucarioombreinfuocate71.jpg",
-            "abilita": [
-                "Cuordeciso",
-                "Forza interiore",
-                "Giustizia"
-            ]
-        },
-        {
-            "numero": "72/169",
-            "progressivo": "539",
-            "nome": "Sawk",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/5/55/sawkombreinfuocate72.jpg",
-            "abilita": [
-                "Vigore",
-                "Forza interiore",
-                "Rompiforma"
-            ]
-        },
-        {
-            "numero": "73/169",
-            "progressivo": "739",
-            "nome": "Crabrawler",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/1/1c/crabrawlerombreinfuocate73.jpg",
-            "abilita": [
-                "Ipertaglio",
-                "Ferropugno",
-                "Grancollera"
-            ]
-        },
-        {
-            "numero": "74/169",
-            "progressivo": "740",
-            "nome": "Crabominable",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/e/eb/crabominableombreinfuocate74.jpg",
-            "abilita": [
-                "Ipertaglio",
-                "Ferropugno",
-                "Grancollera"
-            ]
-        },
-        {
-            "numero": "75/169",
-            "progressivo": "745",
-            "nome": "Lycanroc",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/7/73/lycanrocombreinfuocate75.jpg",
-            "abilita": [
-                "Sguardofermo",
-                "Remasabbia",
-                "Cuordeciso"
-            ]
-        },
-        {
-            "numero": "76/169",
-            "progressivo": "745",
-            "nome": "Lycanroc",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/9/9d/lycanrocashvsteamrocketdeck12.jpg",
-            "abilita": [
-                "Sguardofermo",
-                "Spiritovivo",
-                "Nullodifesa"
-            ]
-        },
-        {
-            "numero": "77/169",
-            "progressivo": "749",
-            "nome": "Mudbray",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/2/28/mudbrayombreinfuocate77.jpg",
-            "abilita": [
-                "Mente locale",
-                "Sopportazione",
-                "Forza interiore"
-            ]
-        },
-        {
-            "numero": "78/169",
-            "progressivo": "750",
-            "nome": "Mudsdale",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/c/c5/mudsdaleombreinfuocate78.jpg",
-            "abilita": [
-                "Mente locale",
-                "Sopportazione",
-                "Forza interiore"
-            ]
-        },
-        {
-            "numero": "79/169",
-            "progressivo": "766",
-            "nome": "Passimian",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/4/49/passimianombreinfuocate79.jpg",
-            "abilita": [
-                "Ricezione",
-                "Agonismo"
-            ]
-        },
-        {
-            "numero": "80/169",
-            "progressivo": "802",
-            "nome": "Marshadow GX",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/d/d9/marshadowgxombreinfuocate80.jpg",
-            "abilita": [
-                "Tecnico"
-            ]
-        },
-        {
-            "numero": "81/169",
-            "progressivo": "019",
-            "nome": "Rattata di alola",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/b/bb/rattatadialolaombreinfuocate81.jpg",
-            "abilita": [
-                "Voracit\u00e0",
-                "Tuttafretta",
-                "Grassospesso"
-            ]
-        },
-        {
-            "numero": "82/169",
-            "progressivo": "020",
-            "nome": "Raticate di alola",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/a/af/raticatedialolaombreinfuocate82.jpg",
-            "abilita": [
-                "Voracit\u00e0",
-                "Tuttafretta",
-                "Grassospesso"
-            ]
-        },
-        {
-            "numero": "83/169",
-            "progressivo": "088",
-            "nome": "Grimer di alola",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/1/17/grimerdialolaombreinfuocate83.jpg",
-            "abilita": [
-                "Velentocco",
-                "Voracit\u00e0",
-                "Forza chimica"
-            ]
-        },
-        {
-            "numero": "84/169",
-            "progressivo": "089",
-            "nome": "Muk di alola GX",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/7/78/mukdialolagxombreinfuocate84.jpg",
-            "abilita": [
-                "Velentocco",
-                "Voracit\u00e0",
-                "Forza chimica"
-            ]
-        },
-        {
-            "numero": "85/169",
-            "progressivo": "215",
-            "nome": "Sneasel",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/1/13/sneaselombreinfuocate85.jpg",
-            "abilita": [
-                "Forza interiore",
-                "Sguardofermo",
-                "Arraffalesto"
-            ]
-        },
-        {
-            "numero": "86/169",
-            "progressivo": "461",
-            "nome": "Weaville",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/c/c1/weavileombreinfuocate86.jpg",
-            "abilita": [
-                "Pressione",
-                "Arraffalesto"
-            ]
-        },
-        {
-            "numero": "87/169",
-            "progressivo": "491",
-            "nome": "Darkrai",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/c/c6/darkraiombreinfuocate87.jpg",
-            "abilita": [
-                "Sogniamari"
-            ]
-        },
-        {
-            "numero": "88/169",
-            "progressivo": "491",
-            "nome": "Darkrai GX",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokehttps://media.pokemoncentral.it/wiki/f/f8/darkraigxombreinfuocate88.jpg",
-            "abilita": [
-                "Sogniamari"
-            ]
-        },
-        {
-            "numero": "89/169",
-            "progressivo": "686",
-            "nome": "Inkay",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/5/56/inkayombreinfuocate89.jpg",
-            "abilita": [
-                "Inversione",
-                "Ventose",
-                "Intrapasso"
-            ]
-        },
-        {
-            "numero": "90/169",
-            "progressivo": "687",
-            "nome": "Malamar",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/f/f2/malamarombreinfuocate90.jpg",
-            "abilita": [
-                "Inversione",
-                "Ventose",
-                "Intrapasso"
-            ]
-        },
-        {
-            "numero": "91/169",
-            "progressivo": "280",
-            "nome": "Ralts",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/4/48/raltsombreinfuocate91.jpg",
-            "abilita": [
-                "Sincronismo",
-                "Traccia",
-                "Telepatia"
-            ]
-        },
-        {
-            "numero": "92/169",
-            "progressivo": "281",
-            "nome": "Kirlia",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/b/be/kirliaombreinfuocate92.jpg",
-            "abilita": [
-                "Sincronismo",
-                "Traccia",
-                "Telepatia"
-            ]
-        },
-        {
-            "numero": "93/169",
-            "progressivo": "282",
-            "nome": "Gardevoir GX",
-            "stadio_evolutivo": "Fase 2",
-            "url": "https://media.pokemoncentral.it/wiki/4/47/gardevoirgxombreinfuocate93.jpg",
-            "abilita": [
-                "Pellefolletto"
-            ]
-        },
-        {
-            "numero": "94/169",
-            "progressivo": "719",
-            "nome": "Diancie",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/d/d4/diancieombreinfuocate94.jpg",
-            "abilita": [
-                "Corpochiaro"
-            ]
-        },
-        {
-            "numero": "95/169",
-            "progressivo": "742",
-            "nome": "Cutiefly",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/4/4d/cutieflyombreinfuocate95.jpg",
-            "abilita": [
-                "Mielincetta",
-                "Polvoscudo",
-                "Dolcevelo"
-            ]
-        },
-        {
-            "numero": "96/169",
-            "progressivo": "743",
-            "nome": "Ribombee",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/7/7b/ribombeeombreinfuocate96.jpg",
-            "abilita": [
-                "Mielincetta",
-                "Polvoscudo",
-                "Dolcevelo"
-            ]
-        },
-        {
-            "numero": "97/169",
-            "progressivo": "755",
-            "nome": "Morelull",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/c/c9/morelullombreinfuocate97.jpg",
-            "abilita": [
-                "Risplendi",
-                "Spargispora",
-                "Copripioggia"
-            ]
-        },
-        {
-            "numero": "98/169",
-            "progressivo": "756",
-            "nome": "Shiinotic",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/0/06/shiinoticombreinfuocate98.jpg",
-            "abilita": [
-                "Risplendi",
-                "Spargispora",
-                "Copripioggia"
-            ]
-        },
-        {
-            "numero": "99/169",
-            "progressivo": "715",
-            "nome": "Noivern GX",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/5/58/noiverngxombreinfuocate99.jpg",
-            "abilita": [
-                "Indagine",
-                "Intrapasso",
-                "Telepatia"
-            ]
-        },
-        {
-            "numero": "100/169",
-            "progressivo": "718",
-            "nome": "Zygarde",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/6/65/zygardeombreinfuocate100.jpg",
-            "abilita": [
-                "Frangiaura - sciamefusione [forma 10% e 50%]",
-                "Sciamefusione [forma perfetta]"
-            ]
-        },
-        {
-            "numero": "101/169",
-            "progressivo": "052",
-            "nome": "Meowth",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/3/31/meowthombreinfuocate101.jpg",
-            "abilita": [
-                "Raccolta",
-                "Tecnico",
-                "Agitazione"
-            ]
-        },
-        {
-            "numero": "102/169",
-            "progressivo": "053",
-            "nome": "Persian",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/1/1f/persianombreinfuocate102.jpg",
-            "abilita": [
-                "Scioltezza",
-                "Tecnico",
-                "Agitazione"
-            ]
-        },
-        {
-            "numero": "103/169",
-            "progressivo": "137",
-            "nome": "Porygon",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/8/8f/porygonombreinfuocate103.jpg",
-            "abilita": [
-                "Traccia",
-                "Download",
-                "Ponderazione"
-            ]
-        },
-        {
-            "numero": "104/169",
-            "progressivo": "233",
-            "nome": "Porygon2",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/f/fd/porygon2ombreinfuocate104.jpg",
-            "abilita": [
-                "Traccia",
-                "Download",
-                "Ponderazione"
-            ]
-        },
-        {
-            "numero": "105/169",
-            "progressivo": "474",
-            "nome": "Porygon-z",
-            "stadio_evolutivo": "Fase 2",
-            "url": "https://media.pokemoncentral.it/wiki/1/17/porygon-zombreinfuocate105.jpg",
-            "abilita": [
-                "Adattabilit\u00e0",
-                "Download",
-                "Ponderazione"
-            ]
-        },
-        {
-            "numero": "106/169",
-            "progressivo": "163",
-            "nome": "Hoothoot",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/c/ca/hoothootombreinfuocate106.jpg",
-            "abilita": [
-                "Insonnia",
-                "Sguardofermo",
-                "Lentifum\u00e9"
-            ]
-        },
-        {
-            "numero": "107/169",
-            "progressivo": "164",
-            "nome": "Noctowl",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/d/d3/noctowlombreinfuocate107.jpg",
-            "abilita": [
-                "Insonnia",
-                "Sguardofermo",
-                "Lentifum\u00e9"
-            ]
-        },
-        {
-            "numero": "108/169",
-            "progressivo": "626",
-            "nome": "Bouffalant",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/b/b1/bouffalantombreinfuocate108.jpg",
-            "abilita": [
-                "Temerariet\u00e0",
-                "Mangiaerba",
-                "Antisuono"
-            ]
-        },
-        {
-            "numero": "109/169",
-            "progressivo": "714",
-            "nome": "Noibat",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/2/2e/noibatombreinfuocate109.jpg",
-            "abilita": [
-                "Indagine",
-                "Intrapasso",
-                "Telepatia"
-            ]
-        },
-        {
-            "numero": "110/169",
-            "progressivo": "759",
-            "nome": "Stufful",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/9/9a/stuffulombreinfuocate110.jpg",
-            "abilita": [
-                "Morbidone",
-                "Impaccio",
-                "Incantevole"
-            ]
-        },
-        {
-            "numero": "111/169",
-            "progressivo": "760",
-            "nome": "Bewear",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/7/74/bewearombreinfuocate111.jpg",
-            "abilita": [
-                "Morbidone",
-                "Impaccio",
-                "Agitazione"
-            ]
-        },
-        {
-            "numero": "112/169",
-            "progressivo": "999",
-            "nome": "Malpi",
-            "stadio_evolutivo": "Fase 3",
-            "url": "https://media.pokemoncentral.it/wiki/5/54/malpiombreinfuocate112.jpg",
-            "abilita": [
-                "Allenatore"
-            ]
-        },
-        {
-            "numero": "113/169",
-            "progressivo": "000",
-            "nome": "Fune di fuga",
-            "stadio_evolutivo": "Allenatore",
-            "url": "https://media.pokemoncentral.it/wiki/8/82/manubridelculturistaombreinfuocate113.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "114/169",
-            "progressivo": "000",
-            "nome": "Fune di fuga",
-            "stadio_evolutivo": "Allenatore",
-            "url": "https://media.pokemoncentral.it/wiki/8/8c/funedifugauraganoplasma120.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "115/169",
-            "progressivo": "000",
-            "nome": "Guzman",
-            "stadio_evolutivo": "Allenatore",
-            "url": "https://media.pokemoncentral.it/wiki/3/39/guzmanombreinfuocate115.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "116/169",
-            "progressivo": "000",
-            "nome": "Kawe",
-            "stadio_evolutivo": "Allenatore",
-            "url": "https://media.pokemoncentral.it/wiki/f/f1/kaweombreinfuocate116.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "117/169",
-            "progressivo": "000",
-            "nome": "Suiren",
-            "stadio_evolutivo": "Allenatore",
-            "url": "https://media.pokemoncentral.it/wiki/d/d1/suirenombreinfuocate117.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "118/169",
-            "progressivo": "000",
-            "nome": "Monte lanakila",
-            "stadio_evolutivo": "Allenatore",
-            "url": "https://media.pokemoncentral.it/wiki/1/18/montelanakilaombreinfuocate118.jpg",
-            "abilita": [
-                "Nessuna",
-                "Ine"
-            ]
-        },
-        {
-            "numero": "119/169",
-            "progressivo": "000",
-            "nome": "Alyxia",
-            "stadio_evolutivo": "Allenatore",
-            "url": "https://wiki.pokemoncentral.it/alyxia_(ombre_infuocate_119)#/media/file:alyxiaombreinfuocate119.jpg",
-            "abilita": [
-                "Fine"
-            ]
-        },
-        {
-            "numero": "120/169",
-            "progressivo": "000",
-            "nome": "Plumeria",
-            "stadio_evolutivo": "Allenatore",
-            "url": "https://media.pokemoncentral.it/wiki/6/6d/plumeriaombreinfuocate120.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "121/169",
-            "progressivo": "000",
-            "nome": "Poh",
-            "stadio_evolutivo": "Allenatore",
-            "url": "https://media.pokemoncentral.it/wiki/e/e7/pohombreinfuocate121.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "122/169",
-            "progressivo": "000",
-            "nome": "Pok\u00e9dex rotom - modalit\u00e0 pok\u00e9visore",
-            "stadio_evolutivo": "Allenatore",
-            "url": "https://media.pokemoncentral.it/wiki/e/e9/pokedexrotom-modalit%c3%a0pok%c3%a9visoreombreinfuocate122.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "123/169",
-            "progressivo": "000",
-            "nome": "Chrys",
-            "stadio_evolutivo": "Allenatore",
-            "url": "https://media.pokemoncentral.it/wiki/f/fb/chrysombreinfuocate123.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "124/169",
-            "progressivo": "000",
-            "nome": "Super recupero",
-            "stadio_evolutivo": "Allenatore",
-            "url": "https://media.pokemoncentral.it/wiki/d/d0/superscoopupfuriousfists100.png",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "125/169",
-            "progressivo": "000",
-            "nome": "Spray attaccabrighe",
-            "stadio_evolutivo": "Allenatore",
-            "url": "https://media.pokemoncentral.it/wiki/5/53/sprayattaccabrigheombreinfuocate125.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "126/169",
-            "progressivo": "000",
-            "nome": "Vulneropolizza",
-            "stadio_evolutivo": "Allenatore",
-            "url": "https://media.pokemoncentral.it/wiki/1/12/weaknesspolicyprimalclash142.png",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "127/169",
-            "progressivo": "000",
-            "nome": "Ciceria",
-            "stadio_evolutivo": "Allenatore",
-            "url": "https://media.pokemoncentral.it/wiki/e/e9/ciceriaombreinfuocate127.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "128/169",
-            "progressivo": "000",
-            "nome": "Testimone della speranza",
-            "stadio_evolutivo": "Allenatore",
-            "url": "https://media.pokemoncentral.it/wiki/3/39/testimonedellasperanzaombreinfuocate128.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "129/169",
-            "progressivo": "768",
-            "nome": "Golisopod gx",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/3/3a/golisopodgxombreinfuocate17.jpg",
-            "abilita": [
-                "Passoindietro"
-            ]
-        },
-        {
-            "numero": "130/169",
-            "progressivo": "787",
-            "nome": "Tapu bulu gx",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/a/aa/tapubulugxsmpromo32.jpg",
-            "abilita": [
-                "Erbogenesi",
-                "Telepatia"
-            ]
-        },
-        {
-            "numero": "131/169",
-            "progressivo": "250",
-            "nome": "Ho-oh gx",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/9/9f/Ho-OhGXOmbreInfuocate21.jpg",
-            "abilita": [
-                "Pressione",
-                "Rigenergia"
-            ]
-        },
-        {
-            "numero": "132/169",
-            "progressivo": "758",
-            "nome": "Salazzle gx",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/e/eb/salazzlegxombreinfuocate25.jpg",
-            "abilita": [
-                "Corrosione",
-                "Indifferenza"
-            ]
-        },
-        {
-            "numero": "133/169",
-            "progressivo": "788",
-            "nome": "Tapu fini gx",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/f/fe/tapufinigxombreinfuocate39.jpg",
-            "abilita": [
-                "Nebbiogenesi",
-                "Telepatia"
-            ]
-        },
-        {
-            "numero": "134/169",
-            "progressivo": "800",
-            "nome": "Necrozma gx",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/e/e4/necrozmagxombreinfuocate63.jpg",
-            "abilita": [
-                "Scudoprisma"
-            ]
-        },
-        {
-            "numero": "135/169",
-            "progressivo": "068",
-            "nome": "Machamp gx",
-            "stadio_evolutivo": "Fase 2",
-            "url": "https://media.pokemoncentral.it/wiki/1/1e/machampgxombreinfuocate64.jpg",
-            "abilita": [
-                "Dentistretti",
-                "Nullodifesa",
-                "Cuordeciso"
-            ]
-        },
-        {
-            "numero": "136/169",
-            "progressivo": "745",
-            "nome": "Lycanroc gx",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/5/52/lycanrocgxsmpromo14.jpg",
-            "abilita": [
-                "Sguardofermo",
-                "Remasabbia/spiritovivo",
-                "Cuordeciso/nullodifesa"
-            ]
-        },
-        {
-            "numero": "137/169",
-            "progressivo": "802",
-            "nome": "Marshadow gx",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/d/d9/marshadowgxombreinfuocate80.jpg",
-            "abilita": [
-                "Tecnico"
-            ]
-        },
-        {
-            "numero": "138/169",
-            "progressivo": "089",
-            "nome": "Muk di alola gx",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/7/78/mukdialolagxombreinfuocate84.jpg",
-            "abilita": [
-                "Velentocco",
-                "Voracit\u00e0",
-                "Forza chimica"
-            ]
-        },
-        {
-            "numero": "139/169",
-            "progressivo": "491",
-            "nome": "Darkrai gx",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/f/f8/darkraigxombreinfuocate88.jpg",
-            "abilita": [
-                "Sogniamari"
-            ]
-        },
-        {
-            "numero": "140/169",
-            "progressivo": "282",
-            "nome": "Gardevoir gx",
-            "stadio_evolutivo": "Fase 2",
-            "url": "https://media.pokemoncentral.it/wiki/4/47/gardevoirgxombreinfuocate93.jpg",
-            "abilita": [
-                "Pellefolletto"
-            ]
-        },
-        {
-            "numero": "141/169",
-            "progressivo": "715",
-            "nome": "Noivern gx",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/5/58/noiverngxombreinfuocate99.jpg",
-            "abilita": [
-                "Indagine ",
-                "Intrapasso",
-                "Telepatia"
-            ]
-        },
-        {
-            "numero": "142/169",
-            "progressivo": "999",
-            "nome": "Malpi",
-            "stadio_evolutivo": "Allenatore",
-            "url": "https://media.pokemoncentral.it/wiki/5/54/malpiombreinfuocate112.jpg",
-            "abilita": [
-                "/"
-            ]
-        },
-        {
-            "numero": "143/169",
-            "progressivo": "999",
-            "nome": "Guzman",
-            "stadio_evolutivo": "Allenatore",
-            "url": "https://media.pokemoncentral.it/wiki/3/39/guzmanombreinfuocate115.jpg",
-            "abilita": [
-                "/"
-            ]
-        },
-        {
-            "numero": "144/169",
-            "progressivo": "999",
-            "nome": "Kawe",
-            "stadio_evolutivo": "Allenatore",
-            "url": "https://media.pokemoncentral.it/wiki/f/f1/kaweombreinfuocate116.jpg",
-            "abilita": [
-                "/"
-            ]
-        },
-        {
-            "numero": "145/169",
-            "progressivo": "999",
-            "nome": "Plumeria",
-            "stadio_evolutivo": "Allenatore",
-            "url": "https://media.pokemoncentral.it/wiki/6/6d/plumeriaombreinfuocate120.jpg",
-            "abilita": [
-                "/"
-            ]
-        },
-        {
-            "numero": "146/169",
-            "progressivo": "999",
-            "nome": "Chrys",
-            "stadio_evolutivo": "Allenatore",
-            "url": "https://media.pokemoncentral.it/wiki/f/fb/chrysombreinfuocate123.jpg",
-            "abilita": [
-                "/"
-            ]
-        },
-        {
-            "numero": "147/169",
-            "progressivo": "999",
-            "nome": "Ciceria",
-            "stadio_evolutivo": "Allenatore",
-            "url": "https://media.pokemoncentral.it/wiki/e/e9/ciceriaombreinfuocate127.jpg",
-            "abilita": [
-                "/"
-            ]
-        },
-        {
-            "numero": "148/169",
-            "progressivo": "768",
-            "nome": "Golisopod gx",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/3/3a/golisopodgxombreinfuocate17.jpg",
-            "abilita": [
-                "Passoindietro"
-            ]
-        },
-        {
-            "numero": "149/169",
-            "progressivo": "787",
-            "nome": "Tapu bulu gx",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/a/aa/tapubulugxsmpromo32.jpg",
-            "abilita": [
-                "Erbogenesi",
-                "Telepatia"
-            ]
-        },
-        {
-            "numero": "150/169",
-            "progressivo": "006",
-            "nome": "Charizard gx",
-            "stadio_evolutivo": "Fase 2",
-            "url": "https://media.pokemoncentral.it/wiki/7/74/charizardgxombreinfuocate20.jpg",
-            "abilita": [
-                "Unghiedure/siccit\u00e0"
-            ]
-        },
-        {
-            "numero": "151/169",
-            "progressivo": "758",
-            "nome": "Salazzle gx",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/e/eb/salazzlegxombreinfuocate25.jpg",
-            "abilita": [
-                "Corrosione",
-                "Indifferenza"
-            ]
-        },
-        {
-            "numero": "152/169",
-            "progressivo": "788",
-            "nome": "Tapu fini gx",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/f/fe/tapufinigxombreinfuocate39.jpg",
-            "abilita": [
-                "Nebbiogenesi",
-                "Telepatia"
-            ]
-        },
-        {
-            "numero": "153/169",
-            "progressivo": "800",
-            "nome": "Necrozma gx",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/e/e4/necrozmagxombreinfuocate63.jpg",
-            "abilita": [
-                "Scudoprisma"
-            ]
-        },
-        {
-            "numero": "154/169",
-            "progressivo": "068",
-            "nome": "Machamp gx",
-            "stadio_evolutivo": "Fase 2",
-            "url": "https://media.pokemoncentral.it/wiki/1/1e/machampgxombreinfuocate64.jpg",
-            "abilita": [
-                "Dentistretti",
-                "Nullodifesa",
-                "Cuordeciso"
-            ]
-        },
-        {
-            "numero": "155/169",
-            "progressivo": "7",
-            "nome": "Lycanroc gx",
-            "stadio_evolutivo": "Fase 1",
-            "url": "745",
-            "abilita": [
-                "Sguardofermo",
-                "Remasabbia/spiritovivo",
-                "Cuordeciso/nullodifesa"
-            ]
-        },
-        {
-            "numero": "156/169",
-            "progressivo": "802",
-            "nome": "Marshadow gx",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/d/d9/marshadowgxombreinfuocate80.jpg",
-            "abilita": [
-                "Tecnico"
-            ]
-        },
-        {
-            "numero": "157/169",
-            "progressivo": "089",
-            "nome": "Muk di alola",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/7/78/mukdialolagxombreinfuocate84.jpg",
-            "abilita": [
-                "Velentocco",
-                "Voracit\u00e0",
-                "Forza chimica"
-            ]
-        },
-        {
-            "numero": "158/169",
-            "progressivo": "491",
-            "nome": "Darkrai gx",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/f/f8/darkraigxombreinfuocate88.jpg",
-            "abilita": [
-                "Sogniamari"
-            ]
-        },
-        {
-            "numero": "159/169",
-            "progressivo": "282",
-            "nome": "Gardevoir gx",
-            "stadio_evolutivo": "Fase 2",
-            "url": "https://media.pokemoncentral.it/wiki/4/47/gardevoirgxombreinfuocate93.jpg",
-            "abilita": [
-                "Pellefolletto"
-            ]
-        },
-        {
-            "numero": "160/169",
-            "progressivo": "715",
-            "nome": "Noivern gx",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/5/58/noiverngxombreinfuocate99.jpg",
-            "abilita": [
-                "Indagine",
-                "Intrapasso",
-                "Telepatia"
-            ]
-        },
-        {
-            "numero": "161/169",
-            "progressivo": "000",
-            "nome": "Manubri del culturista",
-            "stadio_evolutivo": "Allenatore",
-            "url": "https://media.pokemoncentral.it/wiki/8/82/manubridelculturistaombreinfuocate113.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "162/169",
-            "progressivo": "000",
-            "nome": "Bendascelta",
-            "stadio_evolutivo": "Allenatore",
-            "url": "https://media.pokemoncentral.it/wiki/8/81/bendasceltaguardianinascenti121.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "163/169",
-            "progressivo": "000",
-            "nome": "Fune di fuga",
-            "stadio_evolutivo": "Allenatore",
-            "url": "https://media.pokemoncentral.it/wiki/8/8c/funedifugauraganoplasma120.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "164/169",
-            "progressivo": "000",
-            "nome": "Scambio multiplo",
-            "stadio_evolutivo": "Allenatore",
-            "url": "https://media.pokemoncentral.it/wiki/f/f7/scambiomultiploguardianinascenti129.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "165/169",
-            "progressivo": "000",
-            "nome": "Barella",
-            "stadio_evolutivo": "Allenatore",
-            "url": "https://media.pokemoncentral.it/wiki/6/6d/barellaguardianinascenti130.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "166/169",
-            "progressivo": "000",
-            "nome": "Super recupero",
-            "stadio_evolutivo": "Allenatore",
-            "url": "https://media.pokemoncentral.it/wiki/d/d0/superscoopupfuriousfists100.png",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "167/169",
-            "progressivo": "000",
-            "nome": "Energia fuoco",
-            "stadio_evolutivo": "Energia",
-            "url": "https://media.pokemoncentral.it/wiki/a/a9/energia_fuoco_2019.png",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "168/169",
-            "progressivo": "000",
-            "nome": "Energia oscurit\u00e0",
-            "stadio_evolutivo": "Energia",
-            "url": "https://media.pokemoncentral.it/wiki/b/b5/energia_oscurit%c3%a0_2017.png",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "169/169",
-            "progressivo": "000",
-            "nome": "Energia folletto",
-            "stadio_evolutivo": "Energia",
-            "url": "https://media.pokemoncentral.it/wiki/5/58/energiafolletto.png",
-            "abilita": [
-                "Nessuna"
-            ]
-        }
-    ]
-}
+        "numeroSet": "65",
+        "nomeSet": "Ombre infuocate",
+        "annoUscita": "2017",
+        "figurine": [
+            {
+                "numero": "1/169",
+                "progressivo": "010",
+                "nome": "Caterpie",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/7/70/CaterpieOmbreInfuocate1.jpg",
+                "abilita": [
+                    "Polvoscudo",
+                    "Fugafacile"
+                ]
+            },
+            {
+                "numero": "2/169",
+                "progressivo": "011",
+                "nome": "Metapod",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/6/66/MetapodOmbreInfuocate2.jpg",
+                "abilita": [
+                    "Muta"
+                ]
+            },
+            {
+                "numero": "3/169",
+                "progressivo": "012",
+                "nome": "Butterfree",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/b/b8/ButterfreeOmbreInfuocate3.jpg",
+                "abilita": [
+                    "Insettocchi",
+                    "Lentifum\u00e9"
+                ]
+            },
+            {
+                "numero": "4/169",
+                "progressivo": "043",
+                "nome": "Oddish",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/d/d5/oddishombreinfuocate4.jpg",
+                "abilita": [
+                    "Clorofilla",
+                    "Fugafacile"
+                ]
+            },
+            {
+                "numero": "5/169",
+                "progressivo": "044",
+                "nome": "Gloom",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/7/72/gloomombreinfuocate5.jpg",
+                "abilita": [
+                    "Clorofilla",
+                    "Tanfo"
+                ]
+            },
+            {
+                "numero": "6/169",
+                "progressivo": "045",
+                "nome": "Vileplume",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/9/93/vileplumeombreinfuocate6.jpg",
+                "abilita": [
+                    "Clorofilla",
+                    "Spargispora"
+                ]
+            },
+            {
+                "numero": "7/169",
+                "progressivo": "114",
+                "nome": "Tangela",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/3/34/tangelaombreinfuocate7.jpg",
+                "abilita": [
+                    "Clorofilla",
+                    "Fogliamento",
+                    "Rigenergia"
+                ]
+            },
+            {
+                "numero": "8/169",
+                "progressivo": "465",
+                "nome": "Tangrowth",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/9/99/tangrowthombreinfuocate8.jpg",
+                "abilita": [
+                    "Clorofilla",
+                    "Fogliamento",
+                    "Rigenergia"
+                ]
+            },
+            {
+                "numero": "9/169",
+                "progressivo": "165",
+                "nome": "Ledyba",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/8/81/ledybaombreinfuocate9.jpg",
+                "abilita": [
+                    "Aiutinsetto",
+                    "Sveglialampo",
+                    "Paura"
+                ]
+            },
+            {
+                "numero": "10/169",
+                "progressivo": "166",
+                "nome": "Ledian",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/6/6b/ledianombreinfuocate10.jpg",
+                "abilita": [
+                    "Aiutinsetto",
+                    "Sveglialampo",
+                    "Ferropugno"
+                ]
+            },
+            {
+                "numero": "11/169",
+                "progressivo": "214",
+                "nome": "Heracross",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/e/ef/heracrossombreinfuocate11.jpg",
+                "abilita": [
+                    "Aiutinsetto",
+                    "Dentistretti",
+                    "Arroganza"
+                ]
+            },
+            {
+                "numero": "12/169",
+                "progressivo": "511",
+                "nome": "Pansage",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/3/3b/pansageombreinfuocate12.jpg",
+                "abilita": [
+                    "Voracit\u00e0",
+                    "Erbaiuto",
+                    "Fien"
+                ]
+            },
+            {
+                "numero": "13/169",
+                "progressivo": "512",
+                "nome": "Simisage",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/0/00/simisageombreinfuocate13.jpg",
+                "abilita": [
+                    "Voracit\u00e0",
+                    "Erbaiuto"
+                ]
+            },
+            {
+                "numero": "14/169",
+                "progressivo": "751",
+                "nome": "Dewpider",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/7/7a/dewpiderombreinfuocate14.jpg",
+                "abilita": [
+                    "Bolladacqua",
+                    "Assorbacqua"
+                ]
+            },
+            {
+                "numero": "15/169",
+                "progressivo": "752",
+                "nome": "Araquanid",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/b/b8/araquanidombreinfuocate15.jpg",
+                "abilita": [
+                    "Bolladacqua",
+                    "Assorbacqua"
+                ]
+            },
+            {
+                "numero": "16/169",
+                "progressivo": "767",
+                "nome": "Winpod",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/8/8f/wimpodombreinfuocate16.jpg",
+                "abilita": [
+                    "Fuggifuggi"
+                ]
+            },
+            {
+                "numero": "17/169",
+                "progressivo": "768",
+                "nome": "Golisopod",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/3/3a/golisopodgxombreinfuocate17.jpg",
+                "abilita": [
+                    "Passoindietro"
+                ]
+            },
+            {
+                "numero": "19/169",
+                "progressivo": "004",
+                "nome": "Charmander",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/3/32/charmanderombreinfuocate18.jpg",
+                "abilita": [
+                    "Aiutofuoco",
+                    "Solarpotere"
+                ]
+            },
+            {
+                "numero": "18/169",
+                "progressivo": "005",
+                "nome": "Charmeleon",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/2/2a/charmeleonombreinfuocate19.jpg",
+                "abilita": [
+                    "Aiutofuoco",
+                    "Solarpotere"
+                ]
+            },
+            {
+                "numero": "20/169",
+                "progressivo": "006",
+                "nome": "Charizard GX",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/7/74/charizardgxombreinfuocate20.jpg",
+                "abilita": [
+                    "Unghiedure/Siccità"
+                ]
+            },
+            {
+                "numero": "21/169",
+                "progressivo": "250",
+                "nome": "Ho-oh GX",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/9/9f/ho-ohgxombreinfuocate21.jpg",
+                "abilita": [
+                    "Pressione",
+                    "Rigenergia"
+                ]
+            },
+            {
+                "numero": "22/169",
+                "progressivo": "513",
+                "nome": "Pansear",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/6/68/pansearombreinfuocate22.jpg",
+                "abilita": [
+                    "Voracit\u00e0",
+                    "Aiutofuoco"
+                ]
+            },
+            {
+                "numero": "23/169",
+                "progressivo": "514",
+                "nome": "Simisear",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://assets.pokemon.com/assets/cms2-it-it/img/cards/web/sm3/sm3_it_23.png",
+                "abilita": [
+                    "Voracit\u00e0",
+                    "Aiutofuoco"
+                ]
+            },
+            {
+                "numero": "24/169",
+                "progressivo": "631",
+                "nome": "Heatmor",
+                "stadio_evolutivo": "Base",
+                "url": "https://assets.pokemon.com/assets/cms2-it-it/img/cards/web/sm3/sm3_it_24.png",
+                "abilita": [
+                    "Voracit\u00e0",
+                    "Fuocardore",
+                    "Fumochiaro"
+                ]
+            },
+            {
+                "numero": "25/169",
+                "progressivo": "758",
+                "nome": "Salazzle GX",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/e/eb/salazzlegxombreinfuocate25.jpg",
+                "abilita": [
+                    "Corrosione",
+                    "Indifferenza"
+                ]
+            },
+            {
+                "numero": "26/169",
+                "progressivo": "776",
+                "nome": "Turtonator",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/4/40/turtonatorsmpromo27.jpg",
+                "abilita": [
+                    "Guscioscudo"
+                ]
+            },
+            {
+                "numero": "27/169",
+                "progressivo": "037",
+                "nome": "Vulpix di alola",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/b/b3/vulpixdialolaombreinfuocate27.jpg",
+                "abilita": [
+                    "Mantelneve",
+                    "Scendineve"
+                ]
+            },
+            {
+                "numero": "28/169",
+                "progressivo": "038",
+                "nome": "Ninetales di alola",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/b/b6/ninetalesdialolaombreinfuocate28.jpg",
+                "abilita": [
+                    "Mantelneve",
+                    "Scendineve"
+                ]
+            },
+            {
+                "numero": "29/169",
+                "progressivo": "116",
+                "nome": "Horsea",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/6/62/horseaombreinfuocate29.jpg",
+                "abilita": [
+                    "Nuotovelox",
+                    "Cecchino",
+                    "Umidit\u00e0"
+                ]
+            },
+            {
+                "numero": "30/169",
+                "progressivo": "117",
+                "nome": "Seadra",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/c/c1/seadraombreinfuocate30.jpg",
+                "abilita": [
+                    "Velenopunte",
+                    "Cecchino",
+                    "Umidit\u00e0"
+                ]
+            },
+            {
+                "numero": "31/169",
+                "progressivo": "230",
+                "nome": "Kingdra",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/a/ac/kingdraombreinfuocate31.jpg",
+                "abilita": [
+                    "Nuotovelox",
+                    "Cecchino",
+                    "Umidit\u00e0"
+                ]
+            },
+            {
+                "numero": "32/169",
+                "progressivo": "129",
+                "nome": "Magikarp",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/b/be/magikarpombreinfuocate32.jpg",
+                "abilita": [
+                    "Nuotovelox",
+                    "Paura"
+                ]
+            },
+            {
+                "numero": "33/169",
+                "progressivo": "130",
+                "nome": "Gyarados",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/a/a6/gyaradosombreinfuocate33.jpg",
+                "abilita": [
+                    "Prepotenza",
+                    "Arroganza"
+                ]
+            },
+            {
+                "numero": "34/169",
+                "progressivo": "183",
+                "nome": "Marill",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/4/4c/marillombreinfuocate34.jpg",
+                "abilita": [
+                    "Grassospesso",
+                    "Macroforza",
+                    "Mangiaerba"
+                ]
+            },
+            {
+                "numero": "35/169",
+                "progressivo": "184",
+                "nome": "Azumarill",
+                "stadio_evolutivo": "Fase 1",
+                "url": ">https://media.pokemoncentral.it/wiki/d/d6/azumarillombreinfuocate35.jpg",
+                "abilita": [
+                    "Grassospesso",
+                    "Macroforza",
+                    "Mangiaerba"
+                ]
+            },
+            {
+                "numero": "36/169",
+                "progressivo": "515",
+                "nome": "Panpour",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/3/33/panpourombreinfuocate36.jpg",
+                "abilita": [
+                    "Voracit\u00e0",
+                    "Acquaiuto"
+                ]
+            },
+            {
+                "numero": "37/169",
+                "progressivo": "516",
+                "nome": "Simipour",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/a/a5/simipourombreinfuocate37.jpg",
+                "abilita": [
+                    "Voracit\u00e0",
+                    "Acquaiuto"
+                ]
+            },
+            {
+                "numero": "38/169",
+                "progressivo": "779",
+                "nome": "Bruxish",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/7/71/bruxishombreinfuocate38.jpg",
+                "abilita": [
+                    "Corposgargiante",
+                    "Ferromascella",
+                    "Splendicute"
+                ]
+            },
+            {
+                "numero": "39/169",
+                "progressivo": "788",
+                "nome": "Tapu Fini GX",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/f/fe/tapufinigxombreinfuocate39.jpg",
+                "abilita": [
+                    "Nebbiogenesi",
+                    "Telepatia"
+                ]
+            },
+            {
+                "numero": "40/169",
+                "progressivo": "025",
+                "nome": "Pikachu",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/7/7a/pikachuombreinfuocate40.jpg",
+                "abilita": [
+                    "Statico",
+                    "Parafulmine"
+                ]
+            },
+            {
+                "numero": "41/169",
+                "progressivo": "026",
+                "nome": "Raichu",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/b/b3/raichuombreinfuocate41.jpg",
+                "abilita": [
+                    "Statico",
+                    "Parafulmine"
+                ]
+            },
+            {
+                "numero": "42/169",
+                "progressivo": "125",
+                "nome": "Electabuzz",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/7/74/electabuzzombreinfuocate42.jpg",
+                "abilita": [
+                    "Statico",
+                    "Spiritovivo"
+                ]
+            },
+            {
+                "numero": "43/169",
+                "progressivo": "466",
+                "nome": "Electivire",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/9/9b/electivireombreinfuocate43.jpg",
+                "abilita": [
+                    "Elettrorapid",
+                    "Spiritovivo"
+                ]
+            },
+            {
+                "numero": "44/169",
+                "progressivo": "602",
+                "nome": "Tynamo",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/a/ab/tynamoombreinfuocate44.jpg",
+                "abilita": [
+                    "Levitazione"
+                ]
+            },
+            {
+                "numero": "45/169",
+                "progressivo": "603",
+                "nome": "Eelektrik",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/5/5f/eelektrikombreinfuocate45.jpg",
+                "abilita": [
+                    "Levitazione"
+                ]
+            },
+            {
+                "numero": "46/169",
+                "progressivo": "604",
+                "nome": "Eelektross",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/4/46/eelektrossombreinfuocate46.jpg",
+                "abilita": [
+                    "Levitazione"
+                ]
+            },
+            {
+                "numero": "47/169",
+                "progressivo": "777",
+                "nome": "Togedemaru",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/1/19/togedemaruombreinfuocate47.jpg",
+                "abilita": [
+                    "Spineferrate",
+                    "Parafulmine",
+                    "Vigore"
+                ]
+            },
+            {
+                "numero": "48/169",
+                "progressivo": "199",
+                "nome": "Slowking",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/e/ea/slowkingombreinfuocate48.jpg",
+                "abilita": [
+                    "Indifferenza",
+                    "Mente locale",
+                    "Rigenergia"
+                ]
+            },
+            {
+                "numero": "49/169",
+                "progressivo": "202",
+                "nome": "Wobbuffet",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/c/c4/wobbuffetombreinfuocate49.jpg",
+                "abilita": [
+                    "Pedinombra",
+                    "Telepatia"
+                ]
+            },
+            {
+                "numero": "50/169",
+                "progressivo": "336",
+                "nome": "Seviper",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/d/df/seviperombreinfuocate50.jpg",
+                "abilita": [
+                    "Muta",
+                    "Intrapasso"
+                ]
+            },
+            {
+                "numero": "51/169",
+                "progressivo": "355",
+                "nome": "Duskull",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/2/21/duskullombreinfuocate51.jpg",
+                "abilita": [
+                    "Levitazione",
+                    "Indagine"
+                ]
+            },
+            {
+                "numero": "52/169",
+                "progressivo": "356",
+                "nome": "Dusclops",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/4/44/dusclopsombreinfuocate52.jpg",
+                "abilita": [
+                    "Pressione",
+                    "Indagine"
+                ]
+            },
+            {
+                "numero": "53/169",
+                "progressivo": "477",
+                "nome": "Dusknoir",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/8/86/dusknoirombreinfuocate53.jpg",
+                "abilita": [
+                    "Pressione",
+                    "Indagine"
+                ]
+            },
+            {
+                "numero": "54/169",
+                "progressivo": "453",
+                "nome": "Croagunk",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/b/b9/croagunkombreinfuocate54.jpg",
+                "abilita": [
+                    "Presagio",
+                    "Pellearsa",
+                    "Velentocco"
+                ]
+            },
+            {
+                "numero": "55/169",
+                "progressivo": "454",
+                "nome": "Toxicroak",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/3/30/toxicroakombreinfuocate55.jpg",
+                "abilita": [
+                    "Presagio",
+                    "Pellearsa",
+                    "Velentocco"
+                ]
+            },
+            {
+                "numero": "56/169",
+                "progressivo": "543",
+                "nome": "Venipede",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/4/4f/venipedeombreinfuocate56.jpg",
+                "abilita": [
+                    "Velenopunte",
+                    "Aiutinsetto",
+                    "Piedisvelti"
+                ]
+            },
+            {
+                "numero": "57/169",
+                "progressivo": "544",
+                "nome": "Whirlipede",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/a/a1/whirlipedeombreinfuocate57.jpg",
+                "abilita": [
+                    "Velenopunte",
+                    "Aiutinsetto",
+                    "Piedisvelti"
+                ]
+            },
+            {
+                "numero": "58/169",
+                "progressivo": "545",
+                "nome": "Scolipede",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/9/92/scolipedeombreinfuocate58.jpg",
+                "abilita": [
+                    "Velenopunte",
+                    "Aiutinsetto",
+                    "Piedisvelti"
+                ]
+            },
+            {
+                "numero": "59/169",
+                "progressivo": "677",
+                "nome": "Espurr",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/2/20/espurrombreinfuocate59.jpg",
+                "abilita": [
+                    "Sguardofermo",
+                    "Intrapasso",
+                    "Mente locale"
+                ]
+            },
+            {
+                "numero": "60/169",
+                "progressivo": "678",
+                "nome": "Meowstic",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/5/52/meowsticombreinfuocate60.jpg",
+                "abilita": [
+                    "Sguardofermo",
+                    "Intrapasso",
+                    "Burla/tenacia"
+                ]
+            },
+            {
+                "numero": "61/169",
+                "progressivo": "769",
+                "nome": "Sandygast",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/5/53/sandygastombreinfuocate61.jpg",
+                "abilita": [
+                    "Idrorinforzo",
+                    "Sabbiavelo"
+                ]
+            },
+            {
+                "numero": "62/169",
+                "progressivo": "770",
+                "nome": "Palossand",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/1/19/palossandombreinfuocate62.jpg",
+                "abilita": [
+                    "Idrorinforzo",
+                    "Sabbiavelo"
+                ]
+            },
+            {
+                "numero": "63/169",
+                "progressivo": "800",
+                "nome": "Necrozma GX",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/e/e4/necrozmagxombreinfuocate63.jpg",
+                "abilita": [
+                    "Cerebroforza"
+                ]
+            },
+            {
+                "numero": "64/169",
+                "progressivo": "068",
+                "nome": "Machamp GX",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/1/1e/machampgxombreinfuocate64.jpg",
+                "abilita": [
+                    "Dentistretti",
+                    "Nullodifesa",
+                    "Cuordeciso"
+                ]
+            },
+            {
+                "numero": "65/169",
+                "progressivo": "111",
+                "nome": "Rhyhorn",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/a/ac/rhyhornombreinfuocate65.jpg",
+                "abilita": [
+                    "Parafulmine",
+                    "Testadura",
+                    "Temerariet\u00e0"
+                ]
+            },
+            {
+                "numero": "66/169",
+                "progressivo": "112",
+                "nome": "Rhydon",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/8/8c/rhydonombreinfuocate66.jpg",
+                "abilita": [
+                    "Parafulmine",
+                    "Testadura",
+                    "Temerarietà"
+                ]
+            },
+            {
+                "numero": "67/169",
+                "progressivo": "464",
+                "nome": "Rhyperior",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/9/9d/rhyperiorombreinfuocate67.jpg",
+                "abilita": [
+                    "Parafulmine",
+                    "Solidroccia",
+                    "Temerariet\u00e0"
+                ]
+            },
+            {
+                "numero": "68/169",
+                "progressivo": "337",
+                "nome": "Lunatone",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/6/60/lunatoneombreinfuocate68.jpg",
+                "abilita": [
+                    "Levitazione"
+                ]
+            },
+            {
+                "numero": "69/169",
+                "progressivo": "338",
+                "nome": "Solrock",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/b/b3/solrockombreinfuocate69.jpg",
+                "abilita": [
+                    "Levitazione"
+                ]
+            },
+            {
+                "numero": "70/169",
+                "progressivo": "447",
+                "nome": "Riolu",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/d/d9/rioluombreinfuocate70.jpg",
+                "abilita": [
+                    "Cuordeciso",
+                    "Forza interiore",
+                    "Burla"
+                ]
+            },
+            {
+                "numero": "71/169",
+                "progressivo": "448",
+                "nome": "Lucario",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/3/3a/lucarioombreinfuocate71.jpg",
+                "abilita": [
+                    "Cuordeciso",
+                    "Forza interiore",
+                    "Giustizia"
+                ]
+            },
+            {
+                "numero": "72/169",
+                "progressivo": "539",
+                "nome": "Sawk",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/5/55/sawkombreinfuocate72.jpg",
+                "abilita": [
+                    "Vigore",
+                    "Forza interiore",
+                    "Rompiforma"
+                ]
+            },
+            {
+                "numero": "73/169",
+                "progressivo": "739",
+                "nome": "Crabrawler",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/1/1c/crabrawlerombreinfuocate73.jpg",
+                "abilita": [
+                    "Ipertaglio",
+                    "Ferropugno",
+                    "Grancollera"
+                ]
+            },
+            {
+                "numero": "74/169",
+                "progressivo": "740",
+                "nome": "Crabominable",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/e/eb/crabominableombreinfuocate74.jpg",
+                "abilita": [
+                    "Ipertaglio",
+                    "Ferropugno",
+                    "Grancollera"
+                ]
+            },
+            {
+                "numero": "75/169",
+                "progressivo": "745",
+                "nome": "Lycanroc",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/7/73/lycanrocombreinfuocate75.jpg",
+                "abilita": [
+                    "Sguardofermo",
+                    "Remasabbia",
+                    "Cuordeciso"
+                ]
+            },
+            {
+                "numero": "76/169",
+                "progressivo": "745",
+                "nome": "Lycanroc",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/9/9d/lycanrocashvsteamrocketdeck12.jpg",
+                "abilita": [
+                    "Sguardofermo",
+                    "Spiritovivo",
+                    "Nullodifesa"
+                ]
+            },
+            {
+                "numero": "77/169",
+                "progressivo": "749",
+                "nome": "Mudbray",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/2/28/mudbrayombreinfuocate77.jpg",
+                "abilita": [
+                    "Mente locale",
+                    "Sopportazione",
+                    "Forza interiore"
+                ]
+            },
+            {
+                "numero": "78/169",
+                "progressivo": "750",
+                "nome": "Mudsdale",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/c/c5/mudsdaleombreinfuocate78.jpg",
+                "abilita": [
+                    "Mente locale",
+                    "Sopportazione",
+                    "Forza interiore"
+                ]
+            },
+            {
+                "numero": "79/169",
+                "progressivo": "766",
+                "nome": "Passimian",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/4/49/passimianombreinfuocate79.jpg",
+                "abilita": [
+                    "Ricezione",
+                    "Agonismo"
+                ]
+            },
+            {
+                "numero": "80/169",
+                "progressivo": "802",
+                "nome": "Marshadow GX",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/d/d9/marshadowgxombreinfuocate80.jpg",
+                "abilita": [
+                    "Tecnico"
+                ]
+            },
+            {
+                "numero": "81/169",
+                "progressivo": "019",
+                "nome": "Rattata di alola",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/b/bb/rattatadialolaombreinfuocate81.jpg",
+                "abilita": [
+                    "Voracit\u00e0",
+                    "Tuttafretta",
+                    "Grassospesso"
+                ]
+            },
+            {
+                "numero": "82/169",
+                "progressivo": "020",
+                "nome": "Raticate di alola",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/a/af/raticatedialolaombreinfuocate82.jpg",
+                "abilita": [
+                    "Voracit\u00e0",
+                    "Tuttafretta",
+                    "Grassospesso"
+                ]
+            },
+            {
+                "numero": "83/169",
+                "progressivo": "088",
+                "nome": "Grimer di alola",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/1/17/grimerdialolaombreinfuocate83.jpg",
+                "abilita": [
+                    "Velentocco",
+                    "Voracit\u00e0",
+                    "Forza chimica"
+                ]
+            },
+            {
+                "numero": "84/169",
+                "progressivo": "089",
+                "nome": "Muk di alola GX",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/7/78/mukdialolagxombreinfuocate84.jpg",
+                "abilita": [
+                    "Velentocco",
+                    "Voracit\u00e0",
+                    "Forza chimica"
+                ]
+            },
+            {
+                "numero": "85/169",
+                "progressivo": "215",
+                "nome": "Sneasel",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/1/13/sneaselombreinfuocate85.jpg",
+                "abilita": [
+                    "Forza interiore",
+                    "Sguardofermo",
+                    "Arraffalesto"
+                ]
+            },
+            {
+                "numero": "86/169",
+                "progressivo": "461",
+                "nome": "Weaville",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/c/c1/weavileombreinfuocate86.jpg",
+                "abilita": [
+                    "Pressione",
+                    "Arraffalesto"
+                ]
+            },
+            {
+                "numero": "87/169",
+                "progressivo": "491",
+                "nome": "Darkrai",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/c/c6/darkraiombreinfuocate87.jpg",
+                "abilita": [
+                    "Sogniamari"
+                ]
+            },
+            {
+                "numero": "88/169",
+                "progressivo": "491",
+                "nome": "Darkrai GX",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokehttps://media.pokemoncentral.it/wiki/f/f8/darkraigxombreinfuocate88.jpg",
+                "abilita": [
+                    "Sogniamari"
+                ]
+            },
+            {
+                "numero": "89/169",
+                "progressivo": "686",
+                "nome": "Inkay",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/5/56/inkayombreinfuocate89.jpg",
+                "abilita": [
+                    "Inversione",
+                    "Ventose",
+                    "Intrapasso"
+                ]
+            },
+            {
+                "numero": "90/169",
+                "progressivo": "687",
+                "nome": "Malamar",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/f/f2/malamarombreinfuocate90.jpg",
+                "abilita": [
+                    "Inversione",
+                    "Ventose",
+                    "Intrapasso"
+                ]
+            },
+            {
+                "numero": "91/169",
+                "progressivo": "280",
+                "nome": "Ralts",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/4/48/raltsombreinfuocate91.jpg",
+                "abilita": [
+                    "Sincronismo",
+                    "Traccia",
+                    "Telepatia"
+                ]
+            },
+            {
+                "numero": "92/169",
+                "progressivo": "281",
+                "nome": "Kirlia",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/b/be/kirliaombreinfuocate92.jpg",
+                "abilita": [
+                    "Sincronismo",
+                    "Traccia",
+                    "Telepatia"
+                ]
+            },
+            {
+                "numero": "93/169",
+                "progressivo": "282",
+                "nome": "Gardevoir GX",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/4/47/gardevoirgxombreinfuocate93.jpg",
+                "abilita": [
+                    "Pellefolletto"
+                ]
+            },
+            {
+                "numero": "94/169",
+                "progressivo": "719",
+                "nome": "Diancie",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/d/d4/diancieombreinfuocate94.jpg",
+                "abilita": [
+                    "Corpochiaro"
+                ]
+            },
+            {
+                "numero": "95/169",
+                "progressivo": "742",
+                "nome": "Cutiefly",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/4/4d/cutieflyombreinfuocate95.jpg",
+                "abilita": [
+                    "Mielincetta",
+                    "Polvoscudo",
+                    "Dolcevelo"
+                ]
+            },
+            {
+                "numero": "96/169",
+                "progressivo": "743",
+                "nome": "Ribombee",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/7/7b/ribombeeombreinfuocate96.jpg",
+                "abilita": [
+                    "Mielincetta",
+                    "Polvoscudo",
+                    "Dolcevelo"
+                ]
+            },
+            {
+                "numero": "97/169",
+                "progressivo": "755",
+                "nome": "Morelull",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/c/c9/morelullombreinfuocate97.jpg",
+                "abilita": [
+                    "Risplendi",
+                    "Spargispora",
+                    "Copripioggia"
+                ]
+            },
+            {
+                "numero": "98/169",
+                "progressivo": "756",
+                "nome": "Shiinotic",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/0/06/shiinoticombreinfuocate98.jpg",
+                "abilita": [
+                    "Risplendi",
+                    "Spargispora",
+                    "Copripioggia"
+                ]
+            },
+            {
+                "numero": "99/169",
+                "progressivo": "715",
+                "nome": "Noivern GX",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/5/58/noiverngxombreinfuocate99.jpg",
+                "abilita": [
+                    "Indagine",
+                    "Intrapasso",
+                    "Telepatia"
+                ]
+            },
+            {
+                "numero": "100/169",
+                "progressivo": "718",
+                "nome": "Zygarde",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/6/65/zygardeombreinfuocate100.jpg",
+                "abilita": [
+                    "Frangiaura - sciamefusione [forma 10% e 50%]",
+                    "Sciamefusione [forma perfetta]"
+                ]
+            },
+            {
+                "numero": "101/169",
+                "progressivo": "052",
+                "nome": "Meowth",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/3/31/meowthombreinfuocate101.jpg",
+                "abilita": [
+                    "Raccolta",
+                    "Tecnico",
+                    "Agitazione"
+                ]
+            },
+            {
+                "numero": "102/169",
+                "progressivo": "053",
+                "nome": "Persian",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/1/1f/persianombreinfuocate102.jpg",
+                "abilita": [
+                    "Scioltezza",
+                    "Tecnico",
+                    "Agitazione"
+                ]
+            },
+            {
+                "numero": "103/169",
+                "progressivo": "137",
+                "nome": "Porygon",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/8/8f/porygonombreinfuocate103.jpg",
+                "abilita": [
+                    "Traccia",
+                    "Download",
+                    "Ponderazione"
+                ]
+            },
+            {
+                "numero": "104/169",
+                "progressivo": "233",
+                "nome": "Porygon2",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/f/fd/porygon2ombreinfuocate104.jpg",
+                "abilita": [
+                    "Traccia",
+                    "Download",
+                    "Ponderazione"
+                ]
+            },
+            {
+                "numero": "105/169",
+                "progressivo": "474",
+                "nome": "Porygon-z",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/1/17/porygon-zombreinfuocate105.jpg",
+                "abilita": [
+                    "Adattabilit\u00e0",
+                    "Download",
+                    "Ponderazione"
+                ]
+            },
+            {
+                "numero": "106/169",
+                "progressivo": "163",
+                "nome": "Hoothoot",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/c/ca/hoothootombreinfuocate106.jpg",
+                "abilita": [
+                    "Insonnia",
+                    "Sguardofermo",
+                    "Lentifum\u00e9"
+                ]
+            },
+            {
+                "numero": "107/169",
+                "progressivo": "164",
+                "nome": "Noctowl",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/d/d3/noctowlombreinfuocate107.jpg",
+                "abilita": [
+                    "Insonnia",
+                    "Sguardofermo",
+                    "Lentifum\u00e9"
+                ]
+            },
+            {
+                "numero": "108/169",
+                "progressivo": "626",
+                "nome": "Bouffalant",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/b/b1/bouffalantombreinfuocate108.jpg",
+                "abilita": [
+                    "Temerariet\u00e0",
+                    "Mangiaerba",
+                    "Antisuono"
+                ]
+            },
+            {
+                "numero": "109/169",
+                "progressivo": "714",
+                "nome": "Noibat",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/2/2e/noibatombreinfuocate109.jpg",
+                "abilita": [
+                    "Indagine",
+                    "Intrapasso",
+                    "Telepatia"
+                ]
+            },
+            {
+                "numero": "110/169",
+                "progressivo": "759",
+                "nome": "Stufful",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/9/9a/stuffulombreinfuocate110.jpg",
+                "abilita": [
+                    "Morbidone",
+                    "Impaccio",
+                    "Incantevole"
+                ]
+            },
+            {
+                "numero": "111/169",
+                "progressivo": "760",
+                "nome": "Bewear",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/7/74/bewearombreinfuocate111.jpg",
+                "abilita": [
+                    "Morbidone",
+                    "Impaccio",
+                    "Agitazione"
+                ]
+            },
+            {
+                "numero": "112/169",
+                "progressivo": "999",
+                "nome": "Malpi",
+                "stadio_evolutivo": "Fase 3",
+                "url": "https://media.pokemoncentral.it/wiki/5/54/malpiombreinfuocate112.jpg",
+                "abilita": [
+                    "Allenatore"
+                ]
+            },
+            {
+                "numero": "113/169",
+                "progressivo": "000",
+                "nome": "Fune di fuga",
+                "stadio_evolutivo": "Allenatore",
+                "url": "https://media.pokemoncentral.it/wiki/8/82/manubridelculturistaombreinfuocate113.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "114/169",
+                "progressivo": "000",
+                "nome": "Fune di fuga",
+                "stadio_evolutivo": "Allenatore",
+                "url": "https://media.pokemoncentral.it/wiki/8/8c/funedifugauraganoplasma120.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "115/169",
+                "progressivo": "000",
+                "nome": "Guzman",
+                "stadio_evolutivo": "Allenatore",
+                "url": "https://media.pokemoncentral.it/wiki/3/39/guzmanombreinfuocate115.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "116/169",
+                "progressivo": "000",
+                "nome": "Kawe",
+                "stadio_evolutivo": "Allenatore",
+                "url": "https://media.pokemoncentral.it/wiki/f/f1/kaweombreinfuocate116.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "117/169",
+                "progressivo": "000",
+                "nome": "Suiren",
+                "stadio_evolutivo": "Allenatore",
+                "url": "https://media.pokemoncentral.it/wiki/d/d1/suirenombreinfuocate117.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "118/169",
+                "progressivo": "000",
+                "nome": "Monte lanakila",
+                "stadio_evolutivo": "Allenatore",
+                "url": "https://media.pokemoncentral.it/wiki/1/18/montelanakilaombreinfuocate118.jpg",
+                "abilita": [
+                    "Nessuna",
+                    "Ine"
+                ]
+            },
+            {
+                "numero": "119/169",
+                "progressivo": "000",
+                "nome": "Alyxia",
+                "stadio_evolutivo": "Allenatore",
+                "url": "https://wiki.pokemoncentral.it/alyxia_(ombre_infuocate_119)#/media/file:alyxiaombreinfuocate119.jpg",
+                "abilita": [
+                    "Fine"
+                ]
+            },
+            {
+                "numero": "120/169",
+                "progressivo": "000",
+                "nome": "Plumeria",
+                "stadio_evolutivo": "Allenatore",
+                "url": "https://media.pokemoncentral.it/wiki/6/6d/plumeriaombreinfuocate120.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "121/169",
+                "progressivo": "000",
+                "nome": "Poh",
+                "stadio_evolutivo": "Allenatore",
+                "url": "https://media.pokemoncentral.it/wiki/e/e7/pohombreinfuocate121.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "122/169",
+                "progressivo": "000",
+                "nome": "Pok\u00e9dex rotom - modalit\u00e0 pok\u00e9visore",
+                "stadio_evolutivo": "Allenatore",
+                "url": "https://media.pokemoncentral.it/wiki/e/e9/pokedexrotom-modalit%c3%a0pok%c3%a9visoreombreinfuocate122.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "123/169",
+                "progressivo": "000",
+                "nome": "Chrys",
+                "stadio_evolutivo": "Allenatore",
+                "url": "https://media.pokemoncentral.it/wiki/f/fb/chrysombreinfuocate123.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "124/169",
+                "progressivo": "000",
+                "nome": "Super recupero",
+                "stadio_evolutivo": "Allenatore",
+                "url": "https://media.pokemoncentral.it/wiki/d/d0/superscoopupfuriousfists100.png",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "125/169",
+                "progressivo": "000",
+                "nome": "Spray attaccabrighe",
+                "stadio_evolutivo": "Allenatore",
+                "url": "https://media.pokemoncentral.it/wiki/5/53/sprayattaccabrigheombreinfuocate125.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "126/169",
+                "progressivo": "000",
+                "nome": "Vulneropolizza",
+                "stadio_evolutivo": "Allenatore",
+                "url": "https://media.pokemoncentral.it/wiki/1/12/weaknesspolicyprimalclash142.png",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "127/169",
+                "progressivo": "000",
+                "nome": "Ciceria",
+                "stadio_evolutivo": "Allenatore",
+                "url": "https://media.pokemoncentral.it/wiki/e/e9/ciceriaombreinfuocate127.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "128/169",
+                "progressivo": "000",
+                "nome": "Testimone della speranza",
+                "stadio_evolutivo": "Allenatore",
+                "url": "https://media.pokemoncentral.it/wiki/3/39/testimonedellasperanzaombreinfuocate128.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "129/169",
+                "progressivo": "768",
+                "nome": "Golisopod gx",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/3/3a/golisopodgxombreinfuocate17.jpg",
+                "abilita": [
+                    "Passoindietro"
+                ]
+            },
+            {
+                "numero": "130/169",
+                "progressivo": "787",
+                "nome": "Tapu bulu gx",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/a/aa/tapubulugxsmpromo32.jpg",
+                "abilita": [
+                    "Erbogenesi",
+                    "Telepatia"
+                ]
+            },
+            {
+                "numero": "131/169",
+                "progressivo": "250",
+                "nome": "Ho-oh gx",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/9/9f/Ho-OhGXOmbreInfuocate21.jpg",
+                "abilita": [
+                    "Pressione",
+                    "Rigenergia"
+                ]
+            },
+            {
+                "numero": "132/169",
+                "progressivo": "758",
+                "nome": "Salazzle gx",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/e/eb/salazzlegxombreinfuocate25.jpg",
+                "abilita": [
+                    "Corrosione",
+                    "Indifferenza"
+                ]
+            },
+            {
+                "numero": "133/169",
+                "progressivo": "788",
+                "nome": "Tapu fini gx",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/f/fe/tapufinigxombreinfuocate39.jpg",
+                "abilita": [
+                    "Nebbiogenesi",
+                    "Telepatia"
+                ]
+            },
+            {
+                "numero": "134/169",
+                "progressivo": "800",
+                "nome": "Necrozma gx",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/e/e4/necrozmagxombreinfuocate63.jpg",
+                "abilita": [
+                    "Scudoprisma"
+                ]
+            },
+            {
+                "numero": "135/169",
+                "progressivo": "068",
+                "nome": "Machamp gx",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/1/1e/machampgxombreinfuocate64.jpg",
+                "abilita": [
+                    "Dentistretti",
+                    "Nullodifesa",
+                    "Cuordeciso"
+                ]
+            },
+            {
+                "numero": "136/169",
+                "progressivo": "745",
+                "nome": "Lycanroc gx",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/5/52/lycanrocgxsmpromo14.jpg",
+                "abilita": [
+                    "Sguardofermo",
+                    "Remasabbia/spiritovivo",
+                    "Cuordeciso/nullodifesa"
+                ]
+            },
+            {
+                "numero": "137/169",
+                "progressivo": "802",
+                "nome": "Marshadow gx",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/d/d9/marshadowgxombreinfuocate80.jpg",
+                "abilita": [
+                    "Tecnico"
+                ]
+            },
+            {
+                "numero": "138/169",
+                "progressivo": "089",
+                "nome": "Muk di alola gx",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/7/78/mukdialolagxombreinfuocate84.jpg",
+                "abilita": [
+                    "Velentocco",
+                    "Voracit\u00e0",
+                    "Forza chimica"
+                ]
+            },
+            {
+                "numero": "139/169",
+                "progressivo": "491",
+                "nome": "Darkrai gx",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/f/f8/darkraigxombreinfuocate88.jpg",
+                "abilita": [
+                    "Sogniamari"
+                ]
+            },
+            {
+                "numero": "140/169",
+                "progressivo": "282",
+                "nome": "Gardevoir gx",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/4/47/gardevoirgxombreinfuocate93.jpg",
+                "abilita": [
+                    "Pellefolletto"
+                ]
+            },
+            {
+                "numero": "141/169",
+                "progressivo": "715",
+                "nome": "Noivern gx",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/5/58/noiverngxombreinfuocate99.jpg",
+                "abilita": [
+                    "Indagine ",
+                    "Intrapasso",
+                    "Telepatia"
+                ]
+            },
+            {
+                "numero": "142/169",
+                "progressivo": "999",
+                "nome": "Malpi",
+                "stadio_evolutivo": "Allenatore",
+                "url": "https://media.pokemoncentral.it/wiki/5/54/malpiombreinfuocate112.jpg",
+                "abilita": [
+                    "/"
+                ]
+            },
+            {
+                "numero": "143/169",
+                "progressivo": "999",
+                "nome": "Guzman",
+                "stadio_evolutivo": "Allenatore",
+                "url": "https://media.pokemoncentral.it/wiki/3/39/guzmanombreinfuocate115.jpg",
+                "abilita": [
+                    "/"
+                ]
+            },
+            {
+                "numero": "144/169",
+                "progressivo": "999",
+                "nome": "Kawe",
+                "stadio_evolutivo": "Allenatore",
+                "url": "https://media.pokemoncentral.it/wiki/f/f1/kaweombreinfuocate116.jpg",
+                "abilita": [
+                    "/"
+                ]
+            },
+            {
+                "numero": "145/169",
+                "progressivo": "999",
+                "nome": "Plumeria",
+                "stadio_evolutivo": "Allenatore",
+                "url": "https://media.pokemoncentral.it/wiki/6/6d/plumeriaombreinfuocate120.jpg",
+                "abilita": [
+                    "/"
+                ]
+            },
+            {
+                "numero": "146/169",
+                "progressivo": "999",
+                "nome": "Chrys",
+                "stadio_evolutivo": "Allenatore",
+                "url": "https://media.pokemoncentral.it/wiki/f/fb/chrysombreinfuocate123.jpg",
+                "abilita": [
+                    "/"
+                ]
+            },
+            {
+                "numero": "147/169",
+                "progressivo": "999",
+                "nome": "Ciceria",
+                "stadio_evolutivo": "Allenatore",
+                "url": "https://media.pokemoncentral.it/wiki/e/e9/ciceriaombreinfuocate127.jpg",
+                "abilita": [
+                    "/"
+                ]
+            },
+            {
+                "numero": "148/169",
+                "progressivo": "768",
+                "nome": "Golisopod gx",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/3/3a/golisopodgxombreinfuocate17.jpg",
+                "abilita": [
+                    "Passoindietro"
+                ]
+            },
+            {
+                "numero": "149/169",
+                "progressivo": "787",
+                "nome": "Tapu bulu gx",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/a/aa/tapubulugxsmpromo32.jpg",
+                "abilita": [
+                    "Erbogenesi",
+                    "Telepatia"
+                ]
+            },
+            {
+                "numero": "150/169",
+                "progressivo": "006",
+                "nome": "Charizard gx",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/7/74/charizardgxombreinfuocate20.jpg",
+                "abilita": [
+                    "Unghiedure/siccit\u00e0"
+                ]
+            },
+            {
+                "numero": "151/169",
+                "progressivo": "758",
+                "nome": "Salazzle gx",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/e/eb/salazzlegxombreinfuocate25.jpg",
+                "abilita": [
+                    "Corrosione",
+                    "Indifferenza"
+                ]
+            },
+            {
+                "numero": "152/169",
+                "progressivo": "788",
+                "nome": "Tapu fini gx",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/f/fe/tapufinigxombreinfuocate39.jpg",
+                "abilita": [
+                    "Nebbiogenesi",
+                    "Telepatia"
+                ]
+            },
+            {
+                "numero": "153/169",
+                "progressivo": "800",
+                "nome": "Necrozma gx",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/e/e4/necrozmagxombreinfuocate63.jpg",
+                "abilita": [
+                    "Scudoprisma"
+                ]
+            },
+            {
+                "numero": "154/169",
+                "progressivo": "068",
+                "nome": "Machamp gx",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/1/1e/machampgxombreinfuocate64.jpg",
+                "abilita": [
+                    "Dentistretti",
+                    "Nullodifesa",
+                    "Cuordeciso"
+                ]
+            },
+            {
+                "numero": "155/169",
+                "progressivo": "7",
+                "nome": "Lycanroc gx",
+                "stadio_evolutivo": "Fase 1",
+                "url": "745",
+                "abilita": [
+                    "Sguardofermo",
+                    "Remasabbia/spiritovivo",
+                    "Cuordeciso/nullodifesa"
+                ]
+            },
+            {
+                "numero": "156/169",
+                "progressivo": "802",
+                "nome": "Marshadow gx",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/d/d9/marshadowgxombreinfuocate80.jpg",
+                "abilita": [
+                    "Tecnico"
+                ]
+            },
+            {
+                "numero": "157/169",
+                "progressivo": "089",
+                "nome": "Muk di alola",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/7/78/mukdialolagxombreinfuocate84.jpg",
+                "abilita": [
+                    "Velentocco",
+                    "Voracit\u00e0",
+                    "Forza chimica"
+                ]
+            },
+            {
+                "numero": "158/169",
+                "progressivo": "491",
+                "nome": "Darkrai gx",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/f/f8/darkraigxombreinfuocate88.jpg",
+                "abilita": [
+                    "Sogniamari"
+                ]
+            },
+            {
+                "numero": "159/169",
+                "progressivo": "282",
+                "nome": "Gardevoir gx",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/4/47/gardevoirgxombreinfuocate93.jpg",
+                "abilita": [
+                    "Pellefolletto"
+                ]
+            },
+            {
+                "numero": "160/169",
+                "progressivo": "715",
+                "nome": "Noivern gx",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/5/58/noiverngxombreinfuocate99.jpg",
+                "abilita": [
+                    "Indagine",
+                    "Intrapasso",
+                    "Telepatia"
+                ]
+            },
+            {
+                "numero": "161/169",
+                "progressivo": "000",
+                "nome": "Manubri del culturista",
+                "stadio_evolutivo": "Allenatore",
+                "url": "https://media.pokemoncentral.it/wiki/8/82/manubridelculturistaombreinfuocate113.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "162/169",
+                "progressivo": "000",
+                "nome": "Bendascelta",
+                "stadio_evolutivo": "Allenatore",
+                "url": "https://media.pokemoncentral.it/wiki/8/81/bendasceltaguardianinascenti121.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "163/169",
+                "progressivo": "000",
+                "nome": "Fune di fuga",
+                "stadio_evolutivo": "Allenatore",
+                "url": "https://media.pokemoncentral.it/wiki/8/8c/funedifugauraganoplasma120.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "164/169",
+                "progressivo": "000",
+                "nome": "Scambio multiplo",
+                "stadio_evolutivo": "Allenatore",
+                "url": "https://media.pokemoncentral.it/wiki/f/f7/scambiomultiploguardianinascenti129.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "165/169",
+                "progressivo": "000",
+                "nome": "Barella",
+                "stadio_evolutivo": "Allenatore",
+                "url": "https://media.pokemoncentral.it/wiki/6/6d/barellaguardianinascenti130.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "166/169",
+                "progressivo": "000",
+                "nome": "Super recupero",
+                "stadio_evolutivo": "Allenatore",
+                "url": "https://media.pokemoncentral.it/wiki/d/d0/superscoopupfuriousfists100.png",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "167/169",
+                "progressivo": "000",
+                "nome": "Energia fuoco",
+                "stadio_evolutivo": "Energia",
+                "url": "https://media.pokemoncentral.it/wiki/a/a9/energia_fuoco_2019.png",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "168/169",
+                "progressivo": "000",
+                "nome": "Energia oscurit\u00e0",
+                "stadio_evolutivo": "Energia",
+                "url": "https://media.pokemoncentral.it/wiki/b/b5/energia_oscurit%c3%a0_2017.png",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "169/169",
+                "progressivo": "000",
+                "nome": "Energia folletto",
+                "stadio_evolutivo": "Energia",
+                "url": "https://media.pokemoncentral.it/wiki/5/58/energiafolletto.png",
+                "abilita": [
+                    "Nessuna"
+                ]
+            }
+        ]
+    }
 ]
