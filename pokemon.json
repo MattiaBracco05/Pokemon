@@ -2801,6 +2801,1663 @@
         ]
     },
     {
+        "numeroSet": "11",
+        "nomeSet": "Skyridge",
+        "annoUscita": "2003",
+        "figurine": [
+            {
+                "numero": "1",
+                "progressivo": "1/144",
+                "nome": "Aerodactyl",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Vento Antico",
+                    "Elevazione,"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/aa/MagcargoSkyridge18.jpg/180px-MagcargoSkyridge18.jpg"
+            },
+            {
+                "numero": "2",
+                "progressivo": "2/144",
+                "nome": "Alakazam",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Salto Energetico",
+                    "Psichico"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/aa/MagcargoSkyridge18.jpg/180px-MagcargoSkyridge18.jpg"
+            },
+            {
+                "numero": "3",
+                "progressivo": "3/144",
+                "nome": "Arcanine",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Ricarica Energia",
+                    "Agitazione"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/aa/MagcargoSkyridge18.jpg/180px-MagcargoSkyridge18.jpg"
+            },
+            {
+                "numero": "4",
+                "progressivo": "4/144",
+                "nome": "Articuno",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Ricarica Energia",
+                    "Agitazione"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/aa/MagcargoSkyridge18.jpg/180px-MagcargoSkyridge18.jpg"
+            },
+            {
+                "numero": "5",
+                "progressivo": "5/144",
+                "nome": "Beedrill",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Ricarica Energia",
+                    "Agitazione"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/aa/MagcargoSkyridge18.jpg/180px-MagcargoSkyridge18.jpg"
+            },
+            {
+                "numero": "6",
+                "progressivo": "6/144",
+                "nome": "Crobat",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Ricarica Energia",
+                    "Agitazione"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/aa/MagcargoSkyridge18.jpg/180px-MagcargoSkyridge18.jpg"
+            },
+            {
+                "numero": "7",
+                "progressivo": "7/144",
+                "nome": "Dewgong",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Gelo Presa",
+                    "Ghiaccio Stritolante"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/aa/MagcargoSkyridge18.jpg/180px-MagcargoSkyridge18.jpg"
+            },
+            {
+                "numero": "8",
+                "progressivo": "8/144",
+                "nome": "Flareon",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Automedicazione",
+                    "Scottata"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/aa/MagcargoSkyridge18.jpg/180px-MagcargoSkyridge18.jpg"
+            },
+            {
+                "numero": "9",
+                "progressivo": "9/144",
+                "nome": "Forretress",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Automedicazione",
+                    "Scottata"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/aa/MagcargoSkyridge18.jpg/180px-MagcargoSkyridge18.jpg"
+            },
+            {
+                "numero": "10",
+                "progressivo": "10/144",
+                "nome": "Gengar",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Manipolazioni",
+                    "Idrocinesi"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/aa/MagcargoSkyridge18.jpg/180px-MagcargoSkyridge18.jpg"
+            },
+            {
+                "numero": "11",
+                "progressivo": "11/144",
+                "nome": "Gyarados",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Manipolazioni",
+                    "Idrocinesi"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/aa/MagcargoSkyridge18.jpg/180px-MagcargoSkyridge18.jpg"
+            },
+            {
+                "numero": "12",
+                "progressivo": "12/144",
+                "nome": "Houndoom",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Manipolazioni",
+                    "Idrocinesi"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/aa/MagcargoSkyridge18.jpg/180px-MagcargoSkyridge18.jpg"
+            },
+            {
+                "numero": "13",
+                "progressivo": "13/144",
+                "nome": "Jolteon",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Automedicazione",
+                    "Scintilla di Tuono"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/aa/MagcargoSkyridge18.jpg/180px-MagcargoSkyridge18.jpg"
+            },
+            {
+                "numero": "14",
+                "progressivo": "14/144",
+                "nome": "Kabutops",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Aura Primitiva",
+                    "Doppiotaglio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/aa/MagcargoSkyridge18.jpg/180px-MagcargoSkyridge18.jpg"
+            },
+            {
+                "numero": "15",
+                "progressivo": "15/144",
+                "nome": "Ledian",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Aura Primitiva",
+                    "Doppiotaglio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/aa/MagcargoSkyridge18.jpg/180px-MagcargoSkyridge18.jpg"
+            },
+            {
+                "numero": "16",
+                "progressivo": "16/144",
+                "nome": "Machamp",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Immunit\u00e0",
+                    "Trascinato via"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/aa/MagcargoSkyridge18.jpg/180px-MagcargoSkyridge18.jpg"
+            },
+            {
+                "numero": "17",
+                "progressivo": "17/144",
+                "nome": "Magcargo",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Immunit\u00e0",
+                    "Trascinato via"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/aa/MagcargoSkyridge18.jpg/180px-MagcargoSkyridge18.jpg"
+            },
+            {
+                "numero": "18",
+                "progressivo": "18/144",
+                "nome": "Magcargo",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Colata di Lava",
+                    "Lava Inarrestabile"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/aa/MagcargoSkyridge18.jpg/180px-MagcargoSkyridge18.jpg"
+            },
+            {
+                "numero": "19",
+                "progressivo": "19/144",
+                "nome": "Magneton",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Colata di Lava",
+                    "Lava Inarrestabile"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/aa/MagcargoSkyridge18.jpg/180px-MagcargoSkyridge18.jpg"
+            },
+            {
+                "numero": "20",
+                "progressivo": "20/144",
+                "nome": "Magneton",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Colata di Lava",
+                    "Lava Inarrestabile"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/aa/MagcargoSkyridge18.jpg/180px-MagcargoSkyridge18.jpg"
+            },
+            {
+                "numero": "21",
+                "progressivo": "21/144",
+                "nome": "Moltres",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Fuocoimmunit\u00e0",
+                    "Raduna Fuoco"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/aa/MagcargoSkyridge18.jpg/180px-MagcargoSkyridge18.jpg"
+            },
+            {
+                "numero": "22",
+                "progressivo": "22/144",
+                "nome": "Nidoqueen",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Fuocoimmunit\u00e0",
+                    "Raduna Fuoco"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/aa/MagcargoSkyridge18.jpg/180px-MagcargoSkyridge18.jpg"
+            },
+            {
+                "numero": "23",
+                "progressivo": "23/144",
+                "nome": "Omastar",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Fuocoimmunit\u00e0",
+                    "Raduna Fuoco"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/69/OmastarSkyridge23.jpg/180px-OmastarSkyridge23.jpg"
+            },
+            {
+                "numero": "24",
+                "progressivo": "24/144",
+                "nome": "Piloswine",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Alito Congelante",
+                    "Spallata"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/69/OmastarSkyridge23.jpg/180px-OmastarSkyridge23.jpg"
+            },
+            {
+                "numero": "25",
+                "progressivo": "25/144",
+                "nome": "Politoed",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Crescita Improvvisa",
+                    "Ranabalzo"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/69/OmastarSkyridge23.jpg/180px-OmastarSkyridge23.jpg"
+            },
+            {
+                "numero": "26",
+                "progressivo": "26/144",
+                "nome": "Poliwrath",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Strana-Spirale",
+                    "Spiralpugno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/69/OmastarSkyridge23.jpg/180px-OmastarSkyridge23.jpg"
+            },
+            {
+                "numero": "27",
+                "progressivo": "27/144",
+                "nome": "Raichu",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Zzzap",
+                    "Tempesta di Lampi"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/69/OmastarSkyridge23.jpg/180px-OmastarSkyridge23.jpg"
+            },
+            {
+                "numero": "28",
+                "progressivo": "28/144",
+                "nome": "Raikou",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Zzzap",
+                    "Tempesta di Lampi"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/69/OmastarSkyridge23.jpg/180px-OmastarSkyridge23.jpg"
+            },
+            {
+                "numero": "29",
+                "progressivo": "29/144",
+                "nome": "Rhydon",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Zzzap",
+                    "Tempesta di Lampi"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/69/OmastarSkyridge23.jpg/180px-OmastarSkyridge23.jpg"
+            },
+            {
+                "numero": "30",
+                "progressivo": "30/144",
+                "nome": "Starmie",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Zzzap",
+                    "Tempesta di Lampi"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/69/OmastarSkyridge23.jpg/180px-OmastarSkyridge23.jpg"
+            },
+            {
+                "numero": "31",
+                "progressivo": "31/144",
+                "nome": "Steelix",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Metallo Raro",
+                    "Stritolamento"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/69/OmastarSkyridge23.jpg/180px-OmastarSkyridge23.jpg"
+            },
+            {
+                "numero": "32",
+                "progressivo": "32/144",
+                "nome": "Umbreon",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Sguardo Oscuro",
+                    "Artigli Affilati"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/69/OmastarSkyridge23.jpg/180px-OmastarSkyridge23.jpg"
+            },
+            {
+                "numero": "33",
+                "progressivo": "33/144",
+                "nome": "Vaporeon",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Sguardo Oscuro",
+                    "Artigli Affilati"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/69/OmastarSkyridge23.jpg/180px-OmastarSkyridge23.jpg"
+            },
+            {
+                "numero": "34",
+                "progressivo": "34/144",
+                "nome": "Wigglytuff",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Sguardo Oscuro",
+                    "Artigli Affilati"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/69/OmastarSkyridge23.jpg/180px-OmastarSkyridge23.jpg"
+            },
+            {
+                "numero": "35",
+                "progressivo": "35/144",
+                "nome": "Xatu",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Sincronismo",
+                    "Distorsione"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/69/OmastarSkyridge23.jpg/180px-OmastarSkyridge23.jpg"
+            },
+            {
+                "numero": "36",
+                "progressivo": "36/144",
+                "nome": "Electrode",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Sincronismo",
+                    "Distorsione"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/69/OmastarSkyridge23.jpg/180px-OmastarSkyridge23.jpg"
+            },
+            {
+                "numero": "37",
+                "progressivo": "37/144",
+                "nome": "Kabuto",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Gusciospesso",
+                    "Graffio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/69/OmastarSkyridge23.jpg/180px-OmastarSkyridge23.jpg"
+            },
+            {
+                "numero": "38",
+                "progressivo": "38/144",
+                "nome": "Machoke",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Gusciospesso",
+                    "Graffio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/69/OmastarSkyridge23.jpg/180px-OmastarSkyridge23.jpg"
+            },
+            {
+                "numero": "39",
+                "progressivo": "39/144",
+                "nome": "Misdreavus",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Gusciospesso",
+                    "Graffio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/69/OmastarSkyridge23.jpg/180px-OmastarSkyridge23.jpg"
+            },
+            {
+                "numero": "40",
+                "progressivo": "40/144",
+                "nome": "Noctowl",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Gusciospesso",
+                    "Graffio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/69/OmastarSkyridge23.jpg/180px-OmastarSkyridge23.jpg"
+            },
+            {
+                "numero": "41",
+                "progressivo": "41/144",
+                "nome": "Omanyte",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Acqua dell'Evoluzione",
+                    "Trascinato via"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/69/OmastarSkyridge23.jpg/180px-OmastarSkyridge23.jpg"
+            },
+            {
+                "numero": "42",
+                "progressivo": "42/144",
+                "nome": "Persian",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Fendente a Sorpresa",
+                    "Affondo"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/21/PersianSkyridge42.jpg/180px-PersianSkyridge42.jpg"
+            },
+            {
+                "numero": "43",
+                "progressivo": "43/144",
+                "nome": "Piloswine",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Fendente a Sorpresa",
+                    "Affondo"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/21/PersianSkyridge42.jpg/180px-PersianSkyridge42.jpg"
+            },
+            {
+                "numero": "44",
+                "progressivo": "44/144",
+                "nome": "Starmie",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Pistolacqua",
+                    "Estroflessione"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/01/StarmieSkyridge44.jpg/180px-StarmieSkyridge44.jpg"
+            },
+            {
+                "numero": "45",
+                "progressivo": "45/144",
+                "nome": "Wobbuffet",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Specchiovelo",
+                    "Ritornattacco"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/01/StarmieSkyridge44.jpg/180px-StarmieSkyridge44.jpg"
+            },
+            {
+                "numero": "46",
+                "progressivo": "46/144",
+                "nome": "Abra",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Psicoflusso",
+                    "Bottintesta"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/01/StarmieSkyridge44.jpg/180px-StarmieSkyridge44.jpg"
+            },
+            {
+                "numero": "47",
+                "progressivo": "47/144Buried",
+                "nome": "Fossil",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Psicoflusso",
+                    "Bottintesta"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/01/StarmieSkyridge44.jpg/180px-StarmieSkyridge44.jpg"
+            },
+            {
+                "numero": "48",
+                "progressivo": "48/144",
+                "nome": "Cleffa",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Psicoflusso",
+                    "Bottintesta"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/01/StarmieSkyridge44.jpg/180px-StarmieSkyridge44.jpg"
+            },
+            {
+                "numero": "49",
+                "progressivo": "49/144",
+                "nome": "Delibird",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Piccola Consegna",
+                    "Scalcia Via"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/6b/DelibirdSkyridge49.jpg/180px-DelibirdSkyridge49.jpg"
+            },
+            {
+                "numero": "50",
+                "progressivo": "50/144",
+                "nome": "Diglett",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Piccola Consegna",
+                    "Scalcia Via"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/ae/DiglettSkyridge50.jpg/180px-DiglettSkyridge50.jpg"
+            },
+            {
+                "numero": "51",
+                "progressivo": "51/144",
+                "nome": "Ditto",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Piccola Consegna",
+                    "Scalcia Via"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/ae/DiglettSkyridge50.jpg/180px-DiglettSkyridge50.jpg"
+            },
+            {
+                "numero": "52",
+                "progressivo": "52/144",
+                "nome": "Dugtrio",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Piccola Consegna",
+                    "Scalcia Via"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/ae/DiglettSkyridge50.jpg/180px-DiglettSkyridge50.jpg"
+            },
+            {
+                "numero": "53",
+                "progressivo": "53/144",
+                "nome": "Dunsparce",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Piccola Consegna",
+                    "Scalcia Via"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/ae/DiglettSkyridge50.jpg/180px-DiglettSkyridge50.jpg"
+            },
+            {
+                "numero": "54",
+                "progressivo": "54/144",
+                "nome": "Eevee",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Calcio Esplosivo",
+                    "Riduttore"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/ae/DiglettSkyridge50.jpg/180px-DiglettSkyridge50.jpg"
+            },
+            {
+                "numero": "55",
+                "progressivo": "55/144",
+                "nome": "Farfetch'd",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Turbine",
+                    "Porrocarica"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/35/Farfetch%27dSkyridge55.jpg/180px-Farfetch%27dSkyridge55.jpg"
+            },
+            {
+                "numero": "56",
+                "progressivo": "56/144",
+                "nome": "Forretress",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Turbine",
+                    "Porrocarica"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/35/Farfetch%27dSkyridge55.jpg/180px-Farfetch%27dSkyridge55.jpg"
+            },
+            {
+                "numero": "57",
+                "progressivo": "57/144",
+                "nome": "Gastly",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Turbine",
+                    "Porrocarica"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/35/Farfetch%27dSkyridge55.jpg/180px-Farfetch%27dSkyridge55.jpg"
+            },
+            {
+                "numero": "58",
+                "progressivo": "58/144",
+                "nome": "Girafarig",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Turbine",
+                    "Porrocarica"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/35/Farfetch%27dSkyridge55.jpg/180px-Farfetch%27dSkyridge55.jpg"
+            },
+            {
+                "numero": "59",
+                "progressivo": "59/144",
+                "nome": "Gligar",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Turbine",
+                    "Porrocarica"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/35/Farfetch%27dSkyridge55.jpg/180px-Farfetch%27dSkyridge55.jpg"
+            },
+            {
+                "numero": "60",
+                "progressivo": "60/144",
+                "nome": "Golbat",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Ondasuono Tossica",
+                    "Superiorit\u00e0 Numerica"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/e4/GolbatSkyridge60.jpg/180px-GolbatSkyridge60.jpg"
+            },
+            {
+                "numero": "61",
+                "progressivo": "61/144",
+                "nome": "Granbull",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Attacco Impetuoso",
+                    "Megapugno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/e4/GolbatSkyridge60.jpg/180px-GolbatSkyridge60.jpg"
+            },
+            {
+                "numero": "62",
+                "progressivo": "62/144",
+                "nome": "Growlithe",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Attacco Impetuoso",
+                    "Megapugno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/e4/GolbatSkyridge60.jpg/180px-GolbatSkyridge60.jpg"
+            },
+            {
+                "numero": "63",
+                "progressivo": "63/144",
+                "nome": "Haunter",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Attacco Impetuoso",
+                    "Megapugno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/e4/GolbatSkyridge60.jpg/180px-GolbatSkyridge60.jpg"
+            },
+            {
+                "numero": "64",
+                "progressivo": "64/144",
+                "nome": "Heracross",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Lacerazione",
+                    "Corno Infuriato"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/e4/GolbatSkyridge60.jpg/180px-GolbatSkyridge60.jpg"
+            },
+            {
+                "numero": "65",
+                "progressivo": "65/144",
+                "nome": "Hoothoot",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Ipnosi",
+                    "Luci Inquietanti"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/e4/GolbatSkyridge60.jpg/180px-GolbatSkyridge60.jpg"
+            },
+            {
+                "numero": "66",
+                "progressivo": "66/144",
+                "nome": "Houndour",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Ipnosi",
+                    "Luci Inquietanti"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/e4/GolbatSkyridge60.jpg/180px-GolbatSkyridge60.jpg"
+            },
+            {
+                "numero": "67",
+                "progressivo": "67/144",
+                "nome": "Igglybuff",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Ipnosi",
+                    "Luci Inquietanti"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/e4/GolbatSkyridge60.jpg/180px-GolbatSkyridge60.jpg"
+            },
+            {
+                "numero": "68",
+                "progressivo": "68/144",
+                "nome": "Jigglypuff",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Pausa",
+                    "Nina nanna"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/e4/GolbatSkyridge60.jpg/180px-GolbatSkyridge60.jpg"
+            },
+            {
+                "numero": "69",
+                "progressivo": "69/144",
+                "nome": "Kadabra",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Psy-Capture",
+                    "Incubo"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/e4/GolbatSkyridge60.jpg/180px-GolbatSkyridge60.jpg"
+            },
+            {
+                "numero": "70",
+                "progressivo": "70/144",
+                "nome": "Kakuna",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Psy-Capture",
+                    "Incubo"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/e4/GolbatSkyridge60.jpg/180px-GolbatSkyridge60.jpg"
+            },
+            {
+                "numero": "71",
+                "progressivo": "71/144",
+                "nome": "Lapras",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Sostegno",
+                    "Ipnobotta"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/e4/GolbatSkyridge60.jpg/180px-GolbatSkyridge60.jpg"
+            },
+            {
+                "numero": "72",
+                "progressivo": "72/144",
+                "nome": "Ledyba",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Piagnucolone",
+                    "Virasvelto"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f4/LedybaSkyridge72.jpg/180px-LedybaSkyridge72.jpg"
+            },
+            {
+                "numero": "73",
+                "progressivo": "73/144",
+                "nome": "Ledyba",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Rosicchiamento",
+                    "Schianto"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f4/LedybaSkyridge72.jpg/180px-LedybaSkyridge72.jpg"
+            },
+            {
+                "numero": "74",
+                "progressivo": "74/144",
+                "nome": "Machop",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Rosicchiamento",
+                    "Schianto"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fb/MachopSkyridge74.jpg/180px-MachopSkyridge74.jpg"
+            },
+            {
+                "numero": "75",
+                "progressivo": "75/144",
+                "nome": "Magikarp",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Segni dell'Evoluzione",
+                    "Splash"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fb/MachopSkyridge74.jpg/180px-MachopSkyridge74.jpg"
+            },
+            {
+                "numero": "76",
+                "progressivo": "76/144",
+                "nome": "Magnemite",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Tuononda",
+                    "Catena Magnetica"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fb/MachopSkyridge74.jpg/180px-MachopSkyridge74.jpg"
+            },
+            {
+                "numero": "77",
+                "progressivo": "77/144",
+                "nome": "Mantine",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Pinnaschiaffo",
+                    "Idrosuono"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fb/MachopSkyridge74.jpg/180px-MachopSkyridge74.jpg"
+            },
+            {
+                "numero": "78",
+                "progressivo": "78/144",
+                "nome": "Meowth",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Pinnaschiaffo",
+                    "Idrosuono"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fb/MachopSkyridge74.jpg/180px-MachopSkyridge74.jpg"
+            },
+            {
+                "numero": "79",
+                "progressivo": "79/144",
+                "nome": "Murkrow",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Pinnaschiaffo",
+                    "Idrosuono"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fb/MachopSkyridge74.jpg/180px-MachopSkyridge74.jpg"
+            },
+            {
+                "numero": "80",
+                "progressivo": "80/144",
+                "nome": "Natu",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Pinnaschiaffo",
+                    "Idrosuono"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fb/MachopSkyridge74.jpg/180px-MachopSkyridge74.jpg"
+            },
+            {
+                "numero": "81",
+                "progressivo": "81/144",
+                "nome": "Nidoran\u2640",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Cerca Famiglia",
+                    "Graffio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a5/NidoranSkyridge81.jpg/180px-NidoranSkyridge81.jpg"
+            },
+            {
+                "numero": "82",
+                "progressivo": "82/144",
+                "nome": "Nidoran\u2640",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Cerca Famiglia",
+                    "Graffio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/76/NidoranSkyridge82.jpg/180px-NidoranSkyridge82.jpg"
+            },
+            {
+                "numero": "83",
+                "progressivo": "83/144",
+                "nome": "Nidorina",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Azione",
+                    "Artigli Velenosi"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/76/NidoranSkyridge82.jpg/180px-NidoranSkyridge82.jpg"
+            },
+            {
+                "numero": "84",
+                "progressivo": "84/144",
+                "nome": "Pikachu",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Azione",
+                    "Artigli Velenosi"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f2/PikachuSkyridge84.jpg/180px-PikachuSkyridge84.jpg"
+            },
+            {
+                "numero": "85",
+                "progressivo": "85/144",
+                "nome": "Pineco",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Azione",
+                    "Artigli Velenosi"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f2/PikachuSkyridge84.jpg/180px-PikachuSkyridge84.jpg"
+            },
+            {
+                "numero": "86",
+                "progressivo": "86/144",
+                "nome": "Pineco",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Azione",
+                    "Artigli Velenosi"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f2/PikachuSkyridge84.jpg/180px-PikachuSkyridge84.jpg"
+            },
+            {
+                "numero": "87",
+                "progressivo": "87/144",
+                "nome": "Poliwag",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Sonnobolla",
+                    "Doppiasberla"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f2/PikachuSkyridge84.jpg/180px-PikachuSkyridge84.jpg"
+            },
+            {
+                "numero": "88",
+                "progressivo": "88/144",
+                "nome": "Poliwhirl",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Rigirare",
+                    "Doppiocalcio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f2/PikachuSkyridge84.jpg/180px-PikachuSkyridge84.jpg"
+            },
+            {
+                "numero": "89",
+                "progressivo": "89/144",
+                "nome": "Raticate",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Graffio",
+                    "Morso Continuo"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f2/PikachuSkyridge84.jpg/180px-PikachuSkyridge84.jpg"
+            },
+            {
+                "numero": "90",
+                "progressivo": "90/144",
+                "nome": "Rattata",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Cerca Amici",
+                    "Body Slam"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f2/PikachuSkyridge84.jpg/180px-PikachuSkyridge84.jpg"
+            },
+            {
+                "numero": "91",
+                "progressivo": "91/144",
+                "nome": "Rhyhorn",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Cerca Amici",
+                    "Body Slam"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f2/PikachuSkyridge84.jpg/180px-PikachuSkyridge84.jpg"
+            },
+            {
+                "numero": "92",
+                "progressivo": "92/144",
+                "nome": "Sandshrew",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Cerca Amici",
+                    "Body Slam"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f2/PikachuSkyridge84.jpg/180px-PikachuSkyridge84.jpg"
+            },
+            {
+                "numero": "93",
+                "progressivo": "93/144",
+                "nome": "Sandslash",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Cerca Amici",
+                    "Body Slam"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/1f/SandslashSkyridge93.jpg/180px-SandslashSkyridge93.jpg"
+            },
+            {
+                "numero": "94",
+                "progressivo": "94/144",
+                "nome": "Seel",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Cerca Amici",
+                    "Body Slam"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/1f/SandslashSkyridge93.jpg/180px-SandslashSkyridge93.jpg"
+            },
+            {
+                "numero": "95",
+                "progressivo": "95/144",
+                "nome": "Seel",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Doppia Bottintesta",
+                    "Geloraggio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/cb/SeelSkyridge95.jpg/180px-SeelSkyridge95.jpg"
+            },
+            {
+                "numero": "96",
+                "progressivo": "96/144",
+                "nome": "Shuckle",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Doppia Bottintesta",
+                    "Geloraggio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/cb/SeelSkyridge95.jpg/180px-SeelSkyridge95.jpg"
+            },
+            {
+                "numero": "97",
+                "progressivo": "97/144",
+                "nome": "Skarmory",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Doppia Bottintesta",
+                    "Geloraggio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/cb/SeelSkyridge95.jpg/180px-SeelSkyridge95.jpg"
+            },
+            {
+                "numero": "98",
+                "progressivo": "98/144",
+                "nome": "Slugma",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Doppia Bottintesta",
+                    "Geloraggio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/cb/SeelSkyridge95.jpg/180px-SeelSkyridge95.jpg"
+            },
+            {
+                "numero": "99",
+                "progressivo": "99/144",
+                "nome": "Slugma",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Doppia Bottintesta",
+                    "Geloraggio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/cb/SeelSkyridge95.jpg/180px-SeelSkyridge95.jpg"
+            },
+            {
+                "numero": "100",
+                "progressivo": "100/144",
+                "nome": "Snorlax",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Doppia Bottintesta",
+                    "Geloraggio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/cb/SeelSkyridge95.jpg/180px-SeelSkyridge95.jpg"
+            },
+            {
+                "numero": "101",
+                "progressivo": "101/144",
+                "nome": "Snubbull",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Visotruce",
+                    "Morso"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/cb/SeelSkyridge95.jpg/180px-SeelSkyridge95.jpg"
+            },
+            {
+                "numero": "102",
+                "progressivo": "102/144",
+                "nome": "Stantler",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Minaccia",
+                    "Colpo Ramificato"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/b8/StantlerSkyridge102.jpg/180px-StantlerSkyridge102.jpg"
+            },
+            {
+                "numero": "103",
+                "progressivo": "103/144",
+                "nome": "Staryu",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Energia Curante",
+                    "Doppiasberla"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/c4/StaryuSkyridge103.jpg/180px-StaryuSkyridge103.jpg"
+            },
+            {
+                "numero": "104",
+                "progressivo": "104/144",
+                "nome": "Staryu",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Sberla",
+                    "Stordiraggio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/c4/StaryuSkyridge103.jpg/180px-StaryuSkyridge103.jpg"
+            },
+            {
+                "numero": "105",
+                "progressivo": "105/144",
+                "nome": "Sunflora",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Centrale Elettrica",
+                    "Sgambetto"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/73/SunfloraSkyridge105.jpg/180px-SunfloraSkyridge105.jpg"
+            },
+            {
+                "numero": "106",
+                "progressivo": "106/144",
+                "nome": "Sunkern",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Rotolamento",
+                    "Macchia"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/23/SunkernSkyridge106.jpg/180px-SunkernSkyridge106.jpg"
+            },
+            {
+                "numero": "107",
+                "progressivo": "107/144",
+                "nome": "Swinub",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Carica",
+                    "Alito Congelante"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/23/SunkernSkyridge106.jpg/180px-SunkernSkyridge106.jpg"
+            },
+            {
+                "numero": "108",
+                "progressivo": "108/144",
+                "nome": "Swinub",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Carica",
+                    "Alito Congelante"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/23/SunkernSkyridge106.jpg/180px-SunkernSkyridge106.jpg"
+            },
+            {
+                "numero": "109",
+                "progressivo": "109/144",
+                "nome": "Teddiursa",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Attacco a sorpresa",
+                    "Ira"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/23/SunkernSkyridge106.jpg/180px-SunkernSkyridge106.jpg"
+            },
+            {
+                "numero": "110",
+                "progressivo": "110/144",
+                "nome": "Ursaring",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Presa dell'Orso",
+                    "Infierire"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/23/SunkernSkyridge106.jpg/180px-SunkernSkyridge106.jpg"
+            },
+            {
+                "numero": "111",
+                "progressivo": "111/144",
+                "nome": "Venomoth",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Presa dell'Orso",
+                    "Infierire"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/23/SunkernSkyridge106.jpg/180px-SunkernSkyridge106.jpg"
+            },
+            {
+                "numero": "112",
+                "progressivo": "112/144",
+                "nome": "Venonat",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Doppio Effetto",
+                    "Supersonico"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/23/SunkernSkyridge106.jpg/180px-SunkernSkyridge106.jpg"
+            },
+            {
+                "numero": "113",
+                "progressivo": "113/144",
+                "nome": "Voltorb",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Forza Magnetica",
+                    "Effettazione"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/23/SunkernSkyridge106.jpg/180px-SunkernSkyridge106.jpg"
+            },
+            {
+                "numero": "114",
+                "progressivo": "114/144",
+                "nome": "Weedle",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Forza Magnetica",
+                    "Effettazione"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/23/SunkernSkyridge106.jpg/180px-SunkernSkyridge106.jpg"
+            },
+            {
+                "numero": "115",
+                "progressivo": "115/144",
+                "nome": "Weedle",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Filamento Vischioso",
+                    "Velencorno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/23/SunkernSkyridge106.jpg/180px-SunkernSkyridge106.jpg"
+            },
+            {
+                "numero": "116",
+                "progressivo": "116/144",
+                "nome": "Yanma",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Agilit\u00e0",
+                    "Tripla Schiacciata"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/23/SunkernSkyridge106.jpg/180px-SunkernSkyridge106.jpg"
+            },
+            {
+                "numero": "117",
+                "progressivo": "117/144",
+                "nome": "Zubat",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Suononda",
+                    "Svolazzo"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/42/ZubatSkyridge117.jpg/180px-ZubatSkyridge117.jpg"
+            },
+            {
+                "numero": "118",
+                "progressivo": "118/144",
+                "nome": "Zubat",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/42/ZubatSkyridge117.jpg/180px-ZubatSkyridge117.jpg"
+            },
+            {
+                "numero": "119",
+                "progressivo": "119/144",
+                "nome": "Rovine",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/42/ZubatSkyridge117.jpg/180px-ZubatSkyridge117.jpg"
+            },
+            {
+                "numero": "120",
+                "progressivo": "120/144",
+                "nome": "Cacciatore",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/42/ZubatSkyridge117.jpg/180px-ZubatSkyridge117.jpg"
+            },
+            {
+                "numero": "121",
+                "progressivo": "121/144",
+                "nome": "Costruttore",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/0f/CostruttorediApricornSkyridge121.jpg/180px-CostruttorediApricornSkyridge121.jpg"
+            },
+            {
+                "numero": "122",
+                "progressivo": "122/144",
+                "nome": "Frammento",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/0f/CostruttorediApricornSkyridge121.jpg/180px-CostruttorediApricornSkyridge121.jpg"
+            },
+            {
+                "numero": "123",
+                "progressivo": "123/144",
+                "nome": "Shamano",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/0f/CostruttorediApricornSkyridge121.jpg/180px-CostruttorediApricornSkyridge121.jpg"
+            },
+            {
+                "numero": "124",
+                "progressivo": "124/144",
+                "nome": "Palla",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/0f/CostruttorediApricornSkyridge121.jpg/180px-CostruttorediApricornSkyridge121.jpg"
+            },
+            {
+                "numero": "125",
+                "progressivo": "125/144",
+                "nome": "Pescatore",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/0f/CostruttorediApricornSkyridge121.jpg/180px-CostruttorediApricornSkyridge121.jpg"
+            },
+            {
+                "numero": "126",
+                "progressivo": "126/144",
+                "nome": "Palla",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/0f/CostruttorediApricornSkyridge121.jpg/180px-CostruttorediApricornSkyridge121.jpg"
+            },
+            {
+                "numero": "127",
+                "progressivo": "127/144",
+                "nome": "Iper",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f4/IperPozioneMagicaSkyridge127.jpg/180px-IperPozioneMagicaSkyridge127.jpg"
+            },
+            {
+                "numero": "128",
+                "progressivo": "128/144",
+                "nome": "Palla",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f4/IperPozioneMagicaSkyridge127.jpg/180px-IperPozioneMagicaSkyridge127.jpg"
+            },
+            {
+                "numero": "129",
+                "progressivo": "129/144",
+                "nome": "Sfera",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/17/SferaMiracolosa%CE%B1Skyridge129.jpg/180px-SferaMiracolosa%CE%B1Skyridge129.jpg"
+            },
+            {
+                "numero": "130",
+                "progressivo": "130/144",
+                "nome": "Sfera",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/17/SferaMiracolosa%CE%B1Skyridge129.jpg/180px-SferaMiracolosa%CE%B1Skyridge129.jpg"
+            },
+            {
+                "numero": "131",
+                "progressivo": "131/144",
+                "nome": "Sfera",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f6/SferaMiracolosa%CE%B3Skyridge131.jpg/180px-SferaMiracolosa%CE%B3Skyridge131.jpg"
+            },
+            {
+                "numero": "132",
+                "progressivo": "132/144",
+                "nome": "Stadio",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5b/MirageStadiumSkyridge132.jpg/180px-MirageStadiumSkyridge132.jpg"
+            },
+            {
+                "numero": "133",
+                "progressivo": "133/144",
+                "nome": "Piatto",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5b/MirageStadiumSkyridge132.jpg/180px-MirageStadiumSkyridge132.jpg"
+            },
+            {
+                "numero": "134",
+                "progressivo": "134/144",
+                "nome": "Piatto",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/dd/PiattoMisterioso%CE%B2Skyridge134.jpg/180px-PiattoMisterioso%CE%B2Skyridge134.jpg"
+            },
+            {
+                "numero": "135",
+                "progressivo": "135/144",
+                "nome": "Piatto",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/dd/PiattoMisterioso%CE%B2Skyridge134.jpg/180px-PiattoMisterioso%CE%B2Skyridge134.jpg"
+            },
+            {
+                "numero": "136",
+                "progressivo": "136/144",
+                "nome": "Piatto",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/dd/PiattoMisterioso%CE%B2Skyridge134.jpg/180px-PiattoMisterioso%CE%B2Skyridge134.jpg"
+            },
+            {
+                "numero": "137",
+                "progressivo": "137/144",
+                "nome": "Zona",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/dd/PiattoMisterioso%CE%B2Skyridge134.jpg/180px-PiattoMisterioso%CE%B2Skyridge134.jpg"
+            },
+            {
+                "numero": "138",
+                "progressivo": "138/144",
+                "nome": "Oracolo",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/dd/PiattoMisterioso%CE%B2Skyridge134.jpg/180px-PiattoMisterioso%CE%B2Skyridge134.jpg"
+            },
+            {
+                "numero": "139",
+                "progressivo": "139/144",
+                "nome": "Pezzo",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/dd/PiattoMisterioso%CE%B2Skyridge134.jpg/180px-PiattoMisterioso%CE%B2Skyridge134.jpg"
+            },
+            {
+                "numero": "140",
+                "progressivo": "140/144",
+                "nome": "Spedizione",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/dd/PiattoMisterioso%CE%B2Skyridge134.jpg/180px-PiattoMisterioso%CE%B2Skyridge134.jpg"
+            },
+            {
+                "numero": "141",
+                "progressivo": "141/144",
+                "nome": "Lago",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/ff/LagoSotterraneoSkyridge141.jpg/180px-LagoSotterraneoSkyridge141.jpg"
+            },
+            {
+                "numero": "142",
+                "progressivo": "142/144",
+                "nome": "Energia",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/ff/LagoSotterraneoSkyridge141.jpg/180px-LagoSotterraneoSkyridge141.jpg"
+            },
+            {
+                "numero": "143",
+                "progressivo": "143/144",
+                "nome": "Energia",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/ff/LagoSotterraneoSkyridge141.jpg/180px-LagoSotterraneoSkyridge141.jpg"
+            },
+            {
+                "numero": "144",
+                "progressivo": "144/144",
+                "nome": "Energia",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/ff/LagoSotterraneoSkyridge141.jpg/180px-LagoSotterraneoSkyridge141.jpg"
+            },
+            {
+                "numero": "145",
+                "progressivo": "145/144",
+                "nome": "Celebi",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/ff/LagoSotterraneoSkyridge141.jpg/180px-LagoSotterraneoSkyridge141.jpg"
+            },
+            {
+                "numero": "146",
+                "progressivo": "146/144",
+                "nome": "Charizard",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/ff/LagoSotterraneoSkyridge141.jpg/180px-LagoSotterraneoSkyridge141.jpg"
+            },
+            {
+                "numero": "147",
+                "progressivo": "147/144",
+                "nome": "Crobat",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/ff/LagoSotterraneoSkyridge141.jpg/180px-LagoSotterraneoSkyridge141.jpg"
+            },
+            {
+                "numero": "148",
+                "progressivo": "148/144",
+                "nome": "Golem",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/ff/LagoSotterraneoSkyridge141.jpg/180px-LagoSotterraneoSkyridge141.jpg"
+            },
+            {
+                "numero": "149",
+                "progressivo": "149/144Ho-",
+                "nome": "Oh",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/ff/LagoSotterraneoSkyridge141.jpg/180px-LagoSotterraneoSkyridge141.jpg"
+            },
+            {
+                "numero": "150",
+                "progressivo": "150/144",
+                "nome": "Kabutops",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/ff/LagoSotterraneoSkyridge141.jpg/180px-LagoSotterraneoSkyridge141.jpg"
+            }
+        ]
+    },
+    {
         "numeroSet": "13",
         "nomeSet": "Ex tempesta di sabbia",
         "annoUscita": "2004",
