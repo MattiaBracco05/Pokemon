@@ -4458,6 +4458,1083 @@
         ]
     },
     {
+        "numeroSet" : "12",
+        "nomeSet" : "Ex Rubino e Zaffiro",
+        "annoUscita" : "2003",
+        "figurine" : [
+            {
+                "numero" : "306",
+                "progressivo" : "1/109",
+                "nome" : "Aggron",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/a/a5/AggronEXRubino%26Zaffiro1.jpg/180px-AggronEXRubino%26Zaffiro1.jpg",
+                "abilita":[
+                    "Rappresaglia",
+                    "Megapugno",
+                    "Doppio Lazzo"
+                ]
+            },
+            {
+                "numero" : "267",
+                "progressivo" : "2/109",
+                "nome" : "Beautifly",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/0/0a/BeautiflyEXRubySapphire2.jpg/180px-BeautiflyEXRubySapphire2.jpg",
+                "abilita":[
+                    "Avvizzipolvere",
+                    "Paralizzante",
+                    "Multiguadagno"
+                ]
+            },
+            {
+                "numero" : "257",
+                "progressivo" : "3/109",
+                "nome" : "Blaziken",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/d/d2/BlazikenEXRubino%26Zaffiro3.jpg/180px-BlazikenEXRubino%26Zaffiro3.jpg",
+                "abilita":[
+                    "Accendifuoco",
+                    "Correnti di Fuoco"
+                ]
+            },
+            {
+                "numero" : "323",
+                "progressivo" : "4/109",
+                "nome" : "Camerupt",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/2/26/CameruptEXRubino%26Zaffiro4.jpg/180px-CameruptEXRubino%26Zaffiro4.jpg",
+                "abilita":[
+                    "Brucialava",
+                    "Turbofuoco"
+                ] 
+            },
+            {
+                "numero" : "301",
+                "progressivo" : "5/109",
+                "nome" : "Delcatty",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/7/7f/DelcattyEXRubino%26Zaffiro5.jpg/180px-DelcattyEXRubino%26Zaffiro5.jpg",
+                "abilita":[
+                    "Preleva Energia",
+                    "Superfronte di Energia"
+                ]    
+            },
+            {
+                "numero" : "269",
+                "progressivo" : "6/109",
+                "nome" : "Dustox",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/7/7f/DelcattyEXRubino%26Zaffiro5.jpg/180px-DelcattyEXRubino%26Zaffiro5.jpg",
+                "abilita":[
+                    "Protettipolvere",
+                    "Tossina",
+                    "Raffica"
+                ]  
+            },
+            {
+                "numero" : "282",
+                "progressivo" : "7/109",
+                "nome" : "Gardevoir",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/3/3d/GardevoirEXRubino%26Zaffiro7.jpg/180px-GardevoirEXRubino%26Zaffiro7.jpg",
+                "abilita":[
+                    "Psicombra",
+                    "Energiscoppio"
+                ]
+            },
+            {
+                "numero" : "297",
+                "progressivo" : "8/109",
+                "nome" : "Hariyama",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/3/3d/GardevoirEXRubino%26Zaffiro7.jpg/180px-GardevoirEXRubino%26Zaffiro7.jpg",
+                "abilita":[
+                    "Superspintone",
+                    "Megalancio"
+                ]
+            },
+            {
+                "numero" : "310",
+                "progressivo" : "9/109",
+                "nome" : "Manectric",
+                "url" : "https://media.pokemoncentral.it/wiki/1/1a/ManectricEXRubino%26Zaffiro9.jpg",
+                "abilita":[
+                    "Elettrotrasmissione",
+                    "Scoppiotuono"
+                ]
+            },
+            {
+                "numero" : "262",
+                "progressivo" : "10/109",
+                "nome" : "Mightyena",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/6/6e/MightyenaEXRubySapphire10.jpg/180px-MightyenaEXRubySapphire10.jpg",
+                "abilita":[
+                    "Spaventazanna",
+                    "Scossone"
+                ]
+            },
+            {
+                "numero" : "254",
+                "progressivo" : "11/109",
+                "nome" : "Sceptile",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/1/1f/SceptileEXRubino%26Zaffiro11.jpg/180px-SceptileEXRubino%26Zaffiro11.jpg",
+                "abilita":[
+                    "Veleno di Lucertola",
+                    "Solarraggio"
+                ]
+            },
+            {
+                "numero" : "289",
+                "progressivo" : "12/109",
+                "nome" : "Slaking",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/6/68/SlakingEXRubino%26Zaffiro12.jpg/180px-SlakingEXRubino%26Zaffiro12.jpg",
+                "abilita":[
+                    "Fannullone",
+                    "Criticomossa"
+                ]
+            },
+            {
+                "numero" : "260",
+                "progressivo" : "13/109",
+                "nome" : "Swampert",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/5/5a/SwampertEXRubino%26Zaffiro13.jpg/180px-SwampertEXRubino%26Zaffiro13.jpg",
+                "abilita":[
+                    "Idrocerca",
+                    "Ipnospruzzo"
+                ]
+            },
+            {
+                "numero" : "321",
+                "progressivo" : "14/109",
+                "nome" : "Wailord",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/c/c0/WailordEXRubino%26Zaffiro14.png/180px-WailordEXRubino%26Zaffiro14.png",
+                "abilita":[
+                    "Riduttore",
+                    "Surf"
+                ]   
+            },
+            {
+                "numero" : "257",
+                "progressivo" : "15/109",
+                "nome" : "Blaziken",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/d/d2/BlazikenEXRubino%26Zaffiro3.jpg/180px-BlazikenEXRubino%26Zaffiro3.jpg",
+                "abilita":[
+                    "Grinfie",
+                    "Lanciafiamme"
+                ]   
+            },
+            {
+                "numero" : "286",
+                "progressivo" : "16/109",
+                "nome" : "Breloom",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/0/0f/BreloomEXRubySapphire16.jpg/180px-BreloomEXRubySapphire16.jpg",
+                "abilita":[
+                    "Bottintesta",
+                    "Colpobattaglia"
+                ]   
+            },
+            {
+                "numero" : "232",
+                "progressivo" : "17/109",
+                "nome" : "Donphan",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/6/65/DonphanEXRubino%26Zaffiro17.jpg/180px-DonphanEXRubino%26Zaffiro17.jpg",
+                "abilita":[
+                    "Strappo",
+                    "Doppio Effetto"
+                ]   
+            },
+            {
+                "numero" : "299",
+                "progressivo" : "18/109",
+                "nome" : "Nosepass",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/7/7e/NosepassEXRubino%26Zaffiro18.jpg/180px-NosepassEXRubino%26Zaffiro18.jpg",
+                "abilita":[
+                    "Mano Invisibile",
+                    "Repulsione"
+                ]   
+            },
+            {
+                "numero" : "279",
+                "progressivo" : "19/109",
+                "nome" : "Pelipper",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/7/74/PelipperEXRubino%26Zaffiro19.jpg/180px-PelipperEXRubino%26Zaffiro19.jpg",
+                "abilita":[
+                    "Accumulo",
+                    "Sfoghenergia",
+                    "Introenergia"
+                ]   
+            },
+            {
+                "numero" : "254",
+                "progressivo" : "20/109",
+                "nome" : "Scelipte",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/b/b3/SceptileEXRubino%26Zaffiro20.jpg/180px-SceptileEXRubino%26Zaffiro20.jpg",
+                "abilita":[
+                    "Trasferimento Energia",
+                    "Mano-Coda"
+                ]   
+            },
+            {
+                "numero" : "119",
+                "progressivo" : "21/109",
+                "nome" : "Seaking",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/6/63/SeakingEXRubino%26Zaffiro21.jpg/180px-SeakingEXRubino%26Zaffiro21.jpg",
+                "abilita":[
+                    "Idrofreccia",
+                    "Gettoveloce"
+                ]   
+            },
+            {
+                "numero" : "319",
+                "progressivo" : "22/109",
+                "nome" : "Sharpedo",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/7/75/SharpedoEXRubino%26Zaffiro22.jpg/180px-SharpedoEXRubino%26Zaffiro22.jpg",
+                "abilita":[
+                    "Pelledura",
+                    "Lacerazione Oscura"
+                ]   
+            },
+            {
+                "numero" : "260",
+                "progressivo" : "23/109",
+                "nome" : "Swampert",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/3/38/SwampertEXRubino%26Zaffiro23.jpg/180px-SwampertEXRubino%26Zaffiro23.jpg",
+                "abilita":[
+                    "Naturaiuto",
+                    "Idrofreccia",
+                    "Cascata"
+                ]   
+            },
+            {
+                "numero" : "110",
+                "progressivo" : "24/109",
+                "nome" : "Weezing",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/1/11/WeezingEXRubino%26Zaffiro24.jpg/180px-WeezingEXRubino%26Zaffiro24.jpg",
+                "abilita":[
+                    "Stordigas",
+                    "Velenosmog"
+                ]   
+            },
+            {
+                "numero" : "304",
+                "progressivo" : "25/109",
+                "nome" : "Aron",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/9/94/AronEXRubino%26Zaffiro25.jpg/180px-AronEXRubino%26Zaffiro25.jpg",
+                "abilita":[
+                    "Rotolamento",
+                    "Doppia Pugnalata"
+                ]   
+            },
+            {
+                "numero" : "268",
+                "progressivo" : "26/109",
+                "nome" : "Cascoon",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/4/4b/CascoonEXRubino%26Zaffiro26.jpg/180px-CascoonEXRubino%26Zaffiro26.jpg",
+                "abilita":[
+                    "Bozzo Resistente",
+                    "Velenotela"
+                ]   
+            },
+            {
+                "numero" : "256",
+                "progressivo" : "27/109",
+                "nome" : "Combusken",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/b/bf/CombuskenEXRubino%26Zaffiro27.jpg/180px-CombuskenEXRubino%26Zaffiro27.jpg",
+                "abilita":[
+                    "Fiammata",
+                    "Doppiocalcio"
+                ]   
+            },
+            {
+                "numero" : "256",
+                "progressivo" : "28/109",
+                "nome" : "Combusken",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/b/bf/CombuskenEXRubino%26Zaffiro27.jpg/180px-CombuskenEXRubino%26Zaffiro27.jpg",
+                "abilita":[
+                    "Fiammata",
+                    "Doppiocalcio"
+                ]   
+            },
+            {
+                "numero" : "301",
+                "progressivo" : "29/109",
+                "nome" : "Delcatty",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/0/08/DelcattyEXRubino%26Zaffiro29.jpg/180px-DelcattyEXRubino%26Zaffiro29.jpg",
+                "abilita":[
+                    "Chiama Energia",
+                    "Cannonpalla"
+                ]   
+            },
+            {
+                "numero" : "309",
+                "progressivo" : "30/109",
+                "nome" : "Electrike",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/d/dc/ElectrikeEXRubino%26Zaffiro30.jpg/180px-ElectrikeEXRubino%26Zaffiro30.jpg",
+                "abilita":[
+                    "Caricare",
+                    "Scoppiotuono"
+                ]   
+            },
+            {
+                "numero" : "253",
+                "progressivo" : "31/109",
+                "nome" : "Grovyle",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/e/e3/GrovyleEXRubino%26Zaffiro31.jpg/180px-GrovyleEXRubino%26Zaffiro31.jpg",
+                "abilita":[
+                    "Velenospiro",
+                    "Comete"
+                ]   
+            },
+            {
+                "numero" : "253",
+                "progressivo" : "32/109",
+                "nome" : "Grovyle",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/2/27/GrovyleEXRubino%26Zaffiro32.jpg/180px-GrovyleEXRubino%26Zaffiro32.jpg",
+                "abilita":[
+                    "Naturcura",
+                    "Lacerazione"
+                ]   
+            },
+            {
+                "numero" : "297",
+                "progressivo" : "33/109",
+                "nome" : "Hariyama",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/b/b0/HariyamaEXRubino%26Zaffiro33.jpg/180px-HariyamaEXRubino%26Zaffiro33.jpg",
+                "abilita":[
+                    "Spinta",
+                    "Sganassone"
+                ]   
+            },
+            {
+                "numero" : "281",
+                "progressivo" : "34/109",
+                "nome" : "Kirlia",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/b/ba/KirliaEXRubino%26Zaffiro34.png/180px-KirliaEXRubino%26Zaffiro34.png",
+                "abilita":[
+                    "Rimuoviraggio",
+                    "Superpsico"
+                ]   
+            },
+            {
+                "numero" : "281",
+                "progressivo" : "35/109",
+                "nome" : "Kirlia",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/e/ec/KirliaEXRubino%26Zaffiro35.jpg/180px-KirliaEXRubino%26Zaffiro35.jpg",
+                "abilita":[
+                    "Accecadanza",
+                    "Assorbivita"
+                ]   
+            },
+            {
+                "numero" : "305",
+                "progressivo" : "36/109",
+                "nome" : "Lairon",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/9/90/LaironEXRubino%26Zaffiro36.jpg/180px-LaironEXRubino%26Zaffiro36.jpg",
+                "abilita":[
+                    "Carica",
+                    "Ferrartigli"
+                ]   
+            },
+            {
+                "numero" : "305",
+                "progressivo" : "37/109",
+                "nome" : "Lairon",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/8/8c/LaironEXRubino%26Zaffiro37.jpg/180px-LaironEXRubino%26Zaffiro37.jpg",
+                "abilita":[
+                    "Magnitudo",
+                    "Colpi Rapidi"
+                ]   
+            },
+            {
+                "numero" : "264",
+                "progressivo" : "38/109",
+                "nome" : "Linoone",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/f/f8/LinooneEXRubino%26Zaffiro38.jpg/180px-LinooneEXRubino%26Zaffiro38.jpg",
+                "abilita":[
+                    "Ricerca",
+                    "Battintesta Continuo"
+                ]   
+            },
+            {
+                "numero" : "310",
+                "progressivo" : "39/109",
+                "nome" : "Manectric",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/a/af/ManectricEXRubino%26Zaffiro39.jpg/180px-ManectricEXRubino%26Zaffiro39.jpg",
+                "abilita":[
+                    "Tuonoshock",
+                    "Superscossa"
+                ]   
+            },
+            {
+                "numero" : "259",
+                "progressivo" : "40/109",
+                "nome" : "Marshtomp",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/5/5f/MarshtompEXRubino%26Zaffiro40.jpg/180px-MarshtompEXRubino%26Zaffiro40.jpg",
+                "abilita":[
+                    "Bolla",
+                    "Lacerazione"
+                ]   
+            },
+            {
+                "numero" : "259",
+                "progressivo" : "41/109",
+                "nome" : "Marshtomp",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/a/a6/MarshtompEXRubino%26Zaffiro41.jpg/180px-MarshtompEXRubino%26Zaffiro41.jpg",
+                "abilita":[
+                    "Naturcura",
+                    "Idrosuono"
+                ]   
+            },
+            {
+                "numero" : "262",
+                "progressivo" : "42/109",
+                "nome" : "Mightyena",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/9/92/MightyenaEXRubino%26Zaffiro42.jpg/180px-MightyenaEXRubino%26Zaffiro42.jpg",
+                "abilita":[
+                    "Morso",
+                    "Imboscata"
+                ]   
+            },
+            {
+                "numero" : "266",
+                "progressivo" : "43/109",
+                "nome" : "Silcoon",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/7/7b/SilcoonEXRubino%26Zaffiro43.jpg/180px-SilcoonEXRubino%26Zaffiro43.jpg",
+                "abilita":[
+                    "Bozzolo Resistente",
+                    "Tela Appiccicosa"
+                ]   
+            },
+            {
+                "numero" : "300",
+                "progressivo" : "44/109",
+                "nome" : "Skitty",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/e/e9/SkittyEXRubino%26Zaffiro44.jpg/180px-SkittyEXRubino%26Zaffiro44.jpg",
+                "abilita":[
+                    "Lavoretto Rapido",
+                    "Ninna Nanna"
+                ]   
+            },
+            {
+                "numero" : "287",
+                "progressivo" : "45/109",
+                "nome" : "Slakoth",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/b/b4/SlakothEXRubino%26Zaffiro45.jpg/180px-SlakothEXRubino%26Zaffiro45.jpgz",
+                "abilita":[
+                    "Artiglio",
+                    "Pigro"
+                ]   
+            },
+            {
+                "numero" : "277",
+                "progressivo" : "46/109",
+                "nome" : "Swellow",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/e/e9/SwellowEXRubino%26Zaffiro46.jpg/180px-SwellowEXRubino%26Zaffiro46.jpg",
+                "abilita":[
+                    "Filar Via",
+                    "Attacco d'Ala"
+                ]   
+            },
+            {
+                "numero" : "288",
+                "progressivo" : "47/109",
+                "nome" : "Vigoroth",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/d/d6/VigorothEXRubino%26Zaffiro47.jpg/180px-VigorothEXRubino%26Zaffiro47.jpg",
+                "abilita":[
+                    "Sfuriate",
+                    "Ira"
+                ]   
+            },
+            {
+                "numero" : "320",
+                "progressivo" : "48/109",
+                "nome" : "Wailmer",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/2/24/WailmerEXRubino%26Zaffiro48.jpg/180px-WailmerEXRubino%26Zaffiro48.jpg",
+                "abilita":[
+                    "Riposo",
+                    "Pistolacqua"
+                ]   
+            },
+            {
+                "numero" : "304",
+                "progressivo" : "49/109",
+                "nome" : "Aron",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/5/5b/AronEXRubino%26Zaffiro49.jpg/180px-AronEXRubino%26Zaffiro49.jpg",
+                "abilita":[
+                    "Piagnucolone",
+                    "Carica"
+                ]   
+            },
+            {
+                "numero" : "304",
+                "progressivo" : "50/109",
+                "nome" : "Aron",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/f/f8/AronEXRubino%26Zaffiro50.jpg/180px-AronEXRubino%26Zaffiro50.jpg",
+                "abilita":[
+                    "Rosicchiamento"
+                ]   
+            },
+            {
+                "numero" : "318",
+                "progressivo" : "51/109",
+                "nome" : "Carvanha",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/2/28/CarvanhaEXRubino%26Zaffiro51.jpg/180px-CarvanhaEXRubino%26Zaffiro51.jpg",
+                "abilita":[
+                    "Pelledura",
+                    "Grande Morso"
+                ]   
+            },
+            {
+                "numero" : "309",
+                "progressivo" : "52/109",
+                "nome" : "Electrike",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/0/01/ElectrikeEXRubino%26Zaffiro52.jpg/180px-ElectrikeEXRubino%26Zaffiro52.jpg",
+                "abilita":[
+                    "Battintesta"
+                ]   
+            },
+            {
+                "numero" : "309",
+                "progressivo" : "53/109",
+                "nome" : "Electrike",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/0/0c/ElectrikeEXRubino%26Zaffiro53.jpg/180px-ElectrikeEXRubino%26Zaffiro53.jpg",
+                "abilita":[
+                    "Supertuononda",
+                    "Azione"
+                ]   
+            },
+            {
+                "numero" : "109",
+                "progressivo" : "54/109",
+                "nome" : "Koffing",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/d/dc/KoffingEXRubino%26Zaffiro54.jpg/180px-KoffingEXRubino%26Zaffiro54.jpg",
+                "abilita":[
+                    "Azione",
+                    "Sdoppiatore"
+                ]   
+            },
+            {
+                "numero" : "118",
+                "progressivo" : "55/109",
+                "nome" : "Goldeen",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/1/13/GoldeenEXRubino%26Zaffiro55.jpg/180px-GoldeenEXRubino%26Zaffiro55.jpg",
+                "abilita":[
+                    "Flagello"
+                ]   
+            },
+            {
+                "numero" : "296",
+                "progressivo" : "56/109",
+                "nome" : "Makuhita",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/8/89/MakuhitaEXRubino%26Zaffiro56.jpg/180px-MakuhitaEXRubino%26Zaffiro56.jpg",
+                "abilita":[
+                    "Spintone",
+                    "Affondo Lungo"
+                ]   
+            },
+            {
+                "numero" : "296",
+                "progressivo" : "57/109",
+                "nome" : "Makuhita",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/2/2f/MakuhitaEXRubino%26Zaffiro57.jpg/180px-MakuhitaEXRubino%26Zaffiro57.jpg",
+                "abilita":[
+                    "Piazza Pulita",
+                    "Colpo Basso"
+                ]   
+            },
+            {
+                "numero" : "296",
+                "progressivo" : "58/109",
+                "nome" : "Makuhita",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/e/ef/MakuhitaEXRubino%26Zaffiro58.jpg/180px-MakuhitaEXRubino%26Zaffiro58.jpg",
+                "abilita":[
+                    "Bruciapelo"
+                ]   
+            },
+            {
+                "numero" : "258",
+                "progressivo" : "59/109",
+                "nome" : "Mudkip",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/a/aa/MudkipEXRubino%26Zaffiro59.jpg/180px-MudkipEXRubino%26Zaffiro59.jpg",
+                "abilita":[
+                    "Bolla"
+                ]   
+            },
+            {
+                "numero" : "258",
+                "progressivo" : "60/109",
+                "nome" : "Mudkip",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/d/dc/MudkipEXRubino%26Zaffiro60.jpg/180px-MudkipEXRubino%26Zaffiro60.jpg",
+                "abilita":[
+                    "Botta",
+                    "Sfuriate"
+                ]   
+            },
+            {
+                "numero" : "322",
+                "progressivo" : "61/109",
+                "nome" : "Numel",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/1/14/NumelEXRubino%26Zaffiro61.jpg/180px-NumelEXRubino%26Zaffiro61.jpg",
+                "abilita":[
+                    "Bottintesta",
+                    "Distruggifiamma"
+                ]   
+            },
+            {
+                "numero" : "231",
+                "progressivo" : "62/109",
+                "nome" : "Phanpy",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/6/63/PhanpyEXRubino%26Zaffiro62.jpg/180px-PhanpyEXRubino%26Zaffiro62.jpg",
+                "abilita":[
+                    "Fuggi Fuggi",
+                    "Tremito"
+                ]   
+            },
+            {
+                "numero" : "261",
+                "progressivo" : "63/109",
+                "nome" : "Poochyena",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/3/30/PoochyenaEXRubino%26Zaffiro63.jpg/180px-PoochyenaEXRubino%26Zaffiro63.jpg",
+                "abilita":[
+                    "Morso"
+                ]   
+            },
+            {
+                "numero" : "261",
+                "progressivo" : "64/109",
+                "nome" : "Poochyena",
+                "url" : "https://media.pokemoncentral.it/wiki/0/0d/PoochyenaEXRubinoZaffiro64.jpg",
+                "abilita":[
+                    "Privazione",
+                    "Retrocalcio"
+                ]   
+            },
+            {
+                "numero" : "261",
+                "progressivo" : "65/109",
+                "nome" : "Poochyena",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/7/79/PoochyenaEXRubino%26Zaffiro65.jpg/180px-PoochyenaEXRubino%26Zaffiro65.jpg",
+                "abilita":[
+                    "Legami d'Ombra"
+                ]   
+            },
+            {
+                "numero" : "280",
+                "progressivo" : "66/109",
+                "nome" : "Ralts",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/7/72/RaltsEXRubino%26Zaffiro66.jpg/180px-RaltsEXRubino%26Zaffiro66.jpg",
+                "abilita":[
+                    "Stordiraggio"
+                ]   
+            },
+            {
+                "numero" : "280",
+                "progressivo" : "67/109",
+                "nome" : "Ralts",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/6/63/RaltsEXRubino%26Zaffiro67.jpg/180px-RaltsEXRubino%26Zaffiro67.jpg",
+                "abilita":[
+                    "Bottintesta",
+                    "Ipnobotta"
+                ]   
+            },
+            {
+                "numero" : "280",
+                "progressivo" : "68/109",
+                "nome" : "Ralts",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/0/07/RaltsEXRubino%26Zaffiro68.jpg/180px-RaltsEXRubino%26Zaffiro68.jpg",
+                "abilita":[
+                    "Botta",
+                    "Spaccalegame"
+                ]   
+            },
+            {
+                "numero" : "285",
+                "progressivo" : "69/109",
+                "nome" : "Shroomish",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/b/b2/ShroomishEXRubino%26Zaffiro69.jpg/180px-ShroomishEXRubino%26Zaffiro69.jpg",
+                "abilita":[
+                    "Polvere Soporifera"
+                ]   
+            },
+            {
+                "numero" : "300",
+                "progressivo" : "70/109",
+                "nome" : "Skitty",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/e/e6/SkittyEXRubino%26Zaffiro70.jpg/180px-SkittyEXRubino%26Zaffiro70.jpg",
+                "abilita":[
+                    "Energiapiu",
+                    "Graffio"
+                ]   
+            },
+            {
+                "numero" : "300",
+                "progressivo" : "71/109",
+                "nome" : "Skitty",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/d/dc/SkittyEXRubino%26Zaffiro71.jpg/180px-SkittyEXRubino%26Zaffiro71.jpg",
+                "abilita":[
+                    "Azione",
+                    "Affondo"
+                ]   
+            },
+            {
+                "numero" : "276",
+                "progressivo" : "72/109",
+                "nome" : "Taillow",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/d/d4/TaillowEXRubino%26Zaffiro72.jpg/180px-TaillowEXRubino%26Zaffiro72.jpg",
+                "abilita":[
+                    "Beccata",
+                    "Attacco d'Ala"
+                ]   
+            },
+            {
+                "numero" : "255",
+                "progressivo" : "73/109",
+                "nome" : "Torchic",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/1/1d/TorchicEXRubino%26Zaffiro73.jpg/180px-TorchicEXRubino%26Zaffiro73.jpg",
+                "abilita":[
+                    "Beccata",
+                    "Fuochi d'Artificio"
+                ]   
+            },
+            {
+                "numero" : "255",
+                "progressivo" : "74/109",
+                "nome" : "Torchic",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/b/b8/TorchicEXRubino%26Zaffiro74.jpg/180px-TorchicEXRubino%26Zaffiro74.jpg",
+                "abilita":[
+                    "Scottata"
+                ]   
+            },
+            {
+                "numero" : "252",
+                "progressivo" : "75/109",
+                "nome" : "Treecko",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/3/38/TreeckoEXRubino%26Zaffiro75.jpg/180px-TreeckoEXRubino%26Zaffiro75.jpg",
+                "abilita":[
+                    "Velenospiro"
+                ]   
+            },
+            {
+                "numero" : "252",
+                "progressivo" : "76/109",
+                "nome" : "Treecko",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/c/c5/TreeckoEXRubino%26Zaffiro76.jpg/180px-TreeckoEXRubino%26Zaffiro76.jpg",
+                "abilita":[
+                    "Codasberla",
+                    "Foglielama"
+                ]   
+            },
+            {
+                "numero" : "278",
+                "progressivo" : "77/109",
+                "nome" : "Wingull",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/4/45/WingullEXRubino%26Zaffiro77.jpg/180px-WingullEXRubino%26Zaffiro77.jpg",
+                "abilita":[
+                    "Attacco a Sorpresa"
+                ]   
+            },
+            {
+                "numero" : "265",
+                "progressivo" : "78/109",
+                "nome" : "Wurmple",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/b/b2/WurmpleEXRubino%26Zaffiro78.jpg/180px-WurmpleEXRubino%26Zaffiro78.jpg",
+                "abilita":[
+                    "Evolvisegni",
+                    "Aculeo Velenoso"
+                ]   
+            },
+            {
+                "numero" : "263",
+                "progressivo" : "79/109",
+                "nome" : "Zigzagoon",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/7/78/ZigzagoonEXRubino%26Zaffiro79.jpg/180px-ZigzagoonEXRubino%26Zaffiro79.jpg",
+                "abilita":[
+                    "Sfuriate"
+                ]   
+            },
+            {
+                "numero" : "263",
+                "progressivo" : "79/109",
+                "nome" : "Zigzagoon",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/7/78/ZigzagoonEXRubino%26Zaffiro79.jpg/180px-ZigzagoonEXRubino%26Zaffiro79.jpg",
+                "abilita":[
+                    "Sfuriate"
+                ]   
+            },
+            {
+                "numero" : "140",
+                "progressivo" : "80/109",
+                "nome" : "Distruzione di energia 2",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/1/1b/DistruzionediEnergia2Expedition140.jpg/180px-DistruzionediEnergia2Expedition140.jpg",
+                "abilita":[
+                    "Nessuna"
+                ]   
+            },
+            {
+                "numero" : "140",
+                "progressivo" : "81/109",
+                "nome" : "Ripristina energia",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/b/b7/RipristinaEnergiaExpedition141.jpg/180px-RipristinaEnergiaExpedition141.jpg",
+                "abilita":[
+                    "Nessuna"
+                ]   
+            },
+            {
+                "numero" : "140",
+                "progressivo" : "82/109",
+                "nome" : "Scambio di energia",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/b/bb/EnergySwitchRoaringSkies109.png/180px-EnergySwitchRoaringSkies109.png",
+                "abilita":[
+                    "Nessuna"
+                ]   
+            },
+            {
+                "numero" : "140",
+                "progressivo" : "83/109",
+                "nome" : "Lady outing",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/9/99/LadyOutingEXRubino%26Zaffiro83.jpg/180px-LadyOutingEXRubino%26Zaffiro83.jpg",
+                "abilita":[
+                    "Nessuna"
+                ]   
+            },
+            {
+                "numero" : "140",
+                "progressivo" : "84/109",
+                "nome" : "Baccaprugna",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/7/74/BaccaprugnaEXRubinoZaffiro84.jpg/180px-BaccaprugnaEXRubinoZaffiro84.jpg",
+                "abilita":[
+                    "Nessuna"
+                ]   
+            },
+            {
+                "numero" : "140",
+                "progressivo" : "85/109",
+                "nome" : "Baccarancia",
+                "url" : "https://media.pokemoncentral.it/wiki/3/38/BaccaranciaEXRubinoZaffiro85.jpg",
+                "abilita":[
+                    "Nessuna"
+                ]   
+            },
+            {
+                "numero" : "140",
+                "progressivo" : "86/109",
+                "nome" : "Poke ball",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/0/0d/PkBallBenvenuti_a_Kalos.jpg/180px-PkBallBenvenuti_a_Kalos.jpg",
+                "abilita":[
+                    "Nessuna"
+                ]   
+            },
+            {
+                "numero" : "140",
+                "progressivo" : "87/109",
+                "nome" : "Contropiede pokemon",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/9/93/ContropiedePok%C3%A9monExpedition146.jpg/180px-ContropiedePok%C3%A9monExpedition146.jpg",
+                "abilita":[
+                    "Nessuna"
+                ]   
+            },
+            {
+                "numero" : "140",
+                "progressivo" : "88/109",
+                "nome" : "PokeNav",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/b/bf/Pok%C3%A9NavEXRubino%26Zaffiro88.jpg/180px-Pok%C3%A9NavEXRubino%26Zaffiro88.jpg",
+                "abilita":[
+                    "Nessuna"
+                ]   
+            },
+            {
+                "numero" : "140",
+                "progressivo" : "89/109",
+                "nome" : "Prof. Brich",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/c/c1/ProfBirchEXRubino%26Zaffiro89.jpg/180px-ProfBirchEXRubino%26Zaffiro89.jpg",
+                "abilita":[
+                    "Nessuna"
+                ]   
+            },
+            {
+                "numero" : "140",
+                "progressivo" : "90/109",
+                "nome" : "Ricerca di Energia",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/f/f1/Ricerca_di_Energia_%28Nero_%26_Bianco_93%29.png/180px-Ricerca_di_Energia_%28Nero_%26_Bianco_93%29.png",
+                "abilita":[
+                    "Nessuna"
+                ]   
+            },
+            {
+                "numero" : "140",
+                "progressivo" : "91/109",
+                "nome" : "Pozione magica",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/8/8f/PotionBlackWhite100.png/180px-PotionBlackWhite100.png",
+                "abilita":[
+                    "Nessuna"
+                ]   
+            },
+            {
+                "numero" : "140",
+                "progressivo" : "92/109",
+                "nome" : "Scambio",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/1/17/SwitchPrimalClash163.jpg/180px-SwitchPrimalClash163.jpg",
+                "abilita":[
+                    "Nessuna"
+                ]   
+            },
+            {
+                "numero" : "140",
+                "progressivo" : "93/109",
+                "nome" : "Energia Oscurita",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/b/b5/Energia_Oscurit%C3%A0_2017.png/180px-Energia_Oscurit%C3%A0_2017.png",
+                "abilita":[
+                    "Nessuna"
+                ]   
+            },
+            {
+                "numero" : "140",
+                "progressivo" : "94/109",
+                "nome" : "Energia Metallo",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/5/5b/EnergiaMetalloEXRubino%26Zaffiro94.jpg/200px-EnergiaMetalloEXRubino%26Zaffiro94.jpg",
+                "abilita":[
+                    "Nessuna"
+                ]   
+            },
+            {
+                "numero" : "140",
+                "progressivo" : "95/109",
+                "nome" : "Energia Arcobaleno",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/8/8b/EnergiaArcobalenoXY.png/180px-EnergiaArcobalenoXY.png",
+                "abilita":[
+                    "Nessuna"
+                ]   
+            },
+            {
+                "numero" : "113",
+                "progressivo" : "96/109",
+                "nome" : "Chansey ex",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/0/0e/ChanseyexEXRubino%26Zaffiro96.png/180px-ChanseyexEXRubino%26Zaffiro96.png",
+                "abilita":[
+                    "Ovocura",
+                    "Sdoppiatore"
+                ]   
+            },
+            {
+                "numero" : "125",
+                "progressivo" : "97/109",
+                "nome" : "Electabuzz ex",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/6/65/ElectabuzzexEXRubino%26Zaffiro97.jpg/180px-ElectabuzzexEXRubino%26Zaffiro97.jpg",
+                "abilita":[
+                    "Tuonoshock",
+                    "Attacco Rapido"
+                ]   
+            },
+            {
+                "numero" : "107",
+                "progressivo" : "98/109",
+                "nome" : "Hitmonchan ex",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/8/88/HitmonchanexEXRubino%26Zaffiro98.jpg/180px-HitmonchanexEXRubino%26Zaffiro98.jpg",
+                "abilita":[
+                    "Pugnosecco",
+                    "Stramontante"
+                ]   
+            },
+            {
+                "numero" : "131",
+                "progressivo" : "99/109",
+                "nome" : "Lapras ex",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/0/08/LaprasexEXRubino%26Zaffiro99.jpg/180px-LaprasexEXRubino%26Zaffiro99.jpg",
+                "abilita":[
+                    "Palla Energia",
+                    "Stordiraggio"
+                ]   
+            },
+            {
+                "numero" : "126",
+                "progressivo" : "100/109",
+                "nome" : "Magmar ex",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/e/e2/MagmarexEXRubino%26Zaffiro100.jpg/180px-MagmarexEXRubino%26Zaffiro100.jpg",
+                "abilita":[
+                    "Muro di Fuoco",
+                    "Superscottata"
+                ]   
+            },
+            {
+                "numero" : "150",
+                "progressivo" : "101/109",
+                "nome" : "Mewtwo ex",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/d/d1/MewtwoexEXRubino%26Zaffiro101.jpg/180px-MewtwoexEXRubino%26Zaffiro101.jpg",
+                "abilita":[
+                    "Assorbienergia",
+                    "Psicobrucia"
+                ]   
+            },
+            {
+                "numero" : "123",
+                "progressivo" : "102/109",
+                "nome" : "Scyther ex",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/a/a2/ScytherexEXRubino%26Zaffiro102.jpg/180px-ScytherexEXRubino%26Zaffiro102.jpg",
+                "abilita":[
+                    "Agilita",
+                    "Lacerazione"
+                ]   
+            },
+            {
+                "numero" : "215",
+                "progressivo" : "103/109",
+                "nome" : "Sneasel ex",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/d/df/SneaselexEXRubino%26Zaffiro103.jpg/180px-SneaselexEXRubino%26Zaffiro103.jpg",
+                "abilita":[
+                    "Doppio Graffio",
+                    "Picchiaduro"
+                ]   
+            },
+            {
+                "numero" : "140",
+                "progressivo" : "104/109",
+                "nome" : "Energia Erba",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/f/fb/Energia_Erba_2017.png/180px-Energia_Erba_2017.png",
+                "abilita":[
+                    "Nessuna"
+                ]   
+            },
+            {
+                "numero" : "140",
+                "progressivo" : "105/109",
+                "nome" : "Energia Combattimento",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/3/3e/Energia_Combattimento_4.jpg/180px-Energia_Combattimento_4.jpg",
+                "abilita":[
+                    "Nessuna"
+                ]   
+            },
+            {
+                "numero" : "140",
+                "progressivo" : "106/109",
+                "nome" : "Energia Acqua",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/7/71/Energia_Acqua_4.jpg/180px-Energia_Acqua_4.jpg",
+                "abilita":[
+                    "Nessuna"
+                ]   
+            },
+            {
+                "numero" : "140",
+                "progressivo" : "107/109",
+                "nome" : "Energia Psiche",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/7/7b/Energia_Psiche_2019.png/180px-Energia_Psiche_2019.png",
+                "abilita":[
+                    "Nessuna"
+                ]   
+            },
+            {
+                "numero" : "140",
+                "progressivo" : "108/109",
+                "nome" : "Energia Fuoco",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/a/a9/Energia_Fuoco_2019.png/180px-Energia_Fuoco_2019.png",
+                "abilita":[
+                    "Nessuna"
+                ]   
+            },
+            {
+                "numero" : "140",
+                "progressivo" : "109/109",
+                "nome" : "Energia Lampo",
+                "url" : "https://media.pokemoncentral.it/wiki/thumb/d/d0/EnergiaLampoSoleeLuna.jpg/180px-EnergiaLampoSoleeLuna.jpg",
+                "abilita":[
+                    "Nessuna"
+                ]   
+            }
+        ]
+
+    },
+    {
         "numeroSet": "13",
         "nomeSet": "Ex tempesta di sabbia",
         "annoUscita": "2004",
