@@ -2045,5 +2045,1109 @@
                 ]
             }
         ]
+    },
+    {
+        "numeroSet": "08",
+        "nomeSet": "Neo Destiny",
+        "annoUscita": "2002",
+        "figurine": [
+            {
+                "numero": "0181",
+                "progressivo": "1/105",
+                "nome": "Dark Ampharos",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/3/3d/DarkAmpharosNeoDestiny1.jpg",
+                "abilità": [
+                    "Fulminshock"
+                ]
+            },
+            {
+                "numero": "0169",
+                "progressivo": "2/105",
+                "nome": "Dark Crobat",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/2f/DarkCrobatNeoDestiny2.jpg/270px-DarkCrobatNeoDestiny2.jpg",
+                "abilità": [
+                    "Oscurassorbimento"
+                ]
+            },
+            {
+                "numero": "0232",
+                "progressivo": "3/105",
+                "nome": "Dark Donphan",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://52f4e29a8321344e30ae-0f55c9129972ac85d6b1f4e703468e6b.ssl.cf2.rackcdn.com/products/pictures/148939.jpg",
+                "abilità": [
+                    "Scuotipunte",
+                    "Gigaspuntone"
+                ]
+            },
+            {
+                "numero": "0196",
+                "progressivo": "4/105",
+                "nome": "Dark Espeon",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://www.cardtrader.com/uploads/blueprints/image/123402/dark-espeon-rare-holo-4-105-neo-destiny.jpg",
+                "abilità": [
+                    "Sfodera Artigli",
+                    "Psicoschizzi"
+                ]
+            },
+            {
+                "numero": "0160",
+                "progressivo": "5/105",
+                "nome": "Dark Feraligatr",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://www.cardtrader.com/uploads/blueprints/image/123403/show_dark-feraligatr-rare-holo-5-105-neo-destiny.jpg",
+                "abilità": [
+                    "Assalto Sbaragliante"
+                ]
+            },
+            {
+                "numero": "0094",
+                "progressivo": "6/105",
+                "nome": "Dark Gengar",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://www.cardgamecorner.com/products/pokemon/dar/dark-gengar/neo-destiny-dark-gengar-274658.jpg",
+                "abilità": [
+                    "Tira Dentro"
+                ]
+            },
+            {
+                "numero": "0229",
+                "progressivo": "7/105",
+                "nome": "Dark Houndoom",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/5/5f/DarkHoundoomNeoDestiny7.jpg",
+                "abilità": [
+                    "ululato Inquietante",
+                    "Fuoco Oscuro"
+                ]
+            },
+            {
+                "numero": "0233",
+                "progressivo": "8/105",
+                "nome": "Dark Porygon2",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/0c/DarkPorygon2NeoDestiny8.jpg/270px-DarkPorygon2NeoDestiny8.jpg",
+                "abilità": [
+                    "Devia-Attacchi"
+                ]
+            },
+            {
+                "numero": "0212",
+                "progressivo": "9/105",
+                "nome": "Dark Scizor",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://www.cardtrader.com/uploads/blueprints/image/123407/show_dark-scizor-rare-holo-9-105-neo-destiny.jpg",
+                "abilità": [
+                    "Minaccia",
+                    "Lacerazione"
+                ]
+            },
+            {
+                "numero": "0157",
+                "progressivo": "10/105",
+                "nome": "Dark Typhlosion",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://www.picclickimg.com/83wAAOSwNL5kpuQY/Carta-Pokemon-Dark-Typhlosion-10-105-Neo-Destiny-Edizione.webp",
+                "abilità": [
+                    "Sgraffignare",
+                    "Fiamme Avvolgenti"
+                ]
+            },
+            {
+                "numero": "0248",
+                "progressivo": "11/105",
+                "nome": "Dark Tyranitar",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/3f/DarkTyranitarNeoDestiny11.jpg/270px-DarkTyranitarNeoDestiny11.jpg",
+                "abilità": [
+                    "Fracassamonti",
+                    "Lancio Potente"
+                ]
+            },
+            {
+                "numero": "0059",
+                "progressivo": "12/105",
+                "nome": "Light Arcanine",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/7c/LightArcanineNeoDestiny12.jpg/270px-LightArcanineNeoDestiny12.jpg",
+                "abilità": [
+                    "Gentilfiamme"
+                ]
+            },
+            {
+                "numero": "0184",
+                "progressivo": "13/105",
+                "nome": "Light Azumarill",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/11/LightAzumarillNeoDestiny13.jpg/270px-LightAzumarillNeoDestiny13.jpg",
+                "abilità": [
+                    "Bolla",
+                    "Bollasalto"
+                ]
+            },
+            {
+                "numero": "0149",
+                "progressivo": "14/105",
+                "nome": "Light Dragonite",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/8/85/LightDragoniteNeoDestiny14.jpg/270px-LightDragoniteNeoDestiny14.jpg",
+                "abilità": [
+                    "Onda-Luce"
+                ]
+            },
+            {
+                "numero": "0176",
+                "progressivo": "15/105",
+                "nome": "Light Togetic",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://www.cardtrader.com/uploads/blueprints/image/123413/show_light-togetic-rare-holo-15-105-neo-destiny.jpg",
+                "abilità": [
+                    "Dolcebacio"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "16/105",
+                "nome": "Energia Miracolosa",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/6f/EnergiaMiracolosaNeoDestiny16.jpg/270px-EnergiaMiracolosaNeoDestiny16.jpg",
+                "abilità": [
+                    "Nessuno"
+                ]
+            },
+            {
+                "numero": "0168",
+                "progressivo": "17/105",
+                "nome": "dark Ariados",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://www.cardtrader.com/uploads/blueprints/image/123415/show_dark-ariados-17-105-neo-destiny.jpg",
+                "abilità": [
+                    "Intrappola",
+                    "Bava Velenosa"
+                ]
+            },
+            {
+                "numero": "0219",
+                "progressivo": "18/105",
+                "nome": "Dark Magcargo",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://www.cardgamecorner.com/products/pokemon/dar/dark-magcargo/neo-destiny-dark-magcargo-274670.jpg",
+                "abilità": [
+                    "Palla di Fiamme"
+                ]
+            },
+            {
+                "numero": "0139",
+                "progressivo": "19/105",
+                "nome": "Dark Omastar",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/c4/DarkOmastarNeoDestiny19.jpg/270px-DarkOmastarNeoDestiny19.jpg",
+                "abilità": [
+                    "Acqua Preistorica",
+                    "Tentacolo Oscuro"
+                ]
+            },
+            {
+                "numero": "0199",
+                "progressivo": "20/105",
+                "nome": "Dark Slowking",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/5/53/DarkSlowkingNeoDestiny20.jpg/270px-DarkSlowkingNeoDestiny20.jpg",
+                "abilità": [
+                    "Shock Mentale"
+                ]
+            },
+            {
+                "numero": "0217",
+                "progressivo": "21/105",
+                "nome": "Dark Ursaring",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://www.cardtrader.com/uploads/blueprints/image/123419/dark-ursaring-21-105-neo-destiny.jpg",
+                "abilità": [
+                    "Provocazione",
+                    "Frenesia da Battaglia"
+                ]
+            },
+            {
+                "numero": "0148",
+                "progressivo": "22/105",
+                "nome": "Light Dragonair",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://www.cardtrader.com/uploads/blueprints/image/123420/show_light-dragonair-22-105-neo-destiny.jpg",
+                "abilità": [
+                    "Luce Curativa",
+                    "Onda Protettiva"
+                ]
+            },
+            {
+                "numero": "0171",
+                "progressivo": "23/105",
+                "nome": "Light Lanturn",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://www.cardtrader.com/uploads/blueprints/image/123421/show_light-lanturn-23-105-neo-destiny.jpg",
+                "abilità": [
+                    "Fascio di Luce",
+                    "Scintilla"
+                ]
+            },
+            {
+                "numero": "0166",
+                "progressivo": "24/105",
+                "nome": "Light Ledian",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/8/85/LightLedianNeoDestiny24.jpg/270px-LightLedianNeoDestiny24.jpg",
+                "abilità": [
+                    "Tocco Abbagliante",
+                    "Cometa Pugno"
+                ]
+            },
+            {
+                "numero": "0068",
+                "progressivo": "25/105",
+                "nome": "Light Machamp",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://product-images.tcgplayer.com/86744.jpg",
+                "abilità": [
+                    "Batosta"
+                ]
+            },
+            {
+                "numero": "0221",
+                "progressivo": "26/105",
+                "nome": "Light Piloswine",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/ef/LightPiloswineNeoDestiny26.jpg/270px-LightPiloswineNeoDestiny26.jpg",
+                "abilità": [
+                    "Sconvolgimento"
+                ]
+            },
+            {
+                "numero": "0201",
+                "progressivo": "27/105",
+                "nome": "Unown [G]",
+                "stadio_evolutivo": "Base",
+                "url": "https://i.ebayimg.com/images/g/I~wAAOSw7GpgO6uy/s-l1600.jpg",
+                "abilità": [
+                    "Introforza"
+                ]
+            },
+            {
+                "numero": "0201",
+                "progressivo": "28/105",
+                "nome": "Unown [H]",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/e1/UnownHNeoDestiny28.jpg/270px-UnownHNeoDestiny28.jpg",
+                "abilità": [
+                    "Introforza"
+                ]
+            },
+            {
+                "numero": "0201",
+                "progressivo": "29/105",
+                "nome": "Unown [W]",
+                "stadio_evolutivo": "Base",
+                "url": "https://www.cardtrader.com/uploads/blueprints/image/123427/show_unown-w-29-105-neo-destiny.jpg",
+                "abilità": [
+                    "Introforza"
+                ]
+            },
+            {
+                "numero": "0201",
+                "progressivo": "30/105",
+                "nome": "Unown [X]",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/5/56/UnownXNeoDestiny30.jpg/270px-UnownXNeoDestiny30.jpg",
+                "abilità": [
+                    "Introforza"
+                ]
+            },
+            {
+                "numero": "0113",
+                "progressivo": "31/105",
+                "nome": "Chansey",
+                "stadio_evolutivo": "Base",
+                "url": "https://www.cardtrader.com/uploads/blueprints/image/123429/show_chansey-31-105-neo-destiny.jpg",
+                "abilità": [
+                    "Doppiasberla",
+                    "Uovolancio"
+                ]
+            },
+            {
+                "numero": "0159",
+                "progressivo": "32/105",
+                "nome": "Dark Croconaw",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://www.cardtrader.com/uploads/blueprints/image/123429/show_chansey-31-105-neo-destiny.jpg",
+                "abilità": [
+                    "Ingoiare"
+                ]
+            },
+            {
+                "numero": "0103",
+                "progressivo": "33/105",
+                "nome": "Dark Exeggutor",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/ba/DarkExeggutorNeoDestiny33.jpg/270px-DarkExeggutorNeoDestiny33.jpg",
+                "abilità": [
+                    "Tripla Bottintesta",
+                    "Maxiscoppio"
+                ]
+            },
+            {
+                "numero": "0180",
+                "progressivo": "34/105",
+                "nome": "Dark Flaaffy",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f5/DarkFlaaffyNeoDestiny34.jpg/270px-DarkFlaaffyNeoDestiny34.jpg",
+                "abilità": [
+                    "Alto Voltaggio",
+                    "Onda Paralizzante"
+                ]
+            },
+            {
+                "numero": "0205",
+                "progressivo": "35/105",
+                "nome": "Dark Forretress",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/d1/DarkForretressNeoDestiny35.jpg/270px-DarkForretressNeoDestiny35.jpg",
+                "abilità": [
+                    "Supercorazza",
+                    "Esplosione"
+                ]
+            },
+            {
+                "numero": "0093",
+                "progressivo": "36/105",
+                "nome": "Dark Haunter",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/d7/DarkHaunterNeoDestiny36.jpg/270px-DarkHaunterNeoDestiny36.jpg",
+                "abilità": [
+                    "Recupero",
+                    "Accerchiamento"
+                ]
+            },
+            {
+                "numero": "0138",
+                "progressivo": "37/105",
+                "nome": "Dark Omanyte",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/9/90/DarkOmanyteNeoDestiny37.jpg/270px-DarkOmanyteNeoDestiny37.jpg",
+                "abilità": [
+                    "Cannonacqua"
+                ]
+            },
+            {
+                "numero": "0247",
+                "progressivo": "38/105",
+                "nome": "Dark Pupitar",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/d/dc/DarkPupitarNeoDestiny38.jpg",
+                "abilità": [
+                    "Intervento Decisivo",
+                    "Evoluzione Esplosiva"
+                ]
+            },
+            {
+                "numero": "0156",
+                "progressivo": "39/105",
+                "nome": "Dark Quilava",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/5/59/DarkQuilavaNeoDestiny39.jpg/270px-DarkQuilavaNeoDestiny39.jpg",
+                "abilità": [
+                    "Incenerito",
+                    "Magma Avvolgente"
+                ]
+            },
+            {
+                "numero": "0040",
+                "progressivo": "40/105",
+                "nome": "Dark Wigglytuff",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/0d/DarkWigglytuffNeoDestiny40.jpg/270px-DarkWigglytuffNeoDestiny40.jpg",
+                "abilità": [
+                    "Cantoscuro",
+                    "Brusco Risveglio"
+                ]
+            },
+            {
+                "numero": "0214",
+                "progressivo": "41/105",
+                "nome": "Heracross",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/7f/HeracrossNeoDestiny41.jpg/270px-HeracrossNeoDestiny41.jpg",
+                "abilità": [
+                    "Azione",
+                    "Carica Corno"
+                ]
+            },
+            {
+                "numero": "0106",
+                "progressivo": "42/105",
+                "nome": "Hitmonlee",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/18/HitmonleeNeoDestiny42.jpg/270px-HitmonleeNeoDestiny42.jpg",
+                "abilità": [
+                    "Calci Rapidi",
+                    "Calcio di Tallone"
+                ]
+            },
+            {
+                "numero": "0228",
+                "progressivo": "43/105",
+                "nome": "Houndour",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/3f/HoundourNeoDestiny43.jpg/270px-HoundourNeoDestiny43.jpg",
+                "abilità": [
+                    "Trappola",
+                    "Affondo"
+                ]
+            },
+            {
+                "numero": "0039",
+                "progressivo": "44/105",
+                "nome": "Jigglypuff",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a3/JigglypuffNeoDestiny44.jpg/270px-JigglypuffNeoDestiny44.jpg",
+                "abilità": [
+                    "Potenzia"
+                ]
+            },
+            {
+                "numero": "0087",
+                "progressivo": "45/105",
+                "nome": "Light Dewgong",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/ce/LightDewgongNeoDestiny45.jpg/270px-LightDewgongNeoDestiny45.jpg",
+                "abilità": [
+                    "Alito Congelante",
+                    "Scia di Ghiaccio"
+                ]
+            },
+            {
+                "numero": "0136",
+                "progressivo": "46/105",
+                "nome": "Light Flareon",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/6d/LightFlareonNeoDestiny46.jpg/270px-LightFlareonNeoDestiny46.jpg",
+                "abilità": [
+                    "Riscaldamento",
+                    "Fiamma Ardente"
+                ]
+            },
+            {
+                "numero": "0055",
+                "progressivo": "47/105",
+                "nome": "Light Golduck",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/b5/LightGolduckNeoDestiny47.jpg/270px-LightGolduckNeoDestiny47.jpg",
+                "abilità": [
+                    "Pinnata",
+                    "Estroflessione"
+                ]
+            },
+            {
+                "numero": "0135",
+                "progressivo": "48/105",
+                "nome": "Light Jolteon",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/d8/LightJolteonNeoDestiny48.jpg/270px-LightJolteonNeoDestiny48.jpg",
+                "abilità": [
+                    "Controlla-Impulso",
+                    "Ago Tuonante"
+                ]
+            },
+            {
+                "numero": "0067",
+                "progressivo": "49/105",
+                "nome": "Light Machoke",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/05/LightMachokeNeoDestiny49.jpg/270px-LightMachokeNeoDestiny49.jpg",
+                "abilità": [
+                    "Torna a Casa",
+                    "Pedatina"
+                ]
+            },
+            {
+                "numero": "0038",
+                "progressivo": "50/105",
+                "nome": "Light Ninetales",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/6c/LightNinetalesNeoDestiny50.jpg/270px-LightNinetalesNeoDestiny50.jpg",
+                "abilità": [
+                    "Fiamma Guida",
+                    "Fuocobomba"
+                ]
+            },
+            {
+                "numero": "0080",
+                "progressivo": "51/105",
+                "nome": "Light Slowbro",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/9/9b/LightSlowbroNeoDestiny51.jpg/270px-LightSlowbroNeoDestiny51.jpg",
+                "abilità": [
+                    "Ripescati",
+                    "Sguazzare"
+                ]
+            },
+            {
+                "numero": "0134",
+                "progressivo": "52/105",
+                "nome": "Light Vaporeon",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://www.cardtrader.com/uploads/blueprints/image/123450/show_light-vaporeon-52-105-neo-destiny.jpg",
+                "abilità": [
+                    "Lava Via",
+                    "Ipnodoccia"
+                ]
+            },
+            {
+                "numero": "0049",
+                "progressivo": "53/105",
+                "nome": "Light Venomoth",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://www.cardtrader.com/uploads/blueprints/image/123451/show_light-venomoth-53-105-neo-destiny.jpg",
+                "abilità": [
+                    "Ala Misteriosa",
+                    "Sincronia"
+                ]
+            },
+            {
+                "numero": "0040",
+                "progressivo": "54/105",
+                "nome": "Light Wigglytuff",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/21/LightWigglytuffNeoDestiny54.jpg/270px-LightWigglytuffNeoDestiny54.jpg",
+                "abilità": [
+                    "Canto Evolutivo",
+                    "Body Slam"
+                ]
+            },
+            {
+                "numero": "0123",
+                "progressivo": "55/105",
+                "nome": "Scyther",
+                "stadio_evolutivo": "Base",
+                "url": "https://www.cardtrader.com/uploads/blueprints/image/123453/show_scyther-55-105-neo-destiny.jpg",
+                "abilità": [
+                    "Agilità",
+                    "Falce Affilata"
+                ]
+            },
+            {
+                "numero": "0175",
+                "progressivo": "56/105",
+                "nome": "Togepi",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f9/TogepiNeoDestiny56.jpg/270px-TogepiNeoDestiny56.jpg",
+                "abilità": [
+                    "Charme",
+                    "Azione Palla-Punta"
+                ]
+            },
+            {
+                "numero": "0201",
+                "progressivo": "57/105",
+                "nome": "Unown [C]",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/36/UnownCNeoDestiny57.jpg/270px-UnownCNeoDestiny57.jpg",
+                "abilità": [
+                    "Introforza"
+                ]
+            },
+            {
+                "numero": "0201",
+                "progressivo": "58/105",
+                "nome": "Unown [P]",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/0f/UnownPNeoDestiny58.jpg/270px-UnownPNeoDestiny58.jpg",
+                "abilità": [
+                    "Introforza"
+                ]
+            },
+            {
+                "numero": "0201",
+                "progressivo": "59/105",
+                "nome": "Unown [Q]",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f7/UnownQNeoDestiny59.jpg/270px-UnownQNeoDestiny59.jpg",
+                "abilità": [
+                    "Introforza"
+                ]
+            },
+            {
+                "numero": "0201",
+                "progressivo": "60/105",
+                "nome": "Unown [Z]",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/eb/UnownZNeoDestiny60.jpg/270px-UnownZNeoDestiny60.jpg",
+                "abilità": [
+                    "Introforza"
+                ]
+            },
+            {
+                "numero": "0155",
+                "progressivo": "61/105",
+                "nome": "Cyndaquil",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/6a/CyndaquilNeoDestiny61.jpg/270px-CyndaquilNeoDestiny61.jpg",
+                "abilità": [
+                    "Cortina Fumogena"
+                ]
+            },
+            {
+                "numero": "0224",
+                "progressivo": "62/105",
+                "nome": "Dark Octillery",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5d/DarkOctilleryNeoDestiny62.jpg/270px-DarkOctilleryNeoDestiny62.jpg",
+                "abilità": [
+                    "Spruzza Inchiostro",
+                    "Tentacolo Avvolgente"
+                ]
+            },
+            {
+                "numero": "0147",
+                "progressivo": "63/105",
+                "nome": "Dratini",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/4c/DratiniNeoDestiny63.jpg/270px-DratiniNeoDestiny63.jpg",
+                "abilità": [
+                    "Muta",
+                    "Furia"
+                ]
+            },
+            {
+                "numero": "0102",
+                "progressivo": "64/105",
+                "nome": "Exeggcute",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/c5/ExeggcuteNeoDestiny64.jpg/270px-ExeggcuteNeoDestiny64.jpg",
+                "abilità": [
+                    "Polvere Saporifera",
+                    "Psicoshock"
+                ]
+            },
+            {
+                "numero": "0092",
+                "progressivo": "65/105",
+                "nome": "Gastly",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/6d/GastlyNeoDestiny65.jpg/270px-GastlyNeoDestiny65.jpg",
+                "abilità": [
+                    "Incubo"
+                ]
+            },
+            {
+                "numero": "0203",
+                "progressivo": "66/105",
+                "nome": "Girafarig",
+                "stadio_evolutivo": "Base",
+                "url": "https://www.cartedagio.com/wp-content/uploads/2020/01/Girafarig-Neo-Destiny-66105-Comune-Carte-Pok%C3%A9mon.jpg",
+                "abilità": [
+                    "Morso di Coda",
+                    "Psichico"
+                ]
+            },
+            {
+                "numero": "0207",
+                "progressivo": "67/105",
+                "nome": "Gligar",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/8/8f/GligarNeoDestiny67.jpg/270px-GligarNeoDestiny67.jpg",
+                "abilità": [
+                    "Bloccanervi"
+                ]
+            },
+            {
+                "numero": "0058",
+                "progressivo": "68/105",
+                "nome": "Growlithe",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/26/GrowlitheNeoDestiny68.jpg/270px-GrowlitheNeoDestiny68.jpg",
+                "abilità": [
+                    "Morso"
+                ]
+            },
+            {
+                "numero": "0107",
+                "progressivo": "69/105",
+                "nome": "Hitmonchan",
+                "stadio_evolutivo": "Base",
+                "url": "https://www.cartedagio.com/wp-content/uploads/2020/03/Hitmonchan-Neo-Destiny-69105-Comune-Carte-Pok%C3%A9mon.jpg",
+                "abilità": [
+                    "Schivata",
+                    "Diretto Mozzafiato"
+                ]
+            },
+            {
+                "numero": "0246",
+                "progressivo": "70/105",
+                "nome": "Larvitar",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a2/LarvitarNeoDestiny70.jpg/270px-LarvitarNeoDestiny70.jpg",
+                "abilità": [
+                    "Fulmisguardo",
+                    "Sassata"
+                ]
+            },
+            {
+                "numero": "0165",
+                "progressivo": "71/105",
+                "nome": "Ledyba",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/d5/LedybaNeoDestiny71.jpg/270px-LedybaNeoDestiny71.jpg",
+                "abilità": [
+                    "Comete"
+                ]
+            },
+            {
+                "numero": "0192",
+                "progressivo": "72/105",
+                "nome": "Light Sunflora",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/c3/LightSunfloraNeoDestiny72.jpg/270px-LightSunfloraNeoDestiny72.jpg",
+                "abilità": [
+                    "Sole Riflesso",
+                    "Solarraggio"
+                ]
+            },
+            {
+                "numero": "0066",
+                "progressivo": "73/105",
+                "nome": "Machop",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/46/MachopNeoDestiny73.jpg/270px-MachopNeoDestiny73.jpg",
+                "abilità": [
+                    "Colpo di Taglio",
+                    "Pugno"
+                ]
+            },
+            {
+                "numero": "0226",
+                "progressivo": "74/105",
+                "nome": "Mantine",
+                "stadio_evolutivo": "Base",
+                "url": "https://www.cartedagio.com/wp-content/uploads/2020/01/Mantine-Neo-Destiny-74105-Comune-Carte-Pok%C3%A9mon.jpg",
+                "abilità": [
+                    "Onda Anomala"
+                ]
+            },
+            {
+                "numero": "0179",
+                "progressivo": "75/105",
+                "nome": "Mareep",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/ab/MareepNeoDestiny75.jpg/270px-MareepNeoDestiny75.jpg",
+                "abilità": [
+                    "Bottintesta"
+                ]
+            },
+            {
+                "numero": "0231",
+                "progressivo": "76/105",
+                "nome": "Phanpy",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/d5/PhanpyNeoDestiny76.jpg/270px-PhanpyNeoDestiny76.jpg",
+                "abilità": [
+                    "Zampata Schiacciante"
+                ]
+            },
+            {
+                "numero": "0204",
+                "progressivo": "77/105",
+                "nome": "Pineco",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/d9/PinecoNeoDestiny77.jpg/270px-PinecoNeoDestiny77.jpg",
+                "abilità": [
+                    "Azione"
+                ]
+            },
+            {
+                "numero": "0137",
+                "progressivo": "78/105",
+                "nome": "Porygon",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/bc/PorygonNeoDestiny78.jpg/270px-PorygonNeoDestiny78.jpg",
+                "abilità": [
+                    "Affilatore"
+                ]
+            },
+            {
+                "numero": "0054",
+                "progressivo": "79/105",
+                "nome": "Psyduck",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/2e/PsyduckNeoDestiny79.jpg/270px-PsyduckNeoDestiny79.jpg",
+                "abilità": [
+                    "Schizzata",
+                    "Mal di Testa"
+                ]
+            },
+            {
+                "numero": "0223",
+                "progressivo": "80/105",
+                "nome": "Remoraid",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/76/RemoraidNeoDestiny80.jpg/270px-RemoraidNeoDestiny80.jpg",
+                "abilità": [
+                    "Attacchi Furiosi"
+                ]
+            },
+            {
+                "numero": "0086",
+                "progressivo": "81/105",
+                "nome": "Seel",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/8/87/SeelNeoDestiny81.jpg/270px-SeelNeoDestiny81.jpg",
+                "abilità": [
+                    "Riduttore"
+                ]
+            },
+            {
+                "numero": "0218",
+                "progressivo": "82/105",
+                "nome": "Slugma",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/8/89/SlugmaNeoDestiny82.jpg/270px-SlugmaNeoDestiny82.jpg",
+                "abilità": [
+                    "Fuoco Continuo"
+                ]
+            },
+            {
+                "numero": "0191",
+                "progressivo": "83/105",
+                "nome": "Sunkern",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/42/SunkernNeoDestiny83.jpg/270px-SunkernNeoDestiny83.jpg",
+                "abilità": [
+                    "Rotolamento",
+                    "Bagno di Sole"
+                ]
+            },
+            {
+                "numero": "0220",
+                "progressivo": "84/105",
+                "nome": "Swinub",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/8/8e/SwinubNeoDestiny84.jpg/270px-SwinubNeoDestiny84.jpg",
+                "abilità": [
+                    "Raffreddare"
+                ]
+            },
+            {
+                "numero": "0158",
+                "progressivo": "85/105",
+                "nome": "Totodile",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fe/TotodileNeoDestiny85.jpg/270px-TotodileNeoDestiny85.jpg",
+                "abilità": [
+                    "Pistolacqua"
+                ]
+            },
+            {
+                "numero": "0201",
+                "progressivo": "86/105",
+                "nome": "Unown [L]",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a1/UnownLNeoDestiny86.jpg/270px-UnownLNeoDestiny86.jpg",
+                "abilità": [
+                    "Introforza"
+                ]
+            },
+            {
+                "numero": "0201",
+                "progressivo": "87/105",
+                "nome": "Unown [S]",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/6b/UnownSNeoDestiny87.jpg/270px-UnownSNeoDestiny87.jpg",
+                "abilità": [
+                    "Introforza"
+                ]
+            },
+            {
+                "numero": "0201",
+                "progressivo": "88/105",
+                "nome": "Unown [T]",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f2/UnownTNeoDestiny88.jpg/270px-UnownTNeoDestiny88.jpg",
+                "abilità": [
+                    "Introforza"
+                ]
+            },
+            {
+                "numero": "0201",
+                "progressivo": "89/105",
+                "nome": "Unown [V]",
+                "stadio_evolutivo": "Base",
+                "url": "https://www.cartedagio.com/wp-content/uploads/2020/01/Unown-V-Neo-Destiny-89105-Comune-Carte-Pok%C3%A9mon.jpg",
+                "abilità": [
+                    "Introforza"
+                ]
+            },
+            {
+                "numero": "0048",
+                "progressivo": "90/105",
+                "nome": "Venonat",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/41/VenonatNeoDestiny90.jpg/270px-VenonatNeoDestiny90.jpg",
+                "abilità": [
+                    "Rosicchiamento",
+                    "Velenpolvere"
+                ]
+            },
+            {
+                "numero": "0037",
+                "progressivo": "91/105",
+                "nome": "Vulpix",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/cd/VulpixNeoDestiny91.jpg/270px-VulpixNeoDestiny91.jpg",
+                "abilità": [
+                    "Bracere"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "92/105",
+                "nome": "Palestra di Terra Spaccata",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/75/PalestradiTerraSpaccataNeoDestiny92.jpg/270px-PalestradiTerraSpaccataNeoDestiny92.jpg",
+                "abilità": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "93/105",
+                "nome": "Distribuzione di Esperienza",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/8/83/Exp.SharePrimalClash128.png",
+                "abilità": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "94/105",
+                "nome": "Invenzione del Professor Oak, l'Impostore",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://www.cardtrader.com/uploads/blueprints/image/123492/show_impostor-professor-oak-s-invention-94-105-neo-destiny.jpg",
+                "abilità": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "95/105",
+                "nome": "Torre Radio",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/63/RadioTowerNeoDestiny95.jpg/270px-RadioTowerNeoDestiny95.jpg",
+                "abilità": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "96/105",
+                "nome": "Congegno Onda di Pensiero",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/8/8c/CongegnoOndadiPensieroNeoDestiny96.jpg/270px-CongegnoOndadiPensieroNeoDestiny96.jpg",
+                "abilità": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "97/105",
+                "nome": "Artigli Contrattaccanti",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://www.cardtrader.com/uploads/blueprints/image/123495/show_counterattack-claws-97-105-neo-destiny.jpg",
+                "abilità": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "98/105",
+                "nome": "Amplifica Energia",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/9/90/AmplificaEnergiaNeoDestiny98.jpg/270px-AmplificaEnergiaNeoDestiny98.jpg",
+                "abilità": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "99/105",
+                "nome": "Stadio Energia",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://www.cardtrader.com/uploads/blueprints/image/123497/show_energy-stadium-99-105-neo-destiny.jpg",
+                "abilità": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "100/105",
+                "nome": "Stadio Fortuna",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/5/54/LuckyStadiumNeoDestiny100.jpg/270px-LuckyStadiumNeoDestiny100.jpg",
+                "abilità": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "101/105",
+                "nome": "Ingrandimento",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://www.cardtrader.com/uploads/blueprints/image/123499/show_magnifier-101-105-neo-destiny.jpg",
+                "abilità": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "102/105",
+                "nome": "Test di Personalità Pokémon",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://www.cardtrader.com/uploads/blueprints/image/123500/show_pokemon-personality-test-102-105-neo-destiny.jpg",
+                "abilità": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "103/105",
+                "nome": "Azioni diaboliche del Team Rocket",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/48/AzionidiabolichedelTeamRocketNeoDestiny103.jpg/270px-AzionidiabolichedelTeamRocketNeoDestiny103.jpg",
+                "abilità": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "104/105",
+                "nome": "Polvocura",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/5/56/PolvocuraNeoDestiny104.jpg/270px-PolvocuraNeoDestiny104.jpg",
+                "abilità": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "105/105",
+                "nome": "Posta da Bill",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/4/48/PostadaBillNeoDestiny105.jpg",
+                "abilità": [
+                    "Nessuna"
+                ]
+            }
+        ]
     }
 ]
