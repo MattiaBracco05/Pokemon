@@ -1,1102 +1,1102 @@
 [
     {
-    "numeroSet": "01",
-    "nomeSet": "Set Base",
-    "annoUscita": "1999",
-    "figurine": [
-        {
-            "numero": "0065",
-            "progressivo": "1/102",
-            "nome": "Alakazam",
-            "stadio_evolutivo": "Fase 2",
-            "url": "https://media.pokemoncentral.it/wiki/1/12/AlakazamSetBase1.jpg",
-            "abilita": [
-                "Sincronismo",
-                "Forza Interiore",
-                "Magicscudo"
-            ]
-        },
-        {
-            "numero": "0009",
-            "progressivo": "2/102",
-            "nome": "Blastoise",
-            "stadio_evolutivo": "Fase 2",
-            "url": "https://media.pokemoncentral.it/wiki/3/39/BlastoiseSetBase2.jpg",
-            "abilita": [
-                "Nessuno"
-            ]
-        },
-        {
-            "numero": "0113",
-            "progressivo": "3/102",
-            "nome": "Chansey",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/8/80/ChanseySetBase3.jpg",
-            "abilita": [
-                "Nessuno"
-            ]
-        },
-        {
-            "numero": "0035",
-            "progressivo": "4/102",
-            "nome": "Charizard",
-            "stadio_evolutivo": "Fase 2",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/b/b4/CharizardSetBase4.jpg/360px-CharizardSetBase4.jpg",
-            "abilita": [
-                "Nessuno"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "5/102",
-            "nome": "Clefairy",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/9/9e/ClefairySetBase5.jpg/360px-ClefairySetBase5.jpg",
-            "abilita": [
-                "Nessuno"
-            ]
-        },
-        {
-            "numero": "0012",
-            "progressivo": "6/102",
-            "nome": "Gyarados",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/8/8a/GyaradosSetBase6.jpg/360px-GyaradosSetBase6.jpg",
-            "abilita": [
-                "Nessuno"
-            ]
-        },
-        {
-            "numero": "0107",
-            "progressivo": "7/102",
-            "nome": "Hitmonchan",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/6/6b/HitmonchanSetBase7.jpg",
-            "abilita": [
-                "Sguardofermo",
-                "Ferropugno",
-                "Forza Interiore"
-            ]
-        },
-        {
-            "numero": "0068",
-            "progressivo": "8/102",
-            "nome": "Machamp",
-            "stadio_evolutivo": "Fase 2",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/3/3a/MachampSetBase8%281_Edizione%29.jpg/360px-MachampSetBase8%281_Edizione%29.jpg",
-            "abilita": [
-                "Dentistretti",
-                "Nullodifesa",
-                "Cuordeciso"
-            ]
-        },
-        {
-            "numero": "0082",
-            "progressivo": "9/102",
-            "nome": "Magneton",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/c/c8/MagnetonSetBase9.jpg/360px-MagnetonSetBase9.jpg",
-            "abilita": [
-                "Magnetismo",
-                "Vigore",
-                "Ponderazione"
-            ]
-        },
-        {
-            "numero": "0150",
-            "progressivo": "10/102",
-            "nome": "Mewtwo",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/2/29/MewtwoSetBase10.jpg/360px-MewtwoSetBase10.jpg",
-            "abilita": [
-                "Pressione",
-                "Agitazione"
-            ]
-        },
-        {
-            "numero": "0034",
-            "progressivo": "11/102",
-            "nome": "Nidoking",
-            "stadio_evolutivo": "Fase 2",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/9/9c/NidokingSetBase11.jpg/360px-NidokingSetBase11.jpg",
-            "abilita": [
-                "Velenopunte",
-                "Antagonismo",
-                "Forzabruta"
-            ]
-        },
-        {
-            "numero": "0038",
-            "progressivo": "12/102",
-            "nome": "Ninetales",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/b/b5/NinetalesSetBase12.jpg",
-            "abilita": [
-                "Fuocardore",
-                "Siccità"
-            ]
-        },
-        {
-            "numero": "0062",
-            "progressivo": "13/102",
-            "nome": "Poliwrath",
-            "stadio_evolutivo": "Fase 2",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/d/d7/PoliwrathSetBase13.jpg/360px-PoliwrathSetBase13.jpg",
-            "abilita": [
-                "Assorbacqua",
-                "Umidità",
-                "Nuotovelox"
-            ]
-        },
-        {
-            "numero": "0026",
-            "progressivo": "14/102",
-            "nome": "Raichu",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/9/9a/RaichuSetBase14.jpg",
-            "abilita": [
-                "Statico",
-                "Parafulmine"
-            ]
-        },
-        {
-            "numero": "0003",
-            "progressivo": "15/102",
-            "nome": "Venusaur",
-            "stadio_evolutivo": "Fase 2",
-            "url": "https://media.pokemoncentral.it/wiki/b/b8/VenusaurSetBase15.jpg",
-            "abilita": [
-                "Erbaiuto",
-                "Clorofilla"
-            ]
-        },
-        {
-            "numero": "0145",
-            "progressivo": "16/102",
-            "nome": "Zapdos",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/b/b0/ZapdosSetBase16.jpg/360px-ZapdosSetBase16.jpg",
-            "abilita": [
-                "Pressione",
-                "Parafulmine"
-            ]
-        },
-        {
-            "numero": "0015",
-            "progressivo": "17/102",
-            "nome": "Beedrill",
-            "stadio_evolutivo": "Fase 2",
-            "url": "https://media.pokemoncentral.it/wiki/8/82/BeedrillSetBase17.jpg",
-            "abilita": [
-                "Aiutinsetto",
-                "Cecchino"
-            ]
-        },
-        {
-            "numero": "0148",
-            "progressivo": "18/102",
-            "nome": "Dragonair",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/9/9e/DragonairSetBase18.jpg/360px-DragonairSetBase18.jpg",
-            "abilita": [
-                "Muta",
-                "Pelledura"
-            ]
-        },
-        {
-            "numero": "0051",
-            "progressivo": "19/102",
-            "nome": "Dugtrio",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/f/f7/DugtrioSetBase19.jpg/360px-DugtrioSetBase19.jpg",
-            "abilita": [
-                "Sabbiavelo",
-                "Trappoarena",
-                "Silicoforza"
-            ]
-        },
-        {
-            "numero": "0125",
-            "progressivo": "20/102",
-            "nome": "Electabuzz",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/0/00/ElectabuzzSetBase20.jpg",
-            "abilita": [
-                "Statico",
-                "Spiritovivo"
-            ]
-        },
-        {
-            "numero": "0101",
-            "progressivo": "21/102",
-            "nome": "Electrode",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/c/c1/ElectrodeSetBase21.jpg/360px-ElectrodeSetBase21.jpg",
-            "abilita": [
-                "Antisuono",
-                "Statico",
-                "Scoppio"
-            ]
-        },
-        {
-            "numero": "0059",
-            "progressivo": "23/102",
-            "nome": "Arcanine",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/6/61/Arcanine_SetBase23.jpg",
-            "abilita": [
-                "Prepotenza",
-                "Fuocardore",
-                "Giustizia"
-            ]
-        },
-        {
-            "numero": "0005",
-            "progressivo": "24/102",
-            "nome": "Charmeleon",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/6/67/CharmeleonSetBase24.jpg",
-            "abilita": [
-                "Aiutofuoco",
-                "Solarpotere"
-            ]
-        },
-        {
-            "numero": "0087",
-            "progressivo": "25/102",
-            "nome": "Dewgong",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/9/97/DewgongSetBase25.jpg/360px-DewgongSetBase25.jpg",
-            "abilita": [
-                "Grassosospeso",
-                "Idratazione",
-                "Corpogelo"
-            ]
-        },
-        {
-            "numero": "0147",
-            "progressivo": "26/102",
-            "nome": "Dratini",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/9/91/DratiniSetBase26.jpg",
-            "abilita": [
-                "Muta",
-                "Pelledura"
-            ]
-        },
-        {
-            "numero": "0083",
-            "progressivo": "27/102",
-            "nome": "Farfetch'd",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/a/a9/FarfetchdSetBase27.jpg/360px-FarfetchdSetBase27.jpg",
-            "abilita": [
-                "Sguardofermo",
-                "Forza Interiore",
-                "Agonismo"
-            ]
-        },
-        {
-            "numero": "0058",
-            "progressivo": "28/102",
-            "nome": "Growlithe",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/d/d7/GrowlitheSetBase28.jpg/360px-GrowlitheSetBase28.jpg",
-            "abilita": [
-                "Prepotenza",
-                "Fuocardore",
-                "Giustizia"
-            ]
-        },
-        {
-            "numero": "0093",
-            "progressivo": "29/102",
-            "nome": "Haunter",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/2/2d/HaunterSetBase29.jpg/360px-HaunterSetBase29.jpg",
-            "abilita": [
-                "Levitazione"
-            ]
-        },
-        {
-            "numero": "0002",
-            "progressivo": "30/102",
-            "nome": "Ivysaur",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/5/52/IvysaurSetBase30.jpg",
-            "abilita": [
-                "Erbaiuto",
-                "Clorofilla"
-            ]
-        },
-        {
-            "numero": "0124",
-            "progressivo": "31/102",
-            "nome": "Jynx",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/0/0f/JynxSetBase31.jpg",
-            "abilita": [
-                "Indifferenza",
-                "Premonizione",
-                "Pellearasa"
-            ]
-        },
-        {
-            "numero": "0064",
-            "progressivo": "32/102",
-            "nome": "Kadabra",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/1/15/KadabraSetBase32.jpg/360px-KadabraSetBase32.jpg",
-            "abilita": [
-                "Sincronismo",
-                "Forza Interiore",
-                "Magicscudo"
-            ]
-        },
-        {
-            "numero": "0014",
-            "progressivo": "33/102",
-            "nome": "Kakuna",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/7/76/KakunaSetBase33.png",
-            "abilita": [
-                "Mura"
-            ]
-        },
-        {
-            "numero": "0067",
-            "progressivo": "34/102",
-            "nome": "Machoke",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/b/bb/MachokeSetBase34.jpg/360px-MachokeSetBase34.jpg",
-            "abilita": [
-                "Dentistretti",
-                "Nullodifesa",
-                "Cuordeciso"
-            ]
-        },
-        {
-            "numero": "0129",
-            "progressivo": "35/102",
-            "nome": "Magikarp",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/0/0e/MagikarpSetBase35.jpg",
-            "abilita": [
-                "Nuotovelox",
-                "Paura"
-            ]
-        },
-        {
-            "numero": "0126",
-            "progressivo": "36/102",
-            "nome": "Magmar",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/0/08/MagmarSetBase36.jpg/360px-MagmarSetBase36.jpg",
-            "abilita": [
-                "Corpodifuoco",
-                "Spiritovivo"
-            ]
-        },
-        {
-            "numero": "0033",
-            "progressivo": "37/102",
-            "nome": "Nidorino",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/6/63/NidorinoSetBase37.jpg/360px-NidorinoSetBase37.jpg",
-            "abilita": [
-                "Velenopunte",
-                "Antagonismo",
-                "Tuttofretta"
-            ]
-        },
-        {
-            "numero": "0061",
-            "progressivo": "38/102",
-            "nome": "Poliwhirl",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/7/7d/PoliwhirlSetBase38.jpg",
-            "abilita": [
-                "Assorbacqua",
-                "Umidità",
-                "Nuotovelox"
-            ]
-        },
-        {
-            "numero": "0137",
-            "progressivo": "39/102",
-            "nome": "Porygon",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/9/9b/PorygonSetBase39.jpg/360px-PorygonSetBase39.jpg",
-            "abilita": [
-                "Traccia",
-                "Download",
-                "Ponderazione"
-            ]
-        },
-        {
-            "numero": "0020",
-            "progressivo": "40/102",
-            "nome": "Raticate",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/b/bc/RaticateSetBase40.jpg/360px-RaticateSetBase40.jpg",
-            "abilita": [
-                "Fugafacile",
-                "Dentistretti",
-                "Tuttafretta"
-            ]
-        },
-        {
-            "numero": "0086",
-            "progressivo": "41/102",
-            "nome": "Seel",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/a/ae/SeelSetBase41.jpg/360px-SeelSetBase41.jpg",
-            "abilita": [
-                "Grassosospeso",
-                "Idratazione",
-                "Corpogelo"
-            ]
-        },
-        {
-            "numero": "0008",
-            "progressivo": "42/102",
-            "nome": "Wartortle",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/7/71/WartortleSetBase42.jpg/360px-WartortleSetBase42.jpg",
-            "abilita": [
-                "Acquaiuto",
-                "Copripioggia"
-            ]
-        },
-        {
-            "numero": "0063",
-            "progressivo": "43/102",
-            "nome": "Abra",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/6/67/AbraSetBase43.jpg",
-            "abilita": [
-                "Sincronismo",
-                "Magicscudo"
-            ]
-        },
-        {
-            "numero": "0001",
-            "progressivo": "44/102",
-            "nome": "Bulbasaur",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/8/80/BulbasaurSetBase44.jpg",
-            "abilita": [
-                "Erbaiuto",
-                "Clorofilla"
-            ]
-        },
-        {
-            "numero": "0010",
-            "progressivo": "45/102",
-            "nome": "Caterpie",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/7/7b/CaterpieSetBase45.jpg/360px-CaterpieSetBase45.jpg",
-            "abilita": [
-                "Polvoscudo",
-                "Fugafacile"
-            ]
-        },
-        {
-            "numero": "0004",
-            "progressivo": "46/102",
-            "nome": "Charmander",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/f/f0/CharmanderSetBase46.jpg",
-            "abilita": [
-                "Aiutofuoco",
-                "Solarpotere"
-            ]
-        },
-        {
-            "numero": "0050",
-            "progressivo": "47/102",
-            "nome": "Diglett",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/c/cc/DiglettSetBase47.jpg/360px-DiglettSetBase47.jpg",
-            "abilita": [
-                "Sabbiavelo",
-                "Trappoarena",
-                "Silicoforza"
-            ]
-        },
-        {
-            "numero": "0084",
-            "progressivo": "48/102",
-            "nome": "Doduo",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/b/bd/DoduoSetBase48.jpg/360px-DoduoSetBase48.jpg",
-            "abilita": [
-                "Fugafacile",
-                "Sveglialampo",
-                "Intricopiedi"
-            ]
-        },
-        {
-            "numero": "0096",
-            "progressivo": "49/102",
-            "nome": "Drowzee",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/d/d6/DrowzeeSetBase49.jpg/360px-DrowzeeSetBase49.jpg",
-            "abilita": [
-                "Insonnia",
-                "Premonizione",
-                "Forza Interiore"
-            ]
-        },
-        {
-            "numero": "0092",
-            "progressivo": "50/102",
-            "nome": "Gastly",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/2/20/GastlySetBase50.jpg/360px-GastlySetBase50.jpg",
-            "abilita": [
-                "Levitazione"
-            ]
-        },
-        {
-            "numero": "0108",
-            "progressivo": "51/102",
-            "nome": "Koffing",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/7/7c/KoffingSetBase51.jpg/360px-KoffingSetBase51.jpg",
-            "abilita": [
-                "Levitazione",
-                "Gas Reagente",
-                "Tanfo"
-            ]
-        },
-        {
-            "numero": "0066",
-            "progressivo": "52/102",
-            "nome": "Machop",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/c/c4/MachopSetBase52.jpg/360px-MachopSetBase52.jpg",
-            "abilita": [
-                "Dentistretti",
-                "Nullodifesa",
-                "Cuordeciso"
-            ]
-        },
-        {
-            "numero": "0081",
-            "progressivo": "53/102",
-            "nome": "Magnemite",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/d/dd/MagnemiteSetBase53.jpg/360px-MagnemiteSetBase53.jpg",
-            "abilita": [
-                "Magnetismo",
-                "Vigore",
-                "Ponderazione"
-            ]
-        },
-        {
-            "numero": "0011",
-            "progressivo": "54/102",
-            "nome": "Metapod",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/a/a6/MetapodSetBase54.jpg/360px-MetapodSetBase54.jpg",
-            "abilita": [
-                "Muta"
-            ]
-        },
-        {
-            "numero": "0032",
-            "progressivo": "55/102",
-            "nome": "Nidoran",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/c/c9/NidoranSetBase55.jpg/360px-NidoranSetBase55.jpg",
-            "abilita": [
-                "Velenopunte",
-                "Antagonismo",
-                "Tuttafretta"
-            ]
-        },
-        {
-            "numero": "0095",
-            "progressivo": "56/102",
-            "nome": "Onix",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/1/10/OnixSetBase56.jpg/360px-OnixSetBase56.jpg",
-            "abilita": [
-                "Testadura",
-                "Vigore",
-                "Sottilguscio"
-            ]
-        },
-        {
-            "numero": "0016",
-            "progressivo": "57/102",
-            "nome": "Pidgey",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/b/b3/PidgeySetBase57.jpg/360px-PidgeySetBase57.jpg",
-            "abilita": [
-                "Sguardofermo",
-                "Intricopiedi",
-                "Pettinfuori"
-            ]
-        },
-        {
-            "numero": "0025",
-            "progressivo": "58/102",
-            "nome": "Pikachu",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/5/54/PikachuSetBase58.jpg/360px-PikachuSetBase58.jpg",
-            "abilita": [
-                "Statico",
-                "Parafulmine"
-            ]
-        },
-        {
-            "numero": "0060",
-            "progressivo": "59/102",
-            "nome": "Poliwag",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/6/6f/PoliwagSetBase59.jpg/360px-PoliwagSetBase59.jpg",
-            "abilita": [
-                "Assorbacqua",
-                "Umidità",
-                "Nuotovelox"
-            ]
-        },
-        {
-            "numero": "0077",
-            "progressivo": "60/102",
-            "nome": "Ponyta",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/d/d5/PonytaSetBase60.jpg/360px-PonytaSetBase60.jpg",
-            "abilita": [
-                "Fugafacile",
-                "Fuocardore",
-                "Corpodifuoco"
-            ]
-        },
-        {
-            "numero": "0019",
-            "progressivo": "61/102",
-            "nome": "Rattata",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/c/c3/RattataSetBase61.jpg",
-            "abilita": [
-                "Fugafacile",
-                "Dentistretti",
-                "Tuttafretta"
-            ]
-        },
-        {
-            "numero": "0027",
-            "progressivo": "62/102",
-            "nome": "Sandshrew",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/4/47/SandshrewSetBase62.jpg/360px-SandshrewSetBase62.jpg",
-            "abilita": [
-                "Sabbiavelo",
-                "Remasabbia"
-            ]
-        },
-        {
-            "numero": "0007",
-            "progressivo": "63/102",
-            "nome": "Squirtle",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/7/7a/SquirtleSetBase63.jpg/360px-SquirtleSetBase63.jpg",
-            "abilita": [
-                "Acquaiuto",
-                "Copripioggia"
-            ]
-        },
-        {
-            "numero": "0121",
-            "progressivo": "64/102",
-            "nome": "Starmie",
-            "stadio_evolutivo": "Fase 1",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/7/70/StarmieSetBase64.jpg/360px-StarmieSetBase64.jpg",
-            "abilita": [
-                "Risplendi",
-                "Alternacura",
-                "Ponderazione"
-            ]
-        },
-        {
-            "numero": "0114",
-            "progressivo": "66/102",
-            "nome": "Tangela",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/c/c2/TangelaSetBase66.jpg/360px-TangelaSetBase66.jpg",
-            "abilita": [
-                "Clorofilla",
-                "Fogliamanto",
-                "Rigenergia"
-            ]
-        },
-        {
-            "numero": "0100",
-            "progressivo": "67/102",
-            "nome": "Voltorb",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/d/df/VoltorbSetBase67.jpg/360px-VoltorbSetBase67.jpg",
-            "abilita": [
-                "Antisuono",
-                "Statico",
-                "Scoppio"
-            ]
-        },
-        {
-            "numero": "0037",
-            "progressivo": "68/102",
-            "nome": "Vulpix",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/1/15/VulpixSetBase68.jpg/360px-VulpixSetBase68.jpg",
-            "abilita": [
-                "Fuocardore",
-                "Siccità"
-            ]
-        },
-        {
-            "numero": "0013",
-            "progressivo": "69/102",
-            "nome": "Weedle",
-            "stadio_evolutivo": "Base",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/c/c6/WeedleSetBase69.jpg/360px-WeedleSetBase69.jpg",
-            "abilita": [
-                "Polvoscudo",
-                "Fugafacile"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "70/102",
-            "nome": "Clefairy Doll",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/4/47/ClefairyDollSetBase70.jpg/360px-ClefairyDollSetBase70.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "71/102",
-            "nome": "Ricerca Computerizzata",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/5/5c/RicercaComputerizzataConfiniVarcati.png",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "72/102",
-            "nome": "Getto di Involuzione",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/7/75/GettodiInvoluzioneStirpedeiDraghi113.jpg/360px-GettodiInvoluzioneStirpedeiDraghi113.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "73/102",
-            "nome": "Professor Oak, l'impostore",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/4/43/BS73ImposterProfessorOak.jpg/360px-BS73ImposterProfessorOak.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "74/102",
-            "nome": "Oggetti Smarriti",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/1/19/BS74ItemFinder.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "75/102",
-            "nome": "Pupa",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/8/88/Pupa_Base_75.jpg/360px-Pupa_Base_75.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "76/102",
-            "nome": "Allevatore di Pokémon",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/6/6c/BaseSet76Pok%C3%A9monBreeder.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "77/102",
-            "nome": "Scambio di Pokémon",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/e/ec/BaseSet77Pok%C3%A9monTrader.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "78/102",
-            "nome": "Recupero",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/a/aa/ScoopUp.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "79/102",
-            "nome": "Super-Rimozione di Energia",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/1/12/BaseSet79SuperEnergyRemoval.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "80/102",
-            "nome": "Difensore",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/4/48/025707_T_DEIFENDA.png",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "81/102",
-            "nome": "Recupero di Energia",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/4/40/EnergyRetrievalPrimalClash126.png",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "82/102",
-            "nome": "Recupero Totale",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/6/6d/FullHealFuriousFists93.png",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "83/102",
-            "nome": "Manutenzione",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/6/6d/MaintenanceFuriousFists96.png",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "84/102",
-            "nome": "PlusPotenza",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/d/df/PlusPotenzaSetBase84.jpg/360px-PlusPotenzaSetBase84.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "85/102",
-            "nome": "Centro Pokémon",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/9/97/Pok%C3%A9monCenterNextDestinies90.png",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "86/102",
-            "nome": "Poké Flauto",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/1/16/Pok%C3%A9mon_Flute_Base_86.jpg/360px-Pok%C3%A9mon_Flute_Base_86.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "87/102",
-            "nome": "Pokédex",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/d/d8/Pok%C3%A9dexNeroBianco98.png",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "88/102",
-            "nome": "Professor Oak",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/f/f3/BS88ProfessorOak.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "89/102",
-            "nome": "Professor Oak",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/e/eb/ReviveRoaringSkies88.jpg/360px-ReviveRoaringSkies88.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "90/102",
-            "nome": "Super Pozione Magica",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/3/37/SuperpozioneXY.png",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "91/102",
-            "nome": "Bill",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/c/cc/Bill_%28Set_Base_91%29.png/360px-Bill_%28Set_Base_91%29.png",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "92/102",
-            "nome": "Distruzione di Energia",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/e/e4/BS92EnergyRemoval.jpg/360px-BS92EnergyRemoval.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "93/102",
-            "nome": "Ventata",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/5/5e/BS93GustOfWind.jpg/360px-BS93GustOfWind.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "94/102",
-            "nome": "Pozione Magica",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/8/8f/PotionBlackWhite100.png",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "95/102",
-            "nome": "Scambio",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/1/17/SwitchPrimalClash163.jpg/360px-SwitchPrimalClash163.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "96/102",
-            "nome": "Energia Incolore Doppia",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/7/78/EnergiaIncoloreDoppiaXY.png",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "97/102",
-            "nome": "Energia Combattimento",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/3/3e/Energia_Combattimento_4.jpg/360px-Energia_Combattimento_4.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "98/102",
-            "nome": "Energia Fuoco",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/a/a9/Energia_Fuoco_2019.png",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "99/102",
-            "nome": "Energia Erba",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/f/fb/Energia_Erba_2017.png/360px-Energia_Erba_2017.png",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "100/102",
-            "nome": "Energia Lampo",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/d/d0/EnergiaLampoSoleeLuna.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "101/102",
-            "nome": "Energia Psiche",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/7/7b/Energia_Psiche_2019.png",
-            "abilita": [
-                "Nessuna"
-            ]
-        },
-        {
-            "numero": "0000",
-            "progressivo": "102/102",
-            "nome": "Energia Acqua",
-            "stadio_evolutivo": "Nessuno",
-            "url": "https://media.pokemoncentral.it/wiki/thumb/7/71/Energia_Acqua_4.jpg/360px-Energia_Acqua_4.jpg",
-            "abilita": [
-                "Nessuna"
-            ]
-        }
-    ]
-},
+        "numeroSet": "01",
+        "nomeSet": "Set Base",
+        "annoUscita": "1999",
+        "figurine": [
+            {
+                "numero": "0065",
+                "progressivo": "1/102",
+                "nome": "Alakazam",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/1/12/AlakazamSetBase1.jpg",
+                "abilita": [
+                    "Sincronismo",
+                    "Forza Interiore",
+                    "Magicscudo"
+                ]
+            },
+            {
+                "numero": "0009",
+                "progressivo": "2/102",
+                "nome": "Blastoise",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/3/39/BlastoiseSetBase2.jpg",
+                "abilita": [
+                    "Nessuno"
+                ]
+            },
+            {
+                "numero": "0113",
+                "progressivo": "3/102",
+                "nome": "Chansey",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/8/80/ChanseySetBase3.jpg",
+                "abilita": [
+                    "Nessuno"
+                ]
+            },
+            {
+                "numero": "0035",
+                "progressivo": "4/102",
+                "nome": "Charizard",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/b4/CharizardSetBase4.jpg/360px-CharizardSetBase4.jpg",
+                "abilita": [
+                    "Nessuno"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "5/102",
+                "nome": "Clefairy",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/9/9e/ClefairySetBase5.jpg/360px-ClefairySetBase5.jpg",
+                "abilita": [
+                    "Nessuno"
+                ]
+            },
+            {
+                "numero": "0012",
+                "progressivo": "6/102",
+                "nome": "Gyarados",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/8/8a/GyaradosSetBase6.jpg/360px-GyaradosSetBase6.jpg",
+                "abilita": [
+                    "Nessuno"
+                ]
+            },
+            {
+                "numero": "0107",
+                "progressivo": "7/102",
+                "nome": "Hitmonchan",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/6/6b/HitmonchanSetBase7.jpg",
+                "abilita": [
+                    "Sguardofermo",
+                    "Ferropugno",
+                    "Forza Interiore"
+                ]
+            },
+            {
+                "numero": "0068",
+                "progressivo": "8/102",
+                "nome": "Machamp",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/3a/MachampSetBase8%281_Edizione%29.jpg/360px-MachampSetBase8%281_Edizione%29.jpg",
+                "abilita": [
+                    "Dentistretti",
+                    "Nullodifesa",
+                    "Cuordeciso"
+                ]
+            },
+            {
+                "numero": "0082",
+                "progressivo": "9/102",
+                "nome": "Magneton",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/c8/MagnetonSetBase9.jpg/360px-MagnetonSetBase9.jpg",
+                "abilita": [
+                    "Magnetismo",
+                    "Vigore",
+                    "Ponderazione"
+                ]
+            },
+            {
+                "numero": "0150",
+                "progressivo": "10/102",
+                "nome": "Mewtwo",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/29/MewtwoSetBase10.jpg/360px-MewtwoSetBase10.jpg",
+                "abilita": [
+                    "Pressione",
+                    "Agitazione"
+                ]
+            },
+            {
+                "numero": "0034",
+                "progressivo": "11/102",
+                "nome": "Nidoking",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/9/9c/NidokingSetBase11.jpg/360px-NidokingSetBase11.jpg",
+                "abilita": [
+                    "Velenopunte",
+                    "Antagonismo",
+                    "Forzabruta"
+                ]
+            },
+            {
+                "numero": "0038",
+                "progressivo": "12/102",
+                "nome": "Ninetales",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/b/b5/NinetalesSetBase12.jpg",
+                "abilita": [
+                    "Fuocardore",
+                    "Siccità"
+                ]
+            },
+            {
+                "numero": "0062",
+                "progressivo": "13/102",
+                "nome": "Poliwrath",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/d7/PoliwrathSetBase13.jpg/360px-PoliwrathSetBase13.jpg",
+                "abilita": [
+                    "Assorbacqua",
+                    "Umidità",
+                    "Nuotovelox"
+                ]
+            },
+            {
+                "numero": "0026",
+                "progressivo": "14/102",
+                "nome": "Raichu",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/9/9a/RaichuSetBase14.jpg",
+                "abilita": [
+                    "Statico",
+                    "Parafulmine"
+                ]
+            },
+            {
+                "numero": "0003",
+                "progressivo": "15/102",
+                "nome": "Venusaur",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/b/b8/VenusaurSetBase15.jpg",
+                "abilita": [
+                    "Erbaiuto",
+                    "Clorofilla"
+                ]
+            },
+            {
+                "numero": "0145",
+                "progressivo": "16/102",
+                "nome": "Zapdos",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/b0/ZapdosSetBase16.jpg/360px-ZapdosSetBase16.jpg",
+                "abilita": [
+                    "Pressione",
+                    "Parafulmine"
+                ]
+            },
+            {
+                "numero": "0015",
+                "progressivo": "17/102",
+                "nome": "Beedrill",
+                "stadio_evolutivo": "Fase 2",
+                "url": "https://media.pokemoncentral.it/wiki/8/82/BeedrillSetBase17.jpg",
+                "abilita": [
+                    "Aiutinsetto",
+                    "Cecchino"
+                ]
+            },
+            {
+                "numero": "0148",
+                "progressivo": "18/102",
+                "nome": "Dragonair",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/9/9e/DragonairSetBase18.jpg/360px-DragonairSetBase18.jpg",
+                "abilita": [
+                    "Muta",
+                    "Pelledura"
+                ]
+            },
+            {
+                "numero": "0051",
+                "progressivo": "19/102",
+                "nome": "Dugtrio",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f7/DugtrioSetBase19.jpg/360px-DugtrioSetBase19.jpg",
+                "abilita": [
+                    "Sabbiavelo",
+                    "Trappoarena",
+                    "Silicoforza"
+                ]
+            },
+            {
+                "numero": "0125",
+                "progressivo": "20/102",
+                "nome": "Electabuzz",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/0/00/ElectabuzzSetBase20.jpg",
+                "abilita": [
+                    "Statico",
+                    "Spiritovivo"
+                ]
+            },
+            {
+                "numero": "0101",
+                "progressivo": "21/102",
+                "nome": "Electrode",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/c1/ElectrodeSetBase21.jpg/360px-ElectrodeSetBase21.jpg",
+                "abilita": [
+                    "Antisuono",
+                    "Statico",
+                    "Scoppio"
+                ]
+            },
+            {
+                "numero": "0059",
+                "progressivo": "23/102",
+                "nome": "Arcanine",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/6/61/Arcanine_SetBase23.jpg",
+                "abilita": [
+                    "Prepotenza",
+                    "Fuocardore",
+                    "Giustizia"
+                ]
+            },
+            {
+                "numero": "0005",
+                "progressivo": "24/102",
+                "nome": "Charmeleon",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/6/67/CharmeleonSetBase24.jpg",
+                "abilita": [
+                    "Aiutofuoco",
+                    "Solarpotere"
+                ]
+            },
+            {
+                "numero": "0087",
+                "progressivo": "25/102",
+                "nome": "Dewgong",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/9/97/DewgongSetBase25.jpg/360px-DewgongSetBase25.jpg",
+                "abilita": [
+                    "Grassosospeso",
+                    "Idratazione",
+                    "Corpogelo"
+                ]
+            },
+            {
+                "numero": "0147",
+                "progressivo": "26/102",
+                "nome": "Dratini",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/9/91/DratiniSetBase26.jpg",
+                "abilita": [
+                    "Muta",
+                    "Pelledura"
+                ]
+            },
+            {
+                "numero": "0083",
+                "progressivo": "27/102",
+                "nome": "Farfetch'd",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a9/FarfetchdSetBase27.jpg/360px-FarfetchdSetBase27.jpg",
+                "abilita": [
+                    "Sguardofermo",
+                    "Forza Interiore",
+                    "Agonismo"
+                ]
+            },
+            {
+                "numero": "0058",
+                "progressivo": "28/102",
+                "nome": "Growlithe",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/d7/GrowlitheSetBase28.jpg/360px-GrowlitheSetBase28.jpg",
+                "abilita": [
+                    "Prepotenza",
+                    "Fuocardore",
+                    "Giustizia"
+                ]
+            },
+            {
+                "numero": "0093",
+                "progressivo": "29/102",
+                "nome": "Haunter",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/2d/HaunterSetBase29.jpg/360px-HaunterSetBase29.jpg",
+                "abilita": [
+                    "Levitazione"
+                ]
+            },
+            {
+                "numero": "0002",
+                "progressivo": "30/102",
+                "nome": "Ivysaur",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/5/52/IvysaurSetBase30.jpg",
+                "abilita": [
+                    "Erbaiuto",
+                    "Clorofilla"
+                ]
+            },
+            {
+                "numero": "0124",
+                "progressivo": "31/102",
+                "nome": "Jynx",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/0/0f/JynxSetBase31.jpg",
+                "abilita": [
+                    "Indifferenza",
+                    "Premonizione",
+                    "Pellearasa"
+                ]
+            },
+            {
+                "numero": "0064",
+                "progressivo": "32/102",
+                "nome": "Kadabra",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/15/KadabraSetBase32.jpg/360px-KadabraSetBase32.jpg",
+                "abilita": [
+                    "Sincronismo",
+                    "Forza Interiore",
+                    "Magicscudo"
+                ]
+            },
+            {
+                "numero": "0014",
+                "progressivo": "33/102",
+                "nome": "Kakuna",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/7/76/KakunaSetBase33.png",
+                "abilita": [
+                    "Mura"
+                ]
+            },
+            {
+                "numero": "0067",
+                "progressivo": "34/102",
+                "nome": "Machoke",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/bb/MachokeSetBase34.jpg/360px-MachokeSetBase34.jpg",
+                "abilita": [
+                    "Dentistretti",
+                    "Nullodifesa",
+                    "Cuordeciso"
+                ]
+            },
+            {
+                "numero": "0129",
+                "progressivo": "35/102",
+                "nome": "Magikarp",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/0/0e/MagikarpSetBase35.jpg",
+                "abilita": [
+                    "Nuotovelox",
+                    "Paura"
+                ]
+            },
+            {
+                "numero": "0126",
+                "progressivo": "36/102",
+                "nome": "Magmar",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/08/MagmarSetBase36.jpg/360px-MagmarSetBase36.jpg",
+                "abilita": [
+                    "Corpodifuoco",
+                    "Spiritovivo"
+                ]
+            },
+            {
+                "numero": "0033",
+                "progressivo": "37/102",
+                "nome": "Nidorino",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/63/NidorinoSetBase37.jpg/360px-NidorinoSetBase37.jpg",
+                "abilita": [
+                    "Velenopunte",
+                    "Antagonismo",
+                    "Tuttofretta"
+                ]
+            },
+            {
+                "numero": "0061",
+                "progressivo": "38/102",
+                "nome": "Poliwhirl",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/7/7d/PoliwhirlSetBase38.jpg",
+                "abilita": [
+                    "Assorbacqua",
+                    "Umidità",
+                    "Nuotovelox"
+                ]
+            },
+            {
+                "numero": "0137",
+                "progressivo": "39/102",
+                "nome": "Porygon",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/9/9b/PorygonSetBase39.jpg/360px-PorygonSetBase39.jpg",
+                "abilita": [
+                    "Traccia",
+                    "Download",
+                    "Ponderazione"
+                ]
+            },
+            {
+                "numero": "0020",
+                "progressivo": "40/102",
+                "nome": "Raticate",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/bc/RaticateSetBase40.jpg/360px-RaticateSetBase40.jpg",
+                "abilita": [
+                    "Fugafacile",
+                    "Dentistretti",
+                    "Tuttafretta"
+                ]
+            },
+            {
+                "numero": "0086",
+                "progressivo": "41/102",
+                "nome": "Seel",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/ae/SeelSetBase41.jpg/360px-SeelSetBase41.jpg",
+                "abilita": [
+                    "Grassosospeso",
+                    "Idratazione",
+                    "Corpogelo"
+                ]
+            },
+            {
+                "numero": "0008",
+                "progressivo": "42/102",
+                "nome": "Wartortle",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/71/WartortleSetBase42.jpg/360px-WartortleSetBase42.jpg",
+                "abilita": [
+                    "Acquaiuto",
+                    "Copripioggia"
+                ]
+            },
+            {
+                "numero": "0063",
+                "progressivo": "43/102",
+                "nome": "Abra",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/6/67/AbraSetBase43.jpg",
+                "abilita": [
+                    "Sincronismo",
+                    "Magicscudo"
+                ]
+            },
+            {
+                "numero": "0001",
+                "progressivo": "44/102",
+                "nome": "Bulbasaur",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/8/80/BulbasaurSetBase44.jpg",
+                "abilita": [
+                    "Erbaiuto",
+                    "Clorofilla"
+                ]
+            },
+            {
+                "numero": "0010",
+                "progressivo": "45/102",
+                "nome": "Caterpie",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/7b/CaterpieSetBase45.jpg/360px-CaterpieSetBase45.jpg",
+                "abilita": [
+                    "Polvoscudo",
+                    "Fugafacile"
+                ]
+            },
+            {
+                "numero": "0004",
+                "progressivo": "46/102",
+                "nome": "Charmander",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/f/f0/CharmanderSetBase46.jpg",
+                "abilita": [
+                    "Aiutofuoco",
+                    "Solarpotere"
+                ]
+            },
+            {
+                "numero": "0050",
+                "progressivo": "47/102",
+                "nome": "Diglett",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/cc/DiglettSetBase47.jpg/360px-DiglettSetBase47.jpg",
+                "abilita": [
+                    "Sabbiavelo",
+                    "Trappoarena",
+                    "Silicoforza"
+                ]
+            },
+            {
+                "numero": "0084",
+                "progressivo": "48/102",
+                "nome": "Doduo",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/bd/DoduoSetBase48.jpg/360px-DoduoSetBase48.jpg",
+                "abilita": [
+                    "Fugafacile",
+                    "Sveglialampo",
+                    "Intricopiedi"
+                ]
+            },
+            {
+                "numero": "0096",
+                "progressivo": "49/102",
+                "nome": "Drowzee",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/d6/DrowzeeSetBase49.jpg/360px-DrowzeeSetBase49.jpg",
+                "abilita": [
+                    "Insonnia",
+                    "Premonizione",
+                    "Forza Interiore"
+                ]
+            },
+            {
+                "numero": "0092",
+                "progressivo": "50/102",
+                "nome": "Gastly",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/20/GastlySetBase50.jpg/360px-GastlySetBase50.jpg",
+                "abilita": [
+                    "Levitazione"
+                ]
+            },
+            {
+                "numero": "0108",
+                "progressivo": "51/102",
+                "nome": "Koffing",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/7c/KoffingSetBase51.jpg/360px-KoffingSetBase51.jpg",
+                "abilita": [
+                    "Levitazione",
+                    "Gas Reagente",
+                    "Tanfo"
+                ]
+            },
+            {
+                "numero": "0066",
+                "progressivo": "52/102",
+                "nome": "Machop",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/c4/MachopSetBase52.jpg/360px-MachopSetBase52.jpg",
+                "abilita": [
+                    "Dentistretti",
+                    "Nullodifesa",
+                    "Cuordeciso"
+                ]
+            },
+            {
+                "numero": "0081",
+                "progressivo": "53/102",
+                "nome": "Magnemite",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/dd/MagnemiteSetBase53.jpg/360px-MagnemiteSetBase53.jpg",
+                "abilita": [
+                    "Magnetismo",
+                    "Vigore",
+                    "Ponderazione"
+                ]
+            },
+            {
+                "numero": "0011",
+                "progressivo": "54/102",
+                "nome": "Metapod",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a6/MetapodSetBase54.jpg/360px-MetapodSetBase54.jpg",
+                "abilita": [
+                    "Muta"
+                ]
+            },
+            {
+                "numero": "0032",
+                "progressivo": "55/102",
+                "nome": "Nidoran",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/c9/NidoranSetBase55.jpg/360px-NidoranSetBase55.jpg",
+                "abilita": [
+                    "Velenopunte",
+                    "Antagonismo",
+                    "Tuttafretta"
+                ]
+            },
+            {
+                "numero": "0095",
+                "progressivo": "56/102",
+                "nome": "Onix",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/10/OnixSetBase56.jpg/360px-OnixSetBase56.jpg",
+                "abilita": [
+                    "Testadura",
+                    "Vigore",
+                    "Sottilguscio"
+                ]
+            },
+            {
+                "numero": "0016",
+                "progressivo": "57/102",
+                "nome": "Pidgey",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/b3/PidgeySetBase57.jpg/360px-PidgeySetBase57.jpg",
+                "abilita": [
+                    "Sguardofermo",
+                    "Intricopiedi",
+                    "Pettinfuori"
+                ]
+            },
+            {
+                "numero": "0025",
+                "progressivo": "58/102",
+                "nome": "Pikachu",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/5/54/PikachuSetBase58.jpg/360px-PikachuSetBase58.jpg",
+                "abilita": [
+                    "Statico",
+                    "Parafulmine"
+                ]
+            },
+            {
+                "numero": "0060",
+                "progressivo": "59/102",
+                "nome": "Poliwag",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/6f/PoliwagSetBase59.jpg/360px-PoliwagSetBase59.jpg",
+                "abilita": [
+                    "Assorbacqua",
+                    "Umidità",
+                    "Nuotovelox"
+                ]
+            },
+            {
+                "numero": "0077",
+                "progressivo": "60/102",
+                "nome": "Ponyta",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/d5/PonytaSetBase60.jpg/360px-PonytaSetBase60.jpg",
+                "abilita": [
+                    "Fugafacile",
+                    "Fuocardore",
+                    "Corpodifuoco"
+                ]
+            },
+            {
+                "numero": "0019",
+                "progressivo": "61/102",
+                "nome": "Rattata",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/c/c3/RattataSetBase61.jpg",
+                "abilita": [
+                    "Fugafacile",
+                    "Dentistretti",
+                    "Tuttafretta"
+                ]
+            },
+            {
+                "numero": "0027",
+                "progressivo": "62/102",
+                "nome": "Sandshrew",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/47/SandshrewSetBase62.jpg/360px-SandshrewSetBase62.jpg",
+                "abilita": [
+                    "Sabbiavelo",
+                    "Remasabbia"
+                ]
+            },
+            {
+                "numero": "0007",
+                "progressivo": "63/102",
+                "nome": "Squirtle",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/7a/SquirtleSetBase63.jpg/360px-SquirtleSetBase63.jpg",
+                "abilita": [
+                    "Acquaiuto",
+                    "Copripioggia"
+                ]
+            },
+            {
+                "numero": "0121",
+                "progressivo": "64/102",
+                "nome": "Starmie",
+                "stadio_evolutivo": "Fase 1",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/70/StarmieSetBase64.jpg/360px-StarmieSetBase64.jpg",
+                "abilita": [
+                    "Risplendi",
+                    "Alternacura",
+                    "Ponderazione"
+                ]
+            },
+            {
+                "numero": "0114",
+                "progressivo": "66/102",
+                "nome": "Tangela",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/c2/TangelaSetBase66.jpg/360px-TangelaSetBase66.jpg",
+                "abilita": [
+                    "Clorofilla",
+                    "Fogliamanto",
+                    "Rigenergia"
+                ]
+            },
+            {
+                "numero": "0100",
+                "progressivo": "67/102",
+                "nome": "Voltorb",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/df/VoltorbSetBase67.jpg/360px-VoltorbSetBase67.jpg",
+                "abilita": [
+                    "Antisuono",
+                    "Statico",
+                    "Scoppio"
+                ]
+            },
+            {
+                "numero": "0037",
+                "progressivo": "68/102",
+                "nome": "Vulpix",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/15/VulpixSetBase68.jpg/360px-VulpixSetBase68.jpg",
+                "abilita": [
+                    "Fuocardore",
+                    "Siccità"
+                ]
+            },
+            {
+                "numero": "0013",
+                "progressivo": "69/102",
+                "nome": "Weedle",
+                "stadio_evolutivo": "Base",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/c6/WeedleSetBase69.jpg/360px-WeedleSetBase69.jpg",
+                "abilita": [
+                    "Polvoscudo",
+                    "Fugafacile"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "70/102",
+                "nome": "Clefairy Doll",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/47/ClefairyDollSetBase70.jpg/360px-ClefairyDollSetBase70.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "71/102",
+                "nome": "Ricerca Computerizzata",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/5/5c/RicercaComputerizzataConfiniVarcati.png",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "72/102",
+                "nome": "Getto di Involuzione",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/75/GettodiInvoluzioneStirpedeiDraghi113.jpg/360px-GettodiInvoluzioneStirpedeiDraghi113.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "73/102",
+                "nome": "Professor Oak, l'impostore",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/43/BS73ImposterProfessorOak.jpg/360px-BS73ImposterProfessorOak.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "74/102",
+                "nome": "Oggetti Smarriti",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/1/19/BS74ItemFinder.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "75/102",
+                "nome": "Pupa",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/8/88/Pupa_Base_75.jpg/360px-Pupa_Base_75.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "76/102",
+                "nome": "Allevatore di Pokémon",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/6/6c/BaseSet76Pok%C3%A9monBreeder.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "77/102",
+                "nome": "Scambio di Pokémon",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/e/ec/BaseSet77Pok%C3%A9monTrader.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "78/102",
+                "nome": "Recupero",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/a/aa/ScoopUp.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "79/102",
+                "nome": "Super-Rimozione di Energia",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/1/12/BaseSet79SuperEnergyRemoval.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "80/102",
+                "nome": "Difensore",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/4/48/025707_T_DEIFENDA.png",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "81/102",
+                "nome": "Recupero di Energia",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/4/40/EnergyRetrievalPrimalClash126.png",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "82/102",
+                "nome": "Recupero Totale",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/6/6d/FullHealFuriousFists93.png",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "83/102",
+                "nome": "Manutenzione",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/6/6d/MaintenanceFuriousFists96.png",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "84/102",
+                "nome": "PlusPotenza",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/df/PlusPotenzaSetBase84.jpg/360px-PlusPotenzaSetBase84.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "85/102",
+                "nome": "Centro Pokémon",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/9/97/Pok%C3%A9monCenterNextDestinies90.png",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "86/102",
+                "nome": "Poké Flauto",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/16/Pok%C3%A9mon_Flute_Base_86.jpg/360px-Pok%C3%A9mon_Flute_Base_86.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "87/102",
+                "nome": "Pokédex",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/d/d8/Pok%C3%A9dexNeroBianco98.png",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "88/102",
+                "nome": "Professor Oak",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/f/f3/BS88ProfessorOak.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "89/102",
+                "nome": "Professor Oak",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/eb/ReviveRoaringSkies88.jpg/360px-ReviveRoaringSkies88.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "90/102",
+                "nome": "Super Pozione Magica",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/3/37/SuperpozioneXY.png",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "91/102",
+                "nome": "Bill",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/cc/Bill_%28Set_Base_91%29.png/360px-Bill_%28Set_Base_91%29.png",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "92/102",
+                "nome": "Distruzione di Energia",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/e4/BS92EnergyRemoval.jpg/360px-BS92EnergyRemoval.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "93/102",
+                "nome": "Ventata",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5e/BS93GustOfWind.jpg/360px-BS93GustOfWind.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "94/102",
+                "nome": "Pozione Magica",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/8/8f/PotionBlackWhite100.png",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "95/102",
+                "nome": "Scambio",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/17/SwitchPrimalClash163.jpg/360px-SwitchPrimalClash163.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "96/102",
+                "nome": "Energia Incolore Doppia",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/7/78/EnergiaIncoloreDoppiaXY.png",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "97/102",
+                "nome": "Energia Combattimento",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/3e/Energia_Combattimento_4.jpg/360px-Energia_Combattimento_4.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "98/102",
+                "nome": "Energia Fuoco",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/a/a9/Energia_Fuoco_2019.png",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "99/102",
+                "nome": "Energia Erba",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fb/Energia_Erba_2017.png/360px-Energia_Erba_2017.png",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "100/102",
+                "nome": "Energia Lampo",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/d/d0/EnergiaLampoSoleeLuna.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "101/102",
+                "nome": "Energia Psiche",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/7/7b/Energia_Psiche_2019.png",
+                "abilita": [
+                    "Nessuna"
+                ]
+            },
+            {
+                "numero": "0000",
+                "progressivo": "102/102",
+                "nome": "Energia Acqua",
+                "stadio_evolutivo": "Nessuno",
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/71/Energia_Acqua_4.jpg/360px-Energia_Acqua_4.jpg",
+                "abilita": [
+                    "Nessuna"
+                ]
+            }
+        ]
+    }
 ]
