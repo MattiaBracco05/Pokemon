@@ -2,7 +2,7 @@
     {
         "numeroSet": "01",
         "nomeSet": "Set Base",
-        "annoUscita": "2000",
+        "annoUscita": "1999",
         "figurine": [
             {
                 "numero": "0065",
@@ -1100,2059 +1100,6 @@
         ]
     },
     {
-    "numeroSet": "02",
-    "nomeSet": "Jungle",
-    "annoUscita": "2000",
-    "figurine": [
-            {
-                "numero": "181",
-                "progressivo": "H1/H32",
-                "nome": "Ampharos",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/e/ea/AmpharosAquapolis1.jpg/180px-AmpharosAquapolis1.jpg",
-                "abilita": [
-                    "Tuonoshock",
-                    "Rifletti Energia"
-                ]
-            },
-            {
-                "numero": "059",
-                "progressivo": "H2/H32",
-                "nome": "Arcanine",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/42/ArcanineAquapolis2.jpg/180px-ArcanineAquapolis2.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "168",
-                "progressivo": "H3/H32",
-                "nome": "Ariados",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5a/AriadosAquapolis3.jpg/180px-AriadosAquapolis3.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "184",
-                "progressivo": "H4/H32",
-                "nome": "Azumarill",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a0/AzumarillAquapolis4.jpg/180px-AzumarillAquapolis4.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "182",
-                "progressivo": "H5/H32",
-                "nome": "Bellossom",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5a/BellossomAquapolis5.jpg/180px-BellossomAquapolis5.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "242",
-                "progressivo": "H6/H32",
-                "nome": "Blissey",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5a/BellossomAquapolis5.jpg/180px-BellossomAquapolis5.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "101",
-                "progressivo": "H7/H32",
-                "nome": "Electrode",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5a/BellossomAquapolis5.jpg/180px-BellossomAquapolis5.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "244",
-                "progressivo": "H8/H32",
-                "nome": "Entei",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/0/07/EnteiAquapolis10.jpg/180px-EnteiAquapolis10.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "196",
-                "progressivo": "H9/H32",
-                "nome": "Espeon",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/0/07/EnteiAquapolis10.jpg/180px-EnteiAquapolis10.jpg",
-                "abilita": [
-                    "Ritorno di Energia",
-                    "Influsso Dannoso"
-                ]
-            },
-            {
-                "numero": "103",
-                "progressivo": "H10/H32",
-                "nome": "Exeggutor",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/0/07/EnteiAquapolis10.jpg/180px-EnteiAquapolis10.jpg",
-                "abilita": [
-                    "Super Ovosplosione",
-                    "Colpo annunciato"
-                ]
-            },
-            {
-                "numero": "229",
-                "progressivo": "H11/H32",
-                "nome": "Houndoom",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/0/07/EnteiAquapolis10.jpg/180px-EnteiAquapolis10.jpg",
-                "abilita": [
-                    "Super Ovosplosione",
-                    "Colpo annunciato"
-                ]
-            },
-            {
-                "numero": "097",
-                "progressivo": "H12/H32",
-                "nome": "Hypno",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/8f/HypnoAquapolisH12.jpg/180px-HypnoAquapolisH12.jpg",
-                "abilita": [
-                    "Super Ovosplosione",
-                    "Colpo annunciato"
-                ]
-            },
-            {
-                "numero": "189",
-                "progressivo": "H13/H32",
-                "nome": "Jumpluff",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/87/JumpluffAquapolis17.jpg/180px-JumpluffAquapolis17.jpg",
-                "abilita": [
-                    "Super Ovosplosione",
-                    "Colpo annunciato"
-                ]
-            },
-            {
-                "numero": "230",
-                "progressivo": "H14/H32",
-                "nome": "Kingdra",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/87/JumpluffAquapolis17.jpg/180px-JumpluffAquapolis17.jpg",
-                "abilita": [
-                    "Super Ovosplosione",
-                    "Colpo annunciato"
-                ]
-            },
-            {
-                "numero": "171",
-                "progressivo": "H15/H32",
-                "nome": "Lanturn",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/87/JumpluffAquapolis17.jpg/180px-JumpluffAquapolis17.jpg",
-                "abilita": [
-                    "Super Ovosplosione",
-                    "Colpo annunciato"
-                ]
-            },
-            {
-                "numero": "082",
-                "progressivo": "H16/H32",
-                "nome": "Magneton",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/87/JumpluffAquapolis17.jpg/180px-JumpluffAquapolis17.jpg",
-                "abilita": [
-                    "Flusso Magnetico",
-                    "Ondacciao"
-                ]
-            },
-            {
-                "numero": "089",
-                "progressivo": "H17/H32",
-                "nome": "Muk",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/87/JumpluffAquapolis17.jpg/180px-JumpluffAquapolis17.jpg",
-                "abilita": [
-                    "Flusso Magnetico",
-                    "Ondacciao"
-                ]
-            },
-            {
-                "numero": "034",
-                "progressivo": "H18/H32",
-                "nome": "Nidoking",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/2/2a/NidokingAquapolis24.jpg/180px-NidokingAquapolis24.jpg",
-                "abilita": [
-                    "Scuotiterra",
-                    "Gigacorno"
-                ]
-            },
-            {
-                "numero": "038",
-                "progressivo": "H19/H32",
-                "nome": "Ninetales",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/2/2a/NidokingAquapolis24.jpg/180px-NidokingAquapolis24.jpg",
-                "abilita": [
-                    "Scuotiterra",
-                    "Gigacorno"
-                ]
-            },
-            {
-                "numero": "224",
-                "progressivo": "H20/H32",
-                "nome": "Octillery",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/81/OctilleryAquapolisH20.jpg/180px-OctilleryAquapolisH20.jpg",
-                "abilita": [
-                    "Scuotiterra",
-                    "Gigacorno"
-                ]
-            },
-            {
-                "numero": "212",
-                "progressivo": "H21/H32",
-                "nome": "Scizor",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a2/ScizorAquapolisH21.jpg/180px-ScizorAquapolisH21.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "199",
-                "progressivo": "H22/H32",
-                "nome": "Slowking",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a3/SlowkingAquapolisH22.jpg/180px-SlowkingAquapolisH22.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "208",
-                "progressivo": "H23/H32",
-                "nome": "Steelix",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/3/3a/SteelixAquapolisH23.jpg/180px-SteelixAquapolisH23.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "185",
-                "progressivo": "H24/H32",
-                "nome": "Sudowoodo",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/1/13/SudowoodoAquapolisH24.jpg/180px-SudowoodoAquapolisH24.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "245",
-                "progressivo": "H25/H32",
-                "nome": "Suicune",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/4a/SuicuneAquapolis37.jpg/180px-SuicuneAquapolis37.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "073",
-                "progressivo": "H26/H32",
-                "nome": "Tentacruel",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/40/TentacruelAquapolis38.jpg/180px-TentacruelAquapolis38.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "176",
-                "progressivo": "H27/H32",
-                "nome": "Togetic",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/40/TentacruelAquapolis38.jpg/180px-TentacruelAquapolis38.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "248",
-                "progressivo": "H28/H32",
-                "nome": "Tyranitar",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/40/TentacruelAquapolis38.jpg/180px-TentacruelAquapolis38.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "197",
-                "progressivo": "H29/H32",
-                "nome": "Umbreon",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/8b/UmbreonAquapolisH29.jpg/180px-UmbreonAquapolisH29.jpg",
-                "abilita": [
-                    "Luna Nera",
-                    "Legami d'Ombra"
-                ]
-            },
-            {
-                "numero": "071",
-                "progressivo": "H30/H32",
-                "nome": "Victreebel",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/7/78/VictreebelAquapolisH30.jpg/180px-VictreebelAquapolisH30.jpg",
-                "abilita": [
-                    "Luna Nera",
-                    "Legami d'Ombra"
-                ]
-            },
-            {
-                "numero": "045",
-                "progressivo": "H31/H32",
-                "nome": "Vileplume",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5e/VileplumeAquapolisH31.jpg/180px-VileplumeAquapolisH31.jpg",
-                "abilita": [
-                    "Velenessenza",
-                    "Stordipolline"
-                ]
-            },
-            {
-                "numero": "145",
-                "progressivo": "H32/H32",
-                "nome": "Zapdos",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5e/VileplumeAquapolisH31.jpg/180px-VileplumeAquapolisH31.jpg",
-                "abilita": [
-                    "Velenessenza",
-                    "Stordipolline"
-                ]
-            },
-            {
-                "numero": "181",
-                "progressivo": "1/147",
-                "nome": "Ampharos",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/e/ea/AmpharosAquapolis1.jpg/180px-AmpharosAquapolis1.jpg",
-                "abilita": [
-                    "Tuonoshock",
-                    "Rifletti Energia"
-                ]
-            },
-            {
-                "numero": "059",
-                "progressivo": "2/147",
-                "nome": "Arcanine",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/42/ArcanineAquapolis2.jpg/180px-ArcanineAquapolis2.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "168",
-                "progressivo": "3/147",
-                "nome": "Ariados",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5a/AriadosAquapolis3.jpg/180px-AriadosAquapolis3.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "184",
-                "progressivo": "4/147",
-                "nome": "Azumarill",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a0/AzumarillAquapolis4.jpg/180px-AzumarillAquapolis4.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "182",
-                "progressivo": "5/147",
-                "nome": "Bellossom",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5a/BellossomAquapolis5.jpg/180px-BellossomAquapolis5.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "242",
-                "progressivo": "6/147",
-                "nome": "Blissey",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5a/BellossomAquapolis5.jpg/180px-BellossomAquapolis5.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "232",
-                "progressivo": "7/147",
-                "nome": "Donphan",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/d/dd/DonphanAquapolis7.jpg/180px-DonphanAquapolis7.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "101",
-                "progressivo": "8/147",
-                "nome": "Electrode",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/d/dd/DonphanAquapolis7.jpg/180px-DonphanAquapolis7.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "239",
-                "progressivo": "9/147",
-                "nome": "Elekid",
-                "stadio_evolutivo": "",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/d/dd/DonphanAquapolis7.jpg/180px-DonphanAquapolis7.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "244",
-                "progressivo": "10/147",
-                "nome": "Entei",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/0/07/EnteiAquapolis10.jpg/180px-EnteiAquapolis10.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "196",
-                "progressivo": "11/147",
-                "nome": "Espeon",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/0/07/EnteiAquapolis10.jpg/180px-EnteiAquapolis10.jpg",
-                "abilita": [
-                    "Ritorno di Energia",
-                    "Influsso Dannoso"
-                ]
-            },
-            {
-                "numero": "103",
-                "progressivo": "12/147",
-                "nome": "Exeggutor",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/0/07/EnteiAquapolis10.jpg/180px-EnteiAquapolis10.jpg",
-                "abilita": [
-                    "Super Ovosplosione",
-                    "Colpo annunciato"
-                ]
-            },
-            {
-                "numero": "103",
-                "progressivo": "13/147",
-                "nome": "Exeggutor",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/c/c2/ExeggutorAquapolis13.jpg/180px-ExeggutorAquapolis13.jpg",
-                "abilita": [
-                    "Super Ovosplosione",
-                    "Colpo annunciato"
-                ]
-            },
-            {
-                "numero": "229",
-                "progressivo": "14/147",
-                "nome": "Houndoom",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/0/0b/HoundoomAquapolis14.jpg/180px-HoundoomAquapolis14.jpg",
-                "abilita": [
-                    "Super Ovosplosione",
-                    "Colpo annunciato"
-                ]
-            },
-            {
-                "numero": "229",
-                "progressivo": "15/147",
-                "nome": "Houndoom",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/0/0b/HoundoomAquapolis14.jpg/180px-HoundoomAquapolis14.jpg",
-                "abilita": [
-                    "Super Ovosplosione",
-                    "Colpo annunciato"
-                ]
-            },
-            {
-                "numero": "097",
-                "progressivo": "16/147",
-                "nome": "Hypno",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/8f/HypnoAquapolisH12.jpg/180px-HypnoAquapolisH12.jpg",
-                "abilita": [
-                    "Super Ovosplosione",
-                    "Colpo annunciato"
-                ]
-            },
-            {
-                "numero": "189",
-                "progressivo": "17/147",
-                "nome": "Jumpluff",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/87/JumpluffAquapolis17.jpg/180px-JumpluffAquapolis17.jpg",
-                "abilita": [
-                    "Super Ovosplosione",
-                    "Colpo annunciato"
-                ]
-            },
-            {
-                "numero": "124",
-                "progressivo": "18/147",
-                "nome": "Jynx",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5a/JynxAquapolis18.jpg/180px-JynxAquapolis18.jpg",
-                "abilita": [
-                    "Super Ovosplosione",
-                    "Colpo annunciato"
-                ]
-            },
-            {
-                "numero": "230",
-                "progressivo": "19/147",
-                "nome": "Kingdra",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5a/JynxAquapolis18.jpg/180px-JynxAquapolis18.jpg",
-                "abilita": [
-                    "Super Ovosplosione",
-                    "Colpo annunciato"
-                ]
-            },
-            {
-                "numero": "171",
-                "progressivo": "20/147",
-                "nome": "Lanturn",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5a/JynxAquapolis18.jpg/180px-JynxAquapolis18.jpg",
-                "abilita": [
-                    "Fulminpalla",
-                    "Conduzione"
-                ]
-            },
-            {
-                "numero": "171",
-                "progressivo": "21/147",
-                "nome": "Lanturn",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5a/JynxAquapolis18.jpg/180px-JynxAquapolis18.jpg",
-                "abilita": [
-                    "Fulminpalla",
-                    "Conduzione"
-                ]
-            },
-            {
-                "numero": "082",
-                "progressivo": "22/147",
-                "nome": "Magneton",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5a/JynxAquapolis18.jpg/180px-JynxAquapolis18.jpg",
-                "abilita": [
-                    "Flusso Magnetico",
-                    "Ondacciao"
-                ]
-            },
-            {
-                "numero": "089",
-                "progressivo": "23/147",
-                "nome": "Muk",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5a/JynxAquapolis18.jpg/180px-JynxAquapolis18.jpg",
-                "abilita": [
-                    "Flusso Magnetico",
-                    "Ondacciao"
-                ]
-            },
-            {
-                "numero": "034",
-                "progressivo": "24/147",
-                "nome": "Nidoking",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/2/2a/NidokingAquapolis24.jpg/180px-NidokingAquapolis24.jpg",
-                "abilita": [
-                    "Scuotiterra",
-                    "Gigacorno"
-                ]
-            },
-            {
-                "numero": "038",
-                "progressivo": "25/147",
-                "nome": "Ninetales",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/2/2a/NidokingAquapolis24.jpg/180px-NidokingAquapolis24.jpg",
-                "abilita": [
-                    "Scuotiterra",
-                    "Gigacorno"
-                ]
-            },
-            {
-                "numero": "224",
-                "progressivo": "26/147",
-                "nome": "Octillery",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/81/OctilleryAquapolisH20.jpg/180px-OctilleryAquapolisH20.jpg",
-                "abilita": [
-                    "Scuotiterra",
-                    "Gigacorno"
-                ]
-            },
-            {
-                "numero": "047",
-                "progressivo": "27/147",
-                "nome": "Parasect",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/81/OctilleryAquapolisH20.jpg/180px-OctilleryAquapolisH20.jpg",
-                "abilita": [
-                    "Scuotiterra",
-                    "Gigacorno"
-                ]
-            },
-            {
-                "numero": "233",
-                "progressivo": "28/147",
-                "nome": "Porygon2",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/3/3a/Porygon2Aquapolis28.jpg/180px-Porygon2Aquapolis28.jpg",
-                "abilita": [
-                    "Scuotiterra",
-                    "Gigacorno"
-                ]
-            },
-            {
-                "numero": "057",
-                "progressivo": "29/147",
-                "nome": "Primeape",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f7/PrimeapeAquapolis29.jpg/180px-PrimeapeAquapolis29.jpg",
-                "abilita": [
-                    "Scuotiterra",
-                    "Gigacorno"
-                ]
-            },
-            {
-                "numero": "195",
-                "progressivo": "30/147",
-                "nome": "Quagsire",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f7/QuagsireAquapolis30.jpg/180px-QuagsireAquapolis30.jpg",
-                "abilita": [
-                    "Pistolacqua",
-                    "Schianto"
-                ]
-            },
-            {
-                "numero": "078",
-                "progressivo": "31/147",
-                "nome": "Rapidash",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a4/RapidashAquapolis31.jpg/180px-RapidashAquapolis31.jpg",
-                "abilita": [
-                    "Pistolacqua",
-                    "Schianto"
-                ]
-            },
-            {
-                "numero": "212",
-                "progressivo": "32/147",
-                "nome": "Scizor",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a2/ScizorAquapolisH21.jpg/180px-ScizorAquapolisH21.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "080",
-                "progressivo": "33/147",
-                "nome": "Slowbro",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/6/61/SlowbroAquapolis33.jpg/180px-SlowbroAquapolis33.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "199",
-                "progressivo": "34/147",
-                "nome": "Slowking",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a3/SlowkingAquapolisH22.jpg/180px-SlowkingAquapolisH22.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "208",
-                "progressivo": "35/147",
-                "nome": "Steelix",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/3/3a/SteelixAquapolisH23.jpg/180px-SteelixAquapolisH23.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "185",
-                "progressivo": "36/147",
-                "nome": "Sudowoodo",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/1/13/SudowoodoAquapolisH24.jpg/180px-SudowoodoAquapolisH24.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "245",
-                "progressivo": "37/147",
-                "nome": "Suicune",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/4a/SuicuneAquapolis37.jpg/180px-SuicuneAquapolis37.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "073",
-                "progressivo": "38/147",
-                "nome": "Tentacruel",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/40/TentacruelAquapolis38.jpg/180px-TentacruelAquapolis38.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "176",
-                "progressivo": "39/147",
-                "nome": "Togetic",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/40/TentacruelAquapolis38.jpg/180px-TentacruelAquapolis38.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "248",
-                "progressivo": "40/147",
-                "nome": "Tyranitar",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/40/TentacruelAquapolis38.jpg/180px-TentacruelAquapolis38.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "197",
-                "progressivo": "41/147",
-                "nome": "Umbreon",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/8b/UmbreonAquapolisH29.jpg/180px-UmbreonAquapolisH29.jpg",
-                "abilita": [
-                    "Luna Nera",
-                    "Legami d'Ombra"
-                ]
-            },
-            {
-                "numero": "071",
-                "progressivo": "42/147",
-                "nome": "Victreebel",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/7/78/VictreebelAquapolisH30.jpg/180px-VictreebelAquapolisH30.jpg",
-                "abilita": [
-                    "Luna Nera",
-                    "Legami d'Ombra"
-                ]
-            },
-            {
-                "numero": "045",
-                "progressivo": "43/147",
-                "nome": "Vileplume",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5e/VileplumeAquapolisH31.jpg/180px-VileplumeAquapolisH31.jpg",
-                "abilita": [
-                    "Velenessenza",
-                    "Stordipolline"
-                ]
-            },
-            {
-                "numero": "145",
-                "progressivo": "44/147",
-                "nome": "Zapdos",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5e/VileplumeAquapolisH31.jpg/180px-VileplumeAquapolisH31.jpg",
-                "abilita": [
-                    "Velenessenza",
-                    "Stordipolline"
-                ]
-            },
-            {
-                "numero": "069",
-                "progressivo": "45/147",
-                "nome": "Bellsprout",
-                "stadio_evolutivo": "",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5e/VileplumeAquapolisH31.jpg/180px-VileplumeAquapolisH31.jpg",
-                "abilita": [
-                    "Velenessenza",
-                    "Stordipolline"
-                ]
-            },
-            {
-                "numero": "085",
-                "progressivo": "46/147",
-                "nome": "Dodrio",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/6/6c/DodrioAquapolis46.jpg/180px-DodrioAquapolis46.jpg",
-                "abilita": [
-                    "Tripletta",
-                    "Beccattacco"
-                ]
-            },
-            {
-                "numero": "180",
-                "progressivo": "47/147",
-                "nome": "Flaaffy",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/6/6c/DodrioAquapolis46.jpg/180px-DodrioAquapolis46.jpg",
-                "abilita": [
-                    "Tuonoshock",
-                    "Scintilla"
-                ]
-            },
-            {
-                "numero": "162",
-                "progressivo": "48/147",
-                "nome": "Furret",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/6/6c/DodrioAquapolis46.jpg/180px-DodrioAquapolis46.jpg",
-                "abilita": [
-                    "Tuonoshock",
-                    "Scintilla"
-                ]
-            },
-            {
-                "numero": "044",
-                "progressivo": "49/147",
-                "nome": "Gloom",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/48/GloomAquapolis49.jpg/180px-GloomAquapolis49.jpg",
-                "abilita": [
-                    "Tuonoshock",
-                    "Scintilla"
-                ]
-            },
-            {
-                "numero": "055",
-                "progressivo": "50a/147",
-                "nome": "Golduck",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/88/GolduckAquapolis50.jpg/180px-GolduckAquapolis50.jpg",
-                "abilita": [
-                    "Lacerazione",
-                    "Distorciraggio"
-                ]
-            },
-            {
-                "numero": "055",
-                "progressivo": "50b/147",
-                "nome": "Golduck",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/88/GolduckAquapolis50.jpg/180px-GolduckAquapolis50.jpg",
-                "abilita": [
-                    "Lacerazione",
-                    "Distorciraggio"
-                ]
-            },
-            {
-                "numero": "058",
-                "progressivo": "51/147",
-                "nome": "Growlithe",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/b/be/GrowlitheAquapolis51.jpg/180px-GrowlitheAquapolis51.jpg",
-                "abilita": [
-                    "Lacerazione",
-                    "Distorciraggio"
-                ]
-            },
-            {
-                "numero": "081",
-                "progressivo": "52/147",
-                "nome": "Magnemite",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/b/be/GrowlitheAquapolis51.jpg/180px-GrowlitheAquapolis51.jpg",
-                "abilita": [
-                    "Lacerazione",
-                    "Distorciraggio"
-                ]
-            },
-            {
-                "numero": "183",
-                "progressivo": "53/147",
-                "nome": "Marill",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/2/2d/MarillAquapolis53.jpg/180px-MarillAquapolis53.jpg",
-                "abilita": [
-                    "Bottintesta",
-                    "Sonnopalla"
-                ]
-            },
-            {
-                "numero": "105",
-                "progressivo": "54/147",
-                "nome": "Marowak",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5a/MarowakAquapolis54.jpg/180px-MarowakAquapolis54.jpg",
-                "abilita": [
-                    "Bottintesta",
-                    "Sonnopalla"
-                ]
-            },
-            {
-                "numero": "033",
-                "progressivo": "55/147",
-                "nome": "Nidorino",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/c/c1/NidorinoAquapolis55.jpg/180px-NidorinoAquapolis55.jpg",
-                "abilita": [
-                    "Velencorno",
-                    "Riduttore"
-                ]
-            },
-            {
-                "numero": "247",
-                "progressivo": "56/147",
-                "nome": "Pupitar",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/47/PupitarAquapolis56.jpg/180px-PupitarAquapolis56.jpg",
-                "abilita": [
-                    "Velencorno",
-                    "Riduttore"
-                ]
-            },
-            {
-                "numero": "123",
-                "progressivo": "57/147",
-                "nome": "Scyther",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/6/69/ScytherAquapolis57.jpg/180px-ScytherAquapolis57.jpg",
-                "abilita": [
-                    "Virasvelto",
-                    "Fendente Incrociato"
-                ]
-            },
-            {
-                "numero": "117",
-                "progressivo": "58/147",
-                "nome": "Seadra",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a7/SeadraAquapolis58.jpg/180px-SeadraAquapolis58.jpg",
-                "abilita": [
-                    "Schizzi d'Onda",
-                    "Idroproiettile"
-                ]
-            },
-            {
-                "numero": "119",
-                "progressivo": "59/147",
-                "nome": "Seaking",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a7/SeadraAquapolis58.jpg/180px-SeadraAquapolis58.jpg",
-                "abilita": [
-                    "Flagello",
-                    "Ondeggiare"
-                ]
-            },
-            {
-                "numero": "188",
-                "progressivo": "60/147",
-                "nome": "Skiploom",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a7/SeadraAquapolis58.jpg/180px-SeadraAquapolis58.jpg",
-                "abilita": [
-                    "Flagello",
-                    "Ondeggiare"
-                ]
-            },
-            {
-                "numero": "238",
-                "progressivo": "61/147",
-                "nome": "Smoochum",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a7/SeadraAquapolis58.jpg/180px-SeadraAquapolis58.jpg",
-                "abilita": [
-                    "Flagello",
-                    "Ondeggiare"
-                ]
-            },
-            {
-                "numero": "167",
-                "progressivo": "62/147",
-                "nome": "Spinarak",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a7/SeadraAquapolis58.jpg/180px-SeadraAquapolis58.jpg",
-                "abilita": [
-                    "Rosicchiamento",
-                    "Tela Appiccicosa"
-                ]
-            },
-            {
-                "numero": "238",
-                "progressivo": "63/147",
-                "nome": "Tyrogue",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a7/SeadraAquapolis58.jpg/180px-SeadraAquapolis58.jpg",
-                "abilita": [
-                    "Rosicchiamento",
-                    "Tela Appiccicosa"
-                ]
-            },
-            {
-                "numero": "100",
-                "progressivo": "64/147",
-                "nome": "Voltorb",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/48/VoltorbAquapolis64.jpg/180px-VoltorbAquapolis64.jpg",
-                "abilita": [
-                    "Rotolamento",
-                    "Tuonoshock"
-                ]
-            },
-            {
-                "numero": "070",
-                "progressivo": "65/147",
-                "nome": "Weepinbell",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/3/3f/WeepinbellAquapolis65.jpg/180px-WeepinbellAquapolis65.jpg",
-                "abilita": [
-                    "Crescita",
-                    "Doppie Foglielama"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "66/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f5/WooperAquapolis66.jpg/180px-WooperAquapolis66.jpg",
-                "abilita": [
-                    "Codabotta",
-                    "Immersione"
-                ]
-            },
-            {
-                "numero": "190",
-                "progressivo": "67/147",
-                "nome": "Aipom",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/e/e0/AipomAquapolis67.jpg/180px-AipomAquapolis67.jpg",
-                "abilita": [
-                    "Codastesa",
-                    "Fugone"
-                ]
-            },
-            {
-                "numero": "069",
-                "progressivo": "68/147",
-                "nome": "Bellsprout",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/7/79/BellsproutAquapolis68.jpg/180px-BellsproutAquapolis68.jpg",
-                "abilita": [
-                    "Tralcio Velenoso",
-                    "Fogliaffilata"
-                ]
-            },
-            {
-                "numero": "113",
-                "progressivo": "69/147",
-                "nome": "Chansey",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/7/79/BellsproutAquapolis68.jpg/180px-BellsproutAquapolis68.jpg",
-                "abilita": [
-                    "Rotolamento",
-                    "Sdoppiatore"
-                ]
-            },
-            {
-                "numero": "170",
-                "progressivo": "70/147",
-                "nome": "Chinchou",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/7/79/BellsproutAquapolis68.jpg/180px-BellsproutAquapolis68.jpg",
-                "abilita": [
-                    "Salvagente",
-                    "Bottintesta"
-                ]
-            },
-            {
-                "numero": "170",
-                "progressivo": "71/147",
-                "nome": "Chinchou",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/7/79/BellsproutAquapolis68.jpg/180px-BellsproutAquapolis68.jpg",
-                "abilita": [
-                    "Sobbalzo",
-                    "Stordiraggio"
-                ]
-            },
-            {
-                "numero": "104",
-                "progressivo": "72/147",
-                "nome": "Cubone",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/7/79/BellsproutAquapolis68.jpg/180px-BellsproutAquapolis68.jpg",
-                "abilita": [
-                    "Sobbalzo",
-                    "Stordiraggio"
-                ]
-            },
-            {
-                "numero": "084",
-                "progressivo": "73/147",
-                "nome": "Doduo",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/3/38/DoduoAquapolis73.jpg/180px-DoduoAquapolis73.jpg",
-                "abilita": [
-                    "Super Velocit\u00e0",
-                    "Calcio all'Indietro"
-                ]
-            },
-            {
-                "numero": "096",
-                "progressivo": "74a/147",
-                "nome": "Drowzee",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/3/38/DoduoAquapolis73.jpg/180px-DoduoAquapolis73.jpg",
-                "abilita": [
-                    "Super Velocit\u00e0",
-                    "Calcio all'Indietro"
-                ]
-            },
-            {
-                "numero": "096",
-                "progressivo": "74b/147",
-                "nome": "Drowzee",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/3/38/DoduoAquapolis73.jpg/180px-DoduoAquapolis73.jpg",
-                "abilita": [
-                    "Super Velocit\u00e0",
-                    "Calcio all'Indietro"
-                ]
-            },
-            {
-                "numero": "133",
-                "progressivo": "75/147",
-                "nome": "Eevee",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/1/1d/EeveeAquapolis75.jpg/180px-EeveeAquapolis75.jpg",
-                "abilita": [
-                    "Carica Su",
-                    "Affondo"
-                ]
-            },
-            {
-                "numero": "102",
-                "progressivo": "76/147",
-                "nome": "Exeggcute",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/d/db/ExeggcuteAquapolis76.jpg/180px-ExeggcuteAquapolis76.jpg",
-                "abilita": [
-                    "Crescita Inaspettata",
-                    "Polvere soporifera"
-                ]
-            },
-            {
-                "numero": "102",
-                "progressivo": "77/147",
-                "nome": "Exeggcute",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/d/db/ExeggcuteAquapolis76.jpg/180px-ExeggcuteAquapolis76.jpg",
-                "abilita": [
-                    "Crescita Inaspettata",
-                    "Polvere soporifera"
-                ]
-            },
-            {
-                "numero": "118",
-                "progressivo": "78/147",
-                "nome": "Goldeen",
-                "stadio_evolutivo": "",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/d/db/ExeggcuteAquapolis76.jpg/180px-ExeggcuteAquapolis76.jpg",
-                "abilita": [
-                    "Crescita Inaspettata",
-                    "Polvere soporifera"
-                ]
-            },
-            {
-                "numero": "088",
-                "progressivo": "79/147",
-                "nome": "Grimer",
-                "stadio_evolutivo": "",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/d/db/ExeggcuteAquapolis76.jpg/180px-ExeggcuteAquapolis76.jpg",
-                "abilita": [
-                    "Crescita Inaspettata",
-                    "Polvere soporifera"
-                ]
-            },
-            {
-                "numero": "058",
-                "progressivo": "80/147",
-                "nome": "Growlithe",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/d/db/ExeggcuteAquapolis76.jpg/180px-ExeggcuteAquapolis76.jpg",
-                "abilita": [
-                    "Crescita Inaspettata",
-                    "Polvere soporifera"
-                ]
-            },
-            {
-                "numero": "107",
-                "progressivo": "81/147",
-                "nome": "Hitmonchan",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/d/db/ExeggcuteAquapolis76.jpg/180px-ExeggcuteAquapolis76.jpg",
-                "abilita": [
-                    "Crescita Inaspettata",
-                    "Polvere soporifera"
-                ]
-            },
-            {
-                "numero": "237",
-                "progressivo": "82/147",
-                "nome": "Hitmontop",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/d/db/ExeggcuteAquapolis76.jpg/180px-ExeggcuteAquapolis76.jpg",
-                "abilita": [
-                    "Crescita Inaspettata",
-                    "Polvere soporifera"
-                ]
-            },
-            {
-                "numero": "187",
-                "progressivo": "83/147",
-                "nome": "Hoppip",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/d/db/ExeggcuteAquapolis76.jpg/180px-ExeggcuteAquapolis76.jpg",
-                "abilita": [
-                    "Crescita Inaspettata",
-                    "Polvere soporifera"
-                ]
-            },
-            {
-                "numero": "116",
-                "progressivo": "84/147",
-                "nome": "Horsea",
-                "stadio_evolutivo": "",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/d/db/ExeggcuteAquapolis76.jpg/180px-ExeggcuteAquapolis76.jpg",
-                "abilita": [
-                    "Crescita Inaspettata",
-                    "Polvere soporifera"
-                ]
-            },
-            {
-                "numero": "116",
-                "progressivo": "85/147",
-                "nome": "Horsea",
-                "stadio_evolutivo": "",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/d/db/ExeggcuteAquapolis76.jpg/180px-ExeggcuteAquapolis76.jpg",
-                "abilita": [
-                    "Crescita Inaspettata",
-                    "Polvere soporifera"
-                ]
-            },
-            {
-                "numero": "228",
-                "progressivo": "86/147",
-                "nome": "Houndour",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/d/db/ExeggcuteAquapolis76.jpg/180px-ExeggcuteAquapolis76.jpg",
-                "abilita": [
-                    "Crescita Inaspettata",
-                    "Polvere soporifera"
-                ]
-            },
-            {
-                "numero": "228",
-                "progressivo": "87/147",
-                "nome": "Houndour",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/c/c0/HoundourAquapolis87.jpg/180px-HoundourAquapolis87.jpg",
-                "abilita": [
-                    "Crescita Inaspettata",
-                    "Polvere soporifera"
-                ]
-            },
-            {
-                "numero": "115",
-                "progressivo": "88/147",
-                "nome": "Kangaskhan",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/c/c0/HoundourAquapolis87.jpg/180px-HoundourAquapolis87.jpg",
-                "abilita": [
-                    "Gitarella",
-                    "Megapugno"
-                ]
-            },
-            {
-                "numero": "246",
-                "progressivo": "89/147",
-                "nome": "Larvitar",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/af/LarvitarAquapolis89.jpg/180px-LarvitarAquapolis89.jpg",
-                "abilita": [
-                    "Gitarella",
-                    "Megapugno"
-                ]
-            },
-            {
-                "numero": "108",
-                "progressivo": "90/147",
-                "nome": "Lickitung",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/af/LarvitarAquapolis89.jpg/180px-LarvitarAquapolis89.jpg",
-                "abilita": [
-                    "Lungalingua",
-                    "Body Slam"
-                ]
-            },
-            {
-                "numero": "081",
-                "progressivo": "91/147",
-                "nome": "Magnemite",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/af/LarvitarAquapolis89.jpg/180px-LarvitarAquapolis89.jpg",
-                "abilita": [
-                    "Lungalingua",
-                    "Body Slam"
-                ]
-            },
-            {
-                "numero": "056",
-                "progressivo": "92/147",
-                "nome": "Mankey",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/af/LarvitarAquapolis89.jpg/180px-LarvitarAquapolis89.jpg",
-                "abilita": [
-                    "Lungalingua",
-                    "Body Slam"
-                ]
-            },
-            {
-                "numero": "179",
-                "progressivo": "93/147",
-                "nome": "Mareep",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/af/LarvitarAquapolis89.jpg/180px-LarvitarAquapolis89.jpg",
-                "abilita": [
-                    "Caricare",
-                    "Codasberla"
-                ]
-            },
-            {
-                "numero": "241",
-                "progressivo": "94/147",
-                "nome": "Miltank",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/af/LarvitarAquapolis89.jpg/180px-LarvitarAquapolis89.jpg",
-                "abilita": [
-                    "Azione",
-                    "Capriole"
-                ]
-            },
-            {
-                "numero": "122",
-                "progressivo": "95a/147Mr.",
-                "nome": "Mime",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/af/LarvitarAquapolis89.jpg/180px-LarvitarAquapolis89.jpg",
-                "abilita": [
-                    "Barriera Energetica",
-                    "Shock Mentale"
-                ]
-            },
-            {
-                "numero": "122",
-                "progressivo": "95b/147Mr.",
-                "nome": "Mime",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/af/LarvitarAquapolis89.jpg/180px-LarvitarAquapolis89.jpg",
-                "abilita": [
-                    "Barriera Energetica",
-                    "Shock Mentale"
-                ]
-            },
-            {
-                "numero": "032",
-                "progressivo": "96/147",
-                "nome": "Nidoran\u2642",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/af/LarvitarAquapolis89.jpg/180px-LarvitarAquapolis89.jpg",
-                "abilita": [
-                    "Velencorno",
-                    "Graffio"
-                ]
-            },
-            {
-                "numero": "043",
-                "progressivo": "97/147",
-                "nome": "Oddish",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/af/LarvitarAquapolis89.jpg/180px-LarvitarAquapolis89.jpg",
-                "abilita": [
-                    "Spore Paralizzanti",
-                    "Carica"
-                ]
-            },
-            {
-                "numero": "095",
-                "progressivo": "98/147",
-                "nome": "Onix",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/af/LarvitarAquapolis89.jpg/180px-LarvitarAquapolis89.jpg",
-                "abilita": [
-                    "Spore Paralizzanti",
-                    "Carica"
-                ]
-            },
-            {
-                "numero": "046",
-                "progressivo": "99/147",
-                "nome": "Paras",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/af/LarvitarAquapolis89.jpg/180px-LarvitarAquapolis89.jpg",
-                "abilita": [
-                    "Spora",
-                    "Sporevoluzione"
-                ]
-            },
-            {
-                "numero": "231",
-                "progressivo": "100/147",
-                "nome": "Phanpy",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/af/LarvitarAquapolis89.jpg/180px-LarvitarAquapolis89.jpg",
-                "abilita": [
-                    "Spora",
-                    "Sporevoluzione"
-                ]
-            },
-            {
-                "numero": "127",
-                "progressivo": "101/147",
-                "nome": "Pinsir",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/af/LarvitarAquapolis89.jpg/180px-LarvitarAquapolis89.jpg",
-                "abilita": [
-                    "Strizza-Corno",
-                    "Super Trancia"
-                ]
-            },
-            {
-                "numero": "077",
-                "progressivo": "102/147",
-                "nome": "Ponyta",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/0/0e/PonytaAquapolis102.jpg/180px-PonytaAquapolis102.jpg",
-                "abilita": [
-                    "Strizza-Corno",
-                    "Super Trancia"
-                ]
-            },
-            {
-                "numero": "137",
-                "progressivo": "103a/147",
-                "nome": "Porygon",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/4d/PorygonAquapolis103.jpg/180px-PorygonAquapolis103.jpg",
-                "abilita": [
-                    "Ricerca Dati",
-                    "Beccata"
-                ]
-            },
-            {
-                "numero": "137",
-                "progressivo": "103b/147",
-                "nome": "Porygon",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/4d/PorygonAquapolis103.jpg/180px-PorygonAquapolis103.jpg",
-                "abilita": [
-                    "Ricerca Dati",
-                    "Beccata"
-                ]
-            },
-            {
-                "numero": "054",
-                "progressivo": "104/147",
-                "nome": "Psyduck",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/4d/PorygonAquapolis103.jpg/180px-PorygonAquapolis103.jpg",
-                "abilita": [
-                    "Bottintesta",
-                    "Graffio"
-                ]
-            },
-            {
-                "numero": "223",
-                "progressivo": "105/147",
-                "nome": "Remoraid",
-                "stadio_evolutivo": "",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/4d/PorygonAquapolis103.jpg/180px-PorygonAquapolis103.jpg",
-                "abilita": [
-                    "Bottintesta",
-                    "Graffio"
-                ]
-            },
-            {
-                "numero": "123",
-                "progressivo": "106/147",
-                "nome": "Scyther",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/7/77/ScytherAquapolis106.jpg/180px-ScytherAquapolis106.jpg",
-                "abilita": [
-                    "Lacerazione",
-                    "Comete"
-                ]
-            },
-            {
-                "numero": "161",
-                "progressivo": "107/147",
-                "nome": "Sentret",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/7/77/ScytherAquapolis106.jpg/180px-ScytherAquapolis106.jpg",
-                "abilita": [
-                    "Spia",
-                    "Doppio Graffio"
-                ]
-            },
-            {
-                "numero": "079",
-                "progressivo": "108/147",
-                "nome": "Slowpoke",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/7/77/ScytherAquapolis106.jpg/180px-ScytherAquapolis106.jpg",
-                "abilita": [
-                    "Codalenza",
-                    "Morso"
-                ]
-            },
-            {
-                "numero": "235",
-                "progressivo": "109/147",
-                "nome": "Smeargle",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/7/77/ScytherAquapolis106.jpg/180px-ScytherAquapolis106.jpg",
-                "abilita": [
-                    "Ritocco",
-                    "Doppiasberla"
-                ]
-            },
-            {
-                "numero": "215",
-                "progressivo": "110/147",
-                "nome": "Sneasel",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/7/77/ScytherAquapolis106.jpg/180px-ScytherAquapolis106.jpg",
-                "abilita": [
-                    "Ritocco",
-                    "Doppiasberla"
-                ]
-            },
-            {
-                "numero": "167",
-                "progressivo": "111/147",
-                "nome": "Spinarak",
-                "stadio_evolutivo": "",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/7/77/ScytherAquapolis106.jpg/180px-ScytherAquapolis106.jpg",
-                "abilita": [
-                    "Ritocco",
-                    "Doppiasberla"
-                ]
-            },
-            {
-                "numero": "114",
-                "progressivo": "112/147",
-                "nome": "Tangela",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/7/77/ScytherAquapolis106.jpg/180px-ScytherAquapolis106.jpg",
-                "abilita": [
-                    "Liane Solleticanti",
-                    "Doppiocalcio"
-                ]
-            },
-            {
-                "numero": "072",
-                "progressivo": "113/147",
-                "nome": "Tentacool",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/7/77/ScytherAquapolis106.jpg/180px-ScytherAquapolis106.jpg",
-                "abilita": [
-                    "Velenospina",
-                    "Ripresa"
-                ]
-            },
-            {
-                "numero": "175",
-                "progressivo": "114/147",
-                "nome": "Togepi",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/7/77/ScytherAquapolis106.jpg/180px-ScytherAquapolis106.jpg",
-                "abilita": [
-                    "Lavoretto Rapido",
-                    "Libbra"
-                ]
-            },
-            {
-                "numero": "100",
-                "progressivo": "115/147",
-                "nome": "Voltorb",
-                "stadio_evolutivo": "",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/7/77/ScytherAquapolis106.jpg/180px-ScytherAquapolis106.jpg",
-                "abilita": [
-                    "Lavoretto Rapido",
-                    "Libbra"
-                ]
-            },
-            {
-                "numero": "037",
-                "progressivo": "116/147",
-                "nome": "Vulpix",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Lavoretto Rapido",
-                    "Libbra"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "194",
-                "progressivo": "117/147",
-                "nome": "Wooper",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "230",
-                "progressivo": "148/147",
-                "nome": "Kingdra",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "249",
-                "progressivo": "149/147",
-                "nome": "Lugia",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/VulpixAquapolis116.jpg/180px-VulpixAquapolis116.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            },
-            {
-                "numero": "034",
-                "progressivo": "150/147",
-                "nome": "Nidoking",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/8d/NidokingAquapolis150.jpg/180px-NidokingAquapolis150.jpg",
-                "abilita": [
-                    "Bolla",
-                    "Schizzi d'Onda"
-                ]
-            }
-        ]
-    },
-    {
         "numeroSet": "04",
         "nomeSet": "Team Rocket",
         "annoUscita": " 2001",
@@ -4164,7 +2111,7 @@
                 "progressivo": "6/165",
                 "nome": "Charizard",
                 "stadio_evolutivo": "Fase 2",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Energia Ardente",
                     "Vortice Ustionante"
@@ -4197,7 +2144,7 @@
                 "progressivo": "9/165",
                 "nome": "Dragonite",
                 "stadio_evolutivo": "Fase 2",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Leccata",
                     "Autofuoco"
@@ -4241,7 +2188,7 @@
                 "progressivo": "13/165",
                 "nome": "Gengar",
                 "stadio_evolutivo": "Fase 2",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Mossa Caotica",
                     "Nascosto nell'Ombra"
@@ -4263,7 +2210,7 @@
                 "progressivo": "15/165",
                 "nome": "Kingler",
                 "stadio_evolutivo": "Fase 1",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Bolla",
                     "Gigartiglio"
@@ -4307,7 +2254,7 @@
                 "progressivo": "19/165",
                 "nome": "Mew",
                 "stadio_evolutivo": "Base",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Flatten",
                     "Super Iron Fist"
@@ -4318,7 +2265,7 @@
                 "progressivo": "20/165",
                 "nome": "Mewtwo",
                 "stadio_evolutivo": "Base",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Flatten",
                     "Super Iron Fist"
@@ -4329,7 +2276,7 @@
                 "progressivo": "21/165",
                 "nome": "Ninetales",
                 "stadio_evolutivo": "Fase 1",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Flatten",
                     "Super Iron Fist"
@@ -4340,7 +2287,7 @@
                 "progressivo": "22/165",
                 "nome": "Pichu",
                 "stadio_evolutivo": "Base",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Power Patch",
                     "Rattoppa Energia"
@@ -4373,7 +2320,7 @@
                 "progressivo": "25/165",
                 "nome": "Raichu",
                 "stadio_evolutivo": "Fase 1",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Plasma",
                     "Fulminoshock"
@@ -4406,7 +2353,7 @@
                 "progressivo": "28/165",
                 "nome": "Typhlosion",
                 "stadio_evolutivo": "Fase 2",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Riscaldare",
                     "Super Scottata"
@@ -4571,7 +2518,7 @@
                 "progressivo": "43/165",
                 "nome": "Dragonite",
                 "stadio_evolutivo": "Fase 2",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Leccata",
                     "Autofuoco"
@@ -4626,7 +2573,7 @@
                 "progressivo": "48/165",
                 "nome": "Gengar",
                 "stadio_evolutivo": "Fase 2",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Mossa Caotica",
                     "Nascosto nell'Ombra"
@@ -4648,7 +2595,7 @@
                 "progressivo": "50/165",
                 "nome": "Kingler",
                 "stadio_evolutivo": "Fase 1",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Bolla",
                     "Gigartiglio"
@@ -4703,7 +2650,7 @@
                 "progressivo": "55/165",
                 "nome": "Mew",
                 "stadio_evolutivo": "Base",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Polvere Soporifera",
                     "Solarraggio"
@@ -4714,7 +2661,7 @@
                 "progressivo": "56/165",
                 "nome": "Mewtwo",
                 "stadio_evolutivo": "Base",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Polvere Soporifera",
                     "Solarraggio"
@@ -4725,7 +2672,7 @@
                 "progressivo": "57/165",
                 "nome": "Ninetales",
                 "stadio_evolutivo": "Fase 1",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Polvere Soporifera",
                     "Solarraggio"
@@ -4736,7 +2683,7 @@
                 "progressivo": "58/165",
                 "nome": "Pichu",
                 "stadio_evolutivo": "Base",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Power Patch",
                     "Rattoppa Energia"
@@ -4769,7 +2716,7 @@
                 "progressivo": "61/165",
                 "nome": "Raichu",
                 "stadio_evolutivo": "Fase 1",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Plasma",
                     "Fulminoshock"
@@ -4802,7 +2749,7 @@
                 "progressivo": "64/165",
                 "nome": "Typhlosion",
                 "stadio_evolutivo": "Fase 2",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Plasma",
                     "Fulminoshock"
@@ -4813,7 +2760,7 @@
                 "progressivo": "65/165",
                 "nome": "Typhlosion",
                 "stadio_evolutivo": "Fase 2",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Riscaldare",
                     "Super Scottata"
@@ -4879,7 +2826,7 @@
                 "progressivo": "71/165",
                 "nome": "Bayleef",
                 "stadio_evolutivo": "Fase 1",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Polvere Misteriosa",
                     "Foglielama"
@@ -4901,7 +2848,7 @@
                 "progressivo": "73/165",
                 "nome": "Charmeleon",
                 "stadio_evolutivo": "Fase 1",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Recovery",
                     "All-out Tackle"
@@ -4934,7 +2881,7 @@
                 "progressivo": "76/165",
                 "nome": "Electabuzz",
                 "stadio_evolutivo": "Base",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Preleva Energia",
                     "Rifletti Energia"
@@ -4978,7 +2925,7 @@
                 "progressivo": "80/165",
                 "nome": "Haunter",
                 "stadio_evolutivo": "Fase 1",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Foglielama",
                     "Puzza"
@@ -4989,7 +2936,7 @@
                 "progressivo": "81/165",
                 "nome": "Hitmonlee",
                 "stadio_evolutivo": "Base",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Foglielama",
                     "Puzza"
@@ -5000,7 +2947,7 @@
                 "progressivo": "82/165",
                 "nome": "Ivysaur",
                 "stadio_evolutivo": "Fase 1",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Sonnoseme",
                     "Frustata"
@@ -5044,7 +2991,7 @@
                 "progressivo": "86/165",
                 "nome": "Magmar",
                 "stadio_evolutivo": "Base",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Gelopugno",
                     "Polneve"
@@ -5055,7 +3002,7 @@
                 "progressivo": "87/165",
                 "nome": "Metapod",
                 "stadio_evolutivo": "Fase 1",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Gelopugno",
                     "Polneve"
@@ -5077,7 +3024,7 @@
                 "progressivo": "89/165",
                 "nome": "Poliwhirl",
                 "stadio_evolutivo": "Fase 2",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Pugno",
                     "Bollaraggio"
@@ -5154,7 +3101,7 @@
                 "progressivo": "96/165",
                 "nome": "Caterpie",
                 "stadio_evolutivo": "Base",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Bottintesta",
                     "Filamento Vischioso"
@@ -5165,7 +3112,7 @@
                 "progressivo": "97/165",
                 "nome": "Charmander",
                 "stadio_evolutivo": "Base",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Bottintesta",
                     "Filamento Vischioso"
@@ -5231,7 +3178,7 @@
                 "progressivo": "103/165",
                 "nome": "Cubone",
                 "stadio_evolutivo": "Base",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Azione",
                     "Sparalance"
@@ -5264,7 +3211,7 @@
                 "progressivo": "106/165",
                 "nome": "Diglett",
                 "stadio_evolutivo": "Base",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Azione",
                     "Sparalance"
@@ -5308,7 +3255,7 @@
                 "progressivo": "110/165",
                 "nome": "Geodude",
                 "stadio_evolutivo": "Base",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Azione",
                     "Sparalance"
@@ -5594,7 +3541,7 @@
                 "progressivo": "136/165",
                 "nome": "Vulpix",
                 "stadio_evolutivo": "Base",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Sguardo Paralizzante",
                     "Morso"
@@ -5755,7 +3702,7 @@
                 "progressivo": "152/165",
                 "nome": "Punto di curvatura",
                 "stadio_evolutivo": "Nessuno",
-                "url": "Nessuna immagine",
+                "url": "https://w0.peakpx.com/wallpaper/791/990/HD-wallpaper-pokemon-boi-boi-logo-play-thumbnail.jpg",
                 "abilita": [
                     "Nessuna"
                 ]
