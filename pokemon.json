@@ -5083,19 +5083,8 @@
                 ]
             },
             {
-                "numero": "0050a",
-                "progressivo": "50a/147",
-                "nome": "Golduck",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/88/GolduckAquapolis50.jpg/180px-GolduckAquapolis50.jpg",
-                "abilita": [
-                    "Lacerazione",
-                    "Distorciraggio"
-                ]
-            },
-            {
-                "numero": "0050b",
-                "progressivo": "50b/147",
+                "numero": "0050",
+                "progressivo": "50/147",
                 "nome": "Golduck",
                 "stadio_evolutivo": "Fase 1",
                 "url": "https://media.pokemoncentral.it/wiki/thumb/8/88/GolduckAquapolis50.jpg/180px-GolduckAquapolis50.jpg",
