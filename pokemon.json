@@ -3,6 +3,7 @@
         "numeroSet": "01",
         "nomeSet": "Set Base",
         "annoUscita": "1999",
+        "realizzatoDa": "Alba Luca ",
         "figurine": [
             {
                 "numero": "0065",
@@ -1103,6 +1104,7 @@
         "numeroSet": "04",
         "nomeSet": "Team Rocket",
         "annoUscita": " 2001",
+        "realizzatoDa": "Fortunato Marco e Giusiano Massimo",
         "figurine": [
             {
                 "progressivo": "1/83",
@@ -2047,9 +2049,10 @@
         ]
     },
     {
-        "numeroSet": "7",
+        "numeroSet": "07",
         "nomeSet": "Neo Revelation",
         "annoUscita": "2001",
+        "realizzatoDa": "Barra Leonardo",
         "figurine": [
             {
                 "numero": "0181",
@@ -2749,6 +2752,7 @@
         "numeroSet": "09",
         "nomeSet": "Expedition set base",
         "annoUscita": "2002",
+        "realizzatoDa": "Culasso Edoardo",
         "figurine": [
             {
                 "numero": "0065",
@@ -4542,6 +4546,7 @@
         "numeroSet": "10",
         "nomeSet": "Aquapolis",
         "annoUscita": "2003",
+        "realizzatoDa": "Di Marco Mirko",
         "figurine": [
             {
                 "numero": "0001",
@@ -6232,6 +6237,7 @@
         "numeroSet": "12",
         "nomeSet": "Ex Rubino e Zaffiro",
         "annoUscita": "2003",
+        "realizzatoDa": "Minetti Leonardo",
         "figurine": [
             {
                 "numero": "0306",
@@ -7407,6 +7413,7 @@
         "numeroSet": "13",
         "nomeSet": "Ex tempesta di sabbia",
         "annoUscita": "2004",
+        "realizzatoDa": "Bracco Mattia",
         "figurine": [
             {
                 "numero": "0348",
@@ -8499,6 +8506,7 @@
         "numeroSet": "57",
         "nomeSet": "Antiche origini",
         "annoUscita": "2015",
+        "realizzatoDa": "Martini Gabriele",
         "figurine": [
             {
                 "numero": "0043",
@@ -9584,6 +9592,7 @@
     {
         "numeroSet": "65",
         "nomeSet": "Ombre infuocate",
+        "realizzatoDa": "Paseri Kevin",
         "annoUscita": "2017",
         "figurine": [
             {
