@@ -2047,6 +2047,705 @@
         ]
     },
     {
+        "numeroSet": "7",
+        "nomeSet": "Neo Revelation",
+        "annoUscita": "2001",
+        "figurine": [
+            {
+                "numero": "0181",
+                "progressivo": "1/64",
+                "nome": "Ampharos",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Elettrotrasmissione",
+                    "Gigavolt"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/7c/AmpharosNeoRevelation1.jpg/180px-AmpharosNeoRevelation1.jpg"
+            },
+            {
+                "numero": "0242",
+                "progressivo": "2/64",
+                "nome": "Blissey",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Covauova",
+                    "Body Slam"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/c/cc/BlisseyNeoRevelation2.jpg"
+            },
+            {
+                "numero": "0251",
+                "progressivo": "3/64",
+                "nome": "Celebi",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Viaggio nel Tempo",
+                    "Psicodanno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/26/CelebiNeoRevelation3.jpg/180px-CelebiNeoRevelation3.jpg"
+            },
+            {
+                "numero": "0169",
+                "progressivo": "4/64",
+                "nome": "Crobat",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Innesca Veleno",
+                    "Attacco Incrociato"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f9/CrobatNeoRevelation4.jpg/180px-CrobatNeoRevelation4.jpg"
+            },
+            {
+                "numero": "0225",
+                "progressivo": "5/64",
+                "nome": "Delibird",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Regalino"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/26/Delibird_%28Neo_Revelation_5%29.png/180px-Delibird_%28Neo_Revelation_5%29.png"
+            },
+            {
+                "numero": "0244",
+                "progressivo": "6/64",
+                "nome": "Entei",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Ululato",
+                    "Fiamme Ustionanti"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a1/EnteiNeoRevelation6.jpg/180px-EnteiNeoRevelation6.jpg"
+            },
+            {
+                "numero": "0250",
+                "progressivo": "7/64",
+                "nome": "Ho-Oh",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Vampata",
+                    "Magifuoco",
+                    "Bomba di Profondità"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/6a/Ho-OhNeoRevelation7.jpg/180px-Ho-OhNeoRevelation7.jpg"
+            },
+            {
+                "numero": "0229",
+                "progressivo": "8/64",
+                "nome": "Houndoom",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Fiamma Oscura",
+                    "Zanna Nera"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/b1/HoundoomNeoRevelation8.jpg/180px-HoundoomNeoRevelation8.jpg"
+            },
+            {
+                "numero": "0189",
+                "progressivo": "9/64",
+                "nome": "Jumpluff",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Evoluspore",
+                    "Solarraggio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/b6/JumpluffNeoRevelation9.jpg/180px-JumpluffNeoRevelation9.jpg"
+            },
+            {
+                "numero": "0082",
+                "progressivo": "10/64",
+                "nome": "Magneton",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Potere Elettromagnetico",
+                    "Plasma"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/43/MagnetonNeoRevelation10.jpg/180px-MagnetonNeoRevelation10.jpg"
+            },
+            {
+                "numero": "0200",
+                "progressivo": "11/64",
+                "nome": "Misdreavus",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Occhi della Notte",
+                    "Ultimocanto"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/8/81/MisdreavusNeoRevelation11.jpg/180px-MisdreavusNeoRevelation11.jpg"
+            },
+            {
+                "numero": "0233",
+                "progressivo": "12/64",
+                "nome": "Porygon2",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Converti Energia",
+                    "Raggio Delta"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/10/Porygon2NeoRevelation12.jpg/180px-Porygon2NeoRevelation12.jpg"
+            },
+            {
+                "numero": "0243",
+                "progressivo": "13/64",
+                "nome": "Raikou",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Raggio Fulmine",
+                    "Fulminazione"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/45/RaikouNeoRevelation13.jpg/180px-RaikouNeoRevelation13.jpg"
+            },
+            {
+                "numero": "0245",
+                "progressivo": "14/64",
+                "nome": "Suicune",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Cristalcorpo",
+                    "Ondaurora"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/d3/SuicuneNeoRevelation14.jpg/180px-SuicuneNeoRevelation14.jpg"
+            },
+            {
+                "numero": "0142",
+                "progressivo": "15/64",
+                "nome": "Aerodactyl",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Memoria Preistorica",
+                    "Volo"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/d5/AerodactylNeoRevelation15.jpg/180px-AerodactylNeoRevelation15.jpg"
+            },
+            {
+                "numero": "0251",
+                "progressivo": "16/64",
+                "nome": "Celebi",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Psico Foglia"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/43/CelebiNeoRevelation16.jpg/180px-CelebiNeoRevelation16.jpg"
+            },
+            {
+                "numero": "0244",
+                "progressivo": "17/64",
+                "nome": "Entei",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Corpo Leggendario",
+                    "Mega Fiamma"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/5/55/EnteiNeoRevelation17.jpg/180px-EnteiNeoRevelation17.jpg"
+            },
+            {
+                "numero": "0250",
+                "progressivo": "18/64",
+                "nome": "Ho-Oh",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Fiammabaleno"
+    
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/8/80/Ho-OhNeoRevelation18.jpg/180px-Ho-OhNeoRevelation18.jpg"
+            },
+            {
+                "numero": "0230",
+                "progressivo": "19/64",
+                "nome": "Kingdra",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Memoria Genetica",
+                    "Tornado"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/0d/KingdraNeoRevelation19.jpg/180px-KingdraNeoRevelation19.jpg"
+            },
+            {
+                "numero": "0249",
+                "progressivo": "20/64",
+                "nome": "Lugia",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Ala Aerea"
+    
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f4/LugiaNeoRevelation20.jpg/180px-LugiaNeoRevelation20.jpg"
+            },
+            {
+                "numero": "0026",
+                "progressivo": "21/64",
+                "nome": "Raichu",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Tuonoshock",
+                    "Fulminstocco"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/2b/RaichuNeoRevelation21.jpg/180px-RaichuNeoRevelation21.jpg"
+            },
+            {
+                "numero": "0243",
+                "progressivo": "22/64",
+                "nome": "Raikou",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Fulminscintilla"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/0f/RaikouNeoRevelation22.jpg/180px-RaikouNeoRevelation22.jpg"
+            },
+            {
+                "numero": "0227",
+                "progressivo": "23/64",
+                "nome": "Skarmory",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Furia",
+                    "Agilità"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/ad/SkarmoryNeoRevelation23.jpg/180px-SkarmoryNeoRevelation23.jpg"
+            },
+            {
+                "numero": "0215",
+                "progressivo": "24/64",
+                "nome": "Sneasel",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Truffa",
+                    "Attacco Rapido"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f7/SneaselNeoRevelation24.jpg/180px-SneaselNeoRevelation24.jpg"
+            },
+            {
+                "numero": "0121",
+                "progressivo": "25/64",
+                "nome": "Starmie",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Stordiraggio",
+                    "Nucleoflusso"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a7/StarmieNeoRevelation25.jpg/180px-StarmieNeoRevelation25.jpg"
+            },
+            {
+                "numero": "0185",
+                "progressivo": "26/64",
+                "nome": "Sudowoodo",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Mimica",
+                    "Schianto"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/41/SudowoodoNeoRevelation26.jpg/180px-SudowoodoNeoRevelation26.jpg"
+            },
+            {
+                "numero": "0245",
+                "progressivo": "27/64",
+                "nome": "Suicune",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Cristalonda"
+    
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/b1/SuicuneNeoRevelation27.jpg/180px-SuicuneNeoRevelation27.jpg"
+            },
+            {
+                "numero": "0180",
+                "progressivo": "28/64",
+                "nome": "Flaaffy",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Elettropugno",
+                    "Coda-Shock"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/e7/FlaaffyNeoRevelation28.jpg/180px-FlaaffyNeoRevelation28.jpg"
+            },
+            {
+                "numero": "0042",
+                "progressivo": "29/64",
+                "nome": "Golbat",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Stridio",
+                    "Morso Velenoso"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/b3/GolbatNeoRevelation29.jpg/180px-GolbatNeoRevelation29.jpg"
+            },
+            {
+                "numero": "0075",
+                "progressivo": "30/64",
+                "nome": "Graveler",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Terremoto",
+                    "Tiramassi"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/34/GravelerNeoRevelation30.jpg/180px-GravelerNeoRevelation30.jpg"
+            },
+            {
+                "numero": "0124",
+                "progressivo": "31/64",
+                "nome": "Jynx",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Gelobacio della Buonanotte",
+                    "Stranadanza"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/ee/JynxNeoRevelation31.jpg/180px-JynxNeoRevelation31.jpg"
+            },
+            {
+                "numero": "0171",
+                "progressivo": "32/64",
+                "nome": "Lanturn",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Luce Abbagliante"
+    
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/4a/LanturnNeoRevelation32.jpg/180px-LanturnNeoRevelation32.jpg"
+            },
+            {
+                "numero": "0219",
+                "progressivo": "33/64",
+                "nome": "Magcargo",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Pozza di Magma",
+                    "Flussolava"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/09/MagcargoNeoRevelation33.jpg/180px-MagcargoNeoRevelation33.jpg"
+            },
+            {
+                "numero": "0224",
+                "progressivo": "34/64",
+                "nome": "Octillery",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Limitazione",
+                    "Octazooka"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f5/OctilleryNeoRevelation34.jpg/180px-OctilleryNeoRevelation34.jpg"
+            },
+            {
+                "numero": "0047",
+                "progressivo": "35/64",
+                "nome": "Parasect",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Sonnopinze"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/26/ParasectNeoRevelation35.jpg/180px-ParasectNeoRevelation35.jpg"
+            },
+            {
+                "numero": "0221",
+                "progressivo": "36/64",
+                "nome": "Piloswine",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Pausa",
+                    "Carica Ultrarapida"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/d2/PiloswineNeoRevelation36.jpg/180px-PiloswineNeoRevelation36.jpg"
+            },
+            {
+                "numero": "0119",
+                "progressivo": "37/64",
+                "nome": "Seaking",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Guizzo",
+                    "Cornocolpo"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5d/SeakingNeoRevelation37.jpg/180px-SeakingNeoRevelation37.jpg"
+            },
+            {
+                "numero": "0234",
+                "progressivo": "38/64",
+                "nome": "Stantler",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Terrorizza",
+                    "Scaraventa Indietro"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/64/StantlerNeoRevelation38.jpg/180px-StantlerNeoRevelation38.jpg"
+            },
+            {
+                "numero": "0201",
+                "progressivo": "39/64",
+                "nome": "B",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Bear",
+                    "Introforza"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/b6/UnownBNeoRevelation39.jpg/180px-UnownBNeoRevelation39.jpg"
+            },
+            {
+                "numero": "0201",
+                "progressivo": "40/64",
+                "nome": "Y",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Yield",
+                    "Introforza"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/1a/UnownYNeoRevelation40.jpg/180px-UnownYNeoRevelation40.jpg"
+            },
+            {
+                "numero": "0190",
+                "progressivo": "41/64",
+                "nome": "Aipom",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Scippo",
+                    "Coda-Pugno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/38/AipomNeoRevelation41.jpg/180px-AipomNeoRevelation41.jpg"
+            },
+            {
+                "numero": "0170",
+                "progressivo": "42/64",
+                "nome": "Chinchou",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Ione Positivo",
+                    "Ione Negativo"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a1/ChinchouNeoRevelation42.jpg/180px-ChinchouNeoRevelation42.jpg"
+            },
+            {
+                "numero": "0083",
+                "progressivo": "43/64",
+                "nome": "Farfetch'd",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Raffica",
+                    "Porrostocco"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/6e/Farfetch%27dNeoRevelation43.jpg/180px-Farfetch%27dNeoRevelation43.jpg"
+            },
+            {
+                "numero": "0074",
+                "progressivo": "44/64",
+                "nome": "Geodude",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Nocca-Pugno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/6d/GeodudeNeoRevelation44.jpg/180px-GeodudeNeoRevelation44.jpg"
+            },
+            {
+                "numero": "0118",
+                "progressivo": "45/64",
+                "nome": "Goldeen",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Pinnaschiaffo"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/9/99/GoldeenNeoRevelation45.jpg/180px-GoldeenNeoRevelation45.jpg"
+            },
+            {
+                "numero": "0198",
+                "progressivo": "46/64",
+                "nome": "Murkrow",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Cerca Famiglia",
+                    "Attacco in Massa"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/2f/MurkrowNeoRevelation46.jpg/180px-MurkrowNeoRevelation46.jpg"
+            },
+            {
+                "numero": "0046",
+                "progressivo": "47/64",
+                "nome": "Paras",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Sonnospore",
+                    "Graffio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/9/95/ParasNeoRevelation47.jpg/180px-ParasNeoRevelation47.jpg"
+            },
+            {
+                "numero": "0195",
+                "progressivo": "48/64",
+                "nome": "Quagsire",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Fangosberla",
+                    "Mulinello"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/41/QuagsireNeoRevelation48.jpg/180px-QuagsireNeoRevelation48.jpg"
+            },
+            {
+                "numero": "0195",
+                "progressivo": "49/64",
+                "nome": "Qwilfish",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Velenospina",
+                    "Tempesta di Spine"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/9/99/QwilfishNeoRevelation49.jpg/180px-QwilfishNeoRevelation49.jpg"
+            },
+            {
+                "numero": "0223",
+                "progressivo": "50/64",
+                "nome": "Remoraid",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Tiratore Scelto"
+    
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/21/RemoraidNeoRevelation50.jpg/180px-RemoraidNeoRevelation50.jpg"
+            },
+            {
+                "numero": "0213",
+                "progressivo": "51/64",
+                "nome": "Shuckle",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Essenza Tossica"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/f/f0/ShuckleNeoRevelation51.jpg"
+            },
+            {
+                "numero": "0188",
+                "progressivo": "52/64",
+                "nome": "Skiploom",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Saltello",
+                    "Polvere Misteriosa"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/6e/SkiploomNeoRevelation52.jpg/180px-SkiploomNeoRevelation52.jpg"
+            },
+            {
+                "numero": "0218",
+                "progressivo": "53/64",
+                "nome": "Slugma",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Fiammata",
+                    "Anello di Magma"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/72/SlugmaNeoRevelation53.jpg/180px-SlugmaNeoRevelation53.jpg"
+            },
+            {
+                "numero": "0238",
+                "progressivo": "54/64",
+                "nome": "Smoochum",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Psicobacio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/61/SmoochumNeoRevelation54.jpg/180px-SmoochumNeoRevelation54.jpg"
+            },
+            {
+                "numero": "0209",
+                "progressivo": "55/64",
+                "nome": "Snubbull",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Morso",
+                    "Furiotestata"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/1f/SnubbullNeoRevelation55.jpg/180px-SnubbullNeoRevelation55.jpg"
+            },
+            {
+                "numero": "0120",
+                "progressivo": "56/64",
+                "nome": "Staryu",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Azione",
+                    "Bollaraggio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/d1/StaryuNeoRevelation56.jpg/180px-StaryuNeoRevelation56.jpg"
+            },
+            {
+                "numero": "0220",
+                "progressivo": "57/64",
+                "nome": "Swinub",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Azione",
+                    "Riduttore"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/d2/SwinubNeoRevelation57.jpg/180px-SwinubNeoRevelation57.jpg"
+            },
+            {
+                "numero": "0201",
+                "progressivo": "58/64",
+                "nome": "K",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Keep",
+                    "Introforza"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/78/UnownKNeoRevelation58.jpg/180px-UnownKNeoRevelation58.jpg"
+            },
+            {
+                "numero": "0041",
+                "progressivo": "59/64",
+                "nome": "Zubat",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Morso",
+                    "Nebulizza-Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/9/95/ZubatNeoRevelation59.jpg/180px-ZubatNeoRevelation59.jpg"
+            },
+            {
+                "numero": "0000",
+                "progressivo": "60/64",
+                "nome": "Bacca Pallone",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Nessuna"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/c/c6/BalloonBerryEXDragon82.jpg"
+            },
+            {
+                "numero": "0000",
+                "progressivo": "61/64",
+                "nome": "Campo di Cura",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Nessuna"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/75/HealingFieldNeoRevelation61.jpg/180px-HealingFieldNeoRevelation61.jpg"
+            },
+            {
+                "numero": "0000",
+                "progressivo": "62/64",
+                "nome": "Campi di Allevamento Pokémon",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Nessuna"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/9/9f/Pok%C3%A9monBreederFieldsNeoRevelation62.jpg/180px-Pok%C3%A9monBreederFieldsNeoRevelation62.jpg"
+            },
+            {
+                "numero": "0000",
+                "progressivo": "63/64",
+                "nome": "Rifugio Rocket",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Nessuna"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/74/RocketHideoutNeoRevelation63.jpg/180px-RocketHideoutNeoRevelation63.jpg"
+            },
+            {
+                "numero": "0000",
+                "progressivo": "64/64",
+                "nome": "Rocket's Mission",
+                "stadio_evolutivo": "Nessuno",
+                "abilita": [
+                    "Nessuna"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/45/RocketMissionEXTeamRocketReturns88.png/180px-RocketMissionEXTeamRocketReturns88.png"
+            }
+        ]
+    },
+    {
         "numeroSet": "09",
         "nomeSet": "Expedition set base",
         "annoUscita": "2002",
