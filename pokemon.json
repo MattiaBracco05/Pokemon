@@ -3,7 +3,7 @@
         "numeroSet": "01",
         "nomeSet": "Set Base",
         "annoUscita": "1999",
-        "realizzatoDa": "Alba Luca ",
+        "realizzatoDa": "Alba Luca",
         "figurine": [
             {
                 "numero": "0065",
@@ -1101,363 +1101,11 @@
         ]
     },
     {
-    "numeroSet": "02",
-    "nomeSet": "Jungle",
-    "annoUscita": "2000",
-    "realizzatoDa": "Federico Galeasso",
-    "figurine": [
-            {
-                "numero": "181",
-                "progressivo": "H1/H32",
-                "nome": "Ampharos",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/e/ea/AmpharosAquapolis1.jpg/180px-AmpharosAquapolis1.jpg",
-                "abilita": [
-                    "Tuonoshock",
-                    "Rifletti Energia"
-                ]
-            },
-            {
-                "numero": "059",
-                "progressivo": "H2/H32",
-                "nome": "Arcanine",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/42/ArcanineAquapolis2.jpg/180px-ArcanineAquapolis2.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "168",
-                "progressivo": "H3/H32",
-                "nome": "Ariados",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5a/AriadosAquapolis3.jpg/180px-AriadosAquapolis3.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "184",
-                "progressivo": "H4/H32",
-                "nome": "Azumarill",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a0/AzumarillAquapolis4.jpg/180px-AzumarillAquapolis4.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "182",
-                "progressivo": "H5/H32",
-                "nome": "Bellossom",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5a/BellossomAquapolis5.jpg/180px-BellossomAquapolis5.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "242",
-                "progressivo": "H6/H32",
-                "nome": "Blissey",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5a/BellossomAquapolis5.jpg/180px-BellossomAquapolis5.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "101",
-                "progressivo": "H7/H32",
-                "nome": "Electrode",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5a/BellossomAquapolis5.jpg/180px-BellossomAquapolis5.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "244",
-                "progressivo": "H8/H32",
-                "nome": "Entei",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/0/07/EnteiAquapolis10.jpg/180px-EnteiAquapolis10.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "196",
-                "progressivo": "H9/H32",
-                "nome": "Espeon",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/0/07/EnteiAquapolis10.jpg/180px-EnteiAquapolis10.jpg",
-                "abilita": [
-                    "Ritorno di Energia",
-                    "Influsso Dannoso"
-                ]
-            },
-            {
-                "numero": "103",
-                "progressivo": "H10/H32",
-                "nome": "Exeggutor",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/0/07/EnteiAquapolis10.jpg/180px-EnteiAquapolis10.jpg",
-                "abilita": [
-                    "Super Ovosplosione",
-                    "Colpo annunciato"
-                ]
-            },
-            {
-                "numero": "229",
-                "progressivo": "H11/H32",
-                "nome": "Houndoom",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/0/07/EnteiAquapolis10.jpg/180px-EnteiAquapolis10.jpg",
-                "abilita": [
-                    "Super Ovosplosione",
-                    "Colpo annunciato"
-                ]
-            },
-            {
-                "numero": "097",
-                "progressivo": "H12/H32",
-                "nome": "Hypno",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/8f/HypnoAquapolisH12.jpg/180px-HypnoAquapolisH12.jpg",
-                "abilita": [
-                    "Super Ovosplosione",
-                    "Colpo annunciato"
-                ]
-            },
-            {
-                "numero": "189",
-                "progressivo": "H13/H32",
-                "nome": "Jumpluff",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/87/JumpluffAquapolis17.jpg/180px-JumpluffAquapolis17.jpg",
-                "abilita": [
-                    "Super Ovosplosione",
-                    "Colpo annunciato"
-                ]
-            },
-            {
-                "numero": "230",
-                "progressivo": "H14/H32",
-                "nome": "Kingdra",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/87/JumpluffAquapolis17.jpg/180px-JumpluffAquapolis17.jpg",
-                "abilita": [
-                    "Super Ovosplosione",
-                    "Colpo annunciato"
-                ]
-            },
-            {
-                "numero": "171",
-                "progressivo": "H15/H32",
-                "nome": "Lanturn",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/87/JumpluffAquapolis17.jpg/180px-JumpluffAquapolis17.jpg",
-                "abilita": [
-                    "Super Ovosplosione",
-                    "Colpo annunciato"
-                ]
-            },
-            {
-                "numero": "082",
-                "progressivo": "H16/H32",
-                "nome": "Magneton",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/87/JumpluffAquapolis17.jpg/180px-JumpluffAquapolis17.jpg",
-                "abilita": [
-                    "Flusso Magnetico",
-                    "Ondacciao"
-                ]
-            },
-            {
-                "numero": "089",
-                "progressivo": "H17/H32",
-                "nome": "Muk",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/87/JumpluffAquapolis17.jpg/180px-JumpluffAquapolis17.jpg",
-                "abilita": [
-                    "Flusso Magnetico",
-                    "Ondacciao"
-                ]
-            },
-            {
-                "numero": "034",
-                "progressivo": "H18/H32",
-                "nome": "Nidoking",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/2/2a/NidokingAquapolis24.jpg/180px-NidokingAquapolis24.jpg",
-                "abilita": [
-                    "Scuotiterra",
-                    "Gigacorno"
-                ]
-            },
-            {
-                "numero": "038",
-                "progressivo": "H19/H32",
-                "nome": "Ninetales",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/2/2a/NidokingAquapolis24.jpg/180px-NidokingAquapolis24.jpg",
-                "abilita": [
-                    "Scuotiterra",
-                    "Gigacorno"
-                ]
-            },
-            {
-                "numero": "224",
-                "progressivo": "H20/H32",
-                "nome": "Octillery",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/81/OctilleryAquapolisH20.jpg/180px-OctilleryAquapolisH20.jpg",
-                "abilita": [
-                    "Scuotiterra",
-                    "Gigacorno"
-                ]
-            },
-            {
-                "numero": "212",
-                "progressivo": "H21/H32",
-                "nome": "Scizor",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a2/ScizorAquapolisH21.jpg/180px-ScizorAquapolisH21.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "199",
-                "progressivo": "H22/H32",
-                "nome": "Slowking",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a3/SlowkingAquapolisH22.jpg/180px-SlowkingAquapolisH22.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "208",
-                "progressivo": "H23/H32",
-                "nome": "Steelix",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/3/3a/SteelixAquapolisH23.jpg/180px-SteelixAquapolisH23.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "185",
-                "progressivo": "H24/H32",
-                "nome": "Sudowoodo",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/1/13/SudowoodoAquapolisH24.jpg/180px-SudowoodoAquapolisH24.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "245",
-                "progressivo": "H25/H32",
-                "nome": "Suicune",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/4a/SuicuneAquapolis37.jpg/180px-SuicuneAquapolis37.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "073",
-                "progressivo": "H26/H32",
-                "nome": "Tentacruel",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/40/TentacruelAquapolis38.jpg/180px-TentacruelAquapolis38.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "176",
-                "progressivo": "H27/H32",
-                "nome": "Togetic",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/40/TentacruelAquapolis38.jpg/180px-TentacruelAquapolis38.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "248",
-                "progressivo": "H28/H32",
-                "nome": "Tyranitar",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/40/TentacruelAquapolis38.jpg/180px-TentacruelAquapolis38.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "197",
-                "progressivo": "H29/H32",
-                "nome": "Umbreon",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/8b/UmbreonAquapolisH29.jpg/180px-UmbreonAquapolisH29.jpg",
-                "abilita": [
-                    "Luna Nera",
-                    "Legami d'Ombra"
-                ]
-            },
-            {
-                "numero": "071",
-                "progressivo": "H30/H32",
-                "nome": "Victreebel",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/7/78/VictreebelAquapolisH30.jpg/180px-VictreebelAquapolisH30.jpg",
-                "abilita": [
-                    "Luna Nera",
-                    "Legami d'Ombra"
-                ]
-            },
-            {
-                "numero": "045",
-                "progressivo": "H31/H32",
-                "nome": "Vileplume",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5e/VileplumeAquapolisH31.jpg/180px-VileplumeAquapolisH31.jpg",
-                "abilita": [
-                    "Velenessenza",
-                    "Stordipolline"
-                ]
-            },
-            {
-                "numero": "145",
-                "progressivo": "H32/H32",
-                "nome": "Zapdos",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5e/VileplumeAquapolisH31.jpg/180px-VileplumeAquapolisH31.jpg",
-                "abilita": [
-                    "Velenessenza",
-                    "Stordipolline"
-                ]
-            },
+        "numeroSet": "02",
+        "nomeSet": "Jungle",
+        "annoUscita": "2000",
+        "realizzatoDa": "Federico Galeasso",
+        "figurine": [
             {
                 "numero": "181",
                 "progressivo": "1/147",
@@ -4301,7 +3949,6 @@
                 "stadio_evolutivo": "Nessuno",
                 "abilita": [
                     "Fiammabaleno"
-    
                 ],
                 "url": "https://media.pokemoncentral.it/wiki/thumb/8/80/Ho-OhNeoRevelation18.jpg/180px-Ho-OhNeoRevelation18.jpg"
             },
@@ -4323,7 +3970,6 @@
                 "stadio_evolutivo": "Base",
                 "abilita": [
                     "Ala Aerea"
-    
                 ],
                 "url": "https://media.pokemoncentral.it/wiki/thumb/f/f4/LugiaNeoRevelation20.jpg/180px-LugiaNeoRevelation20.jpg"
             },
@@ -4399,7 +4045,6 @@
                 "stadio_evolutivo": "Base",
                 "abilita": [
                     "Cristalonda"
-    
                 ],
                 "url": "https://media.pokemoncentral.it/wiki/thumb/b/b1/SuicuneNeoRevelation27.jpg/180px-SuicuneNeoRevelation27.jpg"
             },
@@ -4454,7 +4099,6 @@
                 "stadio_evolutivo": "Fase 1",
                 "abilita": [
                     "Luce Abbagliante"
-    
                 ],
                 "url": "https://media.pokemoncentral.it/wiki/thumb/4/4a/LanturnNeoRevelation32.jpg/180px-LanturnNeoRevelation32.jpg"
             },
@@ -4649,7 +4293,6 @@
                 "stadio_evolutivo": "Nessuno",
                 "abilita": [
                     "Tiratore Scelto"
-    
                 ],
                 "url": "https://media.pokemoncentral.it/wiki/thumb/2/21/RemoraidNeoRevelation50.jpg/180px-RemoraidNeoRevelation50.jpg"
             },
@@ -8288,6 +7931,1382 @@
         ]
     },
     {
+        "numeroSet": "11",
+        "nomeSet": "Skyridge",
+        "annoUscita": "2003",
+        "realizzatoDa": "Sebastiano Soave",
+        "figurine": [
+            {
+                "numero": "0142",
+                "progressivo": "1/144",
+                "nome": "Aerodactyl",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Vento Antico",
+                    "Elevazione"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/d3/AerodactylSkyridge1.jpg/180px-AerodactylSkyridge1.jpg"
+            },
+            {
+                "numero": "0065",
+                "progressivo": "2/144",
+                "nome": "Alakazam",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Salto Energetico",
+                    "Psichico"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/6c/AlakazamSkyridgeH1.jpg/180px-AlakazamSkyridgeH1.jpg"
+            },
+            {
+                "numero": "0059",
+                "progressivo": "3/144",
+                "nome": "Arcanine",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Ricarica Energia",
+                    "Agitazione",
+                    "Fiamme Bianche"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/27/ArcanineSkyridge3.jpg/180px-ArcanineSkyridge3.jpg"
+            },
+            {
+                "numero": "0144",
+                "progressivo": "4/144",
+                "nome": "Articuno",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Idroimmunità",
+                    "Gelosolido",
+                    "Ciclone di Ghiaccio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/08/ArticunoSkyridge4.jpg/180px-ArticunoSkyridge4.jpg"
+            },
+            {
+                "numero": "0015",
+                "progressivo": "5/144",
+                "nome": "Beedrill",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Spray Velenoso",
+                    "Agoraffica"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5a/BeedrillSkyridge5.jpg/180px-BeedrillSkyridge5.jpg"
+            },
+            {
+                "numero": "0169",
+                "progressivo": "6/144",
+                "nome": "Crobat",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Porta Via",
+                    "Doppia Tormento"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/7d/CrobatSkyridge6.jpg/180px-CrobatSkyridge6.jpg"
+            },
+            {
+                "numero": "0087",
+                "progressivo": "7/144",
+                "nome": "Dewgong",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Gelo Presa",
+                    "Ghiaccio Stritolante"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/71/DewgongSkyridge7.jpg/180px-DewgongSkyridge7.jpg"
+            },
+            {
+                "numero": "0136",
+                "progressivo": "8/144",
+                "nome": "Flareon",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Automedicazione",
+                    "Scottata",
+                    "Amplifica Ustione"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/ca/FlareonSkyridge8.jpg/180px-FlareonSkyridge8.jpg"
+            },
+            {
+                "numero": "0205",
+                "progressivo": "9/144",
+                "nome": "Forretress",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Colpo Rotante",
+                    "Scheggiabomba"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/b6/ForretressSkyridge9.png/180px-ForretressSkyridge9.png"
+            },
+            {
+                "numero": "0094",
+                "progressivo": "10/144",
+                "nome": "Gengar",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Manipolazioni",
+                    "Idrocinesi"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/e9/GengarSkyridge10.jpg/180px-GengarSkyridge10.jpg"
+            },
+            {
+                "numero": "0130",
+                "progressivo": "11/144",
+                "nome": "Gyarados",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Vapore Fiammeggiante",
+                    "Dragovendetta"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/0b/GyaradosSkyridge11.jpg/180px-GyaradosSkyridge11.jpg"
+            },
+            {
+                "numero": "0229",
+                "progressivo": "12/144",
+                "nome": "Houndoom",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Imboscata",
+                    "Zanna Solitaria"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/3c/HoundoomSkyridge12.jpg/180px-HoundoomSkyridge12.jpg"
+            },
+            {
+                "numero": "0135",
+                "progressivo": "13/144",
+                "nome": "Jolteon",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Automedicazione",
+                    "Scintilla di Tuono",
+                    "Tuonoshock"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/ac/JolteonSkyridge13.jpg/180px-JolteonSkyridge13.jpg"
+            },
+            {
+                "numero": "0141",
+                "progressivo": "14/144",
+                "nome": "Kabutops",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Aura Primitiva",
+                    "Doppiotaglio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/45/KabutopsSkyridge14.jpg/180px-KabutopsSkyridge14.jpg"
+            },
+            {
+                "numero": "0166",
+                "progressivo": "15/144",
+                "nome": "Ledian",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Scudo Polline",
+                    "Comete"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/39/LedianSkyridge15.jpg/180px-LedianSkyridge15.jpg"
+            },
+            {
+                "numero": "0068",
+                "progressivo": "16/144",
+                "nome": "Machamp",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Immunità",
+                    "Trascinato via",
+                    "Pugno-Uragano"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/47/MachampSkyridge16.jpg/180px-MachampSkyridge16.jpg"
+            },
+            {
+                "numero": "0219",
+                "progressivo": "17/144",
+                "nome": "Magcargo",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Eruzione",
+                    "Correnti di Fuoco"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/aa/MagcargoSkyridge18.jpg/180px-MagcargoSkyridge18.jpg"
+            },
+            {
+                "numero": "0219",
+                "progressivo": "18/144",
+                "nome": "Magcargo",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Colata di Lava",
+                    "Lava Inarrestabile"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/aa/MagcargoSkyridge18.jpg/180px-MagcargoSkyridge18.jpg"
+            },
+            {
+                "numero": "0082",
+                "progressivo": "19/144",
+                "nome": "Magneton",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Attira Energia",
+                    "Elettroesplosione"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/02/MagnetonSkyridge19.jpg/270px-MagnetonSkyridge19.jpg"
+            },
+            {
+                "numero": "0082",
+                "progressivo": "20/144",
+                "nome": "Magneton",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Rimbalzo",
+                    "Onda Magnetica"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/df/MagnetonSkyridge20.jpg/270px-MagnetonSkyridge20.jpg"
+            },
+            {
+                "numero": "0146",
+                "progressivo": "21/144",
+                "nome": "Moltres",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Fuocoimmunità",
+                    "Raduna Fuoco",
+                    "Coda Incandescente"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/18/MoltresSkyridge21.jpg/270px-MoltresSkyridge21.jpg"
+            },
+            {
+                "numero": "0031",
+                "progressivo": "22/144",
+                "nome": "Nidoqueen",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Evoluzionatore",
+                    "Doppio-Artiglio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/0d/NidoqueenSkyridge22.jpg/270px-NidoqueenSkyridge22.jpg"
+            },
+            {
+                "numero": "0139",
+                "progressivo": "23/144",
+                "nome": "Omastar",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Sguardo Primitivo",
+                    "Spettro"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/69/OmastarSkyridge23.jpg/180px-OmastarSkyridge23.jpg"
+            },
+            {
+                "numero": "0221",
+                "progressivo": "24/144",
+                "nome": "Piloswine",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Alito Congelante",
+                    "Spallata"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/b4/PiloswineSkyridge24.jpg/270px-PiloswineSkyridge24.jpg"
+            },
+            {
+                "numero": "0186",
+                "progressivo": "25/144",
+                "nome": "Politoed",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Crescita Improvvisa",
+                    "Ranabalzo",
+                    "Spruzza Energia"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a5/PolitoedSkyridge25.jpg/270px-PolitoedSkyridge25.jpg"
+            },
+            {
+                "numero": "0062",
+                "progressivo": "26/144",
+                "nome": "Poliwrath",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Strana-Spirale",
+                    "Spiralpugno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a4/PoliwrathSkyridge26.png/270px-PoliwrathSkyridge26.png"
+            },
+            {
+                "numero": "0026",
+                "progressivo": "27/144",
+                "nome": "Raichu",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Zzzap",
+                    "Tempesta di Lampi"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/e3/RaichuSkyridge27.jpg/270px-RaichuSkyridge27.jpg"
+            },
+            {
+                "numero": "0243",
+                "progressivo": "28/144",
+                "nome": "Raikou",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Sostanza Pura",
+                    "Lamposfera"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/c8/RaikouSkyridge28.jpg/270px-RaikouSkyridge28.jpg"
+            },
+            {
+                "numero": "0112",
+                "progressivo": "29/144",
+                "nome": "Rhydon",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Pestone",
+                    "Gigacoda"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/46/RhydonSkyridge29.jpg/270px-RhydonSkyridge29.jpg"
+            },
+            {
+                "numero": "0121",
+                "progressivo": "30/144",
+                "nome": "Starmie",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Vampata di Energia",
+                    "Schiena Stella"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/d2/StarmieSkyridge30.jpg/270px-StarmieSkyridge30.jpg"
+            },
+            {
+                "numero": "0208",
+                "progressivo": "31/144",
+                "nome": "Steelix",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Metallo Raro",
+                    "Stritolamento",
+                    "Coda Metallica"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/68/SteelixSkyridge31.jpg/270px-SteelixSkyridge31.jpg"
+            },
+            {
+                "numero": "0197",
+                "progressivo": "32/144",
+                "nome": "Umbreon",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Sguardo Oscuro",
+                    "Artigli Affilati"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/65/UmbreonSkyridge32.png/270px-UmbreonSkyridge32.png"
+            },
+            {
+                "numero": "0134",
+                "progressivo": "33/144",
+                "nome": "Vaporeon",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Automedicazione",
+                    "Ipnospruzzo",
+                    "Giochi d'Acqua"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/25/VaporeonSkyridge33.jpg/270px-VaporeonSkyridge33.jpg"
+            },
+            {
+                "numero": "0040",
+                "progressivo": "34/144",
+                "nome": "Wigglytuff",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Buon Vicinato",
+                    "Fare la Ola"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/48/WigglytuffSkyridge34.png/270px-WigglytuffSkyridge34.png"
+            },
+            {
+                "numero": "0178",
+                "progressivo": "35/144",
+                "nome": "Xatu",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Sincronismo",
+                    "Distorsione"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/46/XatuSkyridge35.jpg/270px-XatuSkyridge35.jpg"
+            },
+            {
+                "numero": "0101",
+                "progressivo": "36/144",
+                "nome": "Electrode",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Plasma",
+                    "Autodistruzione"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/2c/ElectrodeSkyridge36.jpg/270px-ElectrodeSkyridge36.jpg"
+            },
+            {
+                "numero": "0140",
+                "progressivo": "37/144",
+                "nome": "Kabuto",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Gusciospesso",
+                    "Graffio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/74/KabutoSkyridge37.jpg/270px-KabutoSkyridge37.jpg"
+            },
+            {
+                "numero": "0067",
+                "progressivo": "38/144",
+                "nome": "Machoke",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Energia Concentrata",
+                    "Megapugno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/5/53/MachokeSkyridge38.jpg/270px-MachokeSkyridge38.jpg"
+            },
+            {
+                "numero": "0200",
+                "progressivo": "39/144",
+                "nome": "Misdreavus",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Ipnobotta",
+                    "Ripicca"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/df/MisdreavusSkyridge39.jpg/270px-MisdreavusSkyridge39.jpg"
+            },
+            {
+                "numero": "0164",
+                "progressivo": "40/144",
+                "nome": "Noctowl",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Investigare",
+                    "Tripla Schiacciata"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/3b/NoctowlSkyridge40.jpg/270px-NoctowlSkyridge40.jpg"
+            },
+            {
+                "numero": "0138",
+                "progressivo": "41/144",
+                "nome": "Omanyte",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Acqua dell'Evoluzione",
+                    "Trascinato via"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f6/OmanyteSkyridge41.jpg/270px-OmanyteSkyridge41.jpg"
+            },
+            {
+                "numero": "0053",
+                "progressivo": "42/144",
+                "nome": "Persian",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Fendente a Sorpresa",
+                    "Affondo"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/21/PersianSkyridge42.jpg/180px-PersianSkyridge42.jpg"
+            },
+            {
+                "numero": "0221",
+                "progressivo": "43/144",
+                "nome": "Piloswine",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Zanne Acuminate",
+                    "Carica Inarrestabile"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/17/PiloswineSkyridge43.jpg/270px-PiloswineSkyridge43.jpg"
+            },
+            {
+                "numero": "0121",
+                "progressivo": "44/144",
+                "nome": "Starmie",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Pistolacqua",
+                    "Estroflessione"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/01/StarmieSkyridge44.jpg/180px-StarmieSkyridge44.jpg"
+            },
+            {
+                "numero": "0202",
+                "progressivo": "45/144",
+                "nome": "Wobbuffet",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Specchiovelo",
+                    "Ritornattacco"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/66/WobbuffetSkyridge45.jpg/270px-WobbuffetSkyridge45.jpg"
+            },
+            {
+                "numero": "0063",
+                "progressivo": "46/144",
+                "nome": "Abra",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Psicoflusso",
+                    "Bottintesta"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/01/StarmieSkyridge44.jpg/180px-StarmieSkyridge44.jpg"
+            },
+            {
+                "numero": "0063",
+                "progressivo": "46/144",
+                "nome": "Abra",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Psicoflusso",
+                    "Bottintesta"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/66/AbraSkyridge46.jpg/270px-AbraSkyridge46.jpg"
+            },
+            {
+                "numero": "0173",
+                "progressivo": "48/144",
+                "nome": "Cleffa",
+                "stadio_evolutivo": "",
+                "abilita": [
+                    "Ricicla Energia"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/e7/CleffaSkyridge48.jpg/270px-CleffaSkyridge48.jpg"
+            },
+            {
+                "numero": "0225",
+                "progressivo": "49/144",
+                "nome": "Delibird",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Piccola Consegna",
+                    "Scalcia Via"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/6b/DelibirdSkyridge49.jpg/180px-DelibirdSkyridge49.jpg"
+            },
+            {
+                "numero": "0050",
+                "progressivo": "50/144",
+                "nome": "Diglett",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Tana"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/ae/DiglettSkyridge50.jpg/180px-DiglettSkyridge50.jpg"
+            },
+            {
+                "numero": "0132",
+                "progressivo": "51/144",
+                "nome": "Ditto",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Corpo Prismatico",
+                    "Carta Carbone"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/ab/DittoSkyridge51.jpg/270px-DittoSkyridge51.jpg"
+            },
+            {
+                "numero": "0051",
+                "progressivo": "52/144",
+                "nome": "Dugtrio",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Tana",
+                    "Attacco Sotterraneo"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/ba/DugtrioSkyridge52.jpg/270px-DugtrioSkyridge52.jpg"
+            },
+            {
+                "numero": "0206",
+                "progressivo": "53/144",
+                "nome": "Dunsparce",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Pelle Scivolosa",
+                    "Vibra Coda"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/DunsparceSkyridge53.jpg/270px-DunsparceSkyridge53.jpg"
+            },
+            {
+                "numero": "0133",
+                "progressivo": "54/144",
+                "nome": "Eevee",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Calcio Esplosivo",
+                    "Riduttore"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/41/EeveeSkyridge54.jpg/270px-EeveeSkyridge54.jpg"
+            },
+            {
+                "numero": "0083",
+                "progressivo": "55/144",
+                "nome": "Farfetch'd",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Turbine",
+                    "Porrocarica"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/35/Farfetch%27dSkyridge55.jpg/270px-Farfetch%27dSkyridge55.jpg"
+            },
+            {
+                "numero": "0205",
+                "progressivo": "56/144",
+                "nome": "Forretress",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Esoscheletro",
+                    "Incrinascudo",
+                    "Doppio Effetto"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/68/ForretressSkyridge56.jpg/270px-ForretressSkyridge56.jpg"
+            },
+            {
+                "numero": "0092",
+                "progressivo": "57/144",
+                "nome": "Gastly",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Infestato"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/2a/GastlySkyridge57.jpg/270px-GastlySkyridge57.jpg"
+            },
+            {
+                "numero": "0203",
+                "progressivo": "58/144",
+                "nome": "Girafarig",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Rattoppa Energia",
+                    "Sincroflusso"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/d1/GirafarigSkyridge58.jpg/270px-GirafarigSkyridge58.jpg"
+            },
+            {
+                "numero": "0207",
+                "progressivo": "59/144",
+                "nome": "Gligar",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Morsa di Ferro",
+                    "Pungiglione Affilato"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/22/GligarSkyridge59.jpg/270px-GligarSkyridge59.jpg"
+            },
+            {
+                "numero": "0042",
+                "progressivo": "60/144",
+                "nome": "Golbat",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Ondasuono Tossica",
+                    "Superiorità Numerica"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/e4/GolbatSkyridge60.jpg/270px-GolbatSkyridge60.jpg"
+            },
+            {
+                "numero": "0210",
+                "progressivo": "61/144",
+                "nome": "Granbull",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Attacco Impetuoso",
+                    "Megapugno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/e5/GranbullSkyridge61.jpg/270px-GranbullSkyridge61.jpg"
+            },
+            {
+                "numero": "0058",
+                "progressivo": "62/144",
+                "nome": "Growlithe",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Fiammata",
+                    "Doppiocalcio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/2f/GrowlitheSkyridge62.jpg/270px-GrowlitheSkyridge62.jpg"
+            },
+            {
+                "numero": "0093",
+                "progressivo": "63/144",
+                "nome": "Haunter",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Stordiraggio",
+                    "Mano-Ombra"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/70/HaunterSkyridge63.jpg/270px-HaunterSkyridge63.jpg"
+            },
+            {
+                "numero": "0214",
+                "progressivo": "64/144",
+                "nome": "Heracross",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Lacerazione",
+                    "Corno Infuriato"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/67/HeracrossSkyridge64.jpg/270px-HeracrossSkyridge64.jpg"
+            },
+            {
+                "numero": "0163",
+                "progressivo": "65/144",
+                "nome": "Hoothoot",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Ipnosi",
+                    "Luci Inquietanti"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/47/HoothootSkyridge65.jpg/270px-HoothootSkyridge65.jpg"
+            },
+            {
+                "numero": "0228",
+                "progressivo": "66/144",
+                "nome": "Houndour",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Rappresaglia",
+                    "Fuochi d'Artificio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/d7/HoundourSkyridge66.jpg/270px-HoundourSkyridge66.jpg"
+            },
+            {
+                "numero": "0174",
+                "progressivo": "67/144",
+                "nome": "Igglybuff",
+                "stadio_evolutivo": "",
+                "abilita": [
+                    "Energicura"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/37/IgglybuffSkyridge67.jpg/270px-IgglybuffSkyridge67.jpg"
+            },
+            {
+                "numero": "0039",
+                "progressivo": "68/144",
+                "nome": "Jigglypuff",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Pausa",
+                    "Nina nanna"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/aa/JigglypuffSkyridge68.jpg/270px-JigglypuffSkyridge68.jpg"
+            },
+            {
+                "numero": "0064",
+                "progressivo": "69/144",
+                "nome": "Kadabra",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Shock Mentale",
+                    "Incubo"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/cf/KadabraSkyridge69.jpg/270px-KadabraSkyridge69.jpg"
+            },
+            {
+                "numero": "0014",
+                "progressivo": "70/144",
+                "nome": "Kakuna",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Esoscheletro",
+                    "Velenpolvere"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/2/2b/KakunaSkyridge70.jpg"
+            },
+            {
+                "numero": "0131",
+                "progressivo": "71/144",
+                "nome": "Lapras",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Sostegno",
+                    "Ipnobotta"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a8/LaprasSkyridge71.jpg/270px-LaprasSkyridge71.jpg"
+            },
+            {
+                "numero": "0165",
+                "progressivo": "72/144",
+                "nome": "Ledyba",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Piagnucolone",
+                    "Virasvelto"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f4/LedybaSkyridge72.jpg/180px-LedybaSkyridge72.jpg"
+            },
+            {
+                "numero": "0165",
+                "progressivo": "73/144",
+                "nome": "Ledyba",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Rosicchiamento",
+                    "Schianto"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5c/LedybaSkyridge73.jpg/270px-LedybaSkyridge73.jpg"
+            },
+            {
+                "numero": "0066",
+                "progressivo": "74/144",
+                "nome": "Machop",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Pugno Esplosivo",
+                    "Attacco Impetuoso"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fb/MachopSkyridge74.jpg/180px-MachopSkyridge74.jpg"
+            },
+            {
+                "numero": "0129",
+                "progressivo": "75/144",
+                "nome": "Magikarp",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Segni dell'Evoluzione",
+                    "Splash"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/30/MagikarpSkyridge75.jpg/270px-MagikarpSkyridge75.jpg"
+            },
+            {
+                "numero": "0081",
+                "progressivo": "76/144",
+                "nome": "Magnemite",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Tuononda",
+                    "Catena Magnetica"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/fd/MagnemiteSkyridge76.jpg/270px-MagnemiteSkyridge76.jpg"
+            },
+            {
+                "numero": "0226",
+                "progressivo": "77/144",
+                "nome": "Mantine",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Pinnaschiaffo",
+                    "Idrosuono"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/b5/MantineSkyridge77.jpg/270px-MantineSkyridge77.jpg"
+            },
+            {
+                "numero": "0052",
+                "progressivo": "78/144",
+                "nome": "Meowth",
+                "stadio_evolutivo": "",
+                "abilita": [
+                    "Colpo Improvviso"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/d5/MeowthSkyridge78.jpg/270px-MeowthSkyridge78.jpg"
+            },
+            {
+                "numero": "0198",
+                "progressivo": "79/144",
+                "nome": "Murkrow",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Occhio Diabolico",
+                    "Zona Cieca"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/47/MurkrowSkyridge79.jpg/270px-MurkrowSkyridge79.jpg"
+            },
+            {
+                "numero": "0177",
+                "progressivo": "80/144",
+                "nome": "Natu",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Preveggenza",
+                    "Rimuoviraggio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f4/NatuSkyridge80.jpg/270px-NatuSkyridge80.jpg"
+            },
+            {
+                "numero": "0029",
+                "progressivo": "81/144",
+                "nome": "Nidoran\u2640",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Cerca Famiglia",
+                    "Graffio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a5/NidoranSkyridge81.jpg/180px-NidoranSkyridge81.jpg"
+            },
+            {
+                "numero": "0029",
+                "progressivo": "82/144",
+                "nome": "Nidoran\u2640",
+                "stadio_evolutivo": "",
+                "abilita": [
+                    "Velenospina"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/76/NidoranSkyridge82.jpg/180px-NidoranSkyridge82.jpg"
+            },
+            {
+                "numero": "0030",
+                "progressivo": "83/144",
+                "nome": "Nidorina",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Azione",
+                    "Artigli Velenosi"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/ee/NidorinaSkyridge83.jpg/270px-NidorinaSkyridge83.jpg"
+            },
+            {
+                "numero": "0025",
+                "progressivo": "84/144",
+                "nome": "Pikachu",
+                "stadio_evolutivo": "",
+                "abilita": [
+                    "Massimo Voltaggio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f2/PikachuSkyridge84.jpg/180px-PikachuSkyridge84.jpg"
+            },
+            {
+                "numero": "0204",
+                "progressivo": "85/144",
+                "nome": "Pineco",
+                "stadio_evolutivo": "",
+                "abilita": [
+                    "Attacco a sorpresa "
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/cb/PinecoSkyridge85.jpg/270px-PinecoSkyridge85.jpg"
+            },
+            {
+                "numero": "0204",
+                "progressivo": "86/144",
+                "nome": "Pineco",
+                "stadio_evolutivo": "",
+                "abilita": [
+                    "Sdoppiatore"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/e8/PinecoSkyridge86.jpg/270px-PinecoSkyridge86.jpg"
+            },
+            {
+                "numero": "0060",
+                "progressivo": "87/144",
+                "nome": "Poliwag",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Sonnobolla",
+                    "Doppiasberla"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/06/PoliwagSkyridge87.png/270px-PoliwagSkyridge87.png"
+            },
+            {
+                "numero": "0061",
+                "progressivo": "88/144",
+                "nome": "Poliwhirl",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Rigirare",
+                    "Doppiocalcio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/3/37/PoliwhirlSkyridge88.jpg/270px-PoliwhirlSkyridge88.jpg"
+            },
+            {
+                "numero": "0020",
+                "progressivo": "89/144",
+                "nome": "Raticate",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Graffio",
+                    "Morso Continuo"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/e8/RaticateSkyridge89.jpg/270px-RaticateSkyridge89.jpg"
+            },
+            {
+                "numero": "0019",
+                "progressivo": "90/144",
+                "nome": "Rattata",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Cerca Amici",
+                    "Body Slam"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f2/PikachuSkyridge84.jpg/180px-PikachuSkyridge84.jpg"
+            },
+            {
+                "numero": "0111",
+                "progressivo": "91/144",
+                "nome": "Rhyhorn",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Incornata",
+                    "Rappresaglia"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/d/d1/RhyhornSkyridge91.jpg/270px-RhyhornSkyridge91.jpg"
+            },
+            {
+                "numero": "0027",
+                "progressivo": "92/144",
+                "nome": "Sandshrew",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Doppio Graffio",
+                    "Attacco Sotterraneo"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f9/SandshrewSkyridge92.jpg/270px-SandshrewSkyridge92.jpg"
+            },
+            {
+                "numero": "0028",
+                "progressivo": "93/144",
+                "nome": "Sandslash",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Sabbiatrappola",
+                    "Agoraffica Tossica"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/1f/SandslashSkyridge93.jpg/180px-SandslashSkyridge93.jpg"
+            },
+            {
+                "numero": "0086",
+                "progressivo": "94/144",
+                "nome": "Seel",
+                "stadio_evolutivo": "",
+                "abilita": [
+                    "Alito Ibernante"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/5/51/SeelSkyridge94.jpg/270px-SeelSkyridge94.jpg"
+            },
+            {
+                "numero": "0086",
+                "progressivo": "95/144",
+                "nome": "Seel",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Doppia Bottintesta",
+                    "Geloraggio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/cb/SeelSkyridge95.jpg/270px-SeelSkyridge95.jpg"
+            },
+            {
+                "numero": "0213",
+                "progressivo": "96/144",
+                "nome": "Shuckle",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Corpo Vaso",
+                    "Saliva Venefica"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/c2/ShuckleSkyridge96.jpg/270px-ShuckleSkyridge96.jpg"
+            },
+            {
+                "numero": "0227",
+                "progressivo": "97/144",
+                "nome": "Skarmory",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Doppia Beccata",
+                    "Giramenti di Testa"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f8/SkarmorySkyridge97.jpg/270px-SkarmorySkyridge97.jpg"
+            },
+            {
+                "numero": "0218",
+                "progressivo": "98/144",
+                "nome": "Slugma",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Azione",
+                    "Lava Ardente"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/5/58/SlugmaSkyridge98.jpg/270px-SlugmaSkyridge98.jpg"
+            },
+            {
+                "numero": "0218",
+                "progressivo": "99/144",
+                "nome": "Slugma",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Scottata"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/b8/SlugmaSkyridge99.jpg/270px-SlugmaSkyridge99.jpg"
+            },
+            {
+                "numero": "0143",
+                "progressivo": "100/144",
+                "nome": "Snorlax",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Ciondolare",
+                    "Capriole"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/f/f7/SnorlaxSkyridge100.jpg/270px-SnorlaxSkyridge100.jpg"
+            },
+            {
+                "numero": "0209",
+                "progressivo": "101/144",
+                "nome": "Snubbull",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Visotruce",
+                    "Morso"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/6c/SnubbullSkyridge101.jpg/270px-SnubbullSkyridge101.jpg"
+            },
+            {
+                "numero": "0234",
+                "progressivo": "102/144",
+                "nome": "Stantler",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Minaccia",
+                    "Colpo Ramificato"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/b8/StantlerSkyridge102.jpg/270px-StantlerSkyridge102.jpg"
+            },
+            {
+                "numero": "0120",
+                "progressivo": "103/144",
+                "nome": "Staryu",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Energia Curante",
+                    "Doppiasberla"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/c4/StaryuSkyridge103.jpg/270px-StaryuSkyridge103.jpg"
+            },
+            {
+                "numero": "0120",
+                "progressivo": "104/144",
+                "nome": "Staryu",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Sberla",
+                    "Stordiraggio"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/e/e7/StaryuSkyridge104.jpg/270px-StaryuSkyridge104.jpg"
+            },
+            {
+                "numero": "0192",
+                "progressivo": "105/144",
+                "nome": "Sunflora",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Centrale Elettrica",
+                    "Sgambetto"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/7/73/SunfloraSkyridge105.jpg/270px-SunfloraSkyridge105.jpg"
+            },
+            {
+                "numero": "0191",
+                "progressivo": "106/144",
+                "nome": "Sunkern",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Rotolamento",
+                    "Macchia"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/23/SunkernSkyridge106.jpg/270px-SunkernSkyridge106.jpg"
+            },
+            {
+                "numero": "0220",
+                "progressivo": "107/144",
+                "nome": "Swinub",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Carica",
+                    "Alito Congelante"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/60/SwinubSkyridge107.jpg/270px-SwinubSkyridge107.jpg"
+            },
+            {
+                "numero": "0220",
+                "progressivo": "108/144",
+                "nome": "Swinub",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Fangosberla",
+                    "Oltrepassare"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a5/SwinubSkyridge108.jpg/270px-SwinubSkyridge108.jpg"
+            },
+            {
+                "numero": "0216",
+                "progressivo": "109/144",
+                "nome": "Teddiursa",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Attacco a sorpresa",
+                    "Ira"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/2a/TeddiursaSkyridge109.jpg/270px-TeddiursaSkyridge109.jpg"
+            },
+            {
+                "numero": "0217",
+                "progressivo": "110/144",
+                "nome": "Ursaring",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Presa dell'Orso",
+                    "Infierire"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/2/23/SunkernSkyridge106.jpg/180px-SunkernSkyridge106.jpg"
+            },
+            {
+                "numero": "0049",
+                "progressivo": "111/144",
+                "nome": "Venomoth",
+                "stadio_evolutivo": "Fase 1",
+                "abilita": [
+                    "Polvere Curativa",
+                    "Polvere Miracolosa"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/18/VenomothSkyridge111.jpg/270px-VenomothSkyridge111.jpg"
+            },
+            {
+                "numero": "0048",
+                "progressivo": "112/144",
+                "nome": "Venonat",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Doppio Effetto",
+                    "Supersonico"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/ba/VenonatSkyridge112.jpg/270px-VenonatSkyridge112.jpg"
+            },
+            {
+                "numero": "0100",
+                "progressivo": "113/144",
+                "nome": "Voltorb",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Forza Magnetica",
+                    "Effettazione"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/c/c3/VoltorbSkyridge113.png/270px-VoltorbSkyridge113.png"
+            },
+            {
+                "numero": "0013",
+                "progressivo": "114/144",
+                "nome": "Weedle",
+                "stadio_evolutivo": "",
+                "abilita": [
+                    "Furia"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/0/05/WeedleSkyridge114.jpg/270px-WeedleSkyridge114.jpg"
+            },
+            {
+                "numero": "0013",
+                "progressivo": "115/144",
+                "nome": "Weedle",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Filamento Vischioso",
+                    "Velencorno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/1/13/WeedleSkyridge115.jpg/270px-WeedleSkyridge115.jpg"
+            },
+            {
+                "numero": "0193",
+                "progressivo": "116/144",
+                "nome": "Yanma",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Agilit\u00e0",
+                    "Tripla Schiacciata"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/a/ab/YanmaSkyridge116.jpg/270px-YanmaSkyridge116.jpg"
+            },
+            {
+                "numero": "0041",
+                "progressivo": "117/144",
+                "nome": "Zubat",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Suononda",
+                    "Svolazzo"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/42/ZubatSkyridge117.jpg/270px-ZubatSkyridge117.jpg"
+            },
+            {
+                "numero": "0041",
+                "progressivo": "118/144",
+                "nome": "Zubat",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Attacco d'Ala",
+                    "Nebulizza Veleno"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/9/99/ZubatSkyridge118.jpg"
+            },
+            {
+                "numero": "0251",
+                "progressivo": "145/144",
+                "nome": "Celebi",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Tipo Cristallino",
+                    "Cura Empatica",
+                    "Fusione Mentale"
+                ],
+                "url": "hhttps://media.pokemoncentral.it/wiki/thumb/1/18/CelebiSkyridge145.png/270px-CelebiSkyridge145.png"
+            },
+            {
+                "numero": "0006",
+                "progressivo": "146/144",
+                "nome": "Charizard",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Tipo Cristallino",
+                    "Fuocobomba",
+                    "Coda di Drago"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/66/CharizardSkyridge146.jpg/270px-CharizardSkyridge146.jpg"
+            },
+            {
+                "numero": "0169",
+                "progressivo": "147/144",
+                "nome": "Crobat",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Tipo Cristallino",
+                    "Velenfiamma",
+                    "Attacco Persuasivo"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/8/80/CrobatSkyridge147.jpg/270px-CrobatSkyridge147.jpg"
+            },
+            {
+                "numero": "0076",
+                "progressivo": "148/144",
+                "nome": "Golem",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Tipo Cristallino",
+                    "Sassata",
+                    "Terrabomba"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/4/44/GolemSkyridge148.jpg/270px-GolemSkyridge148.jpg"
+            },
+            {
+                "numero": "0250",
+                "progressivo": "149/144Ho-",
+                "nome": "Oh",
+                "stadio_evolutivo": "Base",
+                "abilita": [
+                    "Tipo Cristallino",
+                    "Sacrafiamma",
+                    "Vapore Bollente"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/b/ba/Ho-OhSkyridge149.jpg/270px-Ho-OhSkyridge149.jpg"
+            },
+            {
+                "numero": "0141",
+                "progressivo": "150/144",
+                "nome": "Kabutops",
+                "stadio_evolutivo": "Fase 2",
+                "abilita": [
+                    "Tipo Cristallino",
+                    "Drenaggio",
+                    "Trancia Tripla"
+                ],
+                "url": "https://media.pokemoncentral.it/wiki/thumb/6/61/KabutopsSkyridge150.jpg/270px-KabutopsSkyridge150.jpg"
+            }
+        ]
+    },
+    {
         "numeroSet": "12",
         "nomeSet": "Ex Rubino e Zaffiro",
         "annoUscita": "2003",
@@ -10557,365 +11576,13 @@
         ]
     },
     {
-    "numeroSet": "15",
-    "nomeSet": "EX Team Magma vs Team Idro",
-    "annoUscita": "2005",
-    "realizzatoDa": "Vaschetto Emanuale",
-    "figurine": [
+        "numeroSet": "15",
+        "nomeSet": "EX Team Magma vs Team Idro",
+        "annoUscita": "2005",
+        "realizzatoDa": "Vaschetto Emanuale",
+        "figurine": [
             {
-                "numero": "181",
-                "progressivo": "H1/H32",
-                "nome": "Ampharos",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/e/ea/AmpharosAquapolis1.jpg/180px-AmpharosAquapolis1.jpg",
-                "abilita": [
-                    "Tuonoshock",
-                    "Rifletti Energia"
-                ]
-            },
-            {
-                "numero": "059",
-                "progressivo": "H2/H32",
-                "nome": "Arcanine",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/42/ArcanineAquapolis2.jpg/180px-ArcanineAquapolis2.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "168",
-                "progressivo": "H3/H32",
-                "nome": "Ariados",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5a/AriadosAquapolis3.jpg/180px-AriadosAquapolis3.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "184",
-                "progressivo": "H4/H32",
-                "nome": "Azumarill",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a0/AzumarillAquapolis4.jpg/180px-AzumarillAquapolis4.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "182",
-                "progressivo": "H5/H32",
-                "nome": "Bellossom",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5a/BellossomAquapolis5.jpg/180px-BellossomAquapolis5.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "242",
-                "progressivo": "H6/H32",
-                "nome": "Blissey",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5a/BellossomAquapolis5.jpg/180px-BellossomAquapolis5.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "101",
-                "progressivo": "H7/H32",
-                "nome": "Electrode",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5a/BellossomAquapolis5.jpg/180px-BellossomAquapolis5.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "244",
-                "progressivo": "H8/H32",
-                "nome": "Entei",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/0/07/EnteiAquapolis10.jpg/180px-EnteiAquapolis10.jpg",
-                "abilita": [
-                    "Extrarapido",
-                    "Vento Infuocato"
-                ]
-            },
-            {
-                "numero": "196",
-                "progressivo": "H9/H32",
-                "nome": "Espeon",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/0/07/EnteiAquapolis10.jpg/180px-EnteiAquapolis10.jpg",
-                "abilita": [
-                    "Ritorno di Energia",
-                    "Influsso Dannoso"
-                ]
-            },
-            {
-                "numero": "103",
-                "progressivo": "H10/H32",
-                "nome": "Exeggutor",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/0/07/EnteiAquapolis10.jpg/180px-EnteiAquapolis10.jpg",
-                "abilita": [
-                    "Super Ovosplosione",
-                    "Colpo annunciato"
-                ]
-            },
-            {
-                "numero": "229",
-                "progressivo": "H11/H32",
-                "nome": "Houndoom",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/0/07/EnteiAquapolis10.jpg/180px-EnteiAquapolis10.jpg",
-                "abilita": [
-                    "Super Ovosplosione",
-                    "Colpo annunciato"
-                ]
-            },
-            {
-                "numero": "097",
-                "progressivo": "H12/H32",
-                "nome": "Hypno",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/8f/HypnoAquapolisH12.jpg/180px-HypnoAquapolisH12.jpg",
-                "abilita": [
-                    "Super Ovosplosione",
-                    "Colpo annunciato"
-                ]
-            },
-            {
-                "numero": "189",
-                "progressivo": "H13/H32",
-                "nome": "Jumpluff",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/87/JumpluffAquapolis17.jpg/180px-JumpluffAquapolis17.jpg",
-                "abilita": [
-                    "Super Ovosplosione",
-                    "Colpo annunciato"
-                ]
-            },
-            {
-                "numero": "230",
-                "progressivo": "H14/H32",
-                "nome": "Kingdra",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/87/JumpluffAquapolis17.jpg/180px-JumpluffAquapolis17.jpg",
-                "abilita": [
-                    "Super Ovosplosione",
-                    "Colpo annunciato"
-                ]
-            },
-            {
-                "numero": "171",
-                "progressivo": "H15/H32",
-                "nome": "Lanturn",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/87/JumpluffAquapolis17.jpg/180px-JumpluffAquapolis17.jpg",
-                "abilita": [
-                    "Super Ovosplosione",
-                    "Colpo annunciato"
-                ]
-            },
-            {
-                "numero": "082",
-                "progressivo": "H16/H32",
-                "nome": "Magneton",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/87/JumpluffAquapolis17.jpg/180px-JumpluffAquapolis17.jpg",
-                "abilita": [
-                    "Flusso Magnetico",
-                    "Ondacciao"
-                ]
-            },
-            {
-                "numero": "089",
-                "progressivo": "H17/H32",
-                "nome": "Muk",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/87/JumpluffAquapolis17.jpg/180px-JumpluffAquapolis17.jpg",
-                "abilita": [
-                    "Flusso Magnetico",
-                    "Ondacciao"
-                ]
-            },
-            {
-                "numero": "034",
-                "progressivo": "H18/H32",
-                "nome": "Nidoking",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/2/2a/NidokingAquapolis24.jpg/180px-NidokingAquapolis24.jpg",
-                "abilita": [
-                    "Scuotiterra",
-                    "Gigacorno"
-                ]
-            },
-            {
-                "numero": "038",
-                "progressivo": "H19/H32",
-                "nome": "Ninetales",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/2/2a/NidokingAquapolis24.jpg/180px-NidokingAquapolis24.jpg",
-                "abilita": [
-                    "Scuotiterra",
-                    "Gigacorno"
-                ]
-            },
-            {
-                "numero": "224",
-                "progressivo": "H20/H32",
-                "nome": "Octillery",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/81/OctilleryAquapolisH20.jpg/180px-OctilleryAquapolisH20.jpg",
-                "abilita": [
-                    "Scuotiterra",
-                    "Gigacorno"
-                ]
-            },
-            {
-                "numero": "212",
-                "progressivo": "H21/H32",
-                "nome": "Scizor",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a2/ScizorAquapolisH21.jpg/180px-ScizorAquapolisH21.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "199",
-                "progressivo": "H22/H32",
-                "nome": "Slowking",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/a/a3/SlowkingAquapolisH22.jpg/180px-SlowkingAquapolisH22.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "208",
-                "progressivo": "H23/H32",
-                "nome": "Steelix",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/3/3a/SteelixAquapolisH23.jpg/180px-SteelixAquapolisH23.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "185",
-                "progressivo": "H24/H32",
-                "nome": "Sudowoodo",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/1/13/SudowoodoAquapolisH24.jpg/180px-SudowoodoAquapolisH24.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "245",
-                "progressivo": "H25/H32",
-                "nome": "Suicune",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/4a/SuicuneAquapolis37.jpg/180px-SuicuneAquapolis37.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "073",
-                "progressivo": "H26/H32",
-                "nome": "Tentacruel",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/40/TentacruelAquapolis38.jpg/180px-TentacruelAquapolis38.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "176",
-                "progressivo": "H27/H32",
-                "nome": "Togetic",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/40/TentacruelAquapolis38.jpg/180px-TentacruelAquapolis38.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "248",
-                "progressivo": "H28/H32",
-                "nome": "Tyranitar",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/4/40/TentacruelAquapolis38.jpg/180px-TentacruelAquapolis38.jpg",
-                "abilita": [
-                    "Antiveleno",
-                    "Acchiappa"
-                ]
-            },
-            {
-                "numero": "197",
-                "progressivo": "H29/H32",
-                "nome": "Umbreon",
-                "stadio_evolutivo": "Fase 1",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/8/8b/UmbreonAquapolisH29.jpg/180px-UmbreonAquapolisH29.jpg",
-                "abilita": [
-                    "Luna Nera",
-                    "Legami d'Ombra"
-                ]
-            },
-            {
-                "numero": "071",
-                "progressivo": "H30/H32",
-                "nome": "Victreebel",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/7/78/VictreebelAquapolisH30.jpg/180px-VictreebelAquapolisH30.jpg",
-                "abilita": [
-                    "Luna Nera",
-                    "Legami d'Ombra"
-                ]
-            },
-            {
-                "numero": "045",
-                "progressivo": "H31/H32",
-                "nome": "Vileplume",
-                "stadio_evolutivo": "Fase 2",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5e/VileplumeAquapolisH31.jpg/180px-VileplumeAquapolisH31.jpg",
-                "abilita": [
-                    "Velenessenza",
-                    "Stordipolline"
-                ]
-            },
-            {
-                "numero": "145",
-                "progressivo": "H32/H32",
-                "nome": "Zapdos",
-                "stadio_evolutivo": "Base",
-                "url": "https://media.pokemoncentral.it/wiki/thumb/5/5e/VileplumeAquapolisH31.jpg/180px-VileplumeAquapolisH31.jpg",
-                "abilita": [
-                    "Velenessenza",
-                    "Stordipolline"
-                ]
-            },
-            {
-                "numero": "181",
+                "numero": "0181",
                 "progressivo": "1/147",
                 "nome": "Ampharos",
                 "stadio_evolutivo": "Fase 2",
@@ -10926,7 +11593,7 @@
                 ]
             },
             {
-                "numero": "059",
+                "numero": "0059",
                 "progressivo": "2/147",
                 "nome": "Arcanine",
                 "stadio_evolutivo": "Fase 1",
@@ -10937,7 +11604,7 @@
                 ]
             },
             {
-                "numero": "168",
+                "numero": "0168",
                 "progressivo": "3/147",
                 "nome": "Ariados",
                 "stadio_evolutivo": "Fase 1",
@@ -10948,7 +11615,7 @@
                 ]
             },
             {
-                "numero": "184",
+                "numero": "0184",
                 "progressivo": "4/147",
                 "nome": "Azumarill",
                 "stadio_evolutivo": "Fase 1",
@@ -10959,7 +11626,7 @@
                 ]
             },
             {
-                "numero": "182",
+                "numero": "0182",
                 "progressivo": "5/147",
                 "nome": "Bellossom",
                 "stadio_evolutivo": "Fase 2",
@@ -10970,7 +11637,7 @@
                 ]
             },
             {
-                "numero": "242",
+                "numero": "0242",
                 "progressivo": "6/147",
                 "nome": "Blissey",
                 "stadio_evolutivo": "Fase 1",
@@ -10981,7 +11648,7 @@
                 ]
             },
             {
-                "numero": "232",
+                "numero": "0232",
                 "progressivo": "7/147",
                 "nome": "Donphan",
                 "stadio_evolutivo": "Fase 1",
@@ -10992,7 +11659,7 @@
                 ]
             },
             {
-                "numero": "101",
+                "numero": "0101",
                 "progressivo": "8/147",
                 "nome": "Electrode",
                 "stadio_evolutivo": "Fase 1",
@@ -11003,7 +11670,7 @@
                 ]
             },
             {
-                "numero": "239",
+                "numero": "0239",
                 "progressivo": "9/147",
                 "nome": "Elekid",
                 "stadio_evolutivo": "",
@@ -11014,7 +11681,7 @@
                 ]
             },
             {
-                "numero": "244",
+                "numero": "0244",
                 "progressivo": "10/147",
                 "nome": "Entei",
                 "stadio_evolutivo": "Base",
@@ -11025,7 +11692,7 @@
                 ]
             },
             {
-                "numero": "196",
+                "numero": "0196",
                 "progressivo": "11/147",
                 "nome": "Espeon",
                 "stadio_evolutivo": "Fase 1",
@@ -11036,7 +11703,7 @@
                 ]
             },
             {
-                "numero": "103",
+                "numero": "0103",
                 "progressivo": "12/147",
                 "nome": "Exeggutor",
                 "stadio_evolutivo": "Fase 1",
@@ -11047,7 +11714,7 @@
                 ]
             },
             {
-                "numero": "103",
+                "numero": "0103",
                 "progressivo": "13/147",
                 "nome": "Exeggutor",
                 "stadio_evolutivo": "Fase 1",
@@ -11058,7 +11725,7 @@
                 ]
             },
             {
-                "numero": "229",
+                "numero": "0229",
                 "progressivo": "14/147",
                 "nome": "Houndoom",
                 "stadio_evolutivo": "Fase 1",
@@ -11069,7 +11736,7 @@
                 ]
             },
             {
-                "numero": "229",
+                "numero": "0229",
                 "progressivo": "15/147",
                 "nome": "Houndoom",
                 "stadio_evolutivo": "Fase 1",
@@ -11080,7 +11747,7 @@
                 ]
             },
             {
-                "numero": "097",
+                "numero": "0097",
                 "progressivo": "16/147",
                 "nome": "Hypno",
                 "stadio_evolutivo": "Fase 1",
@@ -11091,7 +11758,7 @@
                 ]
             },
             {
-                "numero": "189",
+                "numero": "0189",
                 "progressivo": "17/147",
                 "nome": "Jumpluff",
                 "stadio_evolutivo": "Fase 2",
@@ -11102,7 +11769,7 @@
                 ]
             },
             {
-                "numero": "124",
+                "numero": "0124",
                 "progressivo": "18/147",
                 "nome": "Jynx",
                 "stadio_evolutivo": "Base",
@@ -11113,7 +11780,7 @@
                 ]
             },
             {
-                "numero": "230",
+                "numero": "0230",
                 "progressivo": "19/147",
                 "nome": "Kingdra",
                 "stadio_evolutivo": "Fase 2",
@@ -11124,7 +11791,7 @@
                 ]
             },
             {
-                "numero": "171",
+                "numero": "0171",
                 "progressivo": "20/147",
                 "nome": "Lanturn",
                 "stadio_evolutivo": "Fase 1",
@@ -11135,7 +11802,7 @@
                 ]
             },
             {
-                "numero": "171",
+                "numero": "0171",
                 "progressivo": "21/147",
                 "nome": "Lanturn",
                 "stadio_evolutivo": "Fase 1",
@@ -11146,7 +11813,7 @@
                 ]
             },
             {
-                "numero": "082",
+                "numero": "0082",
                 "progressivo": "22/147",
                 "nome": "Magneton",
                 "stadio_evolutivo": "Fase 1",
@@ -11157,7 +11824,7 @@
                 ]
             },
             {
-                "numero": "089",
+                "numero": "0089",
                 "progressivo": "23/147",
                 "nome": "Muk",
                 "stadio_evolutivo": "Fase 1",
@@ -11168,7 +11835,7 @@
                 ]
             },
             {
-                "numero": "034",
+                "numero": "0034",
                 "progressivo": "24/147",
                 "nome": "Nidoking",
                 "stadio_evolutivo": "Fase 2",
@@ -11179,7 +11846,7 @@
                 ]
             },
             {
-                "numero": "038",
+                "numero": "0038",
                 "progressivo": "25/147",
                 "nome": "Ninetales",
                 "stadio_evolutivo": "Fase 1",
@@ -11190,7 +11857,7 @@
                 ]
             },
             {
-                "numero": "224",
+                "numero": "0224",
                 "progressivo": "26/147",
                 "nome": "Octillery",
                 "stadio_evolutivo": "Fase 1",
@@ -11201,7 +11868,7 @@
                 ]
             },
             {
-                "numero": "047",
+                "numero": "0047",
                 "progressivo": "27/147",
                 "nome": "Parasect",
                 "stadio_evolutivo": "Fase 1",
@@ -11212,7 +11879,7 @@
                 ]
             },
             {
-                "numero": "233",
+                "numero": "0233",
                 "progressivo": "28/147",
                 "nome": "Porygon2",
                 "stadio_evolutivo": "Fase 1",
@@ -11223,7 +11890,7 @@
                 ]
             },
             {
-                "numero": "057",
+                "numero": "0057",
                 "progressivo": "29/147",
                 "nome": "Primeape",
                 "stadio_evolutivo": "Fase 1",
@@ -11234,7 +11901,7 @@
                 ]
             },
             {
-                "numero": "195",
+                "numero": "0195",
                 "progressivo": "30/147",
                 "nome": "Quagsire",
                 "stadio_evolutivo": "Fase 1",
@@ -11245,7 +11912,7 @@
                 ]
             },
             {
-                "numero": "078",
+                "numero": "0078",
                 "progressivo": "31/147",
                 "nome": "Rapidash",
                 "stadio_evolutivo": "Fase 1",
@@ -11256,7 +11923,7 @@
                 ]
             },
             {
-                "numero": "212",
+                "numero": "0212",
                 "progressivo": "32/147",
                 "nome": "Scizor",
                 "stadio_evolutivo": "Fase 1",
@@ -11267,7 +11934,7 @@
                 ]
             },
             {
-                "numero": "080",
+                "numero": "0080",
                 "progressivo": "33/147",
                 "nome": "Slowbro",
                 "stadio_evolutivo": "Fase 1",
@@ -11278,7 +11945,7 @@
                 ]
             },
             {
-                "numero": "199",
+                "numero": "0199",
                 "progressivo": "34/147",
                 "nome": "Slowking",
                 "stadio_evolutivo": "Fase 1",
@@ -11289,7 +11956,7 @@
                 ]
             },
             {
-                "numero": "208",
+                "numero": "0208",
                 "progressivo": "35/147",
                 "nome": "Steelix",
                 "stadio_evolutivo": "Fase 1",
@@ -11300,7 +11967,7 @@
                 ]
             },
             {
-                "numero": "185",
+                "numero": "0185",
                 "progressivo": "36/147",
                 "nome": "Sudowoodo",
                 "stadio_evolutivo": "Base",
@@ -11311,7 +11978,7 @@
                 ]
             },
             {
-                "numero": "245",
+                "numero": "0245",
                 "progressivo": "37/147",
                 "nome": "Suicune",
                 "stadio_evolutivo": "Base",
@@ -11322,7 +11989,7 @@
                 ]
             },
             {
-                "numero": "073",
+                "numero": "0073",
                 "progressivo": "38/147",
                 "nome": "Tentacruel",
                 "stadio_evolutivo": "Fase 1",
@@ -11333,7 +12000,7 @@
                 ]
             },
             {
-                "numero": "176",
+                "numero": "0176",
                 "progressivo": "39/147",
                 "nome": "Togetic",
                 "stadio_evolutivo": "Fase 1",
@@ -11344,7 +12011,7 @@
                 ]
             },
             {
-                "numero": "248",
+                "numero": "0248",
                 "progressivo": "40/147",
                 "nome": "Tyranitar",
                 "stadio_evolutivo": "Fase 2",
@@ -11355,7 +12022,7 @@
                 ]
             },
             {
-                "numero": "197",
+                "numero": "0197",
                 "progressivo": "41/147",
                 "nome": "Umbreon",
                 "stadio_evolutivo": "Fase 1",
@@ -11366,7 +12033,7 @@
                 ]
             },
             {
-                "numero": "071",
+                "numero": "0071",
                 "progressivo": "42/147",
                 "nome": "Victreebel",
                 "stadio_evolutivo": "Fase 2",
@@ -11377,7 +12044,7 @@
                 ]
             },
             {
-                "numero": "045",
+                "numero": "0045",
                 "progressivo": "43/147",
                 "nome": "Vileplume",
                 "stadio_evolutivo": "Fase 2",
@@ -11388,7 +12055,7 @@
                 ]
             },
             {
-                "numero": "145",
+                "numero": "0145",
                 "progressivo": "44/147",
                 "nome": "Zapdos",
                 "stadio_evolutivo": "Base",
@@ -11399,7 +12066,7 @@
                 ]
             },
             {
-                "numero": "069",
+                "numero": "0069",
                 "progressivo": "45/147",
                 "nome": "Bellsprout",
                 "stadio_evolutivo": "",
@@ -11410,7 +12077,7 @@
                 ]
             },
             {
-                "numero": "085",
+                "numero": "0085",
                 "progressivo": "46/147",
                 "nome": "Dodrio",
                 "stadio_evolutivo": "Fase 1",
@@ -11421,7 +12088,7 @@
                 ]
             },
             {
-                "numero": "180",
+                "numero": "0180",
                 "progressivo": "47/147",
                 "nome": "Flaaffy",
                 "stadio_evolutivo": "Fase 1",
@@ -11432,7 +12099,7 @@
                 ]
             },
             {
-                "numero": "162",
+                "numero": "0162",
                 "progressivo": "48/147",
                 "nome": "Furret",
                 "stadio_evolutivo": "Fase 1",
@@ -11443,7 +12110,7 @@
                 ]
             },
             {
-                "numero": "044",
+                "numero": "0044",
                 "progressivo": "49/147",
                 "nome": "Gloom",
                 "stadio_evolutivo": "Fase 1",
@@ -11454,7 +12121,7 @@
                 ]
             },
             {
-                "numero": "055",
+                "numero": "0055",
                 "progressivo": "50a/147",
                 "nome": "Golduck",
                 "stadio_evolutivo": "Fase 1",
@@ -11465,7 +12132,7 @@
                 ]
             },
             {
-                "numero": "055",
+                "numero": "0055",
                 "progressivo": "50b/147",
                 "nome": "Golduck",
                 "stadio_evolutivo": "Fase 1",
@@ -11476,7 +12143,7 @@
                 ]
             },
             {
-                "numero": "058",
+                "numero": "0058",
                 "progressivo": "51/147",
                 "nome": "Growlithe",
                 "stadio_evolutivo": "Base",
@@ -11487,7 +12154,7 @@
                 ]
             },
             {
-                "numero": "081",
+                "numero": "0081",
                 "progressivo": "52/147",
                 "nome": "Magnemite",
                 "stadio_evolutivo": "Base",
@@ -11498,7 +12165,7 @@
                 ]
             },
             {
-                "numero": "183",
+                "numero": "0183",
                 "progressivo": "53/147",
                 "nome": "Marill",
                 "stadio_evolutivo": "Base",
@@ -11509,7 +12176,7 @@
                 ]
             },
             {
-                "numero": "105",
+                "numero": "0105",
                 "progressivo": "54/147",
                 "nome": "Marowak",
                 "stadio_evolutivo": "Fase 1",
@@ -11520,7 +12187,7 @@
                 ]
             },
             {
-                "numero": "033",
+                "numero": "0033",
                 "progressivo": "55/147",
                 "nome": "Nidorino",
                 "stadio_evolutivo": "Fase 1",
@@ -11531,7 +12198,7 @@
                 ]
             },
             {
-                "numero": "247",
+                "numero": "0247",
                 "progressivo": "56/147",
                 "nome": "Pupitar",
                 "stadio_evolutivo": "Fase 1",
@@ -11542,7 +12209,7 @@
                 ]
             },
             {
-                "numero": "123",
+                "numero": "0123",
                 "progressivo": "57/147",
                 "nome": "Scyther",
                 "stadio_evolutivo": "Base",
@@ -11553,7 +12220,7 @@
                 ]
             },
             {
-                "numero": "117",
+                "numero": "0117",
                 "progressivo": "58/147",
                 "nome": "Seadra",
                 "stadio_evolutivo": "Fase 1",
@@ -11564,7 +12231,7 @@
                 ]
             },
             {
-                "numero": "119",
+                "numero": "0119",
                 "progressivo": "59/147",
                 "nome": "Seaking",
                 "stadio_evolutivo": "Fase 1",
@@ -11575,7 +12242,7 @@
                 ]
             },
             {
-                "numero": "188",
+                "numero": "0188",
                 "progressivo": "60/147",
                 "nome": "Skiploom",
                 "stadio_evolutivo": "Fase 1",
@@ -11586,7 +12253,7 @@
                 ]
             },
             {
-                "numero": "238",
+                "numero": "0238",
                 "progressivo": "61/147",
                 "nome": "Smoochum",
                 "stadio_evolutivo": "Base",
@@ -11597,7 +12264,7 @@
                 ]
             },
             {
-                "numero": "167",
+                "numero": "0167",
                 "progressivo": "62/147",
                 "nome": "Spinarak",
                 "stadio_evolutivo": "Base",
@@ -11608,7 +12275,7 @@
                 ]
             },
             {
-                "numero": "238",
+                "numero": "0238",
                 "progressivo": "63/147",
                 "nome": "Tyrogue",
                 "stadio_evolutivo": "Base",
@@ -11619,7 +12286,7 @@
                 ]
             },
             {
-                "numero": "100",
+                "numero": "0100",
                 "progressivo": "64/147",
                 "nome": "Voltorb",
                 "stadio_evolutivo": "Base",
@@ -11630,7 +12297,7 @@
                 ]
             },
             {
-                "numero": "070",
+                "numero": "0070",
                 "progressivo": "65/147",
                 "nome": "Weepinbell",
                 "stadio_evolutivo": "Fase 1",
@@ -11641,7 +12308,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "66/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -11652,7 +12319,7 @@
                 ]
             },
             {
-                "numero": "190",
+                "numero": "0190",
                 "progressivo": "67/147",
                 "nome": "Aipom",
                 "stadio_evolutivo": "Base",
@@ -11663,7 +12330,7 @@
                 ]
             },
             {
-                "numero": "069",
+                "numero": "0069",
                 "progressivo": "68/147",
                 "nome": "Bellsprout",
                 "stadio_evolutivo": "Base",
@@ -11674,7 +12341,7 @@
                 ]
             },
             {
-                "numero": "113",
+                "numero": "0113",
                 "progressivo": "69/147",
                 "nome": "Chansey",
                 "stadio_evolutivo": "Base",
@@ -11685,7 +12352,7 @@
                 ]
             },
             {
-                "numero": "170",
+                "numero": "0170",
                 "progressivo": "70/147",
                 "nome": "Chinchou",
                 "stadio_evolutivo": "Base",
@@ -11696,7 +12363,7 @@
                 ]
             },
             {
-                "numero": "170",
+                "numero": "0170",
                 "progressivo": "71/147",
                 "nome": "Chinchou",
                 "stadio_evolutivo": "Base",
@@ -11707,7 +12374,7 @@
                 ]
             },
             {
-                "numero": "104",
+                "numero": "0104",
                 "progressivo": "72/147",
                 "nome": "Cubone",
                 "stadio_evolutivo": "Base",
@@ -11718,7 +12385,7 @@
                 ]
             },
             {
-                "numero": "084",
+                "numero": "0084",
                 "progressivo": "73/147",
                 "nome": "Doduo",
                 "stadio_evolutivo": "Base",
@@ -11729,7 +12396,7 @@
                 ]
             },
             {
-                "numero": "096",
+                "numero": "0096",
                 "progressivo": "74a/147",
                 "nome": "Drowzee",
                 "stadio_evolutivo": "Base",
@@ -11740,7 +12407,7 @@
                 ]
             },
             {
-                "numero": "096",
+                "numero": "0096",
                 "progressivo": "74b/147",
                 "nome": "Drowzee",
                 "stadio_evolutivo": "Base",
@@ -11751,7 +12418,7 @@
                 ]
             },
             {
-                "numero": "133",
+                "numero": "0133",
                 "progressivo": "75/147",
                 "nome": "Eevee",
                 "stadio_evolutivo": "Base",
@@ -11762,7 +12429,7 @@
                 ]
             },
             {
-                "numero": "102",
+                "numero": "0102",
                 "progressivo": "76/147",
                 "nome": "Exeggcute",
                 "stadio_evolutivo": "Base",
@@ -11773,7 +12440,7 @@
                 ]
             },
             {
-                "numero": "102",
+                "numero": "0102",
                 "progressivo": "77/147",
                 "nome": "Exeggcute",
                 "stadio_evolutivo": "Base",
@@ -11784,7 +12451,7 @@
                 ]
             },
             {
-                "numero": "118",
+                "numero": "0118",
                 "progressivo": "78/147",
                 "nome": "Goldeen",
                 "stadio_evolutivo": "",
@@ -11795,7 +12462,7 @@
                 ]
             },
             {
-                "numero": "088",
+                "numero": "0088",
                 "progressivo": "79/147",
                 "nome": "Grimer",
                 "stadio_evolutivo": "",
@@ -11806,7 +12473,7 @@
                 ]
             },
             {
-                "numero": "058",
+                "numero": "0058",
                 "progressivo": "80/147",
                 "nome": "Growlithe",
                 "stadio_evolutivo": "Base",
@@ -11817,7 +12484,7 @@
                 ]
             },
             {
-                "numero": "107",
+                "numero": "0107",
                 "progressivo": "81/147",
                 "nome": "Hitmonchan",
                 "stadio_evolutivo": "Base",
@@ -11828,7 +12495,7 @@
                 ]
             },
             {
-                "numero": "237",
+                "numero": "0237",
                 "progressivo": "82/147",
                 "nome": "Hitmontop",
                 "stadio_evolutivo": "Base",
@@ -11839,7 +12506,7 @@
                 ]
             },
             {
-                "numero": "187",
+                "numero": "0187",
                 "progressivo": "83/147",
                 "nome": "Hoppip",
                 "stadio_evolutivo": "Base",
@@ -11850,7 +12517,7 @@
                 ]
             },
             {
-                "numero": "116",
+                "numero": "0116",
                 "progressivo": "84/147",
                 "nome": "Horsea",
                 "stadio_evolutivo": "",
@@ -11861,7 +12528,7 @@
                 ]
             },
             {
-                "numero": "116",
+                "numero": "0116",
                 "progressivo": "85/147",
                 "nome": "Horsea",
                 "stadio_evolutivo": "",
@@ -11872,7 +12539,7 @@
                 ]
             },
             {
-                "numero": "228",
+                "numero": "0228",
                 "progressivo": "86/147",
                 "nome": "Houndour",
                 "stadio_evolutivo": "Base",
@@ -11883,7 +12550,7 @@
                 ]
             },
             {
-                "numero": "228",
+                "numero": "0228",
                 "progressivo": "87/147",
                 "nome": "Houndour",
                 "stadio_evolutivo": "Base",
@@ -11894,7 +12561,7 @@
                 ]
             },
             {
-                "numero": "115",
+                "numero": "0115",
                 "progressivo": "88/147",
                 "nome": "Kangaskhan",
                 "stadio_evolutivo": "Base",
@@ -11905,7 +12572,7 @@
                 ]
             },
             {
-                "numero": "246",
+                "numero": "0246",
                 "progressivo": "89/147",
                 "nome": "Larvitar",
                 "stadio_evolutivo": "Base",
@@ -11916,7 +12583,7 @@
                 ]
             },
             {
-                "numero": "108",
+                "numero": "0108",
                 "progressivo": "90/147",
                 "nome": "Lickitung",
                 "stadio_evolutivo": "Base",
@@ -11927,7 +12594,7 @@
                 ]
             },
             {
-                "numero": "081",
+                "numero": "0081",
                 "progressivo": "91/147",
                 "nome": "Magnemite",
                 "stadio_evolutivo": "Base",
@@ -11938,7 +12605,7 @@
                 ]
             },
             {
-                "numero": "056",
+                "numero": "0056",
                 "progressivo": "92/147",
                 "nome": "Mankey",
                 "stadio_evolutivo": "Base",
@@ -11949,7 +12616,7 @@
                 ]
             },
             {
-                "numero": "179",
+                "numero": "0179",
                 "progressivo": "93/147",
                 "nome": "Mareep",
                 "stadio_evolutivo": "Base",
@@ -11960,7 +12627,7 @@
                 ]
             },
             {
-                "numero": "241",
+                "numero": "0241",
                 "progressivo": "94/147",
                 "nome": "Miltank",
                 "stadio_evolutivo": "Base",
@@ -11971,7 +12638,7 @@
                 ]
             },
             {
-                "numero": "122",
+                "numero": "0122",
                 "progressivo": "95a/147Mr.",
                 "nome": "Mime",
                 "stadio_evolutivo": "Base",
@@ -11982,7 +12649,7 @@
                 ]
             },
             {
-                "numero": "122",
+                "numero": "0122",
                 "progressivo": "95b/147Mr.",
                 "nome": "Mime",
                 "stadio_evolutivo": "Base",
@@ -11993,7 +12660,7 @@
                 ]
             },
             {
-                "numero": "032",
+                "numero": "0032",
                 "progressivo": "96/147",
                 "nome": "Nidoran\u2642",
                 "stadio_evolutivo": "Base",
@@ -12004,7 +12671,7 @@
                 ]
             },
             {
-                "numero": "043",
+                "numero": "0043",
                 "progressivo": "97/147",
                 "nome": "Oddish",
                 "stadio_evolutivo": "Base",
@@ -12015,7 +12682,7 @@
                 ]
             },
             {
-                "numero": "095",
+                "numero": "0095",
                 "progressivo": "98/147",
                 "nome": "Onix",
                 "stadio_evolutivo": "Base",
@@ -12026,7 +12693,7 @@
                 ]
             },
             {
-                "numero": "046",
+                "numero": "0046",
                 "progressivo": "99/147",
                 "nome": "Paras",
                 "stadio_evolutivo": "Base",
@@ -12037,7 +12704,7 @@
                 ]
             },
             {
-                "numero": "231",
+                "numero": "0231",
                 "progressivo": "100/147",
                 "nome": "Phanpy",
                 "stadio_evolutivo": "Base",
@@ -12048,7 +12715,7 @@
                 ]
             },
             {
-                "numero": "127",
+                "numero": "0127",
                 "progressivo": "101/147",
                 "nome": "Pinsir",
                 "stadio_evolutivo": "Base",
@@ -12059,7 +12726,7 @@
                 ]
             },
             {
-                "numero": "077",
+                "numero": "0077",
                 "progressivo": "102/147",
                 "nome": "Ponyta",
                 "stadio_evolutivo": "Base",
@@ -12070,7 +12737,7 @@
                 ]
             },
             {
-                "numero": "137",
+                "numero": "0137",
                 "progressivo": "103a/147",
                 "nome": "Porygon",
                 "stadio_evolutivo": "Base",
@@ -12081,7 +12748,7 @@
                 ]
             },
             {
-                "numero": "137",
+                "numero": "0137",
                 "progressivo": "103b/147",
                 "nome": "Porygon",
                 "stadio_evolutivo": "Base",
@@ -12092,7 +12759,7 @@
                 ]
             },
             {
-                "numero": "054",
+                "numero": "0054",
                 "progressivo": "104/147",
                 "nome": "Psyduck",
                 "stadio_evolutivo": "Base",
@@ -12103,7 +12770,7 @@
                 ]
             },
             {
-                "numero": "223",
+                "numero": "0223",
                 "progressivo": "105/147",
                 "nome": "Remoraid",
                 "stadio_evolutivo": "",
@@ -12114,7 +12781,7 @@
                 ]
             },
             {
-                "numero": "123",
+                "numero": "0123",
                 "progressivo": "106/147",
                 "nome": "Scyther",
                 "stadio_evolutivo": "Base",
@@ -12125,7 +12792,7 @@
                 ]
             },
             {
-                "numero": "161",
+                "numero": "0161",
                 "progressivo": "107/147",
                 "nome": "Sentret",
                 "stadio_evolutivo": "Base",
@@ -12136,7 +12803,7 @@
                 ]
             },
             {
-                "numero": "079",
+                "numero": "0079",
                 "progressivo": "108/147",
                 "nome": "Slowpoke",
                 "stadio_evolutivo": "Base",
@@ -12147,7 +12814,7 @@
                 ]
             },
             {
-                "numero": "235",
+                "numero": "0235",
                 "progressivo": "109/147",
                 "nome": "Smeargle",
                 "stadio_evolutivo": "Base",
@@ -12158,7 +12825,7 @@
                 ]
             },
             {
-                "numero": "215",
+                "numero": "0215",
                 "progressivo": "110/147",
                 "nome": "Sneasel",
                 "stadio_evolutivo": "Base",
@@ -12169,7 +12836,7 @@
                 ]
             },
             {
-                "numero": "167",
+                "numero": "0167",
                 "progressivo": "111/147",
                 "nome": "Spinarak",
                 "stadio_evolutivo": "",
@@ -12180,7 +12847,7 @@
                 ]
             },
             {
-                "numero": "114",
+                "numero": "0114",
                 "progressivo": "112/147",
                 "nome": "Tangela",
                 "stadio_evolutivo": "Base",
@@ -12191,7 +12858,7 @@
                 ]
             },
             {
-                "numero": "072",
+                "numero": "0072",
                 "progressivo": "113/147",
                 "nome": "Tentacool",
                 "stadio_evolutivo": "Base",
@@ -12202,7 +12869,7 @@
                 ]
             },
             {
-                "numero": "175",
+                "numero": "0175",
                 "progressivo": "114/147",
                 "nome": "Togepi",
                 "stadio_evolutivo": "Base",
@@ -12213,7 +12880,7 @@
                 ]
             },
             {
-                "numero": "100",
+                "numero": "0100",
                 "progressivo": "115/147",
                 "nome": "Voltorb",
                 "stadio_evolutivo": "",
@@ -12224,7 +12891,7 @@
                 ]
             },
             {
-                "numero": "037",
+                "numero": "0037",
                 "progressivo": "116/147",
                 "nome": "Vulpix",
                 "stadio_evolutivo": "Base",
@@ -12235,7 +12902,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12246,7 +12913,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12257,7 +12924,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12268,7 +12935,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12279,7 +12946,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12290,7 +12957,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12301,7 +12968,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12312,7 +12979,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12323,7 +12990,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12334,7 +13001,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12345,7 +13012,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12356,7 +13023,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12367,7 +13034,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12378,7 +13045,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12389,7 +13056,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12400,7 +13067,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12411,7 +13078,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12422,7 +13089,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12433,7 +13100,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12444,7 +13111,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12455,7 +13122,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12466,7 +13133,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12477,7 +13144,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12488,7 +13155,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12499,7 +13166,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12510,7 +13177,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12521,7 +13188,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12532,7 +13199,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12543,7 +13210,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12554,7 +13221,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12565,7 +13232,7 @@
                 ]
             },
             {
-                "numero": "194",
+                "numero": "0194",
                 "progressivo": "117/147",
                 "nome": "Wooper",
                 "stadio_evolutivo": "Base",
@@ -12576,7 +13243,7 @@
                 ]
             },
             {
-                "numero": "230",
+                "numero": "0230",
                 "progressivo": "148/147",
                 "nome": "Kingdra",
                 "stadio_evolutivo": "Fase 2",
@@ -12587,7 +13254,7 @@
                 ]
             },
             {
-                "numero": "249",
+                "numero": "0249",
                 "progressivo": "149/147",
                 "nome": "Lugia",
                 "stadio_evolutivo": "Base",
@@ -12598,7 +13265,7 @@
                 ]
             },
             {
-                "numero": "034",
+                "numero": "0034",
                 "progressivo": "150/147",
                 "nome": "Nidoking",
                 "stadio_evolutivo": "Fase 2",
